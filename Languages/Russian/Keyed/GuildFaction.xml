@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Quest Board UI -->
+  <GuildFaction_QuestBoard_GizmoLabel>Доска заданий</GuildFaction_QuestBoard_GizmoLabel>
+  <GuildFaction_QuestBoard_GizmoDesc>Просматривайте контракты, размещённые на доске заданий Гильдии авантюристов. Закреплённые задания обновляются раз в день.</GuildFaction_QuestBoard_GizmoDesc>
+  <GuildFaction_QuestBoard_Title>Гильдия авантюристов — Доска заданий</GuildFaction_QuestBoard_Title>
+  <GuildFaction_QuestBoard_Subtitle><![CDATA[Список обновится примерно через <color=#E9B14C>{0} часов</color>.]]></GuildFaction_QuestBoard_Subtitle>
+  <GuildFaction_QuestBoard_Footer>Выполняйте задания, чтобы получать опыт, серебро и повышать репутацию.</GuildFaction_QuestBoard_Footer>
+  <GuildFaction_QuestBoard_FlavorHunt>Выследите и уничтожьте {0}, терроризирующего торговые пути возле колонии.</GuildFaction_QuestBoard_FlavorHunt>
+  <GuildFaction_QuestBoard_FlavorExpedition>Организуйте экспедицию против {0}, который стал достаточно дерзким, чтобы бросить вызов опытным авантюристам.</GuildFaction_QuestBoard_FlavorExpedition>
+  <GuildFaction_QuestBoard_FlavorRaid>Только сильнейшие осмелятся принять этот контракт — легендарный {0} бродит по диким землям.</GuildFaction_QuestBoard_FlavorRaid>
+  <GuildFaction_QuestBoard_FlavorBounty>Назначена награда: принесите доказательство смерти {0} и получите вознаграждение.</GuildFaction_QuestBoard_FlavorBounty>
+  <GuildFaction_QuestBoard_Reward>Награда:</GuildFaction_QuestBoard_Reward>
+  <GuildFaction_QuestBoard_RewardXP>{0} опыта</GuildFaction_QuestBoard_RewardXP>
+  <GuildFaction_QuestBoard_RewardSilver>{0} серебра</GuildFaction_QuestBoard_RewardSilver>
+  <GuildFaction_QuestBoard_Empty>Доска пуста. Возвращайтесь завтра.</GuildFaction_QuestBoard_Empty>
+  <GuildFaction_QuestBoard_RowTitle>{0} — {1}-ранг {2}</GuildFaction_QuestBoard_RowTitle>
+  <GuildFaction_QuestBoard_RowReward>Награда: {0} опыта, {1} серебра</GuildFaction_QuestBoard_RowReward>
+  <GuildFaction_QuestBoard_Accept>Принять</GuildFaction_QuestBoard_Accept>
+  <GuildFaction_QuestBoard_KindHunt>Охота</GuildFaction_QuestBoard_KindHunt>
+  <GuildFaction_QuestBoard_KindExpedition>Экспедиция</GuildFaction_QuestBoard_KindExpedition>
+  <GuildFaction_QuestBoard_KindRaid>Рейд</GuildFaction_QuestBoard_KindRaid>
+  <GuildFaction_QuestBoard_KindBounty>Награда</GuildFaction_QuestBoard_KindBounty>
+  <GuildFaction_QuestBoard_NoMap>Не найдено подходящего поселения для задания.</GuildFaction_QuestBoard_NoMap>
+  <GuildFaction_QuestBoard_KindMissing>Цель контракта больше недоступна.</GuildFaction_QuestBoard_KindMissing>
+  <GuildFaction_QuestBoard_Posted>{0} ({1}-ранг) добавлено в журнал заданий.</GuildFaction_QuestBoard_Posted>
+  <GuildFaction_QuestBoard_Failed>Не удалось создать контракт — подробности см. в журнале.</GuildFaction_QuestBoard_Failed>
+
+  <GuildFaction_AdventurersGuild.label>гильдия авантюристов</GuildFaction_AdventurersGuild.label>
+
+  <GuildFaction_Rank_F>Ранг F</GuildFaction_Rank_F>
+  <GuildFaction_Rank_E>Ранг E</GuildFaction_Rank_E>
+  <GuildFaction_Rank_D>Ранг D</GuildFaction_Rank_D>
+  <GuildFaction_Rank_C>Ранг C</GuildFaction_Rank_C>
+  <GuildFaction_Rank_B>Ранг B</GuildFaction_Rank_B>
+  <GuildFaction_Rank_A>Ранг A</GuildFaction_Rank_A>
+  <GuildFaction_Rank_S>Ранг S</GuildFaction_Rank_S>
+  <GuildFaction_Rank_SS>Ранг SS</GuildFaction_Rank_SS>
+  <GuildFaction_Rank_SSS>Ранг SSS</GuildFaction_Rank_SSS>
+
+  <!-- Mid-save faction prompt -->
+  <GuildFaction_AddMissingFaction_Title>Гильдия авантюристов отсутствует</GuildFaction_AddMissingFaction_Title>
+  <GuildFaction_AddMissingFaction_Desc><![CDATA[Дополнение Guild Faction загружено, но Гильдия авантюристов отсутствует в этом мире — вероятно, мод был установлен после генерации мира.
+
+Создать Гильдию сейчас? Это создаст поселение гильдии, сгенерирует состав из 40 персонажей (Артур, Магнус и остальные) и разместит зал гильдии на случайной умеренной клетке.
+
+Вы можете отказаться и добавить её позже, перезагрузив игру.]]></GuildFaction_AddMissingFaction_Desc>
+  <GuildFaction_AddMissingFaction_Confirm>Создать гильдию</GuildFaction_AddMissingFaction_Confirm>
+  <GuildFaction_AddMissingFaction_Cancel>Не сейчас</GuildFaction_AddMissingFaction_Cancel>
+  <GuildFaction_FactionAdded>Гильдия авантюристов появилась в вашем мире.</GuildFaction_FactionAdded>
+  <GuildFaction_FactionAddFailed>Не удалось создать Гильдию авантюристов — подробности см. в журнале.</GuildFaction_FactionAddFailed>
+
+  <!-- Quest integration -->
+  <GuildFaction_QuestsBlocked_Title>Задания гильдии приостановлены</GuildFaction_QuestsBlocked_Title>
+  <GuildFaction_QuestsBlocked_Desc>Гильдия авантюристов стала враждебной к вашей колонии. Они больше не будут выдавать вам задания на охоту.\n\nВосстановите отношения с гильдией, чтобы снова получать задания.</GuildFaction_QuestsBlocked_Desc>
+
+  <!-- Arthur notification -->
+  <GuildFaction_ArthurSighted_Title>Замечен герой: Артур Экскалибур</GuildFaction_ArthurSighted_Title>
+  <GuildFaction_ArthurSighted_Desc>Артур Экскалибур, легендарный герой ранга SSS из Гильдии авантюристов, был замечен поблизости. Говорят, одно его присутствие способно переломить ход любой битвы — будьте осторожны.</GuildFaction_ArthurSighted_Desc>
+
+  <!-- Recruitment Duel quest -->
+  <GuildFaction_RecruitmentDuel_QuestName>[Гильдия] Дуэль набора ({0}-ранг)</GuildFaction_RecruitmentDuel_QuestName>
+  <GuildFaction_RecruitmentDuel_QuestDesc><![CDATA[<color=#FFD700>━━━ КОНТРАКТ НА НАБОР ━━━</color>
+
+Кандидат: <color=#FFD700>{0}-ранг</color> {1}
+
+<color=#888888>⚔ Дуэль чести — не бой насмерть. Гильдия ожидает, что кандидат вернётся живым, побеждённым, но не уничтоженным.</color>
+
+Брифинг:
+Гильдия авантюристов услышала о растущей славе вашей колонии. Они выдвинули одного из своих — начинающего {0}-рангового {1} — чтобы проверить его силы против ваших бойцов. Кандидат прибудет в ваше поселение и вызовет вас на поединок.
+
+Условия победы:
+• Снизьте общее здоровье дуэлянта ниже <color=#88FF88>{2}%</color> — он сдастся.
+• Или просто повалите его — упавший авантюрист признаёт поражение.
+
+После успешной дуэли кандидат <color=#88FF88>покинет гильдию</color> и присоединится к вам.
+
+<color=#FF8888>⚠ Внимание:</color> убийство кандидата <color=#FF8888>ухудшит отношения</color> с гильдией.
+
+<color=#666666>— Гильдия авантюристов</color>]]></GuildFaction_RecruitmentDuel_QuestDesc>
+
+  <GuildFaction_RecruitmentDuel_Offer_Title>[Гильдия] Дуэль набора: кандидат {0}-ранга</GuildFaction_RecruitmentDuel_Offer_Title>
+  <GuildFaction_RecruitmentDuel_Offer_Desc><![CDATA[<color=#FFD700>━━━ КАНДИДАТ ВЫДВИНУТ ━━━</color>
+
+Авантюрист <color=#FFD700>{0}-ранга</color> {1} из Гильдии авантюристов добровольно вызвался испытать себя против вашей колонии.
+
+Если вы сможете победить его в честном бою — снизив его здоровье ниже <color=#88FF88>{2}%</color> или просто повалив его — он <color=#88FF88>сдастся и присоединится к вам</color>.
+
+<color=#FF8888>Убийство кандидата ухудшит ваши отношения с гильдией.</color>
+
+Откройте вкладку заданий, чтобы ознакомиться с полным брифингом и принять контракт.
+
+<color=#666666>— Гильдия авантюристов</color>]]></GuildFaction_RecruitmentDuel_Offer_Desc>
+
+<GuildFaction_RecruitmentDuel_Started_Title>Дуэлянт прибыл</GuildFaction_RecruitmentDuel_Started_Title>
+<GuildFaction_RecruitmentDuel_Started_Desc><![CDATA[<color=#FFD700>━━━ ДУЭЛЬ НАЧАЛАСЬ ━━━</color>
+
+<color=#FFD700>{0}</color> ({1}-ранг) прибыл на край вашей карты и теперь движется к вашей колонии с обнажённым оружием.
+
+Снизьте его здоровье ниже <color=#88FF88>{2}%</color> или повалите его <color=#88FF88>на землю</color>, и он сдастся.
+
+<color=#FF8888>Не убивайте его.</color> Гильдия наблюдает.]]></GuildFaction_RecruitmentDuel_Started_Desc>
+
+<GuildFaction_RecruitmentDuel_Won_Title>Дуэлянт сдаётся</GuildFaction_RecruitmentDuel_Won_Title>
+<GuildFaction_RecruitmentDuel_Won_Desc><![CDATA[<color=#FFD700>━━━ ДУЭЛЬ ВЫИГРАНА ━━━</color>
+
+<color=#88FF88>{0}</color> опускает оружие и склоняет голову.
+
+"Ты превзошёл меня. По обычаям Гильдии я отрекаюсь от прежней присяги и присоединяюсь к твоей колонии как верный соратник."
+
+Авантюрист <color=#FFD700>{1}-ранга</color> <color=#88FF88>покинул Гильдию авантюристов</color> и присоединился к вашей фракции. Сама Гильдия отметила силу вашей колонии — ваши отношения улучшились.
+
+<color=#666666>— Гильдия авантюристов</color>]]></GuildFaction_RecruitmentDuel_Won_Desc>
+
+<GuildFaction_RecruitmentDuel_Killed_Title>Кандидат убит</GuildFaction_RecruitmentDuel_Killed_Title>
+<GuildFaction_RecruitmentDuel_Killed_Desc><![CDATA[<color=#FF4444>━━━ КАНДИДАТ УБИТ ━━━</color>
+
+<color=#FF8888>{0}</color> лежит мёртвым — убит до того, как смог сдаться.
+
+Гильдия авантюристов не относится к потере кандидата легкомысленно. Весть об убийстве разойдётся по всем отделениям. Ваши отношения с гильдией снизились на <color=#FF8888>{1}</color>.
+
+<color=#666666>— Гильдия авантюристов, Бюро набора</color>]]></GuildFaction_RecruitmentDuel_Killed_Desc>
+
+<GuildFaction_RecruitmentDuel_Fled_Title>Дуэлянт отступил</GuildFaction_RecruitmentDuel_Fled_Title>
+<GuildFaction_RecruitmentDuel_Fled_Desc><![CDATA[<color=#FFAA66>━━━ ДУЭЛЬ ПРЕРВАНА ━━━</color>
+
+{0} вышел из боя и покинул карту до того, как дуэль была завершена.
+
+Гильдия слегка разочарована — от авантюриста гильдии ожидается, что он доведёт контракт до конца. Ваши отношения с гильдией немного ухудшились.
+
+<color=#666666>— Гильдия авантюристов</color>]]></GuildFaction_RecruitmentDuel_Fled_Desc>
+
+<GuildFaction_RecruitmentDuel_SpawnFailed_Title>Дуэль набора отменена</GuildFaction_RecruitmentDuel_SpawnFailed_Title>
+<GuildFaction_RecruitmentDuel_SpawnFailed_Desc>Дуэлянт гильдии не смог добраться до вашей колонии. Возможность набора отменена.</GuildFaction_RecruitmentDuel_SpawnFailed_Desc>
+
+<GuildFaction_RecruitmentDuel_NoMap_Title>Дуэль набора отменена</GuildFaction_RecruitmentDuel_NoMap_Title>
+<GuildFaction_RecruitmentDuel_NoMap_Desc>Не найдено подходящего поселения для проведения дуэли набора.</GuildFaction_RecruitmentDuel_NoMap_Desc>
+
+<GuildFaction_RecruitmentDuel_OfferExpiry>Срок действия предложения истекает через</GuildFaction_RecruitmentDuel_OfferExpiry>
+<GuildFaction_RecruitmentDuel_OfferExpiry_Tip>Если не принять предложение до истечения таймера, кандидат вернётся в гильдию, и возможность набора будет потеряна.</GuildFaction_RecruitmentDuel_OfferExpiry_Tip>
+<GuildFaction_RecruitmentDuel_CompletionExpiry>Время на победу над дуэлянтом</GuildFaction_RecruitmentDuel_CompletionExpiry>
+<GuildFaction_RecruitmentDuel_CompletionExpiry_Tip>Если дуэлянт не будет побеждён за это время, контракт будет провален, а ваши отношения с гильдией пострадают.</GuildFaction_RecruitmentDuel_CompletionExpiry_Tip>
+
+<GuildFaction_RecruitmentDuel_DescPart_Pending><![CDATA[<color=#FFD700>Статус:</color> Ожидает принятия — кандидат гильдии {0}-ранга готов отправиться в вашу колонию.]]></GuildFaction_RecruitmentDuel_DescPart_Pending>
+<GuildFaction_RecruitmentDuel_DescPart_Active><![CDATA[<color=#FFD700>Статус:</color> Дуэль активна — <color=#FFD700>{0}</color> ({1}-ранг). Снизьте его здоровье ниже 40% или повалите, чтобы завербовать.]]></GuildFaction_RecruitmentDuel_DescPart_Active>
+<GuildFaction_RecruitmentDuel_DescPart_Lost><![CDATA[<color=#FF8888>Статус:</color> Дуэлянт был убит до того, как смог сдаться. Отношения с гильдией пострадали.]]></GuildFaction_RecruitmentDuel_DescPart_Lost>
+<GuildFaction_RecruitmentDuel_DescPart_Resolved><![CDATA[<color=#888888>Дуэль завершена.</color>]]></GuildFaction_RecruitmentDuel_DescPart_Resolved>
+
+<!-- Hero's Party Visit quest -->
+<GuildFaction_HeroVisit_QuestName>[Гильдия] Визит героя</GuildFaction_HeroVisit_QuestName>
+<GuildFaction_HeroVisit_QuestDesc><![CDATA[<color=#FFD700>━━━ ПОСЛАНИЕ ГЕРОЯ ━━━</color>
+
+Гильдия авантюристов просит оказать честь — принять у себя в колонии.
+
+<color=#FFD700>Артур Экскалибур</color>, легендарный герой ранга SSS гильдии, прибудет в ваше поселение в сопровождении трёх своих ближайших спутников — мастера гильдии и двух его соратников ранга S. Они желают отдохнуть, обменяться историями и лично увидеть расцвет колонии, которую их гильдия теперь называет союзником.
+
+Визит продлится <color=#88FF88>3 дня</color>. В это время:
+• Герой и его отряд будут жить как <color=#88FF88>гости</color> — они будут есть вашу еду, спать в ваших кроватях и свободно передвигаться.
+• <color=#FFD700>Поддерживайте хорошее настроение героя.</color> Если его настроение упадёт, он уйдёт с отвращением.
+• <color=#FF4444>Не поднимайте на него руку.</color> Если герой пострадает, гильдия ответит.
+• <color=#FF0000>Не дайте ему умереть.</color> Гильдия поклянётся в кровной мести.
+
+Если визит пройдёт успешно, герой щедро вас вознаградит, а ваши отношения с гильдией значительно улучшатся.
+
+<color=#666666>— Гильдия авантюристов, Канцелярия героя</color>]]></GuildFaction_HeroVisit_QuestDesc>
+
+<GuildFaction_HeroVisit_Offer_Title>[Гильдия] Герой просит о визите</GuildFaction_HeroVisit_Offer_Title>
+<GuildFaction_HeroVisit_Offer_Desc><![CDATA[<color=#FFD700>━━━ ПОСЛАНИЕ ГЕРОЯ ━━━</color>
+
+<color=#FFD700>Артур Экскалибур</color>, герой ранга SSS из Гильдии авантюристов, просит провести три дня в вашей колонии в качестве почётного гостя, в сопровождении мастера гильдии и двух своих спутников ранга S.
+
+Поддерживайте его довольным на протяжении всего визита, и вы будете щедро вознаграждены. Позвольте ему пострадать — и гильдия этого не забудет.
+
+Откройте вкладку заданий, чтобы ознакомиться с полным брифингом и принять контракт.
+
+<color=#666666>— Гильдия авантюристов</color>]]></GuildFaction_HeroVisit_Offer_Desc>
+
+<GuildFaction_HeroVisit_Started_Title>Герой прибыл</GuildFaction_HeroVisit_Started_Title>
+<GuildFaction_HeroVisit_Started_Desc><![CDATA[<color=#FFD700>━━━ ВИЗИТ ГЕРОЯ НАЧАЛСЯ ━━━</color>
+
+<color=#FFD700>{0}</color> и трое его спутников прибыли на край вашего поселения. Они пробудут здесь <color=#88FF88>3 дня</color>.
+
+Держите героя довольным, сытым и в безопасности. Обеспечьте гостевые кровати, достойную еду и чистое место для отдыха.
+
+<color=#FF8888>Если его настроение упадёт или он пострадает, гильдия об этом узнает.</color>]]></GuildFaction_HeroVisit_Started_Desc>
+
+<GuildFaction_HeroVisit_Won_Title>Герой уходит довольным</GuildFaction_HeroVisit_Won_Title>
+<GuildFaction_HeroVisit_Won_Desc><![CDATA[<color=#FFD700>━━━ ВИЗИТ ЗАВЕРШЁН ━━━</color>
+
+Три дня подошли к концу. <color=#88FF88>{0}</color> кланяется вашей колонии перед уходом.
+
+"Вы оказали нам честь. Гильдия будет помнить эту колонию так же, как мы помним великие дома прошлого. До новой встречи, друзья."
+
+Тяжёлый кошель с <color=#88FF88>серебром</color> и прощальный подарок оставлены вам. Ваши отношения с Гильдией авантюристов значительно улучшились.
+
+<color=#666666>— Гильдия авантюристов, Канцелярия героя</color>]]></GuildFaction_HeroVisit_Won_Desc>
+
+<GuildFaction_HeroVisit_MoodFail_Title>Герой уходит в отвращении</GuildFaction_HeroVisit_MoodFail_Title>
+<GuildFaction_HeroVisit_MoodFail_Desc><![CDATA[<color=#FF8888>━━━ ГЕРОЙ УХОДИТ РАНЬШЕ ━━━</color>
+
+<color=#FF8888>{0}</color> больше не может терпеть условия своего пребывания. Еда, жильё, грязь — какой бы ни была причина, его терпение исчерпано.
+
+Он собирает своих спутников и покидает карту без единого слова. Ваши отношения с гильдией ухудшились.
+
+<color=#666666>— Гильдия авантюристов</color>]]></GuildFaction_HeroVisit_MoodFail_Desc>
+
+<GuildFaction_HeroVisit_Attacked_Title>Герой был атакован</GuildFaction_HeroVisit_Attacked_Title>
+<GuildFaction_HeroVisit_Attacked_Desc><![CDATA[<color=#FF4444>━━━ ГЕРОЙ ПОСТРАДАЛ ━━━</color>
+
+<color=#FF8888>{0}</color> был ранен под вашей крышей. По обычаям гильдии, ни один герой не должен страдать в доме союзника.
+
+Герой и его отряд покидают карту. Ваши отношения с гильдией сильно ухудшились.
+
+<color=#666666>— Гильдия авантюристов</color>]]></GuildFaction_HeroVisit_Attacked_Desc>
+
+<GuildFaction_HeroVisit_Killed_Title>ГЕРОЙ ПАЛ</GuildFaction_HeroVisit_Killed_Title>
+<GuildFaction_HeroVisit_Killed_Desc><![CDATA[<color=#FF0000>━━━ ГЕРОЙ МЁРТВ ━━━</color>
+
+<color=#FF0000>{0}</color> лежит мёртвым в вашей колонии.
+
+Гильдия авантюристов клянётся в кровной мести. К рассвету каждое отделение узнает ваше имя. Гильдия объявила вашей колонии <color=#FF0000>постоянную войну</color>.
+
+<color=#666666>— Гильдия авантюристов</color>]]></GuildFaction_HeroVisit_Killed_Desc>
+
+<GuildFaction_HeroVisit_SpawnFailed_Title>Визит героя отменён</GuildFaction_HeroVisit_SpawnFailed_Title>
+<GuildFaction_HeroVisit_SpawnFailed_Desc>Отряд героя не смог добраться до вашей колонии. Визит отменён.</GuildFaction_HeroVisit_SpawnFailed_Desc>
+
+<GuildFaction_HeroVisit_NoMap_Title>Визит героя отменён</GuildFaction_HeroVisit_NoMap_Title>
+<GuildFaction_HeroVisit_NoMap_Desc>Не найдено подходящего поселения для визита героя.</GuildFaction_HeroVisit_NoMap_Desc>
+
+<GuildFaction_HeroVisit_OfferExpiry>Срок действия предложения истекает через</GuildFaction_HeroVisit_OfferExpiry>
+<GuildFaction_HeroVisit_OfferExpiry_Tip>Если не принять до истечения времени, отряд героя отложит визит.</GuildFaction_HeroVisit_OfferExpiry_Tip>
+
+<GuildFaction_HeroVisit_DescPart_Pending><![CDATA[<color=#FFD700>Статус:</color> Ожидает принятия — герой и его трое спутников готовы отправиться в вашу колонию.]]></GuildFaction_HeroVisit_DescPart_Pending>
+<GuildFaction_HeroVisit_DescPart_Active><![CDATA[<color=#FFD700>Статус:</color> Герой <color=#FFD700>{0}</color> находится в вашей колонии. Осталось времени: <color=#88FF88>{1}</color>.]]></GuildFaction_HeroVisit_DescPart_Active>
+<GuildFaction_HeroVisit_DescPart_Resolved><![CDATA[<color=#888888>Визит завершён.</color>]]></GuildFaction_HeroVisit_DescPart_Resolved>
+
+</LanguageData>

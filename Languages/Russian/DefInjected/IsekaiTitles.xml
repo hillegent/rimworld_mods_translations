@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Title_Newcomer.label>Новичок</Title_Newcomer.label>
+  <Title_Newcomer.titleName>Новичок</Title_Newcomer.titleName>
+  <Title_Newcomer.titleDescription>Свежий пришелец в этом мире. Путешествие только начинается.</Title_Newcomer.titleDescription>
+  <Title_Adventurer.label>Авантюрист</Title_Adventurer.label>
+  <Title_Adventurer.titleName>Авантюрист</Title_Adventurer.titleName>
+  <Title_Adventurer.titleDescription>Тот, кто сделал первые шаги на пути к силе.</Title_Adventurer.titleDescription>
+  <Title_Veteran.label>Ветеран</Title_Veteran.label>
+  <Title_Veteran.titleName>Ветеран</Title_Veteran.titleName>
+  <Title_Veteran.titleDescription>Опытный выживший, доказавший свою ценность.</Title_Veteran.titleDescription>
+  <Title_Elite.label>Элитный</Title_Elite.label>
+  <Title_Elite.titleName>Элитный</Title_Elite.titleName>
+  <Title_Elite.titleDescription>Среди сильнейших в земле, внушает страх и уважение.</Title_Elite.titleDescription>
+  <Title_Champion.label>Чемпион</Title_Champion.label>
+  <Title_Champion.titleName>Чемпион</Title_Champion.titleName>
+  <Title_Champion.titleDescription>Легендарная фигура, чьи подвиги воспеваются в сказаниях.</Title_Champion.titleDescription>
+  <Title_Hero.label>Герой</Title_Hero.label>
+  <Title_Hero.titleName>Герой</Title_Hero.titleName>
+  <Title_Hero.titleDescription>Тот, чья сила превосходит пределы смертных.</Title_Hero.titleDescription>
+  <Title_WarriorInitiate.label>Посвящённый воин</Title_WarriorInitiate.label>
+  <Title_WarriorInitiate.titleName>Посвящённый воин</Title_WarriorInitiate.titleName>
+  <Title_WarriorInitiate.titleDescription>Тот, кто идёт по пути воина.</Title_WarriorInitiate.titleDescription>
+  <Title_MageInitiate.label>Посвящённый маг</Title_MageInitiate.label>
+  <Title_MageInitiate.titleName>Посвящённый маг</Title_MageInitiate.titleName>
+  <Title_MageInitiate.titleDescription>Тот, кто ищет тайны магии.</Title_MageInitiate.titleDescription>
+  <Title_RangerInitiate.label>Посвящённый следопыт</Title_RangerInitiate.label>
+  <Title_RangerInitiate.titleName>Посвящённый следопыт</Title_RangerInitiate.titleName>
+  <Title_RangerInitiate.titleDescription>Тот, кто движется со скоростью ветра.</Title_RangerInitiate.titleDescription>
+  <Title_ArtisanInitiate.label>Посвящённый ремесленник</Title_ArtisanInitiate.label>
+  <Title_ArtisanInitiate.titleName>Посвящённый ремесленник</Title_ArtisanInitiate.titleName>
+  <Title_ArtisanInitiate.titleDescription>Тот, чьи руки создают чудеса.</Title_ArtisanInitiate.titleDescription>
+  <Title_LeaderInitiate.label>Посвящённый лидер</Title_LeaderInitiate.label>
+  <Title_LeaderInitiate.titleName>Посвящённый лидер</Title_LeaderInitiate.titleName>
+  <Title_LeaderInitiate.titleDescription>Тот, кто вызывает уважение окружающих.</Title_LeaderInitiate.titleDescription>
+</LanguageData>

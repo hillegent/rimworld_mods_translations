@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Isekai_RuneDef_Fury.label>Руна ярости</Isekai_RuneDef_Fury.label>
+  <Isekai_RuneDef_Fury.description>Пылающая руна, ускоряющая движения владельца и уменьшающая задержку атак в ближнем бою.</Isekai_RuneDef_Fury.description>
+  <Isekai_RuneDef_Fury.statDescription>+12% скорость атак в ближнем бою</Isekai_RuneDef_Fury.statDescription>
+
+  <Isekai_RuneDef_Precision.label>Руна точности</Isekai_RuneDef_Precision.label>
+  <Isekai_RuneDef_Precision.description>Спокойная и сосредоточенная руна, стабилизирующая прицел и повышающая точность стрельбы.</Isekai_RuneDef_Precision.description>
+  <Isekai_RuneDef_Precision.statDescription>+10% точность стрельбы</Isekai_RuneDef_Precision.statDescription>
+
+  <Isekai_RuneDef_Vampirism.label>Руна вампиризма</Isekai_RuneDef_Vampirism.label>
+  <Isekai_RuneDef_Vampirism.description>Тёмная багровая руна, вытягивающая жизненную силу из поражённых врагов и исцеляющая владельца.</Isekai_RuneDef_Vampirism.description>
+  <Isekai_RuneDef_Vampirism.statDescription>3% вампиризм при ударах в ближнем бою</Isekai_RuneDef_Vampirism.statDescription>
+
+  <Isekai_RuneDef_Thunder.label>Руна молнии</Isekai_RuneDef_Thunder.label>
+  <Isekai_RuneDef_Thunder.description>Искрящаяся руна молнии, способная на короткое время парализовать противника.</Isekai_RuneDef_Thunder.description>
+  <Isekai_RuneDef_Thunder.statDescription>8% шанс оглушения при попадании (1 сек)</Isekai_RuneDef_Thunder.statDescription>
+
+  <Isekai_RuneDef_Flame.label>Руна пламени</Isekai_RuneDef_Flame.label>
+  <Isekai_RuneDef_Flame.description>Раскалённая руна, окутывающая атаки обжигающим пламенем.</Isekai_RuneDef_Flame.description>
+  <Isekai_RuneDef_Flame.statDescription>+15% дополнительный огненный урон</Isekai_RuneDef_Flame.statDescription>
+
+  <Isekai_RuneDef_Frost.label>Руна холода</Isekai_RuneDef_Frost.label>
+  <Isekai_RuneDef_Frost.description>Леденящая руна, пробирающая врагов до костей и замедляющая их движения.</Isekai_RuneDef_Frost.description>
+  <Isekai_RuneDef_Frost.statDescription>10% шанс замедлить при попадании (2 сек)</Isekai_RuneDef_Frost.statDescription>
+
+  <Isekai_RuneDef_Sharpness.label>Руна остроты</Isekai_RuneDef_Sharpness.label>
+  <Isekai_RuneDef_Sharpness.description>Острая руна, затачивающая любое оружие так, что оно способно пробивать самую прочную броню.</Isekai_RuneDef_Sharpness.description>
+  <Isekai_RuneDef_Sharpness.statDescription>+15% пробивание брони</Isekai_RuneDef_Sharpness.statDescription>
+
+  <Isekai_RuneDef_Havoc.label>Руна разрушения</Isekai_RuneDef_Havoc.label>
+  <Isekai_RuneDef_Havoc.description>Яростная руна, высвобождающая разрушительную силу, наносящую урон врагам вокруг цели.</Isekai_RuneDef_Havoc.description>
+  <Isekai_RuneDef_Havoc.statDescription>+8% урон по области (ближний бой)</Isekai_RuneDef_Havoc.statDescription>
+
+  <Isekai_RuneDef_Devastation.label>Руна опустошения</Isekai_RuneDef_Devastation.label>
+  <Isekai_RuneDef_Devastation.description>Нестабильная руна, усиливающая разрушительную мощь дальнобойных атак.</Isekai_RuneDef_Devastation.description>
+  <Isekai_RuneDef_Devastation.statDescription>+12% урон дальнего боя</Isekai_RuneDef_Devastation.statDescription>
+
+</LanguageData>

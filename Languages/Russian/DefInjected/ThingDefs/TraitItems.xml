@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- HERO'S AWAKENING SCROLL -->
+    <Isekai_HerosAwakeningScroll.label>свиток пробуждения героя</Isekai_HerosAwakeningScroll.label>
+    <Isekai_HerosAwakeningScroll.description>Древний свиток, излучающий золотое сияние. При использовании пробуждает у пешки черту Протагониста, даруя ей ×10 к получению опыта и +2 очка характеристик за уровень ценой ухудшения социальных отношений.
+
+Это сила избранного — подавляющая, изолирующая и абсолютная.</Isekai_HerosAwakeningScroll.description>
+    <Isekai_HerosAwakeningScroll.useLabel>Прочитать свиток пробуждения</Isekai_HerosAwakeningScroll.useLabel>
+
+    <!-- REINCARNATION CRYSTAL -->
+    <Isekai_ReincarnationCrystal.label>кристалл реинкарнации</Isekai_ReincarnationCrystal.label>
+    <Isekai_ReincarnationCrystal.description>Мерцающий кристалл, содержащий воспоминания из другой жизни. При использовании сбрасывает уровень пешки до 1 и все характеристики до базовых значений, после чего дарует черту Реинкарнированного — возрождение в стиле «Новая игра+» с ×5 к получению опыта, +10 бонусных звёздных очков и ускоренным развитием созвездия.
+
+Прогресс дерева созвездия сохраняется. Носитель начинает заново с воспоминаниями прошлой жизни, развиваясь значительно быстрее во второй раз.</Isekai_ReincarnationCrystal.description>
+    <Isekai_ReincarnationCrystal.useLabel>Поглотить кристалл реинкарнации</Isekai_ReincarnationCrystal.useLabel>
+
+    <!-- VILLAIN'S MASK -->
+    <Isekai_VillainsMask.label>маска злодея</Isekai_VillainsMask.label>
+    <Isekai_VillainsMask.description>Зловещая маска, излучающая злонамеренную энергию. При надевании пробуждает черту Антагониста — ×8 к получению опыта и разрушительную боевую мощь, но носитель становится презираемым всеми.
+
+Те, кто надевают эту маску, обретают пугающую силу ценой всех связей.</Isekai_VillainsMask.description>
+    <Isekai_VillainsMask.useLabel>Надеть маску злодея</Isekai_VillainsMask.useLabel>
+
+    <!-- SUMMONING CIRCLE SCROLL -->
+    <Isekai_SummoningCircleScroll.label>свиток круга призыва</Isekai_SummoningCircleScroll.label>
+    <Isekai_SummoningCircleScroll.description>Мистический свиток, исписанный рунами из иного мира. При активации он разрывает границу между мирами, призывая совершенно нового героя из другого измерения, который присоединяется к вашей колонии.
+
+Призванный герой получает черту Призванного героя: ×3 к получению опыта, +1 очко характеристик за уровень, иммунитет к ментальным срывам и постоянный штраф к настроению из-за межпространственного смещения.
+
+Этот свиток не влияет на пользователя — он создаёт нового колониста.</Isekai_SummoningCircleScroll.description>
+    <Isekai_SummoningCircleScroll.useLabel>Активировать круг призыва</Isekai_SummoningCircleScroll.useLabel>
+
+    <!-- REGRESSION ORB -->
+    <Isekai_RegressionOrb.label>сфера регрессии</Isekai_RegressionOrb.label>
+    <Isekai_RegressionOrb.description>Темпоральная сфера, отправляющая сознание назад во времени. Дарует черту Регрессора — ×4 к получению опыта и возможность бесплатно перераспределять узлы созвездия в любое время.
+
+Регрессор знает, что грядёт — вооружён знаниями из временных линий, которые ещё только предстоит пережить.</Isekai_RegressionOrb.description>
+    <Isekai_RegressionOrb.useLabel>Активировать сферу регрессии</Isekai_RegressionOrb.useLabel>
+    <Isekai_HerosAwakeningScroll.comps.CompProperties_Usable.useLabel>Прочитать свиток пробуждения</Isekai_HerosAwakeningScroll.comps.CompProperties_Usable.useLabel>
+    <Isekai_ReincarnationCrystal.comps.CompProperties_Usable.useLabel>Поглотить кристалл реинкарнации</Isekai_ReincarnationCrystal.comps.CompProperties_Usable.useLabel>
+    <Isekai_VillainsMask.comps.CompProperties_Usable.useLabel>Надеть маску злодея</Isekai_VillainsMask.comps.CompProperties_Usable.useLabel>
+    <Isekai_SummoningCircleScroll.comps.CompProperties_Usable.useLabel>Активировать круг призыва</Isekai_SummoningCircleScroll.comps.CompProperties_Usable.useLabel>
+    <Isekai_RegressionOrb.comps.CompProperties_Usable.useLabel>Активировать сферу регрессии</Isekai_RegressionOrb.comps.CompProperties_Usable.useLabel>
+    <Isekai_HerosAwakeningScroll.comps.1.useLabel>Прочитать свиток пробуждения</Isekai_HerosAwakeningScroll.comps.1.useLabel>
+    <Isekai_ReincarnationCrystal.comps.1.useLabel>Поглотить кристалл реинкарнации</Isekai_ReincarnationCrystal.comps.1.useLabel>
+    <Isekai_VillainsMask.comps.1.useLabel>Надеть маску злодея</Isekai_VillainsMask.comps.1.useLabel>
+    <Isekai_SummoningCircleScroll.comps.1.useLabel>Активировать круг призыва</Isekai_SummoningCircleScroll.comps.1.useLabel>
+    <Isekai_RegressionOrb.comps.1.useLabel>Активировать сферу регрессии</Isekai_RegressionOrb.comps.1.useLabel>
+
+</LanguageData>

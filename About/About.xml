@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>ISEKAI RPG LEVELING - Full Russian Translation</name>
+  <author>Artas48</author>
+  <packageId>rucommunity.isekaileveling.rufull</packageId>
+
+  <supportedVersions>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+
+  <description>
+Полный русский перевод для мода ISEKAI RPG LEVELING.
+
+Требуется оригинальный мод:
+https://steamcommunity.com/sharedfiles/filedetails/?id=3657580708
+
+Перевод включает интерфейс, предметы, сценарий Протагониста, мастерство оружия и созвездия/пассивные деревья.
+  </description>
+
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+    <li>
+      <packageId>JellyCreative.IsekaiLeveling</packageId>
+      <displayName>ISEKAI RPG LEVELING</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3657580708</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>JellyCreative.IsekaiLeveling</li>
+  </loadAfter>
+</ModMetaData>

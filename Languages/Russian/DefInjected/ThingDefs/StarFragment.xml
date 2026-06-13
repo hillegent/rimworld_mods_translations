@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Isekai_StarFragment.label>фрагмент звезды</Isekai_StarFragment.label>
+  <Isekai_StarFragment.description>Кристаллизованный осколок звездной энергии, вырванный из могущественного существа в момент его смерти. Он мерцает холодным, эфирным светом и резонирует с Созвездием внутри приключенца Исекая.
+
+Поглощение этого фрагмента даёт 1 Звёздную Точку и 1 разблокировку Мультикласса, позволяя приключенцу открыть второе (или третье) дерево классов в Созвездии. Редко встречается у торговцев экзотическими товарами.</Isekai_StarFragment.description>
+
+  <Isekai_StarFragment.comps.1.useLabel>Поглотить фрагмент звезды</Isekai_StarFragment.comps.1.useLabel>
+  <Isekai_StarFragment.comps.CompProperties_Usable.useLabel>Поглотить фрагмент звезды</Isekai_StarFragment.comps.CompProperties_Usable.useLabel>
+
+</LanguageData>

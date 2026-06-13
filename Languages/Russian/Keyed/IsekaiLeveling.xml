@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Tab Labels -->
+  <TabIsekai>Исекай</TabIsekai>
+  <TabStatus>Статус</TabStatus>
+  <!-- Class Names -->
+  <Isekai_Warrior.label>Воин</Isekai_Warrior.label>
+  <Isekai_Mage.label>Маг</Isekai_Mage.label>
+  <Isekai_Ranger.label>Следопыт</Isekai_Ranger.label>
+  <Isekai_Crafter.label>Ремесленник</Isekai_Crafter.label>
+  <Isekai_Leader.label>Лидер</Isekai_Leader.label>
+  <!-- UI Strings -->
+  <IsekaiLevel>Уровень</IsekaiLevel>
+  <IsekaiXP>Опыт</IsekaiXP>
+  <IsekaiSkillPoints>Очки навыков</IsekaiSkillPoints>
+  <IsekaiChooseClass>Выберите класс</IsekaiChooseClass>
+  <IsekaiOpenSkillTree>Открыть созвездие</IsekaiOpenSkillTree>
+  <IsekaiLevelUp>{0} достиг(ла) {1} уровня!</IsekaiLevelUp>
+  <!-- Skill Names -->
+  <Skill_IronSkin.label>Железная кожа</Skill_IronSkin.label>
+  <Skill_BladeMastery.label>Мастер клинка</Skill_BladeMastery.label>
+  <Skill_Berserker.label>Берсерк</Skill_Berserker.label>
+  <Skill_CriticalStrike.label>Критический удар</Skill_CriticalStrike.label>
+  <Skill_Unstoppable.label>Неудержимый</Skill_Unstoppable.label>
+  <Skill_Meditation.label>Медитация</Skill_Meditation.label>
+  <Skill_ArcaneShield.label>Магический щит</Skill_ArcaneShield.label>
+  <Skill_Teleport.label>Телепортация</Skill_Teleport.label>
+  <Skill_EagleEye.label>Орлиный глаз</Skill_EagleEye.label>
+  <Skill_QuickDraw.label>Быстрое выхватывание</Skill_QuickDraw.label>
+  <Skill_Evasion.label>Уклонение</Skill_Evasion.label>
+  <Skill_Swiftness.label>Стремительность</Skill_Swiftness.label>
+  <Skill_EfficientWork.label>Эффективная работа</Skill_EfficientWork.label>
+  <Skill_MasterCrafter.label>Мастер-ремесленник</Skill_MasterCrafter.label>
+  <Skill_Charisma.label>Харизма</Skill_Charisma.label>
+  <Skill_Inspiration.label>Вдохновение</Skill_Inspiration.label>
+  <Skill_NegotiationMaster.label>Мастер переговоров</Skill_NegotiationMaster.label>
+  <Skill_Regeneration.label>Регенерация</Skill_Regeneration.label>
+  <Skill_Vitality.label>Живучесть</Skill_Vitality.label>
+  <!-- Ability Names -->
+  <Ability_Berserk.label>Берсерк</Ability_Berserk.label>
+  <Ability_Shield.label>Магический щит</Ability_Shield.label>
+  <Ability_Regeneration.label>Регенерация</Ability_Regeneration.label>
+  <Ability_Haste.label>Ускорение</Ability_Haste.label>
+  <Ability_Inspire.label>Воодушевление</Ability_Inspire.label>
+  <Ability_Teleport.label>Телепортация</Ability_Teleport.label>
+  <Ability_CriticalStrike.label>Критический удар</Ability_CriticalStrike.label>
+  <Ability_Lifesteal.label>Похищение жизни</Ability_Lifesteal.label>
+  <!-- Hediff Labels -->
+  <Isekai_Berserk.label>ярость берсерка</Isekai_Berserk.label>
+  <Isekai_Shield.label>магический щит</Isekai_Shield.label>
+  <Isekai_Regeneration.label>регенерация</Isekai_Regeneration.label>
+  <Isekai_Haste.label>ускорение</Isekai_Haste.label>
+  <Isekai_Inspired.label>воодушевлён</Isekai_Inspired.label>
+  <Isekai_Awakening.label>пробуждение исекая</Isekai_Awakening.label>
+  <!-- Messages -->
+  <IsekaiXPGained>+{0} опыта</IsekaiXPGained>
+  <IsekaiLevelUpTitle>{0} повысил(а) уровень!</IsekaiLevelUpTitle>
+  <IsekaiLevelUpMessage>{0} достиг(ла) {1} уровня! У него(неё) есть {2} очк(ов) навыков для распределения.</IsekaiLevelUpMessage>
+  <IsekaiClassChosen>{0} пробудился(ась) как {1}!</IsekaiClassChosen>
+  <IsekaiSkillUnlocked>{0} открыл(а) {1}!</IsekaiSkillUnlocked>
+  <!-- Navigation Buttons -->
+  <Isekai_Inventory>Инвентарь</Isekai_Inventory>
+  <Isekai_Mastery>Мастерство</Isekai_Mastery>
+  <Isekai_Stats>Характеристики</Isekai_Stats>
+  <Isekai_SkillTree>Созвездие</Isekai_SkillTree>
+  <Isekai_SkillTreeSoon>Созвездие — скоро!</Isekai_SkillTreeSoon>
+  <!-- Stats Window -->
+  <Isekai_StatPoints>Очки характеристик</Isekai_StatPoints>
+  <Isekai_StatPointsAvailable>● Доступно очков характеристик: {0}</Isekai_StatPointsAvailable>
+  <Isekai_GlobalRank>Глобальный ранг</Isekai_GlobalRank>
+  <Isekai_LevelRankDisplay>Уровень {0} Ранг {1}</Isekai_LevelRankDisplay>
+  <Isekai_LevelRankDisplayFull>Уровень {0}  •  Ранг {1}</Isekai_LevelRankDisplayFull>
+  <Isekai_Apply>Применить</Isekai_Apply>
+  <Isekai_Reset>Сбросить</Isekai_Reset>
+  <Isekai_Close>Закрыть</Isekai_Close>
+  <Isekai_Points>Очки</Isekai_Points>
+  <Isekai_BulkAllocHint>Shift: +5  Ctrl: +20\nCtrl+Shift: +100</Isekai_BulkAllocHint>
+  <Isekai_BulkAllocHintShort>Shift:+5  Ctrl:+20</Isekai_BulkAllocHintShort>
+  <Isekai_AutoAssign>Авто</Isekai_AutoAssign>
+  <Isekai_AutoAssign_Tooltip>Автоматически распределить все доступные очки пропорционально текущему соотношению характеристик.</Isekai_AutoAssign_Tooltip>
+  <Isekai_StatsUpdated>Характеристики {0} обновлены!</Isekai_StatsUpdated>
+  <!-- Stat Names -->
+  <Isekai_Stat_STR>СИЛ</Isekai_Stat_STR>
+  <Isekai_Stat_DEX>ЛОВ</Isekai_Stat_DEX>
+  <Isekai_Stat_VIT>ВЫН</Isekai_Stat_VIT>
+  <Isekai_Stat_INT>ИНТ</Isekai_Stat_INT>
+  <Isekai_Stat_WIS>МДР</Isekai_Stat_WIS>
+  <Isekai_Stat_CHA>ХАР</Isekai_Stat_CHA>
+  <Isekai_Stat_Strength>Сила (СИЛ)</Isekai_Stat_Strength>
+  <Isekai_Stat_Dexterity>Ловкость (ЛОВ)</Isekai_Stat_Dexterity>
+  <Isekai_Stat_Vitality>Выносливость (ВЫН)</Isekai_Stat_Vitality>
+  <Isekai_Stat_Intelligence>Интеллект (ИНТ)</Isekai_Stat_Intelligence>
+  <Isekai_Stat_Wisdom>Мудрость (МДР)</Isekai_Stat_Wisdom>
+  <Isekai_Stat_Charisma>Харизма (ХАР)</Isekai_Stat_Charisma>
+  <!-- Stat Descriptions -->
+  <Isekai_Desc_STR>Физическая мощь и грубая сила.\n\nВлияет на:\n• Урон в ближнем бою\n• Грузоподъёмность</Isekai_Desc_STR>
+  <Isekai_Desc_DEX>Ловкость и точность.\n\nВлияет на:\n• Скорость передвижения\n• Шанс уклонения в ближнем бою\n• Точность стрельбы\n• Шанс попадания в ближнем бою\n• Задержку прицеливания</Isekai_Desc_DEX>
+  <Isekai_Desc_VIT>Телосложение и стойкость.\n\nВлияет на:\n• Максимальное здоровье\n• Регенерацию здоровья\n• Сопротивление токсинам\n• Снижение входящего урона\n• Естественную броню (острый/тупой/тепловой)\n• Порог болевого шока\n• Скорость отдыха\n• Продолжительность жизни\n• Предел нейроперегрева (с МДР)</Isekai_Desc_VIT>
+  <Isekai_Desc_INT>Острота ума и обучаемость.\n\nВлияет на:\n• Скорость работы\n• Скорость исследований\n• Скорость обучения\n• Качество крафта\n• Скорость взлома\n• Психочувствительность (с МДР)</Isekai_Desc_INT>
+  <Isekai_Desc_WIS>Проницательность и ментальная стойкость.\n\nВлияет на:\n• Порог нервного срыва\n• Прирост концентрации в медитации\n• Качество лечения\n• Успешность операций\n• Шанс дрессировки животных\n• Количество ресурсов от животных\n• Психочувствительность (с ИНТ)\n• Предел нейроперегрева (с ВЫН)\n• Восстановление нейроперегрева\n• Эффективность пси-концентрации</Isekai_Desc_WIS>
+  <Isekai_Desc_CHA>Социальное влияние и харизма.\n\nВлияет на:\n• Социальное воздействие\n• Навык переговоров\n• Цены торговли\n• Шанс приручения животных\n• Шанс успешного ареста</Isekai_Desc_CHA>
+  <!-- Суффиксы описания характеристик только для RoM (добавляются при загрузке RimWorld of Magic) -->
+  <Isekai_Desc_STR_RoM>\n\n[RoM]\n• Урон силы</Isekai_Desc_STR_RoM>
+  <Isekai_Desc_DEX_RoM>\n\n[RoM]\n• Регенерация выносливости\n• Перезарядка силы\n• Стоимость выносливости</Isekai_Desc_DEX_RoM>
+  <Isekai_Desc_VIT_RoM>\n\n[RoM]\n• Максимальная выносливость\n• Максимум Ци (Монах)</Isekai_Desc_VIT_RoM>
+  <Isekai_Desc_INT_RoM>\n\n[RoM]\n• Максимальная мана\n• Перезарядка магии\n• Максимальная пси-энергия</Isekai_Desc_INT_RoM>
+  <Isekai_Desc_WIS_RoM>\n\n[RoM]\n• Регенерация маны\n• Магический урон (Астрал)\n• Стоимость маны</Isekai_Desc_WIS_RoM>
+  <Isekai_Desc_CHA_RoM>\n\n[RoM]\n• Длительность призыва\n• Длительность баффов</Isekai_Desc_CHA_RoM>
+  <!-- Short Stat Descriptions (for compact view) -->
+  <Isekai_Desc_STR_Short>Урон в ближнем бою • Грузоподъёмность</Isekai_Desc_STR_Short>
+  <Isekai_Desc_VIT_Short>Регенерация • Сопротивление урону • Броня • Долголетие</Isekai_Desc_VIT_Short>
+  <Isekai_Desc_DEX_Short>Скорость • Точность • Уклонение</Isekai_Desc_DEX_Short>
+  <Isekai_Desc_INT_Short>Исследования • Скорость работы • Качество крафта</Isekai_Desc_INT_Short>
+  <Isekai_Desc_WIS_Short>Психическая устойчивость • Медитация • Пси-способности</Isekai_Desc_WIS_Short>
+  <Isekai_Desc_CHA_Short>Цены • Социальность • Приручение</Isekai_Desc_CHA_Short>
+  <!-- ITab Section Headers -->
+  <Isekai_CoreAttributes>Основные характеристики</Isekai_CoreAttributes>
+  <Isekai_CombatPerformance>Боевые показатели</Isekai_CombatPerformance>
+  <Isekai_PassiveBonuses>Пассивные бонусы</Isekai_PassiveBonuses>
+  <Isekai_ActiveSkills>Активные навыки</Isekai_ActiveSkills>
+  <Isekai_ActiveAbilities>Активные способности</Isekai_ActiveAbilities>
+  <Isekai_MagicSpells>Магические заклинания</Isekai_MagicSpells>
+  <Isekai_ComingSoon>Скоро появится</Isekai_ComingSoon>
+  <Isekai_NoAbilitiesYet>Способности пока не разблокированы</Isekai_NoAbilitiesYet>
+  <Isekai_AbilitiesHint1>Способности будут открываться через</Isekai_AbilitiesHint1>
+  <Isekai_AbilitiesHint2>прогресс созвездий и мастерство класса.</Isekai_AbilitiesHint2>
+  <!-- ITab Page Headers -->
+  <Isekai_PawnSkills>Навыки {0}</Isekai_PawnSkills>
+  <Isekai_PawnFullStats>Полные характеристики {0}</Isekai_PawnFullStats>
+  <Isekai_PawnAbilities>Способности {0}</Isekai_PawnAbilities>
+  <!-- Combat Performance Labels -->
+  <Isekai_Combat_ATK>АТК</Isekai_Combat_ATK>
+  <Isekai_Combat_ACC>ТОЧ</Isekai_Combat_ACC>
+  <Isekai_Combat_SPD>СКР</Isekai_Combat_SPD>
+  <Isekai_Combat_WRK>РАБ</Isekai_Combat_WRK>
+  <!-- Passive Bonus Labels -->
+  <Isekai_Passive_MeleePower>Сила ближнего боя</Isekai_Passive_MeleePower>
+  <Isekai_Passive_MeleePower_Desc>Производная от Силы. Увеличивает урон атак ближнего боя.</Isekai_Passive_MeleePower_Desc>
+  <Isekai_Passive_Toughness>Стойкость</Isekai_Passive_Toughness>
+  <Isekai_Passive_Toughness_Desc>Производная от Выносливости. Повышает сопротивление урону и общую выносливость.</Isekai_Passive_Toughness_Desc>
+  <Isekai_Passive_Evasion>Уклонение</Isekai_Passive_Evasion>
+  <Isekai_Passive_Evasion_Desc>Производная от Ловкости. Повышает шанс уклонения и общую подвижность.</Isekai_Passive_Evasion_Desc>
+  <Isekai_Passive_Focus>Концентрация</Isekai_Passive_Focus>
+  <Isekai_Passive_Focus_Desc>Производная от Интеллекта. Повышает эффективность работы и точность действий.</Isekai_Passive_Focus_Desc>
+  <Isekai_Passive_Insight>Проницательность</Isekai_Passive_Insight>
+  <Isekai_Passive_Insight_Desc>Производная от Мудрости. Улучшает лечение и духовное восприятие.</Isekai_Passive_Insight_Desc>
+  <Isekai_Passive_Presence>Присутствие</Isekai_Passive_Presence>
+  <Isekai_Passive_Presence_Desc>Производная от Харизмы. Усиливает социальное влияние и лидерские качества.</Isekai_Passive_Presence_Desc>
+  <!-- Stat Effect Labels -->
+  <Isekai_Effect_MeleeDamage>Урон в ближнем бою</Isekai_Effect_MeleeDamage>
+  <Isekai_Effect_CarryCapacity>Грузоподъёмность</Isekai_Effect_CarryCapacity>
+  <Isekai_Effect_MiningSpeed>Скорость добычи</Isekai_Effect_MiningSpeed>
+  <Isekai_Effect_MaxHealth>Максимальное здоровье</Isekai_Effect_MaxHealth>
+  <Isekai_Effect_HealthRegen>Регенерация здоровья</Isekai_Effect_HealthRegen>
+  <Isekai_Effect_PainResistance>Сопротивление боли</Isekai_Effect_PainResistance>
+  <Isekai_Effect_MoveSpeed>Скорость передвижения</Isekai_Effect_MoveSpeed>
+  <Isekai_Effect_RangedAttackSpeed>Скорость дальних атак</Isekai_Effect_RangedAttackSpeed>
+  <Isekai_Effect_WorkSpeed>Скорость работы</Isekai_Effect_WorkSpeed>
+  <Isekai_Effect_ResearchSpeed>Скорость исследований</Isekai_Effect_ResearchSpeed>
+  <Isekai_Effect_CraftingQuality>Качество крафта</Isekai_Effect_CraftingQuality>
+  <Isekai_Effect_LearningRate>Скорость обучения</Isekai_Effect_LearningRate>
+  <Isekai_Effect_HackingSpeed>Скорость взлома</Isekai_Effect_HackingSpeed>
+  <Isekai_Effect_MentalBreakResist>Сопротивление срывам</Isekai_Effect_MentalBreakResist>
+  <Isekai_Effect_MeditationGain>Прирост медитации</Isekai_Effect_MeditationGain>
+  <Isekai_Effect_SocialImpact>Социальное воздействие</Isekai_Effect_SocialImpact>
+  <Isekai_Effect_TradePriceImprove>Улучшение цен торговли</Isekai_Effect_TradePriceImprove>
+  <Isekai_Effect_SocialInfluence>Социальное влияние</Isekai_Effect_SocialInfluence>
+  <Isekai_Effect_RecruitChance>Шанс вербовки</Isekai_Effect_RecruitChance>
+  <!-- Названия эффектов совместимости RimWorld of Magic (используется терминология RoM) -->
+  <Isekai_Effect_RoM_MaxMana>Максимальная мана</Isekai_Effect_RoM_MaxMana>
+  <Isekai_Effect_RoM_ManaRegen>Регенерация маны</Isekai_Effect_RoM_ManaRegen>
+  <Isekai_Effect_RoM_MaxStamina>Максимальная выносливость</Isekai_Effect_RoM_MaxStamina>
+  <Isekai_Effect_RoM_StaminaRegen>Регенерация выносливости</Isekai_Effect_RoM_StaminaRegen>
+  <Isekai_Effect_RoM_MagicDamage>Магический урон (Астрал)</Isekai_Effect_RoM_MagicDamage>
+  <Isekai_Effect_RoM_MightDamage>Урон силы</Isekai_Effect_RoM_MightDamage>
+  <Isekai_Effect_RoM_MagicCooldown>Перезарядка магии</Isekai_Effect_RoM_MagicCooldown>
+  <Isekai_Effect_RoM_MightCooldown>Перезарядка силы</Isekai_Effect_RoM_MightCooldown>
+  <Isekai_Effect_RoM_ManaCost>Стоимость маны</Isekai_Effect_RoM_ManaCost>
+  <Isekai_Effect_RoM_StaminaCost>Стоимость выносливости</Isekai_Effect_RoM_StaminaCost>
+  <Isekai_Effect_RoM_ChiMax>Максимум Ци (Монах)</Isekai_Effect_RoM_ChiMax>
+  <Isekai_Effect_RoM_PsionicMax>Максимальная пси-энергия</Isekai_Effect_RoM_PsionicMax>
+  <Isekai_Effect_RoM_SummonDuration>Длительность призыва</Isekai_Effect_RoM_SummonDuration>
+  <Isekai_Effect_RoM_BuffDuration>Длительность баффов</Isekai_Effect_RoM_BuffDuration>
+  <!-- Rank Names -->
+  <Isekai_Rank_F>F</Isekai_Rank_F>
+  <Isekai_Rank_E>E</Isekai_Rank_E>
+  <Isekai_Rank_D>D</Isekai_Rank_D>
+  <Isekai_Rank_C>C</Isekai_Rank_C>
+  <Isekai_Rank_B>B</Isekai_Rank_B>
+  <Isekai_Rank_A>A</Isekai_Rank_A>
+  <Isekai_Rank_S>S</Isekai_Rank_S>
+  <Isekai_Rank_SS>SS</Isekai_Rank_SS>
+  <Isekai_Rank_SSS>SSS</Isekai_Rank_SSS>
+  <!-- Rank Titles -->
+  <Isekai_Title_Awakened>Пробуждённый</Isekai_Title_Awakened>
+  <Isekai_Title_Apprentice>Ученик</Isekai_Title_Apprentice>
+  <Isekai_Title_Adventurer>Авантюрист</Isekai_Title_Adventurer>
+  <Isekai_Title_Warrior>Воин</Isekai_Title_Warrior>
+  <Isekai_Title_Champion>Чемпион</Isekai_Title_Champion>
+  <Isekai_Title_Hero>Герой</Isekai_Title_Hero>
+  <Isekai_Title_Legend>Легенда</Isekai_Title_Legend>
+  <Isekai_Title_Monarch>Монарх</Isekai_Title_Monarch>
+  <Isekai_Title_Overlord>Повелитель</Isekai_Title_Overlord>
+  <!-- Floating Status Panel (v1.0.7 - Translation support) -->
+  <Isekai_Panel_Subtitle>Герой исекая</Isekai_Panel_Subtitle>
+  <Isekai_Panel_Rank>РАНГ</Isekai_Panel_Rank>
+  <Isekai_Panel_EXP>ОПЫТ</Isekai_Panel_EXP>
+  <Isekai_Panel_AllocateStats>Распределить очки</Isekai_Panel_AllocateStats>
+  <Isekai_Panel_LevelBadge>Ур.{0}</Isekai_Panel_LevelBadge>
+  <!-- Level Up Mote Text -->
+  <Isekai_LevelUpMote>ПОВЫШЕНИЕ УРОВНЯ!</Isekai_LevelUpMote>
+  <Isekai_LevelMote>Ур.{0}</Isekai_LevelMote>
+  <!-- Rank Display Suffix (e.g. "D-Rank") -->
+  <Isekai_RankWithSuffix>{0}-ранг</Isekai_RankWithSuffix>
+  <!-- RimHUD Level Format -->
+  <Isekai_RimHUD_LevelFormat>Ур.{0}  [{1}] {2}</Isekai_RimHUD_LevelFormat>
+  <!-- Settings Labels -->
+  <Isekai_Settings_Title>Настройки прокачки исекая</Isekai_Settings_Title>
+  <Isekai_Settings_RestartWarning>⚠ Внимание: для применения большинства настроек требуется перезапуск игры.</Isekai_Settings_RestartWarning>
+  <!-- General Settings Section -->
+  <Isekai_Settings_XPLevelingHeader>Опыт &amp; уровни</Isekai_Settings_XPLevelingHeader>
+  <Isekai_Settings_XPMultiplier>Множитель опыта</Isekai_Settings_XPMultiplier>
+  <Isekai_Settings_SkillPointsPerLevel>Очков навыков за уровень</Isekai_Settings_SkillPointsPerLevel>
+  <Isekai_Settings_EnableXPNotifications>Включить уведомления об опыте</Isekai_Settings_EnableXPNotifications>
+  <Isekai_Settings_EnableXPNotifications_Desc>Показывать всплывающий текст при получении опыта пешками</Isekai_Settings_EnableXPNotifications_Desc>
+  <Isekai_Settings_EnableLevelUpNotifications>Включить уведомления о повышении уровня</Isekai_Settings_EnableLevelUpNotifications>
+  <Isekai_Settings_EnableLevelUpNotifications_Desc>Показывать письма-уведомления при повышении уровня</Isekai_Settings_EnableLevelUpNotifications_Desc>
+  <Isekai_Settings_UseLevelUpNotice>Использовать уведомление вместо письма</Isekai_Settings_UseLevelUpNotice>
+  <Isekai_Settings_UseLevelUpNotice_Desc>Показывать небольшое уведомление в углу вместо письма при повышении уровня. Менее навязчиво при частых повышениях.</Isekai_Settings_UseLevelUpNotice_Desc>
+  <Isekai_Settings_MaxLevel>Максимальный уровень</Isekai_Settings_MaxLevel>
+  <Isekai_Settings_MaxStatCap>Максимальное значение характеристик</Isekai_Settings_MaxStatCap>
+  <Isekai_Settings_MaxStatCap_Desc>Максимальное значение любой характеристики (СИЛ, ВЫН, ЛОВ и т.д.). Установите 9999 для отключения лимита.</Isekai_Settings_MaxStatCap_Desc>
+  <Isekai_Settings_MaxStatCap_Unlimited>Без ограничений</Isekai_Settings_MaxStatCap_Unlimited>
+  <Isekai_Settings_StartingLevel>Начальный уровень колониста</Isekai_Settings_StartingLevel>
+  <Isekai_Settings_StartingLevel_Desc>Начальный уровень новых колонистов. Установите 0 для случайной генерации на основе ранга (по умолчанию). Более высокие значения дают преимущество на старте. Изменяйте перед началом новой игры.</Isekai_Settings_StartingLevel_Desc>
+  <Isekai_Settings_StartingLevel_Random>Случайный (по рангу)</Isekai_Settings_StartingLevel_Random>
+  <Isekai_Settings_NewbornsUseRankRolling>Новорождённые используют генерацию ранга</Isekai_Settings_NewbornsUseRankRolling>
+  <Isekai_Settings_NewbornsUseRankRolling_Desc>Если включено, новорождённые получают случайный ранг как и другие пешки, вместо старта с 1 уровня / F-ранга. По умолчанию отключено — дети начинают с нуля и развиваются через опыт.</Isekai_Settings_NewbornsUseRankRolling_Desc>
+  <Isekai_Settings_MobRankingHeader>Ранги существ</Isekai_Settings_MobRankingHeader>
+  <Isekai_Settings_ShowMobRanks>Показывать ранги существ</Isekai_Settings_ShowMobRanks>
+  <Isekai_Settings_ShowMobRanks_Desc>Отображать информацию о ранге в панели осмотра существ</Isekai_Settings_ShowMobRanks_Desc>
+  <Isekai_Settings_ExcludeAnimals>Исключить животных из ранжирования</Isekai_Settings_ExcludeAnimals>
+  <Isekai_Settings_ExcludeAnimals_Desc>Если включено, животные не получают ранги и бонусы характеристик. Поведение будет как в ванильной игре.</Isekai_Settings_ExcludeAnimals_Desc>
+  <Isekai_Settings_ExcludeMechs>Исключить механоидов из ранжирования</Isekai_Settings_ExcludeMechs>
+  <Isekai_Settings_ExcludeMechs_Desc>Если включено, механоиды не получают ранги и бонусы характеристик. Поведение будет как в ванильной игре.</Isekai_Settings_ExcludeMechs_Desc>
+  <Isekai_Settings_ExcludeEntities>Исключить сущности Anomaly из ранжирования</Isekai_Settings_ExcludeEntities>
+  <Isekai_Settings_ExcludeEntities_Desc>Если включено, сущности DLC Anomaly (похитители зрения, ревенанты, шаркающие, химеры и т.д.) не получают ранги и бонусы характеристик. Поведение будет как в ванильной игре.</Isekai_Settings_ExcludeEntities_Desc>
+  <Isekai_Settings_TamedBonusRetention>Сохранение бонусов ранга приручёнными животными</Isekai_Settings_TamedBonusRetention>
+  <Isekai_Settings_TamedBonusRetention_Desc>Какую часть бонусов ранга (HP, броня, скорость, урон, порог боли) приручённые животные сохраняют. 0% = без бонусов (ванильные характеристики), 50% = половина бонусов, 100% = полные бонусы как в дикой природе.</Isekai_Settings_TamedBonusRetention_Desc>
+  <Isekai_Settings_TamedBonusRetention_None>Нет (ваниль)</Isekai_Settings_TamedBonusRetention_None>
+  <Isekai_Settings_MobSpeedMultiplier>Множитель скорости существ</Isekai_Settings_MobSpeedMultiplier>
+  <Isekai_Settings_MobSpeedMultiplier_Desc>Определяет размер бонуса скорости от ранга. 0.0 = без бонуса, 1.0 = по умолчанию (S=+50%), 2.0 = двойной бонус (S=+100%)</Isekai_Settings_MobSpeedMultiplier_Desc>
+  <Isekai_Settings_MobArmorMultiplier>Множитель брони существ</Isekai_Settings_MobArmorMultiplier>
+  <Isekai_Settings_MobArmorMultiplier_Desc>Определяет размер бонуса брони от ранга. 0.0 = без бонуса, 1.0 = по умолчанию (S=+90%), 2.0 = двойной бонус (S=+180%)</Isekai_Settings_MobArmorMultiplier_Desc>
+  <Isekai_Settings_MobHealthMultiplier>Множитель здоровья существ</Isekai_Settings_MobHealthMultiplier>
+  <Isekai_Settings_MobHealthMultiplier_Desc>Определяет размер бонуса здоровья от ранга. 0.0 = без бонуса (ванильное HP), 1.0 = по умолчанию (S=5x), 2.0 = двойной бонус (S=9x)</Isekai_Settings_MobHealthMultiplier_Desc>
+  <Isekai_Settings_MobRankValueMultiplier>Множитель рыночной стоимости ранга существ</Isekai_Settings_MobRankValueMultiplier>
+  <Isekai_Settings_MobRankValueMultiplier_Desc>Определяет бонус к рыночной стоимости от ранга. 0.0 = без бонуса, 1.0 = по умолчанию (SSS=10x), 2.0 = двойной бонус (SSS=19x)</Isekai_Settings_MobRankValueMultiplier_Desc>
+  <Isekai_Settings_PawnLevelValueMultiplier>Множитель рыночной стоимости уровня пешек</Isekai_Settings_PawnLevelValueMultiplier>
+  <Isekai_Settings_PawnLevelValueMultiplier_Desc>Определяет влияние уровня пешек на рыночную стоимость. 0.0 = без бонуса, 1.0 = по умолчанию (высокий уровень = 5x), 2.0 = двойной бонус (высокий уровень = 9x)</Isekai_Settings_PawnLevelValueMultiplier_Desc>
+  <Isekai_Settings_RaidEnemyRanksHeader>Ранги врагов в рейдах</Isekai_Settings_RaidEnemyRanksHeader>
+  <Isekai_Settings_EnableRaidRanking>Включить ранжирование рейдов</Isekai_Settings_EnableRaidRanking>
+  <Isekai_Settings_EnableRaidRanking_Desc>Назначать ранги врагам в рейдах в зависимости от силы рейда</Isekai_Settings_EnableRaidRanking_Desc>
+  <Isekai_Settings_RaidPointsMultiplier>Множитель очков рейда</Isekai_Settings_RaidPointsMultiplier>
+  <Isekai_Settings_RaidPointsMultiplier_Desc>Меньше = слабее рейды. Уменьшите, если враги слишком сильны для вашей колонии.</Isekai_Settings_RaidPointsMultiplier_Desc>
+  <Isekai_Settings_RaidRankCapAtS>Ограничить рейды рангом S</Isekai_Settings_RaidRankCapAtS>
+  <Isekai_Settings_RaidRankCapAtS_Desc>Обычные рейды максимум до ранга S (SS/SSS зарезервированы для особых событий)</Isekai_Settings_RaidRankCapAtS_Desc>
+  <Isekai_Settings_MaxRaidRank>Максимальный ранг рейда</Isekai_Settings_MaxRaidRank>
+  <Isekai_Settings_MaxRaidRank_Desc>Максимальный ранг, который может появиться в обычных рейдах. Уменьшите, если высокоранговые враги слишком сильны. SS/SSS всегда зарезервированы для квестов и особых событий.</Isekai_Settings_MaxRaidRank_Desc>
+  <Isekai_Settings_ClassicRNGRaids>Классические RNG-рейды</Isekai_Settings_ClassicRNGRaids>
+  <Isekai_Settings_ClassicRNGRaids_Desc>Использовать классическую хаотичную вариативность — рейды могут быть намного сильнее или слабее ожидаемого. Более захватывающе, но опасно для ранних колоний!</Isekai_Settings_ClassicRNGRaids_Desc>
+  <Isekai_Settings_AdaptiveRaidRanks>Адаптивные ранги рейдов</Isekai_Settings_AdaptiveRaidRanks>
+  <Isekai_Settings_AdaptiveRaidRanks_Desc>Ограничивает ранги врагов рейда в пределах ±1 от самого сильного колониста. Предотвращает появление S-ранга в новой колонии и D-ранга в поздней игре. По умолчанию отключено.</Isekai_Settings_AdaptiveRaidRanks_Desc>
+  <Isekai_Settings_MechanitorXPHeader>Опыт механитора (Biotech)</Isekai_Settings_MechanitorXPHeader>
+  <Isekai_Settings_EnableMechanitorXP>Механитор получает опыт за убийства мехов</Isekai_Settings_EnableMechanitorXP>
+  <Isekai_Settings_EnableMechanitorXP_Desc>Механиторы получают опыт, когда их управляемые мехи наносят урон или убивают врагов</Isekai_Settings_EnableMechanitorXP_Desc>
+  <Isekai_Settings_EnableMechCreatureXP>Механоиды получают ОП за существ</Isekai_Settings_EnableMechCreatureXP>
+  <Isekai_Settings_EnableMechCreatureXP_Desc>Если отключено, механоидные существа не получают ОП за бой, убийства или награды за задания. Они по-прежнему могут получать ранговые улучшения, но не будут повышать уровень.</Isekai_Settings_EnableMechCreatureXP_Desc>
+  <!-- Auto Assign -->
+  <Isekai_AutoAssign_Desc>Автоматически распределяет все доступные очки характеристик. Если назначен класс, очки распределяются с приоритетом на основные и вторичные характеристики класса. В противном случае очки распределяются равномерно.</Isekai_AutoAssign_Desc>
+  <Isekai_AutoDistribute>Автораспределение характеристик</Isekai_AutoDistribute>
+  <Isekai_AutoDistribute_Desc>При включении очки характеристик автоматически распределяются при повышении уровня. Если назначен класс, приоритет отдается основным и вторичным характеристикам. В противном случае очки распределяются равномерно.</Isekai_AutoDistribute_Desc>
+  <Isekai_Settings_CrossMapXPHeader>Распределение ОП за убийства</Isekai_Settings_CrossMapXPHeader>
+  <Isekai_Settings_ShareKillXPAcrossMaps>Делить ОП за убийства между картами</Isekai_Settings_ShareKillXPAcrossMaps>
+  <Isekai_Settings_ShareKillXPAcrossMaps_Desc>Если включено, пешки, наносящие урон врагу, получают ОП за убийство даже если находятся на другой карте. Если отключено, ОП получают только пешки на той же карте, что и цель. ОП механитора не зависит от этой настройки.</Isekai_Settings_ShareKillXPAcrossMaps_Desc>
+  <!-- Guild Quest Settings -->
+  <Isekai_Settings_GuildQuestsHeader>Гильдейские задания</Isekai_Settings_GuildQuestsHeader>
+  <Isekai_Settings_EnableGuildQuests>Включить гильдейские задания</Isekai_Settings_EnableGuildQuests>
+  <Isekai_Settings_EnableGuildQuests_Desc>Ежедневные охотничьи задания с ранговыми существами и наградами</Isekai_Settings_EnableGuildQuests_Desc>
+  <Isekai_Settings_GuildQuestFrequency>Частота заданий</Isekai_Settings_GuildQuestFrequency>
+  <Isekai_Settings_GuildQuestFrequency_Desc>Как часто появляются новые гильдейские задания</Isekai_Settings_GuildQuestFrequency_Desc>
+  <Isekai_Settings_GuildQuestFrequency_PerDay>{0}x в день</Isekai_Settings_GuildQuestFrequency_PerDay>
+  <Isekai_Settings_GuildQuestFrequency_Days>Каждые {0} дн.</Isekai_Settings_GuildQuestFrequency_Days>
+  <Isekai_Settings_MaxActiveGuildQuests>Максимум доступных заданий</Isekai_Settings_MaxActiveGuildQuests>
+  <Isekai_Settings_MaxActiveGuildQuests_Desc>Максимальное количество гильдейских заданий, одновременно ожидающих во вкладке «Доступные». Новые задания не появятся, пока старые не будут приняты или не истекут.</Isekai_Settings_MaxActiveGuildQuests_Desc>
+  <Isekai_Settings_MinQuestRank>Минимальный ранг задания</Isekai_Settings_MinQuestRank>
+  <Isekai_Settings_MinQuestRank_Desc>Задания ниже этого ранга не будут появляться. Полезно для уменьшения загромождения вкладки заданий на высоких уровнях.</Isekai_Settings_MinQuestRank_Desc>
+  <Isekai_Settings_MinQuestRank_All>Все</Isekai_Settings_MinQuestRank_All>
+  <!-- Elite Mob Settings -->
+  <Isekai_Settings_EliteMobsHeader>Элитные мобы</Isekai_Settings_EliteMobsHeader>
+  <Isekai_Settings_ShowEliteMobTitles>Показывать оверлей элитных мобов</Isekai_Settings_ShowEliteMobTitles>
+  <Isekai_Settings_ShowEliteMobTitles_Desc>Отображает таблички с именами, полосы здоровья и эффекты наведения у элитных мобов. Отключение полностью убирает все проверки оверлея каждый кадр, что повышает производительность.</Isekai_Settings_ShowEliteMobTitles_Desc>
+  <Isekai_Settings_EnableTraitColors>Цветные названия черт</Isekai_Settings_EnableTraitColors>
+  <Isekai_Settings_EnableTraitColors_Desc>Окрашивает названия черт исекая по редкости в карточке персонажа (золото — архетип, фиолетовый — редкая, зелёный — необычная, красный — проклятие). Отключите для обычных белых названий.</Isekai_Settings_EnableTraitColors_Desc>
+  <!-- Quest Creature Mod Blacklist -->
+  <Isekai_Settings_QuestBlacklistHeader>Чёрный список модов существ для квестов</Isekai_Settings_QuestBlacklistHeader>
+  <Isekai_Settings_QuestBlacklistDesc>Исключает существ из определённых модов из списка целей квестов. Введите ключевые слова через запятую, совпадающие с названием мода или его package ID.</Isekai_Settings_QuestBlacklistDesc>
+  <Isekai_Settings_QuestBlacklistHint>Пример: "ayameduki, alpha animals" — частичные совпадения работают. Проверьте список модов, чтобы узнать точное название мода.</Isekai_Settings_QuestBlacklistHint>
+  <Isekai_Settings_QuestBlacklistBuiltIn>Встроенные исключения (всегда активны): сущности DLC Anomaly, призывы и конструкты A RimWorld of Magic, личинки, транспорт.</Isekai_Settings_QuestBlacklistBuiltIn>
+  <Isekai_Settings_QuestWhitelistHeader>Белый список модов для существ в заданиях</Isekai_Settings_QuestWhitelistHeader>
+  <Isekai_Settings_QuestWhitelistDesc>Если включено, в охотах и заданиях на поимку будут появляться ТОЛЬКО существа и цели для награды из перечисленных модов. Введите ключевые слова через запятую, соответствующие названию мода или его Package ID. Оставьте пустым, чтобы снять ограничения.</Isekai_Settings_QuestWhitelistDesc>
+  <Isekai_Settings_QuestWhitelistHint>Пример: "alpha animals, megafauna" — частичные совпадения работают. Добавьте "Core", чтобы также разрешить существ из ванильной игры. Чёрный список и встроенные исключения по-прежнему применяются поверх этих настроек.</Isekai_Settings_QuestWhitelistHint>
+  <Isekai_Settings_ResetStatMultipliers>Сбросить все множители характеристик</Isekai_Settings_ResetStatMultipliers>
+  <Isekai_Settings_ResetWindowPosition>Сбросить положение окна характеристик</Isekai_Settings_ResetWindowPosition>
+  <Isekai_Settings_WindowPositionReset>Положение окна характеристик сброшено в центр.</Isekai_Settings_WindowPositionReset>
+  <Isekai_Settings_WindowPositionHeader>Положение окна характеристик</Isekai_Settings_WindowPositionHeader>
+  <Isekai_Settings_WindowPositionDesc>Окно характеристик можно перетаскивать, удерживая верхнюю область. Положение сохраняется автоматически. Используйте кнопку ниже, чтобы при необходимости вернуть окно в центр.</Isekai_Settings_WindowPositionDesc>
+  <!-- Effects Settings Section -->
+  <Isekai_Settings_UIStyleHeader>Стиль интерфейса</Isekai_Settings_UIStyleHeader>
+  <Isekai_Settings_UseIsekaiUI>Пользовательский интерфейс Исекая</Isekai_Settings_UseIsekaiUI>
+  <Isekai_Settings_UseIsekaiUI_Desc>Использовать пользовательский тематический интерфейс Исекая для вкладок и панелей статуса. Отключите, чтобы использовать стандартный интерфейс RimWorld.</Isekai_Settings_UseIsekaiUI_Desc>
+  <Isekai_Settings_VisualEffectsHeader>Настройки визуальных эффектов</Isekai_Settings_VisualEffectsHeader>
+  <Isekai_Settings_EnableManaCoreDrops>Включить выпадение ядро маны</Isekai_Settings_EnableManaCoreDrops>
+  <Isekai_Settings_EnableManaCoreDrops_Desc>Переключает выпадение ядер маны со всех существ с рангом (D и выше). Снимите флажок, чтобы полностью отключить добычу ядер маны.</Isekai_Settings_EnableManaCoreDrops_Desc>
+  <Isekai_Settings_AutoAllowCrystalHauling>Авторазрешение на перенос ядер маны</Isekai_Settings_AutoAllowCrystalHauling>
+  <Isekai_Settings_AutoAllowCrystalHauling_Desc>Если включено, ядра маны и осколки звёзд появляются уже разрешёнными для переноса, а не запрещёнными. Полезно для мирных/строительных стилей игры, где пешки не будут рисковать, отправляясь за добычей.</Isekai_Settings_AutoAllowCrystalHauling_Desc>
+  <!-- Mana Core Usage -->
+  <Isekai_ManaCore_Source>Ядро маны</Isekai_ManaCore_Source>
+  <Isekai_ManaCore_NoPawn>Этот персонаж не может поглощать ядра маны.</Isekai_ManaCore_NoPawn>
+  <Isekai_ManaCore_AbsorbAll>Поглотить все ядра маны ({0}, {1} ОП)</Isekai_ManaCore_AbsorbAll>
+  <Isekai_ManaCore_BulkAbsorb>{0} поглотил(а) {1} ядер маны и получил(а) {2} ОП.</Isekai_ManaCore_BulkAbsorb>
+  <Isekai_Settings_DraftedAuraHeader>Аура при призыве (в стиле DBZ)</Isekai_Settings_DraftedAuraHeader>
+  <Isekai_Settings_DraftedAuraSubtext>Вертикальные энергетические языки пламени с сиянием и частицами</Isekai_Settings_DraftedAuraSubtext>
+  <Isekai_Settings_EnableDraftedAura>Включить ауру при призыве</Isekai_Settings_EnableDraftedAura>
+  <Isekai_Settings_EnableDraftedAura_Desc>Показывать энергетическую ауру вокруг призванных персонажей (только B-ранг и выше)</Isekai_Settings_EnableDraftedAura_Desc>
+  <Isekai_Settings_AuraOpacity>Прозрачность ауры</Isekai_Settings_AuraOpacity>
+  <Isekai_Settings_AuraSizeMultiplier>Множитель размера ауры</Isekai_Settings_AuraSizeMultiplier>
+  <Isekai_Settings_EnableAuraPulse>Включить пульсацию ауры</Isekai_Settings_EnableAuraPulse>
+  <Isekai_Settings_EnableAuraPulse_Desc>Пламя динамически пульсирует и мерцает</Isekai_Settings_EnableAuraPulse_Desc>
+  <Isekai_Settings_AuraPulseSpeed>Скорость пульсации</Isekai_Settings_AuraPulseSpeed>
+  <Isekai_Settings_AuraUseFavoriteColor>Использовать любимый цвет персонажа</Isekai_Settings_AuraUseFavoriteColor>
+  <Isekai_Settings_AuraUseFavoriteColor_Desc>Если включено, цвет ауры будет соответствовать любимому цвету персонажа вместо цветовой схемы ранга. Отлично подходит для индивидуального стиля!</Isekai_Settings_AuraUseFavoriteColor_Desc>
+  <Isekai_AuraDisplay_Button>Аура: {0}</Isekai_AuraDisplay_Button>
+  <Isekai_AuraDisplay_Constellation>Созвездие</Isekai_AuraDisplay_Constellation>
+  <Isekai_AuraDisplay_DefaultFlame>Стандартное пламя</Isekai_AuraDisplay_DefaultFlame>
+  <Isekai_AuraDisplay_None>Нет</Isekai_AuraDisplay_None>
+  <Isekai_Settings_EnableConstellationAuraStyle>Уникальные ауры созвездий</Isekai_Settings_EnableConstellationAuraStyle>
+  <Isekai_Settings_EnableConstellationAuraStyle_Desc>Каждое созвездие получает собственную палитру ауры, поведение пламени и уникальный вторичный эффект (столп паладина, руны мудреца, глифы мага, искры ремесленника и т. д.). На высоких рангах акцентный цвет всё ещё зависит от ранга. Отключите эту настройку, чтобы использовать обычную ауру, зависящую только от ранга.</Isekai_Settings_EnableConstellationAuraStyle_Desc>
+  <!-- Stat Multiplier Settings -->
+  <Isekai_Settings_StatPointsPerLevel>Очки характеристик за уровень</Isekai_Settings_StatPointsPerLevel>
+  <Isekai_Settings_STRMultipliers>Множители силы (СИЛ)</Isekai_Settings_STRMultipliers>
+  <Isekai_Settings_DEXMultipliers>Множители ловкости (ЛОВ)</Isekai_Settings_DEXMultipliers>
+  <Isekai_Settings_VITMultipliers>Множители выносливости (ВЫН)</Isekai_Settings_VITMultipliers>
+  <Isekai_Settings_INTMultipliers>Множители интеллекта (ИНТ)</Isekai_Settings_INTMultipliers>
+  <Isekai_Settings_WISMultipliers>Множители мудрости (МДР)</Isekai_Settings_WISMultipliers>
+  <Isekai_Settings_CHAMultipliers>Множители харизмы (ХАР)</Isekai_Settings_CHAMultipliers>
+  <Isekai_Settings_BonusPerPoint>% бонус за каждое очко выше базовых 5</Isekai_Settings_BonusPerPoint>
+  <Isekai_Settings_MeleeDamage>Урон в ближнем бою</Isekai_Settings_MeleeDamage>
+  <Isekai_Settings_CarryCapacity>Грузоподъёмность</Isekai_Settings_CarryCapacity>
+  <Isekai_Settings_MiningSpeed>Скорость добычи</Isekai_Settings_MiningSpeed>
+  <Isekai_Settings_MoveSpeed>Скорость передвижения</Isekai_Settings_MoveSpeed>
+  <Isekai_Settings_WorkSpeed>Скорость работы</Isekai_Settings_WorkSpeed>
+  <Isekai_Settings_RangedAttackSpeed>Скорость атак дальнего боя</Isekai_Settings_RangedAttackSpeed>
+  <Isekai_Settings_MaxHealth>Максимальное здоровье</Isekai_Settings_MaxHealth>
+  <Isekai_Settings_HealthRegen>Регенерация здоровья</Isekai_Settings_HealthRegen>
+  <Isekai_Settings_ResearchSpeed>Скорость исследований</Isekai_Settings_ResearchSpeed>
+  <Isekai_Settings_LearningSpeed>Скорость обучения</Isekai_Settings_LearningSpeed>
+  <Isekai_Settings_CraftingQuality>Бонус к качеству крафта</Isekai_Settings_CraftingQuality>
+  <Isekai_Settings_ConstructionSpeed>Скорость строительства</Isekai_Settings_ConstructionSpeed>
+  <Isekai_Settings_MeleeHitChance>Шанс попадания в ближнем бою</Isekai_Settings_MeleeHitChance>
+  <Isekai_Settings_MeleeDodgeChance>Шанс уклонения в ближнем бою</Isekai_Settings_MeleeDodgeChance>
+  <Isekai_Settings_ShootingAccuracy>Точность стрельбы</Isekai_Settings_ShootingAccuracy>
+  <Isekai_Settings_HealthRegenFactor>Множитель регенерации здоровья</Isekai_Settings_HealthRegenFactor>
+  <Isekai_Settings_ToxicResistance>Сопротивление токсинам</Isekai_Settings_ToxicResistance>
+  <Isekai_Settings_ImmunityGainSpeed>Скорость набора иммунитета</Isekai_Settings_ImmunityGainSpeed>
+  <Isekai_Settings_DamageReduction>Снижение урона</Isekai_Settings_DamageReduction>
+  <Isekai_Settings_LifespanFactor>Множитель продолжительности жизни</Isekai_Settings_LifespanFactor>
+  <Isekai_Settings_RestRate>Скорость восстановления отдыха (сна)</Isekai_Settings_RestRate>
+  <Isekai_Settings_RefinementComponent>ThingDef компонента для очищения</Isekai_Settings_RefinementComponent>
+  <Isekai_Settings_RefinementComponentDesc>Имя ThingDef компонента, расходуемого при очищении. Измените этот параметр, если какой-либо мод (например, Medieval Overhaul) удаляет или отключает промышленные компоненты — укажите defName компонента из этого мода. Недопустимые имена автоматически заменяются на ComponentIndustrial.</Isekai_Settings_RefinementComponentDesc>
+  <Isekai_Settings_GeneralWorkSpeed>Общая скорость работы</Isekai_Settings_GeneralWorkSpeed>
+  <Isekai_Settings_MentalBreakThreshold>Порог нервного срыва</Isekai_Settings_MentalBreakThreshold>
+  <Isekai_Settings_MeditationFocus>Фокус медитации</Isekai_Settings_MeditationFocus>
+  <Isekai_Settings_MedicalTendQuality>Качество лечения</Isekai_Settings_MedicalTendQuality>
+  <Isekai_Settings_SurgerySuccess>Шанс успешной операции</Isekai_Settings_SurgerySuccess>
+  <Isekai_Settings_TrainAnimal>Шанс дрессировки животных</Isekai_Settings_TrainAnimal>
+  <Isekai_Settings_AnimalGatherYield>Количество ресурсов от животных</Isekai_Settings_AnimalGatherYield>
+  <Isekai_Settings_PsychicSensitivity>Психочувствительность (ср. ИНТ+МДР)</Isekai_Settings_PsychicSensitivity>
+  <Isekai_Settings_NeuralHeatLimit>Лимит нейроперегрева (ср. ВЫН+МДР)</Isekai_Settings_NeuralHeatLimit>
+  <Isekai_Settings_NeuralHeatRecovery>Восстановление нейроперегрева</Isekai_Settings_NeuralHeatRecovery>
+  <Isekai_Settings_PsyfocusCost>Снижение стоимости пси-способностей</Isekai_Settings_PsyfocusCost>
+  <Isekai_Settings_SocialImpact>Социальное влияние</Isekai_Settings_SocialImpact>
+  <Isekai_Settings_NegotiationAbility>Навык переговоров</Isekai_Settings_NegotiationAbility>
+  <Isekai_Settings_TradePriceBonus>Бонус к ценам торговли</Isekai_Settings_TradePriceBonus>
+  <Isekai_Settings_ArrestSuccess>Шанс успешного ареста</Isekai_Settings_ArrestSuccess>
+  <Isekai_Settings_ResetDefault>Сбросить по умолчанию</Isekai_Settings_ResetDefault>
+  <!-- Stat Effect Labels -->
+  <Isekai_Effect_ToxicResist>Сопротивление токсинам</Isekai_Effect_ToxicResist>
+  <Isekai_Effect_ImmunityGain>Набор иммунитета</Isekai_Effect_ImmunityGain>
+  <Isekai_Effect_DamageReduction>Снижение урона</Isekai_Effect_DamageReduction>
+  <Isekai_Effect_SharpArmor>Защита от режущего урона</Isekai_Effect_SharpArmor>
+  <Isekai_Effect_BluntArmor>Защита от дробящего урона</Isekai_Effect_BluntArmor>
+  <Isekai_Effect_HeatArmor>Тепловая защита</Isekai_Effect_HeatArmor>
+  <Isekai_Effect_PainThreshold>Порог боли</Isekai_Effect_PainThreshold>
+  <Isekai_Effect_BleedRate>Скорость кровотечения</Isekai_Effect_BleedRate>
+  <Isekai_Effect_RestRate>Скорость отдыха</Isekai_Effect_RestRate>
+  <Isekai_Effect_Lifespan>Продолжительность жизни</Isekai_Effect_Lifespan>
+  <Isekai_Effect_MeleeHit>Шанс попадания в ближнем бою</Isekai_Effect_MeleeHit>
+  <Isekai_Effect_DodgeChance>Шанс уклонения</Isekai_Effect_DodgeChance>
+  <Isekai_Effect_ShootingAccuracy>Точность стрельбы</Isekai_Effect_ShootingAccuracy>
+  <Isekai_Effect_AimingDelay>Задержка прицеливания</Isekai_Effect_AimingDelay>
+  <Isekai_Effect_PsychicSensitivity>Психочувствительность</Isekai_Effect_PsychicSensitivity>
+  <Isekai_Effect_NeuralHeatLimit>Лимит нейроперегрева</Isekai_Effect_NeuralHeatLimit>
+  <Isekai_Effect_NeuralRecovery>Восст. нейроперегрева</Isekai_Effect_NeuralRecovery>
+  <Isekai_Effect_PsyfocusCost>Стоимость пси-способностей</Isekai_Effect_PsyfocusCost>
+  <Isekai_WIS_PsyfocusCostReduction>Исекай МДР: -{0}% стоимость пси-способностей</Isekai_WIS_PsyfocusCostReduction>
+  <Isekai_Effect_TendQuality>Качество лечения</Isekai_Effect_TendQuality>
+  <Isekai_Effect_SurgerySuccess>Успешность операции</Isekai_Effect_SurgerySuccess>
+  <Isekai_Effect_TrainAnimal>Дрессировка животных</Isekai_Effect_TrainAnimal>
+  <Isekai_Effect_GatherYield>Количество ресурсов от животных и урожая растений</Isekai_Effect_GatherYield>
+  <!-- Creature stat window: extra effect labels + per-stat descriptions -->
+  <Isekai_Effect_DamageTaken>Получаемый урон</Isekai_Effect_DamageTaken>
+  <Isekai_Effect_WildnessTraining>Дикость (обучение)</Isekai_Effect_WildnessTraining>
+  <Isekai_Effect_WildnessTaming>Дикость (приручение)</Isekai_Effect_WildnessTaming>
+  <Isekai_Effect_XPGain>Получение опыта</Isekai_Effect_XPGain>
+  <Isekai_Effect_MarketValue>Рыночная стоимость</Isekai_Effect_MarketValue>
+  <Isekai_Effect_NuzzleChance>Шанс ласки</Isekai_Effect_NuzzleChance>
+  <Isekai_Effect_MentalBreakThreshold>Порог психического срыва</Isekai_Effect_MentalBreakThreshold>
+  <Isekai_Effect_MeleeDodge>Уклонение в ближнем бою</Isekai_Effect_MeleeDodge>
+  <Isekai_Effect_NaturalArmor>Природная броня</Isekai_Effect_NaturalArmor>
+  <Isekai_CreatureDesc_STR>Увеличивает урон в ближнем бою и грузоподъёмность.</Isekai_CreatureDesc_STR>
+  <Isekai_CreatureDesc_DEX>Повышает скорость передвижения, шанс уклонения и шанс попадания в ближнем бою.</Isekai_CreatureDesc_DEX>
+  <Isekai_CreatureDesc_VIT>Повышает максимальное здоровье, скорость лечения травм, природную броню, снижение получаемого урона, болевой порог, устойчивость к токсинам, скорость приобретения иммунитета, эффективность отдыха и влияет на скорость кровотечения.</Isekai_CreatureDesc_VIT>
+  <Isekai_CreatureDesc_INT>Повышает психическую чувствительность, снижает порог психического срыва и уменьшает дикость (облегчает обучение).</Isekai_CreatureDesc_INT>
+  <Isekai_CreatureDesc_WIS>Увеличивает скорость получения опыта. Чем выше МДР, тем быстрее повышение уровня.</Isekai_CreatureDesc_WIS>
+  <Isekai_CreatureDesc_CHA>Повышает рыночную стоимость, уменьшает дикость (облегчает приручение) и увеличивает шанс ласки.</Isekai_CreatureDesc_CHA>
+  <Isekai_StatNameOnly_STR>Сила</Isekai_StatNameOnly_STR>
+  <Isekai_StatNameOnly_DEX>Ловкость</Isekai_StatNameOnly_DEX>
+  <Isekai_StatNameOnly_VIT>Живучесть</Isekai_StatNameOnly_VIT>
+  <Isekai_StatNameOnly_INT>Интеллект</Isekai_StatNameOnly_INT>
+  <Isekai_StatNameOnly_WIS>Мудрость</Isekai_StatNameOnly_WIS>
+  <Isekai_StatNameOnly_CHA>Харизма</Isekai_StatNameOnly_CHA>
+  <!-- Creature rank titles -->
+  <Isekai_RankTitle_Nation>Угроза миру</Isekai_RankTitle_Nation>
+  <Isekai_RankTitle_SSS>Высший хищник</Isekai_RankTitle_SSS>
+  <Isekai_RankTitle_SS>Альфа-зверь</Isekai_RankTitle_SS>
+  <Isekai_RankTitle_S>Легендарный</Isekai_RankTitle_S>
+  <Isekai_RankTitle_A>Смертоносный</Isekai_RankTitle_A>
+  <Isekai_RankTitle_B>Опасный</Isekai_RankTitle_B>
+  <Isekai_RankTitle_C>Угрожающий</Isekai_RankTitle_C>
+  <Isekai_RankTitle_D>Обычный</Isekai_RankTitle_D>
+  <Isekai_RankTitle_E>Слабый</Isekai_RankTitle_E>
+  <Isekai_RankTitle_F>Безобидный</Isekai_RankTitle_F>
+  <Isekai_Effect_Negotiation>Переговоры</Isekai_Effect_Negotiation>
+  <Isekai_Effect_Taming>Приручение</Isekai_Effect_Taming>
+  <Isekai_Effect_ArrestSuccess>Успешность ареста</Isekai_Effect_ArrestSuccess>
+  <Isekai_Effect_GimmickTier>Уровень классовой особенности</Isekai_Effect_GimmickTier>
+  <Isekai_Effect_ClassPassive>Пассивная способность класса</Isekai_Effect_ClassPassive>
+  <!-- Типы бонусов RimWorld of Magic -->
+  <Isekai_Tier>Уровень</Isekai_Tier>
+  <!-- Button Labels -->
+  <Isekai_Confirm>Подтвердить</Isekai_Confirm>
+  <Isekai_ValueMultiplier>Множитель стоимости x{0}</Isekai_ValueMultiplier>
+  <!-- Character Creation Panel -->
+  <Isekai_CharCreate_Title>Характеристики Исекая</Isekai_CharCreate_Title>
+  <Isekai_CharCreate_Level>Ур.</Isekai_CharCreate_Level>
+  <Isekai_CharCreate_Reroll>Перебросить характеристики</Isekai_CharCreate_Reroll>
+  <!-- Quest/Hunt System -->
+  <!-- Quest Type Labels by Rank -->
+  <Isekai_QuestType_Hunt>Охота</Isekai_QuestType_Hunt>
+  <Isekai_QuestType_Expedition>Экспедиция</Isekai_QuestType_Expedition>
+  <Isekai_QuestType_Raid>Рейд</Isekai_QuestType_Raid>
+  <Isekai_QuestType_Bounty>Вознаграждение</Isekai_QuestType_Bounty>
+  <!-- Difficulty Recommendations by Rank -->
+  <Isekai_Difficulty_F>Подходит для любого пробуждённого авантюриста.</Isekai_Difficulty_F>
+  <Isekai_Difficulty_E>Рекомендуется: авантюрист E-ранга или выше.</Isekai_Difficulty_E>
+  <Isekai_Difficulty_D>Рекомендуется: авантюрист D-ранга или небольшая группа.</Isekai_Difficulty_D>
+  <Isekai_Difficulty_C>Рекомендуется: авантюрист C-ранга или хорошо экипированная группа.</Isekai_Difficulty_C>
+  <Isekai_Difficulty_B>Рекомендуется: группа B-ранга с подходящим снаряжением.</Isekai_Difficulty_B>
+  <Isekai_Difficulty_A>Рекомендуется: группа A-ранга или несколько авантюристов B-ранга.</Isekai_Difficulty_A>
+  <Isekai_Difficulty_S>Требуется: полная группа авантюристов A-ранга минимум.</Isekai_Difficulty_S>
+  <Isekai_Difficulty_SS>Требуется: несколько авантюристов S-ранга, действующих вместе.</Isekai_Difficulty_SS>
+  <Isekai_Difficulty_SSS>Требуется: элитная команда авантюристов S-ранга. Легендарная угроза.</Isekai_Difficulty_SSS>
+  <!-- F-D Rank: HUNT (Local Map) -->
+  <Isekai_Quest_Offer_Label_Hunt>[Гильдия] Контракт на охоту {0}-ранга</Isekai_Quest_Offer_Label_Hunt>
+  <Isekai_Quest_Offer_Text_Hunt><![CDATA[<color=#FFD700>━━━ ГИЛЬДИЯ АВАНТЮРИСТОВ ━━━</color>
+
+Опубликован новый контракт на охоту!
+
+Цель: {1}
+Уровень угрозы: {0}-ранг
+Награда: {3} серебра + {2} ОП
+
+<color=#888888>Сложность: Подходит для начинающих и авантюристов среднего уровня.</color>
+
+<color=#999999>Гильдия отметила это существо для устранения. Простая работа для начинающих охотников.</color>
+
+<color=#666666>— Отправлено Гильдией авантюристов</color>]]></Isekai_Quest_Offer_Text_Hunt>
+  <Isekai_Quest_Name_Hunt>[Гильдия] Охота {0}-ранга: {1}</Isekai_Quest_Name_Hunt>
+  <Isekai_Quest_Description_Hunt><![CDATA[<color=#FFD700>━━━ КОНТРАКТ НА ОХОТУ ━━━</color>
+
+Цель: {1} ({0}-ранг)
+
+<color=#888888>⚔ Сложность: Подходит для начинающих и авантюристов среднего уровня.
+Любой колонист с базовой боевой подготовкой справится.</color>
+
+Брифинг задания:
+В этом районе замечено существо. Гильдия объявляет награду за его устранение.
+
+После выполнения:
+• {2} ОП распределяется между всеми охотниками
+• {3} серебра награды
+• Дополнительная добыча с существа
+
+Примите контракт, чтобы призвать цель в ваши охотничьи угодья.
+
+<color=#666666>— Гильдия авантюристов</color>]]></Isekai_Quest_Description_Hunt>
+  <Isekai_Hunt_Started_Hunt>[ГИЛЬДИЯ] Контракт на охоту активирован! Ваша цель — {1} ({0}-ранг) — ожидает.</Isekai_Hunt_Started_Hunt>
+  <Isekai_Hunt_Complete_Label_Hunt>[Гильдия] Охота {0}-ранга завершена!</Isekai_Hunt_Complete_Label_Hunt>
+  <Isekai_Hunt_Complete_Text_Hunt><![CDATA[<color=#FFD700>━━━ КОНТРАКТ ВЫПОЛНЕН ━━━</color>
+
+Отличная работа, Охотник!
+
+Вы успешно уничтожили цель {0}-ранга.
+
+Полученные награды:
+• {1} ОП <color=#888888>(распределено между колонистами)</color>
+• {2} серебра
+
+<color=#999999>Гильдия отмечает рост вашего мастерства.</color>
+
+<color=#666666>— Отправлено Гильдией авантюристов</color>]]></Isekai_Hunt_Complete_Text_Hunt>
+  <!-- B-A Rank: EXPEDITION (World Map) -->
+  <Isekai_Quest_Offer_Label_Expedition>[Гильдия] Контракт на экспедицию {0}-ранга</Isekai_Quest_Offer_Label_Expedition>
+  <Isekai_Quest_Offer_Text_Expedition><![CDATA[<color=#FFD700>━━━ ГИЛЬДИЯ АВАНТЮРИСТОВ ━━━</color>
+
+Выдан контракт на экспедицию!
+
+Цель: {1}
+Уровень угрозы: {0}-ранг
+Награда: {3} серебра + {2} ОП
+
+<color=#FFAA00>⚔ Сложность: Рекомендуется для групп B-ранга или нескольких опытных авантюристов.</color>
+
+<color=#999999>Это существо обосновалось за пределами ваших территорий. Гильдия ищет опытных охотников, готовых сформировать экспедицию и устранить угрозу.</color>
+
+<color=#666666>— Отправлено Гильдией авантюристов</color>]]></Isekai_Quest_Offer_Text_Expedition>
+  <Isekai_Quest_Name_Expedition>[Гильдия] Экспедиция {0}-ранга: {1}</Isekai_Quest_Name_Expedition>
+  <Isekai_Quest_Description_Expedition><![CDATA[<color=#FFD700>━━━ КОНТРАКТ НА ЭКСПЕДИЦИЮ ━━━</color>
+
+Цель: {1} ({0}-ранг)
+Местоположение: ~{4} клеток отсюда
+
+<color=#FFAA00>⚔ Сложность: Рекомендуется для авантюристов B-ранга и выше.
+Отправляйте хорошо экипированную группу — одиночные попытки рискованны.</color>
+
+Краткое задание:
+Могущественное существо обосновалось в отдалённом регионе. Гильдия предлагает щедрую награду охотникам, готовым отправиться в путь и устранить эту угрозу.
+
+После выполнения:
+• {2} ОП распределяется между всеми охотниками
+• {3} серебра награды
+• Дополнительная добыча с существа
+
+Сформируйте караван и отправляйтесь к отмеченной точке. Экспедиция начнётся по прибытии.
+
+<color=#666666>— Гильдия авантюристов</color>]]></Isekai_Quest_Description_Expedition>
+  <Isekai_Hunt_Started_Expedition>[ГИЛЬДИЯ] Контракт на экспедицию активирован! {1} ({0}-ранг) ожидает в отмеченной локации.</Isekai_Hunt_Started_Expedition>
+  <Isekai_Hunt_SiteRevealed_Expedition>[ГИЛЬДИЯ] Контракт принят! {1} ({0}-ранг) обнаружен. Сформируйте экспедиционный отряд и отправляйтесь к отмеченной точке.</Isekai_Hunt_SiteRevealed_Expedition>
+  <Isekai_Hunt_Complete_Label_Expedition>[Гильдия] Экспедиция {0}-ранг завершена!</Isekai_Hunt_Complete_Label_Expedition>
+  <Isekai_Hunt_Complete_Text_Expedition><![CDATA[<color=#FFD700>━━━ ЭКСПЕДИЦИЯ УСПЕШНА ━━━</color>
+
+Отличная работа, авантюрист!
+
+Ваша экспедиция успешно уничтожила цель {0}-ранг.
+
+Полученные награды:
+• {1} ОП <color=#888888>(распределено между колонистами)</color>
+• {2} серебра
+
+<color=#999999>Ваша репутация в Гильдии растёт. Впереди ждут более сложные контракты.</color>
+
+<color=#666666>— Отправлено Гильдией Авантюристов</color>]]></Isekai_Hunt_Complete_Text_Expedition>
+  <!-- S-SSS Rank: RAID (World Map, Legendary) -->
+  <Isekai_Quest_Offer_Label_Raid>[Гильдия] Контракт на рейд {0}-ранг</Isekai_Quest_Offer_Label_Raid>
+  <Isekai_Quest_Offer_Text_Raid><![CDATA[<color=#FFD700>━━━ ГИЛЬДИЯ АВАНТЮРИСТОВ ━━━</color>
+
+<color=#FF4444>⚠ СРОЧНО: ОБЪЯВЛЕН РЕЙД ⚠</color>
+
+Цель: {1}
+Уровень угрозы: {0}-ранг (КРАЙНЯЯ ОПАСНОСТЬ)
+Награда: {3} серебра + {2} ОП
+
+<color=#FF6666>⚔ ПРЕДУПРЕЖДЕНИЕ О СЛОЖНОСТИ ⚔
+S-ранг: Требуется полный отряд авантюристов A-ранга.
+SS-ранг: Требуется несколько авантюристов S-ранга.
+SSS-ранг: Требуется элитная команда S-ранга. Легендарная угроза!</color>
+
+<color=#999999>Легендарное существо терроризирует регион. Гильдия выдаёт этот контракт только самым элитным охотникам. Соберите сильнейших воинов — это не охота, это рейд.</color>
+
+<color=#666666>— Отправлено Высшим Советом Гильдии Авантюристов</color>]]></Isekai_Quest_Offer_Text_Raid>
+  <Isekai_Quest_Name_Raid>[Гильдия] Рейд {0}-ранг: {1}</Isekai_Quest_Name_Raid>
+  <Isekai_Quest_Description_Raid><![CDATA[<color=#FFD700>━━━ КОНТРАКТ НА РЕЙД ━━━</color>
+
+<color=#FF4444>УРОВЕНЬ УГРОЗЫ: КРАЙНИЙ</color>
+
+Цель: {1} ({0}-ранг)
+Местоположение: ~{4} клеток отсюда
+
+<color=#FF6666>⚔ ТРЕБОВАНИЯ К СЛОЖНОСТИ ⚔
+• Рейд S-ранг: минимум полный отряд авантюристов A-ранга.
+• Рейд SS-ранг: несколько авантюристов S-ранга, действующих совместно.
+• Рейд SSS-ранг: требуется элитная команда S-ранга. Это легендарная угроза — готовьтесь соответствующе!</color>
+
+Краткое задание:
+Замечено легендарное существо невероятной силы. Это не обычная охота — это рейд против одного из самых опасных существ известного мира. Лишь сильнейшие охотники должны принять этот контракт.
+
+После выполнения:
+• {2} ОП распределяется между всеми охотниками
+• {3} серебра награды
+• Легендарная добыча с существа
+
+Соберите элитных воинов. Возьмите лучшее оружие и доспехи. Победа увековечит вашу легенду.
+
+<color=#666666>— Высший Совет Гильдии Авантюристов</color>]]></Isekai_Quest_Description_Raid>
+  <Isekai_Hunt_Started_Raid>[ГИЛЬДИЯ] ⚔ КОНТРАКТ НА РЕЙД АКТИВИРОВАН ⚔ Легендарный {1} ({0}-ранг) принимает ваш вызов!</Isekai_Hunt_Started_Raid>
+  <Isekai_Hunt_SiteRevealed_Raid>[ГИЛЬДИЯ] ⚔ МЕСТО РЕЙДА ОБНАРУЖЕНО ⚔ Легендарный {1} ({0}-ранг) ожидает. Соберите элитных воинов S-ранга и отправляйтесь к славе!</Isekai_Hunt_SiteRevealed_Raid>
+  <Isekai_Hunt_Complete_Label_Raid>[Гильдия] Победа в рейде {0}-ранга!</Isekai_Hunt_Complete_Label_Raid>
+  <Isekai_Hunt_Complete_Text_Raid><![CDATA[<color=#FFD700>━━━ ЛЕГЕНДАРНАЯ ПОБЕДА ━━━</color>
+
+<color=#FFD700>★ СЛАВА ОХОТНИКАМ ★</color>
+
+Ваш рейд поверг легендарное существо {0}-ранга!
+
+Полученные награды:
+• {1} ОП <color=#888888>(распределено между колонистами)</color>
+• {2} серебра
+
+<color=#999999>Истории о вашей победе будут звучать сквозь века. Гильдия чтит вашу доблесть.</color>
+
+<color=#666666>— Отправлено Высшим Советом Гильдии Авантюристов</color>]]></Isekai_Hunt_Complete_Text_Raid>
+  <!-- Bounty Quest Keys (Hostile Pawn Elimination) -->
+  <Isekai_Quest_Offer_Label_Bounty>[Гильдия] Контракт на охоту {0}-ранга</Isekai_Quest_Offer_Label_Bounty>
+  <Isekai_Quest_Offer_Text_Bounty><![CDATA[<color=#FFD700>━━━ ГИЛЬДИЯ АВАНТЮРИСТОВ ━━━</color>
+
+Опубликован новый контракт на охоту!
+
+Цель: {1}
+Уровень угрозы: {0}-ранг
+Награда: {3} серебра + {2} ОП
+
+<color=#FF8800>⚔ Это враждебный противник — ожидайте вооружённое сопротивление.</color>
+
+<color=#999999>Гильдия отметила это существо для уничтожения. Примите контракт, чтобы начать охоту.</color>
+
+<color=#666666>— Отправлено Гильдией Авантюристов</color>]]></Isekai_Quest_Offer_Text_Bounty>
+  <Isekai_Quest_Name_Bounty>[Гильдия] Контракт на ликвидацию {1} ({0}-ранг)</Isekai_Quest_Name_Bounty>
+  <Isekai_Quest_Description_Bounty><![CDATA[<color=#FFD700>━━━ КОНТРАКТ НА ЛИКВИДАЦИЮ ━━━</color>
+
+<color=#FF8800>ЦЕЛЬ: ВРАЖДЕБНЫЙ БОЕЦ</color>
+
+Цель: {1} ({0}-ранг)
+
+<color=#FF8800>⚔ Эта цель вооружена и опасна. Готовьтесь к бою.</color>
+
+Краткая информация о миссии:
+Враждебный боец отмечен для ликвидации. В отличие от охоты на зверей, эта цель будет сражаться с использованием оружия и тактики. Подходите с хорошо вооруженной группой.
+
+После выполнения:
+• {2} ОП распределяются между всеми охотниками
+• {3} серебра за выполнение
+• Дополнительная добыча от цели
+
+Примите этот контракт, чтобы вступить в бой с целью.
+
+<color=#666666>— Гильдия Искателей Приключений</color>]]></Isekai_Quest_Description_Bounty>
+  <Isekai_Hunt_Started_Bounty>[ГИЛЬДИЯ] Контракт на ликвидацию активирован! Ваша цель {1} ({0}-ранг) обнаружена.</Isekai_Hunt_Started_Bounty>
+  <Isekai_Hunt_SiteRevealed_Bounty>[ГИЛЬДИЯ] Контракт на ликвидацию принят! Цель {1} ({0}-ранг) обнаружена. Сформируйте охотничью группу и отправляйтесь в отмеченное место.</Isekai_Hunt_SiteRevealed_Bounty>
+  <Isekai_Hunt_Complete_Label_Bounty>[Гильдия] Контракт на ликвидацию {0}-ранга выполнен!</Isekai_Hunt_Complete_Label_Bounty>
+  <Isekai_Hunt_Complete_Text_Bounty><![CDATA[<color=#FFD700>━━━ ЛИКВИДАЦИЯ ВЫПОЛНЕНА ━━━</color>
+
+Цель уничтожена!
+
+Вы успешно нейтрализовали цель контракта {0}-ранга.
+
+Награды получены:
+• {1} ОП <color=#888888>(распределено между колонистами)</color>
+• {2} серебра
+
+<color=#999999>Гильдия впечатлена вашими боевыми навыками. Новые контракты на ликвидацию ждут вас.</color>
+
+<color=#666666>— Отправлено Гильдией Искателей Приключений</color>]]></Isekai_Hunt_Complete_Text_Bounty>
+  <!-- Bounty Pack Quest Keys (B-A rank bounties spawn a squad of hostiles) -->
+  <!-- {0}=rank, {1}=creatureKind, {2}=packSize -->
+  <Isekai_Quest_Name_BountyPack>[Гильдия] Контракт на ликвидацию {0}-ранга: {1} x{2}</Isekai_Quest_Name_BountyPack>
+  <Isekai_Quest_Offer_Label_BountyPack>[Гильдия] Контракт на ликвидацию {0}-ранга (Отряд)</Isekai_Quest_Offer_Label_BountyPack>
+  <!-- {0}=rank, {1}=creatureKind, {2}=xp, {3}=silver, {4}=packSize -->
+  <Isekai_Quest_Offer_Text_BountyPack><![CDATA[<color=#FFD700>━━━ ГИЛЬДИЯ ИСКАТЕЛЕЙ ПРИКЛЮЧЕНИЙ ━━━</color>
+
+<color=#FF8800>⚔ ВЫДАН КОНТРАКТ НА ЛИКВИДАЦИЮ ⚔</color>
+
+Цель: Отряд из {4} {1}  
+Уровень угрозы: {0}-ранг  
+Награда: {3} серебра + {2} ОП
+
+<color=#FF8800>⚔ Это враждебные бойцы — ожидается сильное вооружённое сопротивление.</color>
+
+<color=#999999>Группа опасных индивидуумов отмечена Гильдией для ликвидации. Это контракт на уничтожение отряда — все {4} цели должны быть нейтрализованы. Они вооружены и опасны. Берите хорошо экипированную команду.</color>
+
+<color=#666666>— Отправлено Гильдией Искателей Приключений</color>]]></Isekai_Quest_Offer_Text_BountyPack>
+  <!-- {0}=rank, {1}=creatureKind, {2}=xp, {3}=silver, {4}=distance, {5}=packSize -->
+  <Isekai_Quest_Description_BountyPack><![CDATA[<color=#FFD700>━━━ КОНТРАКТ НА ЛИКВИДАЦИЮ ━━━</color>
+
+<color=#FF8800>ЦЕЛЬ: ВРАЖДЕБНЫЙ ОТРЯД ({5} БОЙЦОВ)</color>
+
+Цель: {5}x {1} ({0}-ранг)  
+Расстояние: ~{4} клеток
+
+<color=#FF8800>⚔ Это контракт на уничтожение отряда. Все цели должны быть нейтрализованы.</color>
+
+Краткая информация о миссии:  
+Отряд из {5} враждебных бойцов отмечен для ликвидации. В отличие от одиночных наград, вам предстоит столкнуться с несколькими вооружёнными врагами, сражающимися группой. Подходите с хорошо вооружённой командой и ожидайте скоординированного сопротивления.
+
+После выполнения:  
+• {2} ОП распределяется между всеми охотниками  
+• {3} серебра за выполнение  
+• Дополнительная добыча от целей
+
+Примите этот контракт, чтобы вступить в бой с отрядом целей.
+
+<color=#666666>— Гильдия Искателей Приключений</color>]]></Isekai_Quest_Description_BountyPack>
+  <Isekai_Hunt_SiteRevealed_BountyPack>[ГИЛЬДИЯ] Контракт на ликвидацию принят! Отряд из {2} {1} ({0}-ранг) обнаружен. Сформируйте охотничью группу и отправляйтесь в отмеченное место.</Isekai_Hunt_SiteRevealed_BountyPack>
+  <!-- Ключи квеста «Экспедиционный отряд» (экспедиции рангов B–A без награды за голову порождают группу существ) -->
+  <!-- {0}=ранг, {1}=тип существа, {2}=размер отряда -->
+  <Isekai_Quest_Name_ExpeditionPack>[Гильдия] Экспедиция ранга {0}: {1} x{2}</Isekai_Quest_Name_ExpeditionPack>
+  <Isekai_Quest_Offer_Label_ExpeditionPack>[Гильдия] Контракт на экспедицию ранга {0} (отряд)</Isekai_Quest_Offer_Label_ExpeditionPack>
+  <!-- {0}=ранг, {1}=тип существа, {2}=опыт, {3}=серебро, {4}=размер отряда -->
+  <Isekai_Quest_Offer_Text_ExpeditionPack><![CDATA[<color=#FFD700>━━━ ГИЛЬДИЯ АВАНТЮРИСТОВ ━━━</color>
+
+Выдан контракт на экспедицию!
+
+Цель: группа из {4} существ типа {1}
+Уровень угрозы: ранг {0}
+Награда: {3} серебра + {2} ОП
+
+<color=#FFAA00>⚔ Сложность: несколько существ — рекомендуется для отрядов B-ранга и выше.</color>
+
+<color=#999999>Группа опасных существ обосновалась за пределами ваших границ. Гильдия ищет опытных охотников, готовых организовать экспедицию и уничтожить всю группу.</color>
+
+<color=#666666>— Отправлено Гильдией авантюристов</color>]]></Isekai_Quest_Offer_Text_ExpeditionPack>
+  <!-- {0}=rank, {1}=creatureKind, {2}=xp, {3}=silver, {4}=distance, {5}=packSize -->
+  <Isekai_Quest_Description_ExpeditionPack><![CDATA[<color=#FFD700>━━━ КОНТРАКТ ЭКСПЕДИЦИИ ━━━</color>
+
+<color=#FFAA00>ЦЕЛЬ: ОТРЯД СУЩЕСТВ ({5} ШТ.)</color>
+
+Цель: {5}x {1} (ранг {0})
+Местоположение: ~{4} клеток
+
+<color=#FFAA00>⚔ Сложность: несколько целей — отправьте хорошо подготовленный отряд.
+Попытка в одиночку крайне опасна.</color>
+
+Описание миссии:
+Отряд из {5} опасных существ закрепился в удалённом регионе. Гильдия предлагает крупную награду за полное уничтожение.
+
+После завершения:
+• {2} ОП распределяется между всеми участниками
+• {3} серебра награды
+• Дополнительная добыча с существ
+
+Сформируйте караван и отправляйтесь к точке. Экспедиция начинается по прибытии.
+
+<color=#666666>— Гильдия Приключенцев</color>]]></Isekai_Quest_Description_ExpeditionPack>
+  <Isekai_Hunt_SiteRevealed_ExpeditionPack>[ГИЛЬДИЯ] Контракт экспедиции принят! Обнаружен отряд из {2} существ типа {1} (ранг {0}). Сформируйте группу и отправляйтесь к отмеченной точке.</Isekai_Hunt_SiteRevealed_ExpeditionPack>
+  <!-- Legacy/Fallback keys (kept for compatibility) -->
+  <Isekai_Quest_Offer_Label>[Гильдия] Контракт охоты ранга {0}</Isekai_Quest_Offer_Label>
+  <Isekai_Quest_Offer_Text><![CDATA[<color=#FFD700>━━━ ГИЛЬДИЯ ПРИКЛЮЧЕНЦЕВ ━━━</color>
+
+Поступил новый контракт на охоту!
+
+Цель: {1}
+Уровень угрозы: ранг {0}
+Награда: {3} серебра + {2} ОП
+
+<color=#999999>Гильдия назначила цель для устранения. Примите контракт, чтобы начать охоту.</color>
+
+<color=#666666>— Отправлено Гильдией Приключенцев</color>]]></Isekai_Quest_Offer_Text>
+  <Isekai_Quest_Offer_Desc>Контракт Гильдии: охотитесь на {0}-ранг {1} за награду.</Isekai_Quest_Offer_Desc>
+  <Isekai_Hunt_Accept>Принять контракт</Isekai_Hunt_Accept>
+  <Isekai_Hunt_Decline>Отказаться</Isekai_Hunt_Decline>
+  <Isekai_Hunt_Postpone>Рассмотреть позже</Isekai_Hunt_Postpone>
+  <Isekai_Hunt_Started>[ГИЛЬДИЯ] Контракт активирован! Ваша цель {1} ({0}-ранг) ожидает.</Isekai_Hunt_Started>
+  <Isekai_Hunt_NoMap>Нет доступного местоположения.</Isekai_Hunt_NoMap>
+  <Isekai_Hunt_Deferred>Контракт Гильдии принят. Цель появится, когда вы прибудете в поселение.</Isekai_Hunt_Deferred>
+  <Isekai_Hunt_SpawnFailed>Существо не обнаружено. Контракт аннулирован.</Isekai_Hunt_SpawnFailed>
+  <Isekai_Hunt_Letter_Label>[Гильдия] Обнаружена цель {0}-ранга!</Isekai_Hunt_Letter_Label>
+  <Isekai_Hunt_Letter_Text><![CDATA[<color=#FFD700>━━━ ГИЛЬДИЯ ИСКАТЕЛЕЙ ПРИКЛЮЧЕНИЙ ━━━</color>
+
+Ваша цель по контракту обнаружена!
+
+Цель: {1}  
+Уровень угрозы: {0}-ранг  
+Награда: {3} серебра + {2} ОП
+
+<color=#999999>Существо находится рядом, но пока не враждебно. Вы сами решаете, когда вступить в бой. Атакуйте, когда будете готовы получить награду.</color>
+
+<color=#666666>— Отправлено Гильдией Искателей Приключений</color>]]></Isekai_Hunt_Letter_Text>
+  <Isekai_Hunt_Complete_Label>[Гильдия] Контракт {0}-ранга выполнен!</Isekai_Hunt_Complete_Label>
+  <Isekai_Hunt_Complete_Text><![CDATA[<color=#FFD700>━━━ КОНТРАКТ ВЫПОЛНЕН ━━━</color>
+
+Отличная работа, охотник!
+
+Вы успешно уничтожили цель {0}-ранга.
+
+Награды получены:  
+• {1} ОП <color=#888888>(распределено между колонистами)</color>  
+• {2} серебра
+
+<color=#999999>Ваша репутация в Гильдии растет. Ждут более сложные контракты.</color>
+
+<color=#666666>— Отправлено Гильдией Искателей Приключений</color>]]></Isekai_Hunt_Complete_Text>
+  <!-- Quest Tab Display -->
+  <Isekai_Quest_Name>[Гильдия] Контракт {0}-ранга: {1}</Isekai_Quest_Name>
+  <Isekai_Quest_Description><![CDATA[<color=#FFD700>━━━ КОНТРАКТ НА ОХОТУ ━━━</color>
+
+Цель: {1} ({0}-ранг)
+
+Краткая информация о миссии:  
+В этой области было замечено существо. Гильдия предлагает награду за его уничтожение.
+
+После выполнения:  
+• {2} ОП распределяется между всеми охотниками  
+• {3} серебра за выполнение  
+• Дополнительная добыча от существа
+
+Примите этот контракт, чтобы вызвать цель на ваши охотничьи угодья.
+
+<color=#666666>— Гильдия Искателей Приключений</color>]]></Isekai_Quest_Description>
+  <Isekai_Quest_Description_World><![CDATA[<color=#FFD700>━━━ КОНТРАКТ НА ЭКСПЕДИЦИЮ ━━━</color>
+
+Цель: {1} ({0}-ранг)  
+Местоположение: ~{4} клеток
+
+Краткая информация о миссии:  
+Могущественное существо обосновалось в отдалённой области. Гильдия предлагает значительную награду охотникам, готовым отправиться и устранить эту угрозу.
+
+После выполнения:  
+• {2} ОП распределяется между всеми охотниками  
+• {3} серебра за выполнение  
+• Дополнительная добыча от существа
+
+Сформируйте караван и отправляйтесь в отмеченное место. Миссия начинается по прибытии.
+
+<color=#666666>— Гильдия Искателей Приключений</color>]]></Isekai_Quest_Description_World>
+  <Isekai_Quest_Local_Pending>Ожидает принятия... Цель {0} появится на вашей карте.</Isekai_Quest_Local_Pending>
+  <Isekai_Quest_Local_Deferred>Контракт принят. {0} появится, когда вы прибудете в поселение.</Isekai_Quest_Local_Deferred>
+  <Isekai_Quest_World_Pending>Ожидает принятия... Примите, чтобы узнать местоположение {0}.</Isekai_Quest_World_Pending>
+  <Isekai_Quest_World_Travel>Отправляйтесь к {0}, чтобы начать миссию.</Isekai_Quest_World_Travel>
+  <Isekai_Quest_Target_Alive>Цель: {0} (Жива)</Isekai_Quest_Target_Alive>
+  <Isekai_Quest_Target_Dead>Цель: Уничтожена ✓</Isekai_Quest_Target_Dead>
+  <Isekai_Quest_OfferExpiry>Предложение контракта истекает через {0}</Isekai_Quest_OfferExpiry>
+  <Isekai_Quest_OfferExpiry_Tip>Гильдия передаст этот контракт другому, если он не будет принят вовремя.</Isekai_Quest_OfferExpiry_Tip>
+  <Isekai_Quest_Expiry>Срок выполнения контракта на охоту</Isekai_Quest_Expiry>
+  <Isekai_Quest_Expiry_Tip>Гильдия требует своевременного выполнения принятых контрактов. Невыполнение в срок приведёт к аннулированию.</Isekai_Quest_Expiry_Tip>
+  <Isekai_Quest_RewardDisplay>Награда: {0} серебра + {1} ОП</Isekai_Quest_RewardDisplay>
+  <Isekai_Quest_XPReward>✦ Бонус: {0} ОП (распределяется между всеми участниками)</Isekai_Quest_XPReward>
+  <Isekai_Quest_LootRewards>Дополнительная добыча:</Isekai_Quest_LootRewards>
+  <Isekai_Hunt_Site_Label>[Гильдия] Контракт {0}-ранг: {1}</Isekai_Hunt_Site_Label>
+  <Isekai_Hunt_SiteRevealed>[ГИЛЬДИЯ] Контракт принят! {1} ({0}-ранг) обнаружен. Отправляйтесь к отмеченной точке, чтобы начать.</Isekai_Hunt_SiteRevealed>
+  <Isekai_Hunt_Appeared>⚔ БОЕВАЯ ТРЕВОГА ⚔
+
+{0}-ранг {1} заметил ваше присутствие! Он враждебен — защищайтесь!</Isekai_Hunt_Appeared>
+  <Isekai_Hunt_Complete_CanLeave><![CDATA[<color=#FFD700>✓ КОНТРАКТ ВЫПОЛНЕН</color>
+
+Цель уничтожена. Соберите добычу перед уходом. Награда будет выдана по возвращении.
+
+<color=#666666>— Гильдия авантюристов</color>]]></Isekai_Hunt_Complete_CanLeave>
+  <Isekai_Reward_XP>{0} ОП</Isekai_Reward_XP>
+  <Isekai_Reward_XP_Desc>Опыт распределяется между всеми участвующими охотниками</Isekai_Reward_XP_Desc>
+  <!-- Hunt Site Inspect Strings -->
+  <Isekai_Hunt_Site_Header>━━ КОНТРАКТ ГИЛЬДИИ АВАНТЮРИСТОВ ━━</Isekai_Hunt_Site_Header>
+  <Isekai_Hunt_Site_Target>Цель: {0}</Isekai_Hunt_Site_Target>
+  <Isekai_Hunt_Site_Rank>Уровень угрозы: {0}-ранг</Isekai_Hunt_Site_Rank>
+  <Isekai_Hunt_Site_Rewards>Награда: {0} серебра + {1} ОП</Isekai_Hunt_Site_Rewards>
+  <Isekai_Hunt_Site_Instructions>Отправьте караван, чтобы начать охоту.</Isekai_Hunt_Site_Instructions>
+  <Isekai_Hunt_ViewQuest>Просмотреть контракт</Isekai_Hunt_ViewQuest>
+  <Isekai_Hunt_ViewQuestDesc>Откройте вкладку заданий, чтобы увидеть детали контракта.</Isekai_Hunt_ViewQuestDesc>
+  <Isekai_Hunt_JumpToTarget>Перейти к цели</Isekai_Hunt_JumpToTarget>
+  <Isekai_Hunt_JumpToTargetDesc>Переместить камеру к {0} на карте</Isekai_Hunt_JumpToTargetDesc>
+  <Isekai_Hunt_TargetSpawned>Цель охоты: {0} появилась в {1}. Нажмите, чтобы перейти.</Isekai_Hunt_TargetSpawned>
+  <Isekai_Hunt_Unknown>Неизвестное местоположение</Isekai_Hunt_Unknown>
+  <Isekai_Hunt_BeginHunt>Начать охоту</Isekai_Hunt_BeginHunt>
+  <!-- Pack Expedition Messages -->
+  <Isekai_Hunt_PackProgress>[Гильдия] Член стаи повержен! Осталось: {0}.</Isekai_Hunt_PackProgress>
+  <Isekai_Hunt_PackStatus>Статус стаи: {0}/{1} осталось</Isekai_Hunt_PackStatus>
+  <!-- Guild Flavor -->
+  <Isekai_Guild_Signature>— Гильдия авантюристов</Isekai_Guild_Signature>
+  <Isekai_Guild_Motto>Восстань. Охоться. Покоряй.</Isekai_Guild_Motto>
+  <!-- Respec Orb (v1.0.7) -->
+  <Isekai_Respec_NoPawn>У этого персонажа нет Исекай-статистик для сброса.</Isekai_Respec_NoPawn>
+  <Isekai_Respec_NoPoints>У этого персонажа нет очков для сброса (нет очков характеристик или узлов созвездия).</Isekai_Respec_NoPoints>
+  <Isekai_Respec_Success>{0} использовал Сферу Сброса! {1} очков характеристик возвращено для перераспределения.</Isekai_Respec_Success>
+  <Isekai_Respec_Success_Full>{0} использовал Сферу Сброса! {1} очков характеристик и {2} очков созвездия возвращены. Класс сброшен — выберите новое созвездие.</Isekai_Respec_Success_Full>
+  <Isekai_Respec_Effect>+{0} очков возвращено!</Isekai_Respec_Effect>
+  <Isekai_Respec_LimitReached>{0} уже использовал все 3 сброса созвездия.</Isekai_Respec_LimitReached>
+  <Isekai_TreeRespecRemaining>Сбросов: {0}/3</Isekai_TreeRespecRemaining>
+  <Isekai_TreeRespecNone>Сбросов не осталось</Isekai_TreeRespecNone>
+  <!-- Mech Scaling (v1.0.7) -->
+  <Isekai_Settings_MechScalingHeader>Масштабирование мехов Механитора</Isekai_Settings_MechScalingHeader>
+  <Isekai_Settings_MechScalingDesc>Мехи игрока наследуют бонусы характеристик от уровня и статов их механитора в Исекай, благодаря чему масштабируются вместе с вашим прогрессом.</Isekai_Settings_MechScalingDesc>
+  <!-- RimHUD Integration (v1.0.75) -->
+  <Isekai_RimHUD_Rank>Исекай</Isekai_RimHUD_Rank>
+  <Isekai_RimHUD_XP>ОП</Isekai_RimHUD_XP>
+  <Isekai_RimHUD_StatPoints>Очки хар.</Isekai_RimHUD_StatPoints>
+  <Isekai_RimHUD_Tooltip_Level>Уровень: {0}</Isekai_RimHUD_Tooltip_Level>
+  <Isekai_RimHUD_Tooltip_Rank>Ранг: {0} — {1}</Isekai_RimHUD_Tooltip_Rank>
+  <Isekai_RimHUD_Tooltip_XP>ОП: {0} / {1}</Isekai_RimHUD_Tooltip_XP>
+  <Isekai_RimHUD_Tooltip_StatPoints>Неиспользованные очки: {0}</Isekai_RimHUD_Tooltip_StatPoints>
+  <Isekai_RimHUD_Tooltip_Title>Активный титул: {0}</Isekai_RimHUD_Tooltip_Title>
+  <Isekai_RimHUD_Tooltip_XPBar>Прогресс ОП: {0} / {1} ({2}%)</Isekai_RimHUD_Tooltip_XPBar>
+  <Isekai_RimHUD_Tooltip_AllocateStats>У этого персонажа есть нераспределённые очки! Откройте вкладку Исекай для распределения.</Isekai_RimHUD_Tooltip_AllocateStats>
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <!-- World Boss System (v1.1.0)                              -->
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <!-- Quest Creation -->
+  <Isekai_WorldBoss_QuestName>&lt;color=#9933FF&gt;Мировой босс&lt;/color&gt;: {0}</Isekai_WorldBoss_QuestName>
+  <Isekai_WorldBoss_QuestDesc>&lt;color=#FF4444&gt;⚠ СРОЧНОЕ УВЕДОМЛЕНИЕ ГИЛЬДИИ ⚠&lt;/color&gt;\n\nОбнаружено катастрофическое существо — &lt;color=#9933FF&gt;{0}&lt;/color&gt; такой силы, что оно классифицировано как &lt;color=#9933FF&gt;национальный ранг&lt;/color&gt;, угроза, способная уничтожить целые поселения.\n\nГильдия авантюристов предлагает астрономическую награду за его уничтожение:\n  • &lt;color=#FFD700&gt;{1} ОП&lt;/color&gt;\n  • &lt;color=#FFD700&gt;{2} серебра&lt;/color&gt;\n  • &lt;color=#FFD700&gt;Легендарное снаряжение, архотехнические компоненты и редкие материалы&lt;/color&gt;\n\nСущество замечено примерно в {3} клетках от вашей колонии. У вас есть &lt;color=#FF4444&gt;7 дней&lt;/color&gt;, чтобы достичь места, прежде чем след остынет.\n\n&lt;color=#FF4444&gt;ПРЕДУПРЕЖДЕНИЕ&lt;/color&gt;: существа национального ранга обладают колоссальной силой. Приведите свои сильнейшие силы. Другие фракции могут уже вступать в бой с целью.\n\n— Гильдия авантюристов, Экстренное подразделение</Isekai_WorldBoss_QuestDesc>
+  <!-- Notification Letter -->
+  <Isekai_WorldBoss_LetterLabel>&lt;color=#FF4444&gt;[ГИЛЬДИЯ]&lt;/color&gt; &lt;color=#9933FF&gt;Мировой босс&lt;/color&gt; замечен!</Isekai_WorldBoss_LetterLabel>
+  <Isekai_WorldBoss_LetterText>&lt;color=#FF4444&gt;СРОЧНО — ЭКСТРЕННАЯ ДИСПЕТЧЕРСКАЯ&lt;/color&gt;\n\nДля всех авантюристов &lt;color=#FFD700&gt;S-ранга&lt;/color&gt; и выше:\n\nОбнаружено существо невероятной силы — &lt;color=#9933FF&gt;{0}&lt;/color&gt;, теперь классифицированное как &lt;color=#9933FF&gt;национальный ранг&lt;/color&gt;. Его энергетический след активировал все охранные сигналы в радиусе ста миль.\n\nСущество обнаружено примерно в {1} клетках от вашей позиции. Гильдия задействует все доступные силы, но вы — наша лучшая надежда.\n\n&lt;color=#FF4444&gt;Это не охота. Это война.&lt;/color&gt;\n\nДействуйте крайне осторожно. Другие фракции могут быть предупреждены и вступить в бой независимо.\n\nНаграда: &lt;color=#FFD700&gt;МАКСИМАЛЬНАЯ КЛАССИФИКАЦИЯ&lt;/color&gt;\n\n— Гильдия авантюристов, Экстренное подразделение</Isekai_WorldBoss_LetterText>
+  <!-- Site -->
+  <Isekai_WorldBoss_SiteLabel>&lt;color=#9933FF&gt;Территория мирового босса&lt;/color&gt;: {0}</Isekai_WorldBoss_SiteLabel>
+  <Isekai_WorldBoss_SiteRevealed>&lt;color=#FFD700&gt;[Гильдия]&lt;/color&gt; территория &lt;color=#9933FF&gt;мирового босса&lt;/color&gt; отмечена на карте мира! Ждёт &lt;color=#9933FF&gt;{0}&lt;/color&gt; национального ранга. Отправляйтесь туда, прежде чем след остынет.</Isekai_WorldBoss_SiteRevealed>
+  <!-- Boss Arrival -->
+  <Isekai_WorldBoss_Arrived_Label>&lt;color=#9933FF&gt;Мировой босс пробуждается&lt;/color&gt;</Isekai_WorldBoss_Arrived_Label>
+  <Isekai_WorldBoss_Arrived_Text>Земля дрожит. Воздух становится тяжёлым.\n\n&lt;color=#9933FF&gt;{0}&lt;/color&gt; возвышается перед вами — существо национального ранга ужасающей силы. Его присутствие заставляет волосы на вашей шее вставать дыбом.\n\n&lt;color=#FF4444&gt;Это бой всей вашей жизни. Отступать нельзя.&lt;/color&gt;\n\nБейтесь изо всех сил.</Isekai_WorldBoss_Arrived_Text>
+  <!-- Faction Groups -->
+  <Isekai_WorldBoss_FactionArrived>{0} отправил &lt;color=#FFD700&gt;{1} воинов&lt;/color&gt; для сражения с &lt;color=#9933FF&gt;Мировым Боссом&lt;/color&gt;!</Isekai_WorldBoss_FactionArrived>
+  <Isekai_WorldBoss_FactionAllied>&lt;color=#FFD700&gt;{0}&lt;/color&gt; сражается вместе с вами против &lt;color=#9933FF&gt;мирового босса&lt;/color&gt;.</Isekai_WorldBoss_FactionAllied>
+  <Isekai_WorldBoss_FactionHostile>&lt;color=#FF4444&gt;{0} враждебны!&lt;/color&gt; Они будут атаковать и вас, и &lt;color=#9933FF&gt;мирового босса&lt;/color&gt;.</Isekai_WorldBoss_FactionHostile>
+  <!-- Wave Spawning -->
+  <Isekai_WorldBoss_WaveTrigger_Label>&lt;color=#FF4444&gt;Мировой босс яростен!&lt;/color&gt;</Isekai_WorldBoss_WaveTrigger_Label>
+  <Isekai_WorldBoss_WaveTrigger_Text>&lt;color=#9933FF&gt;{0}&lt;/color&gt; издает оглушительный рев, тело пульсирует чистой энергией!\n\nЕго сила разрывается. Из переполняющей энергии босса проявляются копии существа — меньшие, но по-прежнему разрушительно сильные.\n\n&lt;color=#FF4444&gt;Появляются существа S-ранга! Держите линию!&lt;/color&gt;</Isekai_WorldBoss_WaveTrigger_Text>
+  <Isekai_WorldBoss_WaveSpawn>&lt;color=#FF4444&gt;[ТРЕВОГА]&lt;/color&gt; Волна {2}: &lt;color=#FF4444&gt;{0}x S-ранг {1}&lt;/color&gt; появились из энергии &lt;color=#9933FF&gt;мирового босса&lt;/color&gt;!</Isekai_WorldBoss_WaveSpawn>
+  <!-- Boss Defeated -->
+  <Isekai_WorldBoss_Defeated>&lt;color=#FFD700&gt;[ГИЛЬДИЯ]&lt;/color&gt; &lt;color=#9933FF&gt;Мировой босс {0}&lt;/color&gt; был &lt;color=#FFD700&gt;ПОБЕЖДЁН&lt;/color&gt;! Невероятная победа! Гильдия приветствует ваше мужество.</Isekai_WorldBoss_Defeated>
+  <Isekai_WorldBoss_Victory_Label>&lt;color=#9933FF&gt;Мировой босс {0}&lt;/color&gt; — &lt;color=#FFD700&gt;ПОБЕЖДЁН!&lt;/color&gt;</Isekai_WorldBoss_Victory_Label>
+  <Isekai_WorldBoss_Victory_Text>&lt;color=#FFD700&gt;[ЭКСТРЕННОЕ СОБЫТИЕ ГИЛЬДИИ — РЕШЕНО]&lt;/color&gt;\n\nУгроза &lt;color=#9933FF&gt;национального ранга&lt;/color&gt; "{0}" устранена.\n\nГильдия авантюристов выражает высшие почести всем, кто участвовал в этой легендарной охоте.\n\n&lt;color=#FFD700&gt;Распределённые награды:&lt;/color&gt;\n• &lt;color=#FFD700&gt;{1} ОП&lt;/color&gt; поделены между всеми участвующими авантюристами\n• &lt;color=#FFD700&gt;{2} серебра&lt;/color&gt; добыто на поле боя\n• &lt;color=#FFD700&gt;Собрано легендарное снаряжение и редкие материалы&lt;/color&gt;\n\nЭта победа будет памятна во всех странах. Гильдия приветствует ваше выдающееся мужество.</Isekai_WorldBoss_Victory_Text>
+  <!-- Quest Description States -->
+  <Isekai_WorldBoss_Pending>Гильдия авантюристов обнаружила &lt;color=#9933FF&gt;{0}&lt;/color&gt; национального ранга. Примите этот квест, чтобы получить координаты.</Isekai_WorldBoss_Pending>
+  <Isekai_WorldBoss_Travel>Отправляйтесь к {0} и сразитесь с &lt;color=#9933FF&gt;Мировым Боссом&lt;/color&gt;. &lt;color=#FF4444&gt;Время на исходе.&lt;/color&gt;</Isekai_WorldBoss_Travel>
+  <Isekai_WorldBoss_Slain>&lt;color=#9933FF&gt;{0}&lt;/color&gt; национального ранга повержен. &lt;color=#FFD700&gt;Легендарная победа.&lt;/color&gt;</Isekai_WorldBoss_Slain>
+  <Isekai_WorldBoss_Fighting>&lt;color=#FF4444&gt;БОЙ НАЧАТ&lt;/color&gt;: &lt;color=#9933FF&gt;{0}&lt;/color&gt;\nЗдоровье Босса: {1}%</Isekai_WorldBoss_Fighting>
+  <!-- Nation Rank Title -->
+  <Isekai_Rank_Nation>Нация</Isekai_Rank_Nation>
+  <Isekai_Rank_Nation_Title>Мировой босс</Isekai_Rank_Nation_Title>
+  <!-- Faction Reinforcements -->
+  <Isekai_WorldBoss_Reinforcement_Label>&lt;color=#FFD700&gt;Подкрепление прибыло!&lt;/color&gt;</Isekai_WorldBoss_Reinforcement_Label>
+  <Isekai_WorldBoss_Reinforcement_Text>&lt;color=#FFD700&gt;[ТРАНСЛЯЦИЯ ГИЛЬДИИ]&lt;/color&gt;\n\nГруппа из {0} прибыла на поле боя &lt;color=#9933FF&gt;мирового босса&lt;/color&gt;, чтобы присоединиться к битве против &lt;color=#9933FF&gt;{1}&lt;/color&gt;.\n\n&lt;color=#FF4444&gt;Битва продолжается!&lt;/color&gt;</Isekai_WorldBoss_Reinforcement_Text>
+  <!-- ═══ Constellation (v1.1.1) ═══ -->
+  <Isekai_PassivePoints>{0} Звёздных очков</Isekai_PassivePoints>
+  <Isekai_PassiveAllocated>{0} распределено</Isekai_PassiveAllocated>
+  <Isekai_PassiveRespec>Сброс</Isekai_PassiveRespec>
+  <Isekai_TreeComingSoon>Скоро появится!</Isekai_TreeComingSoon>
+  <Isekai_NoTreeData>Данные созвездия не найдены</Isekai_NoTreeData>
+  <Isekai_NodeKeystone>КЛЮЧЕВОЙ УЗЕЛ</Isekai_NodeKeystone>
+  <Isekai_NodeNotable>Замечательный пассив</Isekai_NodeNotable>
+  <Isekai_NodeMinor>Малый пассив</Isekai_NodeMinor>
+  <Isekai_NodeStart>Стартовый узел</Isekai_NodeStart>
+  <Isekai_NodeAllocated>Распределено</Isekai_NodeAllocated>
+  <Isekai_NodeCost>Стоимость: {0} очков</Isekai_NodeCost>
+  <!-- Detail Panel -->
+  <Isekai_DetailSelectNode>Выберите узел для просмотра</Isekai_DetailSelectNode>
+  <Isekai_DetailClickToAllocate>Нажмите для распределения</Isekai_DetailClickToAllocate>
+  <Isekai_UnlockNode>Разблокировать узел</Isekai_UnlockNode>
+  <Isekai_DetailNotEnoughPoints>Недостаточно очков</Isekai_DetailNotEnoughPoints>
+  <Isekai_DetailNotConnected>Не подключен</Isekai_DetailNotConnected>
+  <Isekai_DetailTreeSummary>Сводка созвездия</Isekai_DetailTreeSummary>
+  <Isekai_DetailNodes>Узлы</Isekai_DetailNodes>
+  <Isekai_DetailKeystones>Ключевые узлы</Isekai_DetailKeystones>
+  <Isekai_DetailPointsSpent>Потрачено очков</Isekai_DetailPointsSpent>
+  <Isekai_DetailPointsAvail>Доступно очков</Isekai_DetailPointsAvail>
+  <Isekai_DetailActiveBonuses>Активные бонусы:</Isekai_DetailActiveBonuses>
+  <Isekai_DetailNoBonuses>Бонусов пока нет</Isekai_DetailNoBonuses>
+  <Isekai_DetailClassPassive>Пассив класса</Isekai_DetailClassPassive>
+  <Isekai_DetailGimmickLocked>Выберите этот класс для активации</Isekai_DetailGimmickLocked>
+  <!-- Star Fragment -->
+  <Isekai_StarFragment_RequiresFragment>Требуется: Поглощённый Звёздный фрагмент (мультикласс)</Isekai_StarFragment_RequiresFragment>
+  <Isekai_StarFragment_HasFragment>Мультиклассный разблок: готово ✓</Isekai_StarFragment_HasFragment>
+  <Isekai_RequiresDRank>Требуется: Ранг D (Уровень 11)</Isekai_RequiresDRank>
+  <!-- Settings -->
+  <Isekai_Settings_EnableStarFragmentDrops>Включить выпадение Звёздных фрагментов</Isekai_Settings_EnableStarFragmentDrops>
+  <Isekai_Settings_EnableStarFragmentDrops_Desc>Звёздные фрагменты выпадают с элитных существ рангов S/SS/SSS и мировых боссов. При поглощении авантюристом каждый даёт 1 Звёздное очко и 1 разблокировку мультикласса для дерева созвездий.</Isekai_Settings_EnableStarFragmentDrops_Desc>
+  <Isekai_Settings_ConstellationHeader>Созвездие</Isekai_Settings_ConstellationHeader>
+  <Isekai_Settings_ConstellationBonusMultiplier>Множитель бонусов созвездия</Isekai_Settings_ConstellationBonusMultiplier>
+  <Isekai_Settings_ConstellationBonusMultiplier_Desc>Масштабирует все бонусы характеристик от узлов созвездия. При 0,50× узел +10% даёт +5%. При 2,00× он даёт +20%. Параметр уровень классовой механики не изменяется.</Isekai_Settings_ConstellationBonusMultiplier_Desc>
+  <!-- ==================== ISEKAI TRAITS ==================== -->
+  <!-- Archetype Traits -->
+  <Isekai_Trait_Protagonist>Протагонист</Isekai_Trait_Protagonist>
+  <Isekai_Trait_Antagonist>Антагонист</Isekai_Trait_Antagonist>
+  <Isekai_Trait_Reincarnated>Реинкарнированный</Isekai_Trait_Reincarnated>
+  <Isekai_Trait_Regressor>Регрессор</Isekai_Trait_Regressor>
+  <Isekai_Trait_SummonedHero>Призванный герой</Isekai_Trait_SummonedHero>
+  <!-- Growth Traits -->
+  <Isekai_Trait_NaturalTalent>Природный талант</Isekai_Trait_NaturalTalent>
+  <Isekai_Trait_Prodigy>Вундеркинд</Isekai_Trait_Prodigy>
+  <Isekai_Trait_LateBloomer>Поздний расцвет</Isekai_Trait_LateBloomer>
+  <Isekai_Trait_QuickLearner>Быстрый ученик</Isekai_Trait_QuickLearner>
+  <Isekai_Trait_SlowGrind>Медленное развитие</Isekai_Trait_SlowGrind>
+  <Isekai_Trait_PowerSpike>Всплеск силы</Isekai_Trait_PowerSpike>
+  <Isekai_Trait_AwakenedPotential>Пробуждённый потенциал</Isekai_Trait_AwakenedPotential>
+  <Isekai_Trait_Genius>Гений</Isekai_Trait_Genius>
+  <Isekai_Trait_BattleManiac>Маньяк битвы</Isekai_Trait_BattleManiac>
+  <!-- Combat Traits -->
+  <Isekai_Trait_BerserkerBlood>Кровь берсерка</Isekai_Trait_BerserkerBlood>
+  <Isekai_Trait_IronWill>Железная воля</Isekai_Trait_IronWill>
+  <Isekai_Trait_GlassCannon>Стеклянная пушка</Isekai_Trait_GlassCannon>
+  <Isekai_Trait_Fortress>Крепость</Isekai_Trait_Fortress>
+  <Isekai_Trait_ShadowStep>Теневой шаг</Isekai_Trait_ShadowStep>
+  <Isekai_Trait_PredatorInstinct>Инстинкт хищника</Isekai_Trait_PredatorInstinct>
+  <Isekai_Trait_Undying>Бессмертный</Isekai_Trait_Undying>
+  <!-- Stat Affinity Traits -->
+  <Isekai_Trait_Mighty>Могучий</Isekai_Trait_Mighty>
+  <Isekai_Trait_Agile>Проворный</Isekai_Trait_Agile>
+  <Isekai_Trait_Resilient>Выносливый</Isekai_Trait_Resilient>
+  <Isekai_Trait_Brilliant>Блистательный</Isekai_Trait_Brilliant>
+  <Isekai_Trait_Enlightened>Просветлённый</Isekai_Trait_Enlightened>
+  <Isekai_Trait_SilverTongue>Серебряный язык</Isekai_Trait_SilverTongue>
+  <!-- Utility Traits -->
+  <Isekai_Trait_MerchantEye>Глаз торговца</Isekai_Trait_MerchantEye>
+  <Isekai_Trait_CraftsmanSoul>Душа ремесленника</Isekai_Trait_CraftsmanSoul>
+  <Isekai_Trait_BeastWhisperer>Шёпот зверей</Isekai_Trait_BeastWhisperer>
+  <Isekai_Trait_HealerTouch>Прикосновение целителя</Isekai_Trait_HealerTouch>
+  <Isekai_Trait_Lucky>Счастливчик</Isekai_Trait_Lucky>
+  <Isekai_Trait_CursedLuck>Проклятая удача</Isekai_Trait_CursedLuck>
+  <!-- Negative/Curse Traits -->
+  <Isekai_Trait_HollowCore>Пустое ядро</Isekai_Trait_HollowCore>
+  <Isekai_Trait_FragileVessel>Хрупкий сосуд</Isekai_Trait_FragileVessel>
+  <Isekai_Trait_EchoOfDefeat>Эхо поражения</Isekai_Trait_EchoOfDefeat>
+  <Isekai_Trait_SealedPower>Запечатанная сила</Isekai_Trait_SealedPower>
+  <!-- Trait Item Names -->
+  <Isekai_Item_HerosAwakening>Свиток пробуждения героя</Isekai_Item_HerosAwakening>
+  <Isekai_Item_HerosAwakening_Desc>Древний свиток, излучающий золотое сияние. При использовании пробуждает у пешки черту Протагонист, давая ×10 к получению опыта и +2 очка характеристик за уровень ценой социального положения.</Isekai_Item_HerosAwakening_Desc>
+  <Isekai_Item_ReincarnationCrystal>Кристалл реинкарнации</Isekai_Item_ReincarnationCrystal>
+  <Isekai_Item_ReincarnationCrystal_Desc>Мерцающий кристалл, содержащий воспоминания из другой жизни. При использовании сбрасывает уровень и характеристики пешки, после чего даёт черту Реинкарнированный — ×5 к получению опыта, +10 звёздных очков и ускоренный рост созвездий. Прогресс дерева созвездий сохраняется.</Isekai_Item_ReincarnationCrystal_Desc>
+  <Isekai_Item_VillainsMask>Маска злодея</Isekai_Item_VillainsMask>
+  <Isekai_Item_VillainsMask_Desc>Зловещая маска, излучающая злую энергию. При ношении пробуждает черту Антагонист — ×8 к получению опыта и разрушительную боевую силу, однако носителя начинают ненавидеть все окружающие.</Isekai_Item_VillainsMask_Desc>
+  <Isekai_Item_SummoningCircle>Свиток круга призыва</Isekai_Item_SummoningCircle>
+  <Isekai_Item_SummoningCircle_Desc>Мистический свиток, исписанный потусторонними рунами. При активации разрывает ткань между мирами и призывает нового колониста с чертой Призванный герой. На пользователя не влияет.</Isekai_Item_SummoningCircle_Desc>
+  <Isekai_Item_RegressionOrb>Сфера регрессии</Isekai_Item_RegressionOrb>
+  <Isekai_Item_RegressionOrb_Desc>Темпоральная сфера, отправляющая сознание назад во времени. Даёт черту Регрессор — ×4 к получению опыта и бесплатный сброс созвездий в любое время.</Isekai_Item_RegressionOrb_Desc>
+  <!-- Trait Messages -->
+  <Isekai_Trait_Awakened>{0} пробудился как {1}!</Isekai_Trait_Awakened>
+  <Isekai_Trait_SealBroken>Запечатанная сила {0} вырвалась на свободу! Его переполняет подавляющая энергия!</Isekai_Trait_SealBroken>
+  <Isekai_Trait_Awakening>Скрытый потенциал {0} наконец пробудился! Все характеристики увеличены на 50%!</Isekai_Trait_Awakening>
+  <Isekai_Trait_UndyingSaved>{0} должен был умереть, но черта Бессмертный спасла его!</Isekai_Trait_UndyingSaved>
+  <Isekai_Trait_EchoActive>{0} учится на поражении — опыт удвоен на 3 дня!</Isekai_Trait_EchoActive>
+  <!-- Summoned Hero Spawn Messages -->
+  <Isekai_SummonHero_Title>Герой прибыл — {0}!</Isekai_SummonHero_Title>
+  <Isekai_SummonHero_Text>Круг призыва разорвал ткань между мирами!\n\n{0} был вырван из другого измерения и присоединяется к вашей колонии как Призванный герой.</Isekai_SummonHero_Text>
+  <Isekai_SummonHero_Mote>Герой был призван!</Isekai_SummonHero_Mote>
+  <!-- Reincarnation Messages -->
+  <Isekai_Reincarnation_Reset>{0} был реинкарнирован! Уровень и характеристики сброшены до базовых — прогресс созвездий сохранён.</Isekai_Reincarnation_Reset>
+  <!-- Forge System -->
+  <Isekai_Forge_Title>Кузня Улучшений</Isekai_Forge_Title>
+  <Isekai_Forge_Disabled>Система Кузни отключена в настройках мода.</Isekai_Forge_Disabled>
+  <Isekai_Forge_SelectEquipment>Выберите предмет для улучшения</Isekai_Forge_SelectEquipment>
+  <Isekai_Forge_Refinement>Улучшение</Isekai_Forge_Refinement>
+  <Isekai_Forge_RefineButton>Улучшить</Isekai_Forge_RefineButton>
+  <Isekai_Forge_ConfirmRisky>Улучшение выше +5 может уничтожить предмет!\n\nУспех: {0}%\nПонижение: {1}%\nУничтожение: {2}%\n\nПродолжить?</Isekai_Forge_ConfirmRisky>
+  <Isekai_Forge_Success>Улучшение прошло успешно! {0} теперь имеет уровень +{1}.</Isekai_Forge_Success>
+  <Isekai_Forge_Downgrade>{0} не удалось улучшить, уровень снижен до +{1}.</Isekai_Forge_Downgrade>
+  <Isekai_Forge_Destroyed>{0} был уничтожен во время улучшения!</Isekai_Forge_Destroyed>
+  <Isekai_Forge_Materials>Требуемые материалы</Isekai_Forge_Materials>
+  <Isekai_Forge_SuccessRate>Шанс успеха</Isekai_Forge_SuccessRate>
+  <Isekai_Forge_DestroyRisk>Риск уничтожения</Isekai_Forge_DestroyRisk>
+  <!-- Runic Station -->
+  <Isekai_Rune_Title>Рунная Станция</Isekai_Rune_Title>
+  <Isekai_Rune_SelectEquipment>Выберите предмет для просмотра ячеек рун</Isekai_Rune_SelectEquipment>
+  <Isekai_Rune_Slots>Ячейки рун</Isekai_Rune_Slots>
+  <Isekai_Rune_EmptySlot>[ Пустая ячейка ]</Isekai_Rune_EmptySlot>
+  <Isekai_Rune_Available>Доступные руны</Isekai_Rune_Available>
+  <Isekai_Rune_Apply>Применить</Isekai_Rune_Apply>
+  <Isekai_Rune_Remove>Удалить</Isekai_Rune_Remove>
+  <Isekai_Rune_RemoveConfirm>Удалить {0} из {1}?\n\nРуна будет ПОЛНОСТЬЮ УНИЧТОЖЕНА.</Isekai_Rune_RemoveConfirm>
+  <Isekai_Rune_SlotsFull>Все ячейки заняты</Isekai_Rune_SlotsFull>
+  <Isekai_Rune_NoRunesAvailable>Совместимые руны не найдены на карте. Создайте руны во вкладке заданий рунной станции.</Isekai_Rune_NoRunesAvailable>
+  <!-- Weapon Mastery -->
+  <Isekai_Mastery_Header>ВЛАДЕНИЕ ОРУЖИЕМ</Isekai_Mastery_Header>
+  <Isekai_Mastery_Novice>Новичок</Isekai_Mastery_Novice>
+  <Isekai_Mastery_Apprentice>Ученик</Isekai_Mastery_Apprentice>
+  <Isekai_Mastery_Skilled>Опытный</Isekai_Mastery_Skilled>
+  <Isekai_Mastery_Journeyman>Подмастерье</Isekai_Mastery_Journeyman>
+  <Isekai_Mastery_Adept>Адепт</Isekai_Mastery_Adept>
+  <Isekai_Mastery_Expert>Эксперт</Isekai_Mastery_Expert>
+  <Isekai_Mastery_Master>Мастер</Isekai_Mastery_Master>
+  <Isekai_Mastery_Grandmaster>Грандмастер</Isekai_Mastery_Grandmaster>
+  <!-- Forge Drops -->
+  <Isekai_Drop_ReinforcementCore>{0} уронил Ядро Усиления!</Isekai_Drop_ReinforcementCore>
+  <Isekai_Drop_Rune>{0} уронил {1}!</Isekai_Drop_Rune>
+  <!-- Forge Building Gizmos -->
+  <Isekai_Gizmo_OpenForge>Открыть Кузню</Isekai_Gizmo_OpenForge>
+  <Isekai_Gizmo_OpenForge_Desc>Открыть Кузню Улучшений для усиления оружия и брони.</Isekai_Gizmo_OpenForge_Desc>
+  <Isekai_Gizmo_OpenRunicStation>Рунная Станция</Isekai_Gizmo_OpenRunicStation>
+  <Isekai_Gizmo_OpenRunicStation_Desc>Открыть Рунную Станцию для установки или удаления рун.</Isekai_Gizmo_OpenRunicStation_Desc>
+  <!-- Float Menu -->
+  <Isekai_FloatMenu_OpenForge>Открыть кузницу улучшений</Isekai_FloatMenu_OpenForge>
+  <Isekai_FloatMenu_OpenRunicStation>Открыть рунную станцию</Isekai_FloatMenu_OpenRunicStation>
+  <!-- Shared UI -->
+  <Isekai_UI_Search>Поиск...</Isekai_UI_Search>
+  <Isekai_UI_InStorage>На складе</Isekai_UI_InStorage>
+  <!-- Rune Effect Display Names (info panel) -->
+  <Isekai_Effect_MeleeAttackSpeed>Скорость ближней атаки</Isekai_Effect_MeleeAttackSpeed>
+  <Isekai_Effect_RangedAccuracy>Точность дальнего боя</Isekai_Effect_RangedAccuracy>
+  <Isekai_Effect_Lifesteal>Похищение жизни</Isekai_Effect_Lifesteal>
+  <Isekai_Effect_StunChance>Шанс оглушения</Isekai_Effect_StunChance>
+  <Isekai_Effect_FireDamage>Урон огнём</Isekai_Effect_FireDamage>
+  <Isekai_Effect_SlowChance>Шанс замедления</Isekai_Effect_SlowChance>
+  <Isekai_Effect_ArmorPenetration>Пробитие брони</Isekai_Effect_ArmorPenetration>
+  <Isekai_Effect_AoESplash>Урон по области</Isekai_Effect_AoESplash>
+  <Isekai_Effect_RangedDamage>Урон дальнего боя</Isekai_Effect_RangedDamage>
+  <Isekai_Effect_Resistance>Снижение урона</Isekai_Effect_Resistance>
+  <Isekai_Effect_HealRate>Скорость лечения</Isekai_Effect_HealRate>
+  <Isekai_Effect_MentalBreakReduce>Порог срыва психики</Isekai_Effect_MentalBreakReduce>
+  <Isekai_Effect_MoveSpeedEffect>Скорость передвижения</Isekai_Effect_MoveSpeedEffect>
+  <!-- Rune Effect Short Names (descriptions) -->
+  <Isekai_EffectShort_MeleeAttackSpeed>скорость ближней атаки</Isekai_EffectShort_MeleeAttackSpeed>
+  <Isekai_EffectShort_RangedAccuracy>точность дальнего боя</Isekai_EffectShort_RangedAccuracy>
+  <Isekai_EffectShort_Lifesteal>похищение жизни</Isekai_EffectShort_Lifesteal>
+  <Isekai_EffectShort_StunChance>шанс оглушения</Isekai_EffectShort_StunChance>
+  <Isekai_EffectShort_FireDamage>доп. урон огнём</Isekai_EffectShort_FireDamage>
+  <Isekai_EffectShort_SlowChance>шанс замедления</Isekai_EffectShort_SlowChance>
+  <Isekai_EffectShort_ArmorPenetration>пробитие брони</Isekai_EffectShort_ArmorPenetration>
+  <Isekai_EffectShort_AoESplash>урон по области</Isekai_EffectShort_AoESplash>
+  <Isekai_EffectShort_RangedDamage>урон дальнего боя</Isekai_EffectShort_RangedDamage>
+  <Isekai_EffectShort_MaxHealth>макс. здоровье</Isekai_EffectShort_MaxHealth>
+  <Isekai_EffectShort_DodgeChance>шанс уклонения</Isekai_EffectShort_DodgeChance>
+  <Isekai_EffectShort_Resistance>снижение урона</Isekai_EffectShort_Resistance>
+  <Isekai_EffectShort_HealRate>скорость лечения</Isekai_EffectShort_HealRate>
+  <Isekai_EffectShort_MentalBreakReduce>порог срыва психики</Isekai_EffectShort_MentalBreakReduce>
+  <Isekai_EffectShort_ImmunityGain>скорость иммунитета</Isekai_EffectShort_ImmunityGain>
+  <Isekai_EffectShort_MoveSpeedEffect>скорость передвижения</Isekai_EffectShort_MoveSpeedEffect>
+  <Isekai_EffectShort_DamageReduction>снижение урона</Isekai_EffectShort_DamageReduction>
+  <!-- Rune Description Format -->
+  <Isekai_RuneDesc_Format>{0}{1}% {2}</Isekai_RuneDesc_Format>
+  <!-- CompForgeEnhancement Inspect Strings -->
+  <Isekai_Inspect_RefineInfo>Улучшение: +{0} ({1})</Isekai_Inspect_RefineInfo>
+  <Isekai_Inspect_MeleeBonus>+{0}% урон, -{1}% кд, -{2}% масса</Isekai_Inspect_MeleeBonus>
+  <Isekai_Inspect_RangedBonus>+{0}% урон, -{1}% кд, +{2}% точность</Isekai_Inspect_RangedBonus>
+  <Isekai_Inspect_ArmorBonus>+{0}% броня, +{1}% скорость, -{2}% масса</Isekai_Inspect_ArmorBonus>
+  <Isekai_Inspect_Runes>Руны ({0}/{1}): {2}</Isekai_Inspect_Runes>
+  <Isekai_Inspect_RuneSlots>Слоты рун: {0}/{1}</Isekai_Inspect_RuneSlots>
+  <!-- CompForgeEnhancement Stat Entries -->
+  <Isekai_Stat_RefinedDesc>Этот предмет был улучшен в кузнице до +{0}.</Isekai_Stat_RefinedDesc>
+  <Isekai_Stat_MeleeDmg>Урон ближнего боя: +{0}%</Isekai_Stat_MeleeDmg>
+  <Isekai_Stat_AttackCooldown>Перезарядка атаки: -{0}%</Isekai_Stat_AttackCooldown>
+  <Isekai_Stat_WeaponMass>Масса оружия: -{0}%</Isekai_Stat_WeaponMass>
+  <Isekai_Stat_RangedDmg>Урон дальнего боя: +{0}%</Isekai_Stat_RangedDmg>
+  <Isekai_Stat_Cooldown>Перезарядка: -{0}%</Isekai_Stat_Cooldown>
+  <Isekai_Stat_AccuracyStat>Точность: +{0}%</Isekai_Stat_AccuracyStat>
+  <Isekai_Stat_ArmorRating>Броня: +{0}%</Isekai_Stat_ArmorRating>
+  <Isekai_Stat_MoveSpeedStat>Скорость: +{0}%</Isekai_Stat_MoveSpeedStat>
+  <Isekai_Stat_ArmorMass>Масса брони: -{0}%</Isekai_Stat_ArmorMass>
+  <Isekai_Stat_RefinementMaxHint>Улучшение можно повысить до +10 в кузнице.</Isekai_Stat_RefinementMaxHint>
+  <Isekai_Stat_ForgeRefinement>Улучшение кузницы</Isekai_Stat_ForgeRefinement>
+  <Isekai_Stat_RuneSlotsDesc>У этого предмета {0} слот(ов) рун. Сейчас используется: {1}.</Isekai_Stat_RuneSlotsDesc>
+  <Isekai_Stat_AppliedRunes>Применённые руны:</Isekai_Stat_AppliedRunes>
+  <Isekai_Stat_RuneHint>Руны можно устанавливать в рунной станции.</Isekai_Stat_RuneHint>
+  <Isekai_Stat_TotalEffect>Общий {0}: {1}</Isekai_Stat_TotalEffect>
+  <Isekai_Stat_Sources>Источники:</Isekai_Stat_Sources>
+  <Isekai_Stat_RuneLabel>Руна: {0}</Isekai_Stat_RuneLabel>
+  <!-- Stat Explanation Strings -->
+  <Isekai_StatExp_RefineDmg>Улучшение +{0}: +{1}%</Isekai_StatExp_RefineDmg>
+  <Isekai_StatExp_RefineCooldown>Улучшение +{0}: -{1}% перезарядки</Isekai_StatExp_RefineCooldown>
+  <Isekai_StatExp_RefineArmor>Улучшение кузницы: +{0}%</Isekai_StatExp_RefineArmor>
+  <Isekai_StatExp_RefineArmorItem>Улучшение +{0}: +{1}%</Isekai_StatExp_RefineArmorItem>
+  <Isekai_StatExp_RefineAccuracy>Улучшение +{0}: +{1}% точности</Isekai_StatExp_RefineAccuracy>
+  <Isekai_StatExp_RefineMass>Улучшение +{0}: -{1}% массы</Isekai_StatExp_RefineMass>
+  <Isekai_StatExp_RefineMoveSpeed>Улучшение кузницы: +{0}% скорости</Isekai_StatExp_RefineMoveSpeed>
+  <Isekai_StatExp_RefineDurability>Улучшение +{0}: +{1}% прочности</Isekai_StatExp_RefineDurability>
+  <Isekai_StatExp_RefineRangedDmg>Улучшение +{0}: +{1}% урона</Isekai_StatExp_RefineRangedDmg>
+  <Isekai_StatExp_Mastery>Мастерство оружия: {0}</Isekai_StatExp_Mastery>
+  <Isekai_StatExp_RuneEnchant>Зачарование рун: {0}</Isekai_StatExp_RuneEnchant>
+  <Isekai_StatExp_RefineMarket>Улучшение +{0}: +{1}%</Isekai_StatExp_RefineMarket>
+  <Isekai_StatExp_RuneMarket>Рунные зачарования: +{0}%</Isekai_StatExp_RuneMarket>
+  <!-- Window_Forge UI -->
+  <Isekai_Forge_SelectFromList>Выберите экипировку\nиз списка</Isekai_Forge_SelectFromList>
+  <Isekai_Forge_CannotEnhance>Этот предмет нельзя улучшить.</Isekai_Forge_CannotEnhance>
+  <Isekai_Forge_Quality>Качество: {0}</Isekai_Forge_Quality>
+  <Isekai_Forge_RefinementLevel>Улучшение: +{0}</Isekai_Forge_RefinementLevel>
+  <Isekai_Forge_RefinementNone>Улучшение: отсутствует</Isekai_Forge_RefinementNone>
+  <Isekai_Forge_MeleeDmgBonus>+{0}% урон ближнего боя</Isekai_Forge_MeleeDmgBonus>
+  <Isekai_Forge_MeleeCdBonus>-{0}% перезарядка атаки</Isekai_Forge_MeleeCdBonus>
+  <Isekai_Forge_WeaponMassBonus>-{0}% масса оружия</Isekai_Forge_WeaponMassBonus>
+  <Isekai_Forge_RangedDmgBonus>+{0}% урон дальнего боя</Isekai_Forge_RangedDmgBonus>
+  <Isekai_Forge_CooldownBonus>-{0}% перезарядка</Isekai_Forge_CooldownBonus>
+  <Isekai_Forge_AccuracyBonus>+{0}% точность</Isekai_Forge_AccuracyBonus>
+  <Isekai_Forge_WeaponMassBonus2>-{0}% масса оружия</Isekai_Forge_WeaponMassBonus2>
+  <Isekai_Forge_ArmorRatingBonus>+{0}% броня</Isekai_Forge_ArmorRatingBonus>
+  <Isekai_Forge_MoveSpeedBonus>+{0}% скорость</Isekai_Forge_MoveSpeedBonus>
+  <Isekai_Forge_ArmorMassBonus>-{0}% масса брони</Isekai_Forge_ArmorMassBonus>
+  <Isekai_Forge_RuneSlotsInfo>Слоты рун: {0}/{1}</Isekai_Forge_RuneSlotsInfo>
+  <Isekai_Forge_MaxRefinement>МАКС. УЛУЧШЕНИЕ\n+10</Isekai_Forge_MaxRefinement>
+  <Isekai_Forge_RefineTo>Улучшить до +{0}</Isekai_Forge_RefineTo>
+  <Isekai_Forge_MaterialsLabel>Материалы:</Isekai_Forge_MaterialsLabel>
+  <Isekai_Forge_SuccessLabel>Шанс успеха: {0}%</Isekai_Forge_SuccessLabel>
+  <Isekai_Forge_DowngradeLabel>Откат: {0}%</Isekai_Forge_DowngradeLabel>
+  <Isekai_Forge_DestroyLabel>УНИЧТОЖЕНИЕ: {0}%</Isekai_Forge_DestroyLabel>
+  <Isekai_Forge_MissingMaterials>Не хватает материалов</Isekai_Forge_MissingMaterials>
+  <Isekai_Forge_ConfirmDestroy>Улучшение до +{0} имеет {1}% шанс УНИЧТОЖИТЬ предмет.\n\nПродолжить?</Isekai_Forge_ConfirmDestroy>
+  <Isekai_Forge_Durability>Прочность: {0}/{1} ({2}%)</Isekai_Forge_Durability>
+  <Isekai_Forge_NeedEssence>Нужна мана-эссенция</Isekai_Forge_NeedEssence>
+  <Isekai_Forge_Repair>Починить</Isekai_Forge_Repair>
+  <Isekai_Forge_Repaired>Отремонтировано!</Isekai_Forge_Repaired>
+  <Isekai_Forge_ResultSuccess>УСПЕХ! +{0}</Isekai_Forge_ResultSuccess>
+  <Isekai_Forge_ResultDowngrade>Неудача... →+{0}</Isekai_Forge_ResultDowngrade>
+  <Isekai_Forge_ResultDestroyed>УНИЧТОЖЕНО!</Isekai_Forge_ResultDestroyed>
+  <!-- Window_RunicStation UI -->
+  <Isekai_Rune_SelectFromList>Выберите экипировку\nдля просмотра слотов рун</Isekai_Rune_SelectFromList>
+  <Isekai_Rune_CannotHoldRunes>Этот предмет не может содержать руны.</Isekai_Rune_CannotHoldRunes>
+  <Isekai_Rune_TypeWeapon>Тип: оружие</Isekai_Rune_TypeWeapon>
+  <Isekai_Rune_TypeArmor>Тип: броня</Isekai_Rune_TypeArmor>
+  <Isekai_Rune_SlotsHeader>Слоты рун ({0}/{1})</Isekai_Rune_SlotsHeader>
+  <Isekai_Rune_RemoveButton>Удалить</Isekai_Rune_RemoveButton>
+  <Isekai_Rune_RemoveWithName>Удалить {0} (уничтожено)</Isekai_Rune_RemoveWithName>
+  <Isekai_Rune_SelectFirst>Сначала выберите экипировку</Isekai_Rune_SelectFirst>
+  <Isekai_Rune_DevLabel>DEV</Isekai_Rune_DevLabel>
+</LanguageData>

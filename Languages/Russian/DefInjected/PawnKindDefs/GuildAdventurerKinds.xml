@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GuildFaction_Adventurer_F.label>авантюрист</GuildFaction_Adventurer_F.label>
+  <GuildFaction_Adventurer_E.label>авантюрист</GuildFaction_Adventurer_E.label>
+  <GuildFaction_Adventurer_D.label>авантюрист</GuildFaction_Adventurer_D.label>
+  <GuildFaction_Adventurer_C.label>авантюрист</GuildFaction_Adventurer_C.label>
+  <GuildFaction_Adventurer_B.label>авантюрист</GuildFaction_Adventurer_B.label>
+  <GuildFaction_Adventurer_A.label>авантюрист</GuildFaction_Adventurer_A.label>
+  <GuildFaction_Adventurer_S.label>авантюрист</GuildFaction_Adventurer_S.label>
+  <GuildFaction_Adventurer_SS.label>мастер гильдии</GuildFaction_Adventurer_SS.label>
+  <GuildFaction_Adventurer_SSS.label>герой</GuildFaction_Adventurer_SSS.label>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GuildFaction_AdventurersGuild.label>гильдия авантюристов</GuildFaction_AdventurersGuild.label>
+  <GuildFaction_AdventurersGuild.fixedName>Гильдия авантюристов</GuildFaction_AdventurersGuild.fixedName>
+  <GuildFaction_AdventurersGuild.description>Гильдия авантюристов — легендарное международное братство охотников, магов и чемпионов. Они берут контракты на уничтожение чудовищ и угроз, способных изменить мир, и ранжируют своих членов от низшего F до мифического SSS. По слухам, их текущий герой — человек по имени Артур Экскалибур.</GuildFaction_AdventurersGuild.description>
+  <GuildFaction_AdventurersGuild.pawnSingular>авантюрист</GuildFaction_AdventurersGuild.pawnSingular>
+  <GuildFaction_AdventurersGuild.pawnsPlural>авантюристы</GuildFaction_AdventurersGuild.pawnsPlural>
+  <GuildFaction_AdventurersGuild.leaderTitle>гильдмастер</GuildFaction_AdventurersGuild.leaderTitle>
+
+</LanguageData>

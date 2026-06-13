@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Isekai_RespecOrb.label>сфера перерождения</Isekai_RespecOrb.label>
+  <Isekai_RespecOrb.description>Мерцающая кристальная сфера, пропитанная эссенцией перерождения. При использовании на авантюристе она сбрасывает все распределённые очки характеристик к базовым значениям, возвращая все потраченные очки для повторного распределения.\n\nСфера растворяется при применении, а её энергия перестраивает потенциал авантюриста. Уровень, опыт и титулы сохраняются — сбрасывается только распределение характеристик.\n\nМожно изготовить на станке из мана-ядер или купить у экзотических торговцев.</Isekai_RespecOrb.description>
+  <Isekai_RespecOrb.comps.CompProperties_Usable.useLabel>Использовать сферу перерождения для сброса очков характеристик</Isekai_RespecOrb.comps.CompProperties_Usable.useLabel>
+
+  <Isekai_RespecOrb.comps.1.useLabel>Использовать сферу перерождения для сброса очков характеристик</Isekai_RespecOrb.comps.1.useLabel>
+
+</LanguageData>

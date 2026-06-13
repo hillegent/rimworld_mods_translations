@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Isekai_RuneDef_Fortitude.label>Руна стойкости</Isekai_RuneDef_Fortitude.label>
+  <Isekai_RuneDef_Fortitude.description>Прочная руна, укрепляющая структуру любой брони, значительно повышая её долговечность.</Isekai_RuneDef_Fortitude.description>
+  <Isekai_RuneDef_Fortitude.statDescription>+25% к максимальному запасу прочности</Isekai_RuneDef_Fortitude.statDescription>
+
+  <Isekai_RuneDef_Evasion.label>Руна уклонения</Isekai_RuneDef_Evasion.label>
+  <Isekai_RuneDef_Evasion.description>Лёгкая руна, делающая носителя более подвижным и повышающая шанс уклонения в ближнем бою.</Isekai_RuneDef_Evasion.description>
+  <Isekai_RuneDef_Evasion.statDescription>+5% шанс уклонения в ближнем бою</Isekai_RuneDef_Evasion.statDescription>
+
+  <Isekai_RuneDef_Resistance.label>Руна сопротивления</Isekai_RuneDef_Resistance.label>
+  <Isekai_RuneDef_Resistance.description>Плотная руна, усиливающая броню и позволяющая поглощать часть входящего урона.</Isekai_RuneDef_Resistance.description>
+  <Isekai_RuneDef_Resistance.statDescription>+5% снижение урона</Isekai_RuneDef_Resistance.statDescription>
+
+  <Isekai_RuneDef_Regeneration.label>Руна регенерации</Isekai_RuneDef_Regeneration.label>
+  <Isekai_RuneDef_Regeneration.description>Пульсирующая зелёная руна, ускоряющая естественное заживление ран.</Isekai_RuneDef_Regeneration.description>
+  <Isekai_RuneDef_Regeneration.statDescription>+10% скорость лечения ран</Isekai_RuneDef_Regeneration.statDescription>
+
+  <Isekai_RuneDef_Warding.label>Руна защиты разума</Isekai_RuneDef_Warding.label>
+  <Isekai_RuneDef_Warding.description>Успокаивающая руна, защищающая разум носителя и снижающая порог ментального срыва.</Isekai_RuneDef_Warding.description>
+  <Isekai_RuneDef_Warding.statDescription>-5% порог ментального срыва</Isekai_RuneDef_Warding.statDescription>
+
+  <Isekai_RuneDef_Vitality.label>Руна жизненной силы</Isekai_RuneDef_Vitality.label>
+  <Isekai_RuneDef_Vitality.description>Тёплая руна, укрепляющая защитные силы организма и ускоряющая развитие иммунитета к болезням.</Isekai_RuneDef_Vitality.description>
+  <Isekai_RuneDef_Vitality.statDescription>+10% скорость набора иммунитета</Isekai_RuneDef_Vitality.statDescription>
+
+  <Isekai_RuneDef_Swiftness.label>Руна скорости</Isekai_RuneDef_Swiftness.label>
+  <Isekai_RuneDef_Swiftness.description>Лёгкая руна, повышающая ловкость носителя и увеличивающая скорость передвижения.</Isekai_RuneDef_Swiftness.description>
+  <Isekai_RuneDef_Swiftness.statDescription>+8% скорость передвижения</Isekai_RuneDef_Swiftness.statDescription>
+
+  <Isekai_RuneDef_Bulwark.label>Руна бастиона</Isekai_RuneDef_Bulwark.label>
+  <Isekai_RuneDef_Bulwark.description>Массивная защитная руна, значительно уменьшающая получаемый урон. Складывается с руной Сопротивления.</Isekai_RuneDef_Bulwark.description>
+  <Isekai_RuneDef_Bulwark.statDescription>+8% снижение урона</Isekai_RuneDef_Bulwark.statDescription>
+
+</LanguageData>

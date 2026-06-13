@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- Fury -->
+    <Isekai_CraftRune_Fury.label>создать руну ярости I</Isekai_CraftRune_Fury.label>
+    <Isekai_CraftRune_Fury.description>Вырезать руну ярости I для установки в оружие.</Isekai_CraftRune_Fury.description>
+    <Isekai_CraftRune_Fury.jobString>Создание руны ярости I.</Isekai_CraftRune_Fury.jobString>
+
+    <Isekai_CraftRune_Fury_II.label>создать руну ярости II</Isekai_CraftRune_Fury_II.label>
+    <Isekai_CraftRune_Fury_II.description>Вырезать руну ярости II для установки в оружие.</Isekai_CraftRune_Fury_II.description>
+    <Isekai_CraftRune_Fury_II.jobString>Создание руны ярости II.</Isekai_CraftRune_Fury_II.jobString>
+
+    <Isekai_CraftRune_Fury_III.label>создать руну ярости III</Isekai_CraftRune_Fury_III.label>
+    <Isekai_CraftRune_Fury_III.description>Вырезать руну ярости III для установки в оружие.</Isekai_CraftRune_Fury_III.description>
+    <Isekai_CraftRune_Fury_III.jobString>Создание руны ярости III.</Isekai_CraftRune_Fury_III.jobString>
+
+    <Isekai_CraftRune_Fury_IV.label>создать руну ярости IV</Isekai_CraftRune_Fury_IV.label>
+    <Isekai_CraftRune_Fury_IV.description>Вырезать руну ярости IV для установки в оружие.</Isekai_CraftRune_Fury_IV.description>
+    <Isekai_CraftRune_Fury_IV.jobString>Создание руны ярости IV.</Isekai_CraftRune_Fury_IV.jobString>
+
+    <Isekai_CraftRune_Fury_V.label>создать руну ярости V</Isekai_CraftRune_Fury_V.label>
+    <Isekai_CraftRune_Fury_V.description>Вырезать руну ярости V для установки в оружие.</Isekai_CraftRune_Fury_V.description>
+    <Isekai_CraftRune_Fury_V.jobString>Создание руны ярости V.</Isekai_CraftRune_Fury_V.jobString>
+
+<!-- Precision -->
+    <Isekai_CraftRune_Precision.label>создать руну точности I</Isekai_CraftRune_Precision.label>
+    <Isekai_CraftRune_Precision.description>Вырезать руну точности I для установки в оружие.</Isekai_CraftRune_Precision.description>
+    <Isekai_CraftRune_Precision.jobString>Создание руны точности I.</Isekai_CraftRune_Precision.jobString>
+
+    <Isekai_CraftRune_Precision_II.label>создать руну точности II</Isekai_CraftRune_Precision_II.label>
+    <Isekai_CraftRune_Precision_II.description>Вырезать руну точности II для установки в оружие.</Isekai_CraftRune_Precision_II.description>
+    <Isekai_CraftRune_Precision_II.jobString>Создание руны точности II.</Isekai_CraftRune_Precision_II.jobString>
+
+    <Isekai_CraftRune_Precision_III.label>создать руну точности III</Isekai_CraftRune_Precision_III.label>
+    <Isekai_CraftRune_Precision_III.description>Вырезать руну точности III для установки в оружие.</Isekai_CraftRune_Precision_III.description>
+    <Isekai_CraftRune_Precision_III.jobString>Создание руны точности III.</Isekai_CraftRune_Precision_III.jobString>
+
+    <Isekai_CraftRune_Precision_IV.label>создать руну точности IV</Isekai_CraftRune_Precision_IV.label>
+    <Isekai_CraftRune_Precision_IV.description>Вырезать руну точности IV для установки в оружие.</Isekai_CraftRune_Precision_IV.description>
+    <Isekai_CraftRune_Precision_IV.jobString>Создание руны точности IV.</Isekai_CraftRune_Precision_IV.jobString>
+
+    <Isekai_CraftRune_Precision_V.label>создать руну точности V</Isekai_CraftRune_Precision_V.label>
+    <Isekai_CraftRune_Precision_V.description>Вырезать руну точности V для установки в оружие.</Isekai_CraftRune_Precision_V.description>
+    <Isekai_CraftRune_Precision_V.jobString>Создание руны точности V.</Isekai_CraftRune_Precision_V.jobString>
+
+<!-- Vampirism -->
+    <Isekai_CraftRune_Vampirism.label>создать руну вампиризма I</Isekai_CraftRune_Vampirism.label>
+    <Isekai_CraftRune_Vampirism.description>Вырезать руну вампиризма I для установки в оружие.</Isekai_CraftRune_Vampirism.description>
+    <Isekai_CraftRune_Vampirism.jobString>Создание руны вампиризма I.</Isekai_CraftRune_Vampirism.jobString>
+
+    <Isekai_CraftRune_Vampirism_II.label>создать руну вампиризма II</Isekai_CraftRune_Vampirism_II.label>
+    <Isekai_CraftRune_Vampirism_II.description>Вырезать руну вампиризма II для установки в оружие.</Isekai_CraftRune_Vampirism_II.description>
+    <Isekai_CraftRune_Vampirism_II.jobString>Создание руны вампиризма II.</Isekai_CraftRune_Vampirism_II.jobString>
+
+    <Isekai_CraftRune_Vampirism_III.label>создать руну вампиризма III</Isekai_CraftRune_Vampirism_III.label>
+    <Isekai_CraftRune_Vampirism_III.description>Вырезать руну вампиризма III для установки в оружие.</Isekai_CraftRune_Vampirism_III.description>
+    <Isekai_CraftRune_Vampirism_III.jobString>Создание руны вампиризма III.</Isekai_CraftRune_Vampirism_III.jobString>
+
+    <Isekai_CraftRune_Vampirism_IV.label>создать руну вампиризма IV</Isekai_CraftRune_Vampirism_IV.label>
+    <Isekai_CraftRune_Vampirism_IV.description>Вырезать руну вампиризма IV для установки в оружие.</Isekai_CraftRune_Vampirism_IV.description>
+    <Isekai_CraftRune_Vampirism_IV.jobString>Создание руны вампиризма IV.</Isekai_CraftRune_Vampirism_IV.jobString>
+
+    <Isekai_CraftRune_Vampirism_V.label>создать руну вампиризма V</Isekai_CraftRune_Vampirism_V.label>
+    <Isekai_CraftRune_Vampirism_V.description>Вырезать руну вампиризма V для установки в оружие.</Isekai_CraftRune_Vampirism_V.description>
+    <Isekai_CraftRune_Vampirism_V.jobString>Создание руны вампиризма V.</Isekai_CraftRune_Vampirism_V.jobString>
+
+<!-- Thunder -->
+    <Isekai_CraftRune_Thunder.label>создать руну грома I</Isekai_CraftRune_Thunder.label>
+    <Isekai_CraftRune_Thunder.description>Вырезать руну грома I для установки в оружие.</Isekai_CraftRune_Thunder.description>
+    <Isekai_CraftRune_Thunder.jobString>Создание руны грома I.</Isekai_CraftRune_Thunder.jobString>
+
+    <Isekai_CraftRune_Thunder_II.label>создать руну грома II</Isekai_CraftRune_Thunder_II.label>
+    <Isekai_CraftRune_Thunder_II.description>Вырезать руну грома II для установки в оружие.</Isekai_CraftRune_Thunder_II.description>
+    <Isekai_CraftRune_Thunder_II.jobString>Создание руны грома II.</Isekai_CraftRune_Thunder_II.jobString>
+
+    <Isekai_CraftRune_Thunder_III.label>создать руну грома III</Isekai_CraftRune_Thunder_III.label>
+    <Isekai_CraftRune_Thunder_III.description>Вырезать руну грома III для установки в оружие.</Isekai_CraftRune_Thunder_III.description>
+    <Isekai_CraftRune_Thunder_III.jobString>Создание руны грома III.</Isekai_CraftRune_Thunder_III.jobString>
+
+    <Isekai_CraftRune_Thunder_IV.label>создать руну грома IV</Isekai_CraftRune_Thunder_IV.label>
+    <Isekai_CraftRune_Thunder_IV.description>Вырезать руну грома IV для установки в оружие.</Isekai_CraftRune_Thunder_IV.description>
+    <Isekai_CraftRune_Thunder_IV.jobString>Создание руны грома IV.</Isekai_CraftRune_Thunder_IV.jobString>
+
+    <Isekai_CraftRune_Thunder_V.label>создать руну грома V</Isekai_CraftRune_Thunder_V.label>
+    <Isekai_CraftRune_Thunder_V.description>Вырезать руну грома V для установки в оружие.</Isekai_CraftRune_Thunder_V.description>
+    <Isekai_CraftRune_Thunder_V.jobString>Создание руны грома V.</Isekai_CraftRune_Thunder_V.jobString>
+
+<!-- Flame -->
+    <Isekai_CraftRune_Flame.label>создать руну огня I</Isekai_CraftRune_Flame.label>
+    <Isekai_CraftRune_Flame.description>Вырезать руну огня I для установки в оружие.</Isekai_CraftRune_Flame.description>
+    <Isekai_CraftRune_Flame.jobString>Создание руны огня I.</Isekai_CraftRune_Flame.jobString>
+
+    <Isekai_CraftRune_Flame_II.label>создать руну огня II</Isekai_CraftRune_Flame_II.label>
+    <Isekai_CraftRune_Flame_II.description>Вырезать руну огня II для установки в оружие.</Isekai_CraftRune_Flame_II.description>
+    <Isekai_CraftRune_Flame_II.jobString>Создание руны огня II.</Isekai_CraftRune_Flame_II.jobString>
+
+    <Isekai_CraftRune_Flame_III.label>создать руну огня III</Isekai_CraftRune_Flame_III.label>
+    <Isekai_CraftRune_Flame_III.description>Вырезать руну огня III для установки в оружие.</Isekai_CraftRune_Flame_III.description>
+    <Isekai_CraftRune_Flame_III.jobString>Создание руны огня III.</Isekai_CraftRune_Flame_III.jobString>
+
+    <Isekai_CraftRune_Flame_IV.label>создать руну огня IV</Isekai_CraftRune_Flame_IV.label>
+    <Isekai_CraftRune_Flame_IV.description>Вырезать руну огня IV для установки в оружие.</Isekai_CraftRune_Flame_IV.description>
+    <Isekai_CraftRune_Flame_IV.jobString>Создание руны огня IV.</Isekai_CraftRune_Flame_IV.jobString>
+
+    <Isekai_CraftRune_Flame_V.label>создать руну огня V</Isekai_CraftRune_Flame_V.label>
+    <Isekai_CraftRune_Flame_V.description>Вырезать руну огня V для установки в оружие.</Isekai_CraftRune_Flame_V.description>
+    <Isekai_CraftRune_Flame_V.jobString>Создание руны огня V.</Isekai_CraftRune_Flame_V.jobString>
+
+<!-- Frost Runes -->
+    <Isekai_CraftRune_Frost.label>создать руну холода I</Isekai_CraftRune_Frost.label>
+    <Isekai_CraftRune_Frost.description>Вырезать руну Холода I уровня для вставки в оружие.</Isekai_CraftRune_Frost.description>
+    <Isekai_CraftRune_Frost.jobString>Создание руны Холода I.</Isekai_CraftRune_Frost.jobString>
+
+    <Isekai_CraftRune_Frost_II.label>создать руну холода II</Isekai_CraftRune_Frost_II.label>
+    <Isekai_CraftRune_Frost_II.description>Вырезать руну Холода II уровня для вставки в оружие.</Isekai_CraftRune_Frost_II.description>
+    <Isekai_CraftRune_Frost_II.jobString>Создание руны Холода II.</Isekai_CraftRune_Frost_II.jobString>
+
+    <Isekai_CraftRune_Frost_III.label>создать руну холода III</Isekai_CraftRune_Frost_III.label>
+    <Isekai_CraftRune_Frost_III.description>Вырезать руну Холода III уровня для вставки в оружие.</Isekai_CraftRune_Frost_III.description>
+    <Isekai_CraftRune_Frost_III.jobString>Создание руны Холода III.</Isekai_CraftRune_Frost_III.jobString>
+
+    <Isekai_CraftRune_Frost_IV.label>создать руну холода IV</Isekai_CraftRune_Frost_IV.label>
+    <Isekai_CraftRune_Frost_IV.description>Вырезать руну Холода IV уровня для вставки в оружие.</Isekai_CraftRune_Frost_IV.description>
+    <Isekai_CraftRune_Frost_IV.jobString>Создание руны Холода IV.</Isekai_CraftRune_Frost_IV.jobString>
+
+    <Isekai_CraftRune_Frost_V.label>создать руну холода V</Isekai_CraftRune_Frost_V.label>
+    <Isekai_CraftRune_Frost_V.description>Вырезать руну Холода V уровня для вставки в оружие.</Isekai_CraftRune_Frost_V.description>
+    <Isekai_CraftRune_Frost_V.jobString>Создание руны Холода V.</Isekai_CraftRune_Frost_V.jobString>
+
+<!-- Sharpness Runes -->
+    <Isekai_CraftRune_Sharpness.label>создать руну остроты I</Isekai_CraftRune_Sharpness.label>
+    <Isekai_CraftRune_Sharpness.description>Вырезать руну Остроты I уровня для вставки в оружие.</Isekai_CraftRune_Sharpness.description>
+    <Isekai_CraftRune_Sharpness.jobString>Создание руны Остроты I.</Isekai_CraftRune_Sharpness.jobString>
+
+    <Isekai_CraftRune_Sharpness_II.label>создать руну остроты II</Isekai_CraftRune_Sharpness_II.label>
+    <Isekai_CraftRune_Sharpness_II.description>Вырезать руну Остроты II уровня для вставки в оружие.</Isekai_CraftRune_Sharpness_II.description>
+    <Isekai_CraftRune_Sharpness_II.jobString>Создание руны Остроты II.</Isekai_CraftRune_Sharpness_II.jobString>
+
+    <Isekai_CraftRune_Sharpness_III.label>создать руну остроты III</Isekai_CraftRune_Sharpness_III.label>
+    <Isekai_CraftRune_Sharpness_III.description>Вырезать руну Остроты III уровня для вставки в оружие.</Isekai_CraftRune_Sharpness_III.description>
+    <Isekai_CraftRune_Sharpness_III.jobString>Создание руны Остроты III.</Isekai_CraftRune_Sharpness_III.jobString>
+
+    <Isekai_CraftRune_Sharpness_IV.label>создать руну остроты IV</Isekai_CraftRune_Sharpness_IV.label>
+    <Isekai_CraftRune_Sharpness_IV.description>Вырезать руну Остроты IV уровня для вставки в оружие.</Isekai_CraftRune_Sharpness_IV.description>
+    <Isekai_CraftRune_Sharpness_IV.jobString>Создание руны Остроты IV.</Isekai_CraftRune_Sharpness_IV.jobString>
+
+    <Isekai_CraftRune_Sharpness_V.label>создать руну остроты V</Isekai_CraftRune_Sharpness_V.label>
+    <Isekai_CraftRune_Sharpness_V.description>Вырезать руну Остроты V уровня для вставки в оружие.</Isekai_CraftRune_Sharpness_V.description>
+    <Isekai_CraftRune_Sharpness_V.jobString>Создание руны Остроты V.</Isekai_CraftRune_Sharpness_V.jobString>
+
+<!-- Havoc Runes -->
+    <Isekai_CraftRune_Havoc.label>создать руну разрушения I</Isekai_CraftRune_Havoc.label>
+    <Isekai_CraftRune_Havoc.description>Вырезать руну Разрушения I уровня для вставки в оружие.</Isekai_CraftRune_Havoc.description>
+    <Isekai_CraftRune_Havoc.jobString>Создание руны Разрушения I.</Isekai_CraftRune_Havoc.jobString>
+
+    <Isekai_CraftRune_Havoc_II.label>создать руну разрушения II</Isekai_CraftRune_Havoc_II.label>
+    <Isekai_CraftRune_Havoc_II.description>Вырезать руну Разрушения II уровня для вставки в оружие.</Isekai_CraftRune_Havoc_II.description>
+    <Isekai_CraftRune_Havoc_II.jobString>Создание руны Разрушения II.</Isekai_CraftRune_Havoc_II.jobString>
+
+    <Isekai_CraftRune_Havoc_III.label>создать руну разрушения III</Isekai_CraftRune_Havoc_III.label>
+    <Isekai_CraftRune_Havoc_III.description>Вырезать руну Разрушения III уровня для вставки в оружие.</Isekai_CraftRune_Havoc_III.description>
+    <Isekai_CraftRune_Havoc_III.jobString>Создание руны Разрушения III.</Isekai_CraftRune_Havoc_III.jobString>
+
+    <Isekai_CraftRune_Havoc_IV.label>создать руну разрушения IV</Isekai_CraftRune_Havoc_IV.label>
+    <Isekai_CraftRune_Havoc_IV.description>Вырезать руну Разрушения IV уровня для вставки в оружие.</Isekai_CraftRune_Havoc_IV.description>
+    <Isekai_CraftRune_Havoc_IV.jobString>Создание руны Разрушения IV.</Isekai_CraftRune_Havoc_IV.jobString>
+
+    <Isekai_CraftRune_Havoc_V.label>создать руну разрушения V</Isekai_CraftRune_Havoc_V.label>
+    <Isekai_CraftRune_Havoc_V.description>Вырезать руну Разрушения V уровня для вставки в оружие.</Isekai_CraftRune_Havoc_V.description>
+    <Isekai_CraftRune_Havoc_V.jobString>Создание руны Разрушения V.</Isekai_CraftRune_Havoc_V.jobString>
+
+<!-- Devastation Runes -->
+    <Isekai_CraftRune_Devastation.label>создать руну опустошения I</Isekai_CraftRune_Devastation.label>
+    <Isekai_CraftRune_Devastation.description>Вырезать руну Опустошения I уровня для вставки в оружие.</Isekai_CraftRune_Devastation.description>
+    <Isekai_CraftRune_Devastation.jobString>Создание руны Опустошения I.</Isekai_CraftRune_Devastation.jobString>
+
+    <Isekai_CraftRune_Devastation_II.label>создать руну опустошения II</Isekai_CraftRune_Devastation_II.label>
+    <Isekai_CraftRune_Devastation_II.description>Вырезать руну Опустошения II уровня для вставки в оружие.</Isekai_CraftRune_Devastation_II.description>
+    <Isekai_CraftRune_Devastation_II.jobString>Создание руны Опустошения II.</Isekai_CraftRune_Devastation_II.jobString>
+
+    <Isekai_CraftRune_Devastation_III.label>создать руну опустошения III</Isekai_CraftRune_Devastation_III.label>
+    <Isekai_CraftRune_Devastation_III.description>Вырезать руну Опустошения III уровня для вставки в оружие.</Isekai_CraftRune_Devastation_III.description>
+    <Isekai_CraftRune_Devastation_III.jobString>Создание руны Опустошения III.</Isekai_CraftRune_Devastation_III.jobString>
+
+    <Isekai_CraftRune_Devastation_IV.label>создать руну опустошения IV</Isekai_CraftRune_Devastation_IV.label>
+    <Isekai_CraftRune_Devastation_IV.description>Вырезать руну Опустошения IV уровня для вставки в оружие.</Isekai_CraftRune_Devastation_IV.description>
+    <Isekai_CraftRune_Devastation_IV.jobString>Создание руны Опустошения IV.</Isekai_CraftRune_Devastation_IV.jobString>
+
+    <Isekai_CraftRune_Devastation_V.label>создать руну опустошения V</Isekai_CraftRune_Devastation_V.label>
+    <Isekai_CraftRune_Devastation_V.description>Вырезать руну Опустошения V уровня для вставки в оружие.</Isekai_CraftRune_Devastation_V.description>
+    <Isekai_CraftRune_Devastation_V.jobString>Создание руны Опустошения V.</Isekai_CraftRune_Devastation_V.jobString>
+
+<!-- Fortitude Rune Recipes -->
+    <Isekai_CraftRune_Fortitude.label>создать руну стойкости I</Isekai_CraftRune_Fortitude.label>
+    <Isekai_CraftRune_Fortitude.description>Вырезать руну стойкости I для вставки в броню.</Isekai_CraftRune_Fortitude.description>
+    <Isekai_CraftRune_Fortitude.jobString>Создание руны стойкости I.</Isekai_CraftRune_Fortitude.jobString>
+
+    <Isekai_CraftRune_Fortitude_II.label>создать руну стойкости II</Isekai_CraftRune_Fortitude_II.label>
+    <Isekai_CraftRune_Fortitude_II.description>Вырезать руну стойкости II для вставки в броню.</Isekai_CraftRune_Fortitude_II.description>
+    <Isekai_CraftRune_Fortitude_II.jobString>Создание руны стойкости II.</Isekai_CraftRune_Fortitude_II.jobString>
+
+    <Isekai_CraftRune_Fortitude_III.label>создать руну стойкости III</Isekai_CraftRune_Fortitude_III.label>
+    <Isekai_CraftRune_Fortitude_III.description>Вырезать руну стойкости III для вставки в броню.</Isekai_CraftRune_Fortitude_III.description>
+    <Isekai_CraftRune_Fortitude_III.jobString>Создание руны стойкости III.</Isekai_CraftRune_Fortitude_III.jobString>
+
+    <Isekai_CraftRune_Fortitude_IV.label>создать руну стойкости IV</Isekai_CraftRune_Fortitude_IV.label>
+    <Isekai_CraftRune_Fortitude_IV.description>Вырезать руну стойкости IV для вставки в броню.</Isekai_CraftRune_Fortitude_IV.description>
+    <Isekai_CraftRune_Fortitude_IV.jobString>Создание руны стойкости IV.</Isekai_CraftRune_Fortitude_IV.jobString>
+
+    <Isekai_CraftRune_Fortitude_V.label>создать руну стойкости V</Isekai_CraftRune_Fortitude_V.label>
+    <Isekai_CraftRune_Fortitude_V.description>Вырезать руну стойкости V для вставки в броню.</Isekai_CraftRune_Fortitude_V.description>
+    <Isekai_CraftRune_Fortitude_V.jobString>Создание руны стойкости V.</Isekai_CraftRune_Fortitude_V.jobString>
+
+<!-- Evasion Runes -->
+    <Isekai_CraftRune_Evasion.label>создать руну уклонения I</Isekai_CraftRune_Evasion.label>
+    <Isekai_CraftRune_Evasion.description>Вырезать Руну Уклонения I ранга для вставки в броню.</Isekai_CraftRune_Evasion.description>
+    <Isekai_CraftRune_Evasion.jobString>Создание руны уклонения I.</Isekai_CraftRune_Evasion.jobString>
+
+    <Isekai_CraftRune_Evasion_II.label>создать руну уклонения II</Isekai_CraftRune_Evasion_II.label>
+    <Isekai_CraftRune_Evasion_II.description>Вырезать Руну Уклонения II ранга для вставки в броню.</Isekai_CraftRune_Evasion_II.description>
+    <Isekai_CraftRune_Evasion_II.jobString>Создание руны уклонения II.</Isekai_CraftRune_Evasion_II.jobString>
+
+    <Isekai_CraftRune_Evasion_III.label>создать руну уклонения III</Isekai_CraftRune_Evasion_III.label>
+    <Isekai_CraftRune_Evasion_III.description>Вырезать Руну Уклонения III ранга для вставки в броню.</Isekai_CraftRune_Evasion_III.description>
+    <Isekai_CraftRune_Evasion_III.jobString>Создание руны уклонения III.</Isekai_CraftRune_Evasion_III.jobString>
+
+    <Isekai_CraftRune_Evasion_IV.label>создать руну уклонения IV</Isekai_CraftRune_Evasion_IV.label>
+    <Isekai_CraftRune_Evasion_IV.description>Вырезать Руну Уклонения IV ранга для вставки в броню.</Isekai_CraftRune_Evasion_IV.description>
+    <Isekai_CraftRune_Evasion_IV.jobString>Создание руны уклонения IV.</Isekai_CraftRune_Evasion_IV.jobString>
+
+    <Isekai_CraftRune_Evasion_V.label>создать руну уклонения V</Isekai_CraftRune_Evasion_V.label>
+    <Isekai_CraftRune_Evasion_V.description>Вырезать Руну Уклонения V ранга для вставки в броню.</Isekai_CraftRune_Evasion_V.description>
+    <Isekai_CraftRune_Evasion_V.jobString>Создание руны уклонения V.</Isekai_CraftRune_Evasion_V.jobString>
+
+<!-- Resistance Runes -->
+    <Isekai_CraftRune_Resistance.label>создать руну сопротивления I</Isekai_CraftRune_Resistance.label>
+    <Isekai_CraftRune_Resistance.description>Вырезать Руну Сопротивления I ранга для вставки в броню.</Isekai_CraftRune_Resistance.description>
+    <Isekai_CraftRune_Resistance.jobString>Создание руны сопротивления I.</Isekai_CraftRune_Resistance.jobString>
+
+    <Isekai_CraftRune_Resistance_II.label>создать руну сопротивления II</Isekai_CraftRune_Resistance_II.label>
+    <Isekai_CraftRune_Resistance_II.description>Вырезать Руну Сопротивления II ранга для вставки в броню.</Isekai_CraftRune_Resistance_II.description>
+    <Isekai_CraftRune_Resistance_II.jobString>Создание руны сопротивления II.</Isekai_CraftRune_Resistance_II.jobString>
+
+    <Isekai_CraftRune_Resistance_III.label>создать руну сопротивления III</Isekai_CraftRune_Resistance_III.label>
+    <Isekai_CraftRune_Resistance_III.description>Вырезать Руну Сопротивления III ранга для вставки в броню.</Isekai_CraftRune_Resistance_III.description>
+    <Isekai_CraftRune_Resistance_III.jobString>Создание руны сопротивления III.</Isekai_CraftRune_Resistance_III.jobString>
+
+    <Isekai_CraftRune_Resistance_IV.label>создать руну сопротивления IV</Isekai_CraftRune_Resistance_IV.label>
+    <Isekai_CraftRune_Resistance_IV.description>Вырезать Руну Сопротивления IV ранга для вставки в броню.</Isekai_CraftRune_Resistance_IV.description>
+    <Isekai_CraftRune_Resistance_IV.jobString>Создание руны сопротивления IV.</Isekai_CraftRune_Resistance_IV.jobString>
+
+    <Isekai_CraftRune_Resistance_V.label>создать руну сопротивления V</Isekai_CraftRune_Resistance_V.label>
+    <Isekai_CraftRune_Resistance_V.description>Вырезать Руну Сопротивления V ранга для вставки в броню.</Isekai_CraftRune_Resistance_V.description>
+    <Isekai_CraftRune_Resistance_V.jobString>Создание руны сопротивления V.</Isekai_CraftRune_Resistance_V.jobString>
+
+<!-- Regeneration Runes -->
+    <Isekai_CraftRune_Regeneration.label>создать руну регенерации I</Isekai_CraftRune_Regeneration.label>
+    <Isekai_CraftRune_Regeneration.description>Вырезать Руну Регенерации I ранга для вставки в броню.</Isekai_CraftRune_Regeneration.description>
+    <Isekai_CraftRune_Regeneration.jobString>Создание руны регенерации I.</Isekai_CraftRune_Regeneration.jobString>
+
+    <Isekai_CraftRune_Regeneration_II.label>создать руну регенерации II</Isekai_CraftRune_Regeneration_II.label>
+    <Isekai_CraftRune_Regeneration_II.description>Вырезать Руну Регенерации II ранга для вставки в броню.</Isekai_CraftRune_Regeneration_II.description>
+    <Isekai_CraftRune_Regeneration_II.jobString>Создание руны регенерации II.</Isekai_CraftRune_Regeneration_II.jobString>
+
+    <Isekai_CraftRune_Regeneration_III.label>создать руну регенерации III</Isekai_CraftRune_Regeneration_III.label>
+    <Isekai_CraftRune_Regeneration_III.description>Вырезать Руну Регенерации III ранга для вставки в броню.</Isekai_CraftRune_Regeneration_III.description>
+    <Isekai_CraftRune_Regeneration_III.jobString>Создание руны регенерации III.</Isekai_CraftRune_Regeneration_III.jobString>
+
+    <Isekai_CraftRune_Regeneration_IV.label>создать руну регенерации IV</Isekai_CraftRune_Regeneration_IV.label>
+    <Isekai_CraftRune_Regeneration_IV.description>Вырезать Руну Регенерации IV ранга для вставки в броню.</Isekai_CraftRune_Regeneration_IV.description>
+    <Isekai_CraftRune_Regeneration_IV.jobString>Создание руны регенерации IV.</Isekai_CraftRune_Regeneration_IV.jobString>
+
+    <Isekai_CraftRune_Regeneration_V.label>создать руну регенерации V</Isekai_CraftRune_Regeneration_V.label>
+    <Isekai_CraftRune_Regeneration_V.description>Вырезать Руну Регенерации V ранга для вставки в броню.</Isekai_CraftRune_Regeneration_V.description>
+    <Isekai_CraftRune_Regeneration_V.jobString>Создание руны регенерации V.</Isekai_CraftRune_Regeneration_V.jobString>
+
+<!-- Warding Runes -->
+    <Isekai_CraftRune_Warding.label>создать руну охраны I</Isekai_CraftRune_Warding.label>
+    <Isekai_CraftRune_Warding.description>Вырезать Руну Охраны I ранга для вставки в броню.</Isekai_CraftRune_Warding.description>
+    <Isekai_CraftRune_Warding.jobString>Создание руны охраны I.</Isekai_CraftRune_Warding.jobString>
+
+    <Isekai_CraftRune_Warding_II.label>создать руну охраны II</Isekai_CraftRune_Warding_II.label>
+    <Isekai_CraftRune_Warding_II.description>Вырезать Руну Охраны II ранга для вставки в броню.</Isekai_CraftRune_Warding_II.description>
+    <Isekai_CraftRune_Warding_II.jobString>Создание руны охраны II.</Isekai_CraftRune_Warding_II.jobString>
+
+    <Isekai_CraftRune_Warding_III.label>создать руну охраны III</Isekai_CraftRune_Warding_III.label>
+    <Isekai_CraftRune_Warding_III.description>Вырезать Руну Охраны III ранга для вставки в броню.</Isekai_CraftRune_Warding_III.description>
+    <Isekai_CraftRune_Warding_III.jobString>Создание руны охраны III.</Isekai_CraftRune_Warding_III.jobString>
+
+    <Isekai_CraftRune_Warding_IV.label>создать руну охраны IV</Isekai_CraftRune_Warding_IV.label>
+    <Isekai_CraftRune_Warding_IV.description>Вырезать Руну Охраны IV ранга для вставки в броню.</Isekai_CraftRune_Warding_IV.description>
+    <Isekai_CraftRune_Warding_IV.jobString>Создание руны охраны IV.</Isekai_CraftRune_Warding_IV.jobString>
+
+    <Isekai_CraftRune_Warding_V.label>создать руну охраны V</Isekai_CraftRune_Warding_V.label>
+    <Isekai_CraftRune_Warding_V.description>Вырезать Руну Охраны V ранга для вставки в броню.</Isekai_CraftRune_Warding_V.description>
+    <Isekai_CraftRune_Warding_V.jobString>Создание руны охраны V.</Isekai_CraftRune_Warding_V.jobString>
+
+<!-- Vitality Runes -->
+    <Isekai_CraftRune_Vitality.label>создать руну жизненной силы I</Isekai_CraftRune_Vitality.label>
+    <Isekai_CraftRune_Vitality.description>Вырезать Руну Жизненной Силы I ранга для вставки в броню.</Isekai_CraftRune_Vitality.description>
+    <Isekai_CraftRune_Vitality.jobString>Создание руны жизненной силы I.</Isekai_CraftRune_Vitality.jobString>
+
+    <Isekai_CraftRune_Vitality_II.label>создать руну жизненной силы II</Isekai_CraftRune_Vitality_II.label>
+    <Isekai_CraftRune_Vitality_II.description>Вырезать Руну Жизненной Силы II ранга для вставки в броню.</Isekai_CraftRune_Vitality_II.description>
+    <Isekai_CraftRune_Vitality_II.jobString>Создание руны жизненной силы II.</Isekai_CraftRune_Vitality_II.jobString>
+
+    <Isekai_CraftRune_Vitality_III.label>создать руну жизненной силы III</Isekai_CraftRune_Vitality_III.label>
+    <Isekai_CraftRune_Vitality_III.description>Вырезать Руну Жизненной Силы III ранга для вставки в броню.</Isekai_CraftRune_Vitality_III.description>
+    <Isekai_CraftRune_Vitality_III.jobString>Создание руны жизненной силы III.</Isekai_CraftRune_Vitality_III.jobString>
+
+    <Isekai_CraftRune_Vitality_IV.label>создать руну жизненной силы IV</Isekai_CraftRune_Vitality_IV.label>
+    <Isekai_CraftRune_Vitality_IV.description>Вырезать Руну Жизненной Силы IV ранга для вставки в броню.</Isekai_CraftRune_Vitality_IV.description>
+    <Isekai_CraftRune_Vitality_IV.jobString>Создание руны жизненной силы IV.</Isekai_CraftRune_Vitality_IV.jobString>
+
+    <Isekai_CraftRune_Vitality_V.label>создать руну жизненной силы V</Isekai_CraftRune_Vitality_V.label>
+    <Isekai_CraftRune_Vitality_V.description>Вырезать Руну Жизненной Силы V ранга для вставки в броню.</Isekai_CraftRune_Vitality_V.description>
+    <Isekai_CraftRune_Vitality_V.jobString>Создание руны жизненной силы V.</Isekai_CraftRune_Vitality_V.jobString>
+
+<!-- Swiftness Runes -->
+    <Isekai_CraftRune_Swiftness.label>создать руну стремительности I</Isekai_CraftRune_Swiftness.label>
+    <Isekai_CraftRune_Swiftness.description>Вырезать Руну Стремительности I ранга для вставки в броню.</Isekai_CraftRune_Swiftness.description>
+    <Isekai_CraftRune_Swiftness.jobString>Создание руны стремительности I.</Isekai_CraftRune_Swiftness.jobString>
+
+    <Isekai_CraftRune_Swiftness_II.label>создать руну стремительности II</Isekai_CraftRune_Swiftness_II.label>
+    <Isekai_CraftRune_Swiftness_II.description>Вырезать Руну Стремительности II ранга для вставки в броню.</Isekai_CraftRune_Swiftness_II.description>
+    <Isekai_CraftRune_Swiftness_II.jobString>Создание руны стремительности II.</Isekai_CraftRune_Swiftness_II.jobString>
+
+    <Isekai_CraftRune_Swiftness_III.label>создать руну стремительности III</Isekai_CraftRune_Swiftness_III.label>
+    <Isekai_CraftRune_Swiftness_III.description>Вырезать Руну Стремительности III ранга для вставки в броню.</Isekai_CraftRune_Swiftness_III.description>
+    <Isekai_CraftRune_Swiftness_III.jobString>Создание руны стремительности III.</Isekai_CraftRune_Swiftness_III.jobString>
+
+    <Isekai_CraftRune_Swiftness_IV.label>создать руну стремительности IV</Isekai_CraftRune_Swiftness_IV.label>
+    <Isekai_CraftRune_Swiftness_IV.description>Вырезать Руну Стремительности IV ранга для вставки в броню.</Isekai_CraftRune_Swiftness_IV.description>
+    <Isekai_CraftRune_Swiftness_IV.jobString>Создание руны стремительности IV.</Isekai_CraftRune_Swiftness_IV.jobString>
+
+    <Isekai_CraftRune_Swiftness_V.label>создать руну стремительности V</Isekai_CraftRune_Swiftness_V.label>
+    <Isekai_CraftRune_Swiftness_V.description>Вырезать Руну Стремительности V ранга для вставки в броню.</Isekai_CraftRune_Swiftness_V.description>
+    <Isekai_CraftRune_Swiftness_V.jobString>Создание руны стремительности V.</Isekai_CraftRune_Swiftness_V.jobString>
+
+<!-- Bulwark Runes -->
+    <Isekai_CraftRune_Bulwark.label>создать руну бастиона I</Isekai_CraftRune_Bulwark.label>
+    <Isekai_CraftRune_Bulwark.description>Вырезать Руну Бастиона I ранга для вставки в броню.</Isekai_CraftRune_Bulwark.description>
+    <Isekai_CraftRune_Bulwark.jobString>Создание руны бастиона I.</Isekai_CraftRune_Bulwark.jobString>
+
+    <Isekai_CraftRune_Bulwark_II.label>создать руну бастиона II</Isekai_CraftRune_Bulwark_II.label>
+    <Isekai_CraftRune_Bulwark_II.description>Вырезать Руну Бастиона II ранга для вставки в броню.</Isekai_CraftRune_Bulwark_II.description>
+    <Isekai_CraftRune_Bulwark_II.jobString>Создание руны бастиона II.</Isekai_CraftRune_Bulwark_II.jobString>
+
+    <Isekai_CraftRune_Bulwark_III.label>создать руну бастиона III</Isekai_CraftRune_Bulwark_III.label>
+    <Isekai_CraftRune_Bulwark_III.description>Вырезать Руну Бастиона III ранга для вставки в броню.</Isekai_CraftRune_Bulwark_III.description>
+    <Isekai_CraftRune_Bulwark_III.jobString>Создание руны бастиона III.</Isekai_CraftRune_Bulwark_III.jobString>
+
+    <Isekai_CraftRune_Bulwark_IV.label>создать руну бастиона IV</Isekai_CraftRune_Bulwark_IV.label>
+    <Isekai_CraftRune_Bulwark_IV.description>Вырезать Руну Бастиона IV ранга для вставки в броню.</Isekai_CraftRune_Bulwark_IV.description>
+    <Isekai_CraftRune_Bulwark_IV.jobString>Создание руны бастиона IV.</Isekai_CraftRune_Bulwark_IV.jobString>
+
+    <Isekai_CraftRune_Bulwark_V.label>создать руну бастиона V</Isekai_CraftRune_Bulwark_V.label>
+    <Isekai_CraftRune_Bulwark_V.description>Вырезать Руну Бастиона V ранга для вставки в броню.</Isekai_CraftRune_Bulwark_V.description>
+    <Isekai_CraftRune_Bulwark_V.jobString>Создание руны бастиона V.</Isekai_CraftRune_Bulwark_V.jobString>
+
+</LanguageData>

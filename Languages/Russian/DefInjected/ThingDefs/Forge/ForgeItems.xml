@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- ── Reinforcement Core ── -->
+<Isekai_ReinforcementCore.label>ядро усиления</Isekai_ReinforcementCore.label>
+<Isekai_ReinforcementCore.description>Плотное кристаллизованное ядро, наполненное невероятной магической энергией. Добывается из самых могущественных элитных существ и стабилизирует снаряжение при высокоуровневом улучшении. Без него невозможно улучшить оружие или броню выше +5.
+Требуется для улучшения с +6 до +10 на Кузнице улучшений.</Isekai_ReinforcementCore.description>
+
+<!-- ── Mana Essence ── -->
+<Isekai_ManaEssence.label>эссенция маны</Isekai_ManaEssence.label>
+<Isekai_ManaEssence.description>Очищенная и рафинированная эссенция маны, получаемая из ядер маны на Кузнице улучшений. Эта мерцающая жидкость является основным компонентом для создания рун на Рунической станции.
+Производится на Кузнице улучшений путём перегонки ядер маны.</Isekai_ManaEssence.description>
+
+</LanguageData>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Isekai_Berserk.label>ярость берсерка</Isekai_Berserk.label>
+  <Isekai_Berserk.description>В бешеной ярости наносит больше урона, но получает меньше защиты.</Isekai_Berserk.description>
+  <Isekai_Shield.label>магический щит</Isekai_Shield.label>
+  <Isekai_Shield.description>Защищён магическим барьером, поглощающим урон.</Isekai_Shield.description>
+  <Isekai_Regeneration.label>регенерация</Isekai_Regeneration.label>
+  <Isekai_Regeneration.description>Быстро заживает раны.</Isekai_Regeneration.description>
+  <Isekai_Haste.label>ускорение</Isekai_Haste.label>
+  <Isekai_Haste.description>Движется с сверхъестественной скоростью.</Isekai_Haste.description>
+  <Isekai_Inspired.label>вдохновение</Isekai_Inspired.label>
+  <Isekai_Inspired.description>Наполнен энергией и решимостью благодаря вдохновляющему лидеру.</Isekai_Inspired.description>
+  <Isekai_Awakening.label>пробуждение исэкая</Isekai_Awakening.label>
+  <Isekai_Awakening.description>Пробудил свой потенциал исэкая, получая возможность становиться сильнее с опытом.</Isekai_Awakening.description>
+  <Isekai_StoneSkin.label>каменная кожа</Isekai_StoneSkin.label>
+  <Isekai_StoneSkin.description>Кожа стала твёрдой, как камень, значительно повышая броню.</Isekai_StoneSkin.description>
+  <Isekai_EarthSense.label>чувство земли</Isekai_EarthSense.label>
+  <Isekai_EarthSense.description>Чувствует вибрации земли, определяя движение поблизости.</Isekai_EarthSense.description>
+  <Isekai_KnockedDown.label>сбит с ног</Isekai_KnockedDown.label>
+  <Isekai_KnockedDown.description>Сбит с ног мощным толчком.</Isekai_KnockedDown.description>
+  <Isekai_MountainsEmbrace.label>объятия горы</Isekai_MountainsEmbrace.label>
+  <Isekai_MountainsEmbrace.description>Под защитой духа горы, получая огромную выносливость.</Isekai_MountainsEmbrace.description>
+  <Isekai_AvatarOfStone.label>аватар камня</Isekai_AvatarOfStone.label>
+  <Isekai_AvatarOfStone.description>Превращён в живой каменный аватар с огромной силой.</Isekai_AvatarOfStone.description>
+  <Isekai_GlacialArmor.label>ледяная броня</Isekai_GlacialArmor.label>
+  <Isekai_GlacialArmor.description>Закован в защитную ледяную броню.</Isekai_GlacialArmor.description>
+  <Isekai_Chilled.label>заморожен</Isekai_Chilled.label>
+  <Isekai_Chilled.description>Температура тела снижена, движение замедлено.</Isekai_Chilled.description>
+  <Isekai_Frostbitten.label>обморожен</Isekai_Frostbitten.label>
+  <Isekai_Frostbitten.description>Страдет от магического обморожения, сильно замедлен.</Isekai_Frostbitten.description>
+  <Isekai_IcePrison.label>ледяная тюрьма</Isekai_IcePrison.label>
+  <Isekai_IcePrison.description>Заперт в ледяной тюрьме, не может двигаться.</Isekai_IcePrison.description>
+  <Isekai_DeepFreeze.label>глубокая заморозка</Isekai_DeepFreeze.label>
+  <Isekai_DeepFreeze.description>Заморожен до основания интенсивным магическим холодом.</Isekai_DeepFreeze.description>
+  <Isekai_IceShield.label>ледяной щит</Isekai_IceShield.label>
+  <Isekai_IceShield.description>Защищён барьером из магического льда.</Isekai_IceShield.description>
+  <Isekai_SoothingBreeze.label>успокаивающий бриз</Isekai_SoothingBreeze.label>
+  <Isekai_SoothingBreeze.description>Окружён прохладным ветром, который лечит и освежает.</Isekai_SoothingBreeze.description>
+  <Isekai_AbsoluteZero.label>абсолютный ноль</Isekai_AbsoluteZero.label>
+  <Isekai_AbsoluteZero.description>Заморожен до абсолютного нуля, полностью обездвижен.</Isekai_AbsoluteZero.description>
+  <Isekai_InnerFire.label>внутренний огонь</Isekai_InnerFire.label>
+  <Isekai_InnerFire.description>Горит внутренним пламенем, увеличивая боевые способности.</Isekai_InnerFire.description>
+  <Isekai_BurningInferno.label>пылающий ад</Isekai_BurningInferno.label>
+  <Isekai_BurningInferno.description>Охвачен магическим пламенем, усиливающим атаки.</Isekai_BurningInferno.description>
+  <Isekai_FlameShield.label>огненный щит</Isekai_FlameShield.label>
+  <Isekai_FlameShield.description>Окружён защитным барьером из пламени.</Isekai_FlameShield.description>
+  <Isekai_BlazingSpeed.label>пылающая скорость</Isekai_BlazingSpeed.label>
+  <Isekai_BlazingSpeed.description>Движется со скоростью бушующего огня.</Isekai_BlazingSpeed.description>
+  <Isekai_PhoenixBlessing.label>благословение феникса</Isekai_PhoenixBlessing.label>
+  <Isekai_PhoenixBlessing.description>Благословлён фениксом, воскресает после смерти.</Isekai_PhoenixBlessing.description>
+  <Isekai_Shocked.label>ошеломлён</Isekai_Shocked.label>
+  <Isekai_Shocked.description>Мышцы спазмируют от электрического шока.</Isekai_Shocked.description>
+  <Isekai_AMP.label>усиление</Isekai_AMP.label>
+  <Isekai_AMP.description>Электрическая энергия течёт по телу, усиливая силу.</Isekai_AMP.description>
+  <Isekai_Electrified.label>заряжен</Isekai_Electrified.label>
+  <Isekai_Electrified.description>Насыщен электрической энергией.</Isekai_Electrified.description>
+  <Isekai_Overcharged.label>перезаряжен</Isekai_Overcharged.label>
+  <Isekai_Overcharged.description>Сверхзаряжен электрической энергией.</Isekai_Overcharged.description>
+  <Isekai_Stunned.label>ошеломлён</Isekai_Stunned.label>
+  <Isekai_Stunned.description>Временно обездвижен мощным ударом.</Isekai_Stunned.description>
+  <Isekai_ElectricField.label>электрическое поле</Isekai_ElectricField.label>
+  <Isekai_ElectricField.description>Окружён потрескивающим электрическим полем.</Isekai_ElectricField.description>
+  <Isekai_StormAvatar.label>аватар шторма</Isekai_StormAvatar.label>
+  <Isekai_StormAvatar.description>Превращён в живой шторм с невероятной силой.</Isekai_StormAvatar.description>
+  <Isekai_Blessed.label>благословлен</Isekai_Blessed.label>
+  <Isekai_Blessed.description>Благословлён божественным светом, получая защиту и лечение.</Isekai_Blessed.description>
+  <Isekai_ShieldOfLight.label>щит света</Isekai_ShieldOfLight.label>
+  <Isekai_ShieldOfLight.description>Защищён сияющим щитом божественного света.</Isekai_ShieldOfLight.description>
+  <Isekai_DivineProtection.label>божественная защита</Isekai_DivineProtection.label>
+  <Isekai_DivineProtection.description>Под защитой божественной силы.</Isekai_DivineProtection.description>
+  <Isekai_AvatarOfLight.label>аватар света</Isekai_AvatarOfLight.label>
+  <Isekai_AvatarOfLight.description>Превращён в сияющий аватар божественного света.</Isekai_AvatarOfLight.description>
+  <Isekai_CloakedInShadows.label>окутан тенями</Isekai_CloakedInShadows.label>
+  <Isekai_CloakedInShadows.description>Скрыт в тенях, сложно обнаружить.</Isekai_CloakedInShadows.description>
+  <Isekai_Cursed.label>проклят</Isekai_Cursed.label>
+  <Isekai_Cursed.description>Поражён тёмным проклятием, ослабляющим тело.</Isekai_Cursed.description>
+  <Isekai_Nightshade.label>ночная тень</Isekai_Nightshade.label>
+  <Isekai_Nightshade.description>Окутан тёмной энергией, усиливающей скрытность.</Isekai_Nightshade.description>
+  <Isekai_VeiledInShadows.label>покрыт тенью</Isekai_VeiledInShadows.label>
+  <Isekai_VeiledInShadows.description>Полностью скрыт в тени, почти невидим.</Isekai_VeiledInShadows.description>
+  <Isekai_MarkedForDeath.label>меченый смертью</Isekai_MarkedForDeath.label>
+  <Isekai_MarkedForDeath.description>Отмечен тёмной магией, получает увеличенный урон.</Isekai_MarkedForDeath.description>
+  <Isekai_AvatarOfShadow.label>аватар тени</Isekai_AvatarOfShadow.label>
+  <Isekai_AvatarOfShadow.description>Превращён в живую тень с ужасающей силой.</Isekai_AvatarOfShadow.description>
+  <Isekai_Berserk.stages.0.label>в ярости</Isekai_Berserk.stages.0.label>
+  <Isekai_Shield.stages.0.label>защищён</Isekai_Shield.stages.0.label>
+  <Isekai_Regeneration.stages.0.label>исцеляется</Isekai_Regeneration.stages.0.label>
+  <Isekai_Haste.stages.0.label>ускорен</Isekai_Haste.stages.0.label>
+  <Isekai_Inspired.stages.0.label>вдохновлён</Isekai_Inspired.stages.0.label>
+  <Isekai_Awakening.stages.0.label>пробуждён</Isekai_Awakening.stages.0.label>
+  <Isekai_StoneSkin.stages.0.label>укреплён</Isekai_StoneSkin.stages.0.label>
+  <Isekai_EarthSense.stages.0.label>чувствует</Isekai_EarthSense.stages.0.label>
+  <Isekai_KnockedDown.stages.0.label>сбит с ног</Isekai_KnockedDown.stages.0.label>
+  <Isekai_MountainsEmbrace.stages.0.label>укрыт</Isekai_MountainsEmbrace.stages.0.label>
+  <Isekai_AvatarOfStone.stages.0.label>аватар</Isekai_AvatarOfStone.stages.0.label>
+  <Isekai_GlacialArmor.stages.0.label>бронирован</Isekai_GlacialArmor.stages.0.label>
+  <Isekai_Chilled.stages.0.label>охлаждён</Isekai_Chilled.stages.0.label>
+  <Isekai_Frostbitten.stages.0.label>заморожен</Isekai_Frostbitten.stages.0.label>
+  <Isekai_IcePrison.stages.0.label>заключён</Isekai_IcePrison.stages.0.label>
+  <Isekai_DeepFreeze.stages.0.label>заморожен</Isekai_DeepFreeze.stages.0.label>
+  <Isekai_IceShield.stages.0.label>защищён</Isekai_IceShield.stages.0.label>
+  <Isekai_SoothingBreeze.stages.0.label>освежён</Isekai_SoothingBreeze.stages.0.label>
+  <Isekai_AbsoluteZero.stages.0.label>полностью заморожен</Isekai_AbsoluteZero.stages.0.label>
+  <Isekai_InnerFire.stages.0.label>горит</Isekai_InnerFire.stages.0.label>
+  <Isekai_BurningInferno.stages.0.label>инфернальный</Isekai_BurningInferno.stages.0.label>
+  <Isekai_FlameShield.stages.0.label>защищён</Isekai_FlameShield.stages.0.label>
+  <Isekai_BlazingSpeed.stages.0.label>пылающий</Isekai_BlazingSpeed.stages.0.label>
+  <Isekai_PhoenixBlessing.stages.0.label>благословлён</Isekai_PhoenixBlessing.stages.0.label>
+  <Isekai_Shocked.stages.0.label>в судорогах</Isekai_Shocked.stages.0.label>
+  <Isekai_AMP.stages.0.label>усилен</Isekai_AMP.stages.0.label>
+  <Isekai_Electrified.stages.0.label>заряжен</Isekai_Electrified.stages.0.label>
+  <Isekai_Overcharged.stages.0.label>сверхзаряжен</Isekai_Overcharged.stages.0.label>
+  <Isekai_Stunned.stages.0.label>выведен из строя</Isekai_Stunned.stages.0.label>
+  <Isekai_ElectricField.stages.0.label>наэлектризован</Isekai_ElectricField.stages.0.label>
+  <Isekai_StormAvatar.stages.0.label>аватар</Isekai_StormAvatar.stages.0.label>
+  <Isekai_Blessed.stages.0.label>благословлён</Isekai_Blessed.stages.0.label>
+  <Isekai_ShieldOfLight.stages.0.label>защищён</Isekai_ShieldOfLight.stages.0.label>
+  <Isekai_DivineProtection.stages.0.label>защищён</Isekai_DivineProtection.stages.0.label>
+  <Isekai_AvatarOfLight.stages.0.label>аватар</Isekai_AvatarOfLight.stages.0.label>
+  <Isekai_CloakedInShadows.stages.0.label>скрыт</Isekai_CloakedInShadows.stages.0.label>
+  <Isekai_Cursed.stages.0.label>поражён</Isekai_Cursed.stages.0.label>
+  <Isekai_Nightshade.stages.0.label>окутан</Isekai_Nightshade.stages.0.label>
+  <Isekai_VeiledInShadows.stages.0.label>невидим</Isekai_VeiledInShadows.stages.0.label>
+  <Isekai_MarkedForDeath.stages.0.label>помечен</Isekai_MarkedForDeath.stages.0.label>
+  <Isekai_AvatarOfShadow.stages.0.label>аватар</Isekai_AvatarOfShadow.stages.0.label>
+</LanguageData>

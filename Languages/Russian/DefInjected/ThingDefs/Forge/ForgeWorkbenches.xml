@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- ── Refinement Forge ── -->
+<Isekai_Forge.label>кузница улучшений</Isekai_Forge.label>
+<Isekai_Forge.description>Мистическая кузница, наполненная потусторонней энергией. Используется для улучшения оружия и брони до невероятных уровней силы, а также для перегонки ядер маны в чистую эссенцию маны.
+Улучшение усиливает снаряжение от +1 до +10, с возрастающим риском на высоких уровнях. Снаряжение выше +5 требует редкие ядра усиления и может быть уничтожено при неудаче.</Isekai_Forge.description>
+
+<!-- ── Mana Distillation Recipes ── -->
+<Isekai_DistillSmallManaCores.label>перегнать малые ядра маны</Isekai_DistillSmallManaCores.label>
+<Isekai_DistillSmallManaCores.description>Перегнать 3 малых ядра маны в 1 флакон чистой эссенции маны.</Isekai_DistillSmallManaCores.description>
+<Isekai_DistillSmallManaCores.jobString>Перегонка ядер маны.</Isekai_DistillSmallManaCores.jobString>
+
+<Isekai_DistillManaCores.label>перегнать ядра маны</Isekai_DistillManaCores.label>
+<Isekai_DistillManaCores.description>Перегнать 1 ядро маны в 2 флакона чистой эссенции маны.</Isekai_DistillManaCores.description>
+<Isekai_DistillManaCores.jobString>Перегонка ядер маны.</Isekai_DistillManaCores.jobString>
+
+<Isekai_DistillBigManaCores.label>перегнать большое ядро маны</Isekai_DistillBigManaCores.label>
+<Isekai_DistillBigManaCores.description>Перегнать 1 большое ядро маны в 5 флаконов чистой эссенции маны. Значительная часть магической энергии теряется в процессе, но полученная эссенция бесценна для создания рун.</Isekai_DistillBigManaCores.description>
+<Isekai_DistillBigManaCores.jobString>Перегонка большого ядра маны.</Isekai_DistillBigManaCores.jobString>
+
+<Isekai_DistillHugeManaCores.label>перегнать огромное ядро маны</Isekai_DistillHugeManaCores.label>
+<Isekai_DistillHugeManaCores.description>Перегнать 1 огромное ядро маны в 12 флаконов чистой эссенции маны. Огромная магическая энергия даёт выдающийся выход, однако поглощение ядра напрямую дало бы куда больше сырой силы.</Isekai_DistillHugeManaCores.description>
+<Isekai_DistillHugeManaCores.jobString>Перегонка огромного ядра маны.</Isekai_DistillHugeManaCores.jobString>
+
+<!-- ── Runic Station ── -->
+<Isekai_RunicStation.label>руническая станция</Isekai_RunicStation.label>
+<Isekai_RunicStation.description>Арканическая рабочая станция, покрытая древними рунами. Используется для создания магических рун из эссенции маны и их вставки в оружие и броню, наделяя их мощными зачарованиями.
+Оружие может содержать до 2 рун. Броня может содержать до 3 рун. Извлечение вставленной руны уничтожает её.</Isekai_RunicStation.description>
+
+<Isekai_DoBillsForge.label>очищение в кузнице</Isekai_DoBillsForge.label>
+<Isekai_DoBillsForge.verb>очищать</Isekai_DoBillsForge.verb>
+<Isekai_DoBillsForge.gerund>очищение в кузнице</Isekai_DoBillsForge.gerund>
+
+<Isekai_DoBillsRunicStation.label>создание на руническом верстаке</Isekai_DoBillsRunicStation.label>
+<Isekai_DoBillsRunicStation.verb>создавать</Isekai_DoBillsRunicStation.verb>
+<Isekai_DoBillsRunicStation.gerund>создание рун на руническом верстаке</Isekai_DoBillsRunicStation.gerund>
+
+</LanguageData>

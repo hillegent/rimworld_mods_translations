@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Isekai Protagonist -->
+  <Isekai_ProtagonistStart.label>исекай-протагонист</Isekai_ProtagonistStart.label>
+  <!-- EN: You awaken alone on an unknown rimworld with nothing but the overwhelming power of a Protagonist.\n\nWith x10 XP gain and bonus stat points every level, you'll rise from nothing to conquer the Rim — if you can survive long enough. -->
+  <Isekai_ProtagonistStart.description>Вы просыпаетесь в одиночестве на неизвестном окраинном мире. У вас нет ничего, кроме подавляющей силы Протагониста.\n\nОпыт растёт в 10 раз быстрее, каждый уровень приносит дополнительные очки характеристик, а значит, вы сможете подняться из ниоткуда и покорить Рим — если проживете достаточно долго.</Isekai_ProtagonistStart.description>
+  <!-- EN: You awaken alone on an unknown rimworld with nothing but the overwhelming power of a Protagonist.\n\nWith x10 XP gain and bonus stat points every level, you'll rise from nothing to conquer the Rim — if you can survive long enough. -->
+  <Isekai_ProtagonistStart.scenario.description>Вы просыпаетесь в одиночестве на неизвестном окраинном мире. У вас нет ничего, кроме подавляющей силы Протагониста.\n\nОпыт растёт в 10 раз быстрее, каждый уровень приносит дополнительные очки характеристик, а значит, вы сможете подняться из ниоткуда и покорить Рим — если проживете достаточно долго.</Isekai_ProtagonistStart.scenario.description>
+  <!-- EN: Isekai Protagonist -->
+  <Isekai_ProtagonistStart.scenario.name>Исекай-протагонист</Isekai_ProtagonistStart.scenario.name>
+  <!-- EN: One protagonist, no supplies, limitless potential. -->
+  <Isekai_ProtagonistStart.scenario.summary>Один протагонист, никаких припасов, безграничный потенциал.</Isekai_ProtagonistStart.scenario.summary>
+  <!-- EN: A blinding light. A rush of wind. The world spins.\n\nYou open your eyes to find yourself on an unknown rimworld — no memories of how you got here, no supplies, no allies. Just the raw, overwhelming power surging through your veins.\n\nYou are the Protagonist. Rise from nothing, grow stronger with every challenge, and carve your legend into this world. -->
+  <Isekai_ProtagonistStart.scenario.parts.GameStartDialog.text>Ослепительный свет. Порыв ветра. Мир кружится перед глазами.\n\nВы открываете глаза и обнаруживаете себя на неизвестном окраинном мире — без воспоминаний о том, как попали сюда, без припасов, без союзников. Только необузданная, подавляющая сила, бурлящая в ваших венах.\n\nВы — Протагонист. Поднимитесь из ничего, становитесь сильнее с каждым испытанием и высеките свою легенду в этом мире.</Isekai_ProtagonistStart.scenario.parts.GameStartDialog.text>
+  <Isekai_ProtagonistStart.scenario.parts.6.text>Ослепительный свет. Порыв ветра. Мир кружится перед глазами.\n\nВы открываете глаза и обнаруживаете себя на неизвестном окраинном мире — без воспоминаний о том, как попали сюда, без припасов, без союзников. Только необузданная, подавляющая сила, бурлящая в ваших венах.\n\nВы — Протагонист. Поднимитесь из ничего, становитесь сильнее с каждым испытанием и высеките свою легенду в этом мире.</Isekai_ProtagonistStart.scenario.parts.6.text>
+  <Isekai_ProtagonistStart.scenario.parts.ScenPart_GameStartDialog.text>Ослепительный свет. Порыв ветра. Мир кружится перед глазами.\n\nВы открываете глаза и обнаруживаете себя на неизвестном окраинном мире — без воспоминаний о том, как попали сюда, без припасов, без союзников. Только необузданная, подавляющая сила, бурлящая в ваших венах.\n\nВы — Протагонист. Поднимитесь из ничего, становитесь сильнее с каждым испытанием и высеките свою легенду в этом мире.</Isekai_ProtagonistStart.scenario.parts.ScenPart_GameStartDialog.text>
+
+</LanguageData>

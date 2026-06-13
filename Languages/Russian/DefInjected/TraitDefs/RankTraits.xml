@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Isekai_Rank_F.degreeDatas.0.label>Ранг F</Isekai_Rank_F.degreeDatas.0.label>
+  <Isekai_Rank_F.degreeDatas.0.description>Этот персонаж признан обладателем ранга F — самой слабой классификации. Другие смотрят на него с жалостью или презрением, и его присутствие не вызывает никакого уважения.</Isekai_Rank_F.degreeDatas.0.description>
+
+  <Isekai_Rank_E.degreeDatas.0.label>Ранг E</Isekai_Rank_E.degreeDatas.0.label>
+  <Isekai_Rank_E.degreeDatas.0.description>Этот персонаж имеет ранг E — ниже среднего, но не полностью бесполезный. Его часто игнорируют, и ему трудно добиться признания.</Isekai_Rank_E.degreeDatas.0.description>
+
+  <Isekai_Rank_D.degreeDatas.0.label>Ранг D</Isekai_Rank_D.degreeDatas.0.label>
+  <Isekai_Rank_D.degreeDatas.0.description>Этот персонаж имеет ранг D — совершенно обычный. Он не выделяется и не отстаёт, просто растворяясь в толпе.</Isekai_Rank_D.degreeDatas.0.description>
+
+  <Isekai_Rank_C.degreeDatas.0.label>Ранг C</Isekai_Rank_C.degreeDatas.0.label>
+  <Isekai_Rank_C.degreeDatas.0.description>Этот персонаж признан обладателем ранга C — компетентным человеком, превосходящим большинство. Он пользуется умеренным уважением и считается надёжным.</Isekai_Rank_C.degreeDatas.0.description>
+
+  <Isekai_Rank_B.degreeDatas.0.label>Ранг B</Isekai_Rank_B.degreeDatas.0.label>
+  <Isekai_Rank_B.degreeDatas.0.description>Этот персонаж достиг ранга B — опытный ветеран, достойный уважения. Его репутация идёт впереди него, и окружающие относятся к нему с почтением.</Isekai_Rank_B.degreeDatas.0.description>
+
+  <Isekai_Rank_A.degreeDatas.0.label>Ранг A</Isekai_Rank_A.degreeDatas.0.label>
+  <Isekai_Rank_A.degreeDatas.0.description>Этот персонаж — элита ранга A, один из лучших среди существующих. Само его присутствие привлекает внимание, а от него исходит аура силы и авторитета, с которой мало кто может сравниться.</Isekai_Rank_A.degreeDatas.0.description>
+
+  <Isekai_Rank_S.degreeDatas.0.label>Ранг S</Isekai_Rank_S.degreeDatas.0.label>
+  <Isekai_Rank_S.degreeDatas.0.description>Этот персонаж обладает легендарным рангом S — героем невероятной силы. Его имя произносят с благоговением, а один его взгляд способен заставить замолчать целую комнату. В его присутствии другие чувствуют себя смиренными.</Isekai_Rank_S.degreeDatas.0.description>
+
+  <Isekai_Rank_SS.degreeDatas.0.label>Ранг SS</Isekai_Rank_SS.degreeDatas.0.label>
+  <Isekai_Rank_SS.degreeDatas.0.description>Этот персонаж превзошёл обычные пределы и достиг ранга SS — полубога среди смертных. Его сила достойна легенд, и целые нации готовы заплатить любую цену за его верность. От него исходит неземное величие.</Isekai_Rank_SS.degreeDatas.0.description>
+
+  <Isekai_Rank_SSS.degreeDatas.0.label>Ранг SSS</Isekai_Rank_SSS.degreeDatas.0.label>
+  <Isekai_Rank_SSS.degreeDatas.0.description>Этот персонаж достиг невозможного — ранга SSS, абсолютной вершины существования. Он подобен богу среди смертных, его сила выходит за пределы понимания. Королевства готовы пасть ради обладания им, а само его существование меняет мир вокруг.</Isekai_Rank_SSS.degreeDatas.0.description>
+
+</LanguageData>

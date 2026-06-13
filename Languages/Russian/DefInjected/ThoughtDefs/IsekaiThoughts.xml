@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Isekai_AntagonistPresence.label>тревожное присутствие</Isekai_AntagonistPresence.label>
+<Isekai_AntagonistPresence.description>Что-то в {0} внушает мне ужас. От одного их присутствия веет зловещей силой.</Isekai_AntagonistPresence.description>
+
+<Isekai_SummonedHeroDisplacement.label>оторван от дома</Isekai_SummonedHeroDisplacement.label>
+<Isekai_SummonedHeroDisplacement.description>Меня вырвали из моего мира, чтобы сделать чьим-то героем. Я никогда об этом не просил.</Isekai_SummonedHeroDisplacement.description>
+
+<Isekai_LuckyMood.label>чувствую удачу</Isekai_LuckyMood.label>
+<Isekai_LuckyMood.description>Сегодня у меня хорошее предчувствие. Похоже, всё всегда складывается в мою пользу.</Isekai_LuckyMood.description>
+
+<Isekai_CursedMood.label>проклят судьбой</Isekai_CursedMood.label>
+<Isekai_CursedMood.description>Неудачи преследуют меня повсюду. Чувствую, что скоро снова случится что-то плохое.</Isekai_CursedMood.description>
+
+<Isekai_TouchedByDeath.label>коснулся смерти</Isekai_TouchedByDeath.label>
+<Isekai_TouchedByDeath.description>Я почувствовал холодные объятия смерти. Судьба не позволяет мне умереть, но это воспоминание всё ещё преследует меня.</Isekai_TouchedByDeath.description>
+
+<Isekai_AntagonistPresence.stages.0.label>тревожное присутствие</Isekai_AntagonistPresence.stages.0.label>
+<Isekai_AntagonistPresence.stages.0.description>Что-то в {0} внушает мне ужас. От одного их присутствия веет зловещей силой.</Isekai_AntagonistPresence.stages.0.description>
+
+<Isekai_SummonedHeroDisplacement.stages.0.label>оторван от дома</Isekai_SummonedHeroDisplacement.stages.0.label>
+<Isekai_SummonedHeroDisplacement.stages.0.description>Меня вырвали из моего мира, чтобы сделать чьим-то героем. Я никогда об этом не просил.</Isekai_SummonedHeroDisplacement.stages.0.description>
+
+<Isekai_LuckyMood.stages.0.label>чувствую удачу</Isekai_LuckyMood.stages.0.label>
+<Isekai_LuckyMood.stages.0.description>Сегодня у меня хорошее предчувствие. Похоже, всё всегда складывается в мою пользу.</Isekai_LuckyMood.stages.0.description>
+
+<Isekai_CursedMood.stages.0.label>проклят судьбой</Isekai_CursedMood.stages.0.label>
+<Isekai_CursedMood.stages.0.description>Неудачи преследуют меня повсюду. Чувствую, что скоро снова случится что-то плохое.</Isekai_CursedMood.stages.0.description>
+
+<Isekai_TouchedByDeath.stages.0.label>коснулся смерти</Isekai_TouchedByDeath.stages.0.label>
+<Isekai_TouchedByDeath.stages.0.description>Я почувствовал холодные объятия смерти. Судьба не позволяет мне умереть, но это воспоминание всё ещё преследует меня.</Isekai_TouchedByDeath.stages.0.description>
+
+</LanguageData>

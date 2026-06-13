@@ -1,0 +1,5 @@
+BuildStaging/
+Source/**/bin/
+Source/**/obj/
+*.user
+*.suo

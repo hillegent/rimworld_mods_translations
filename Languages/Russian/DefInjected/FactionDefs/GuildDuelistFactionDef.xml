@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GuildFaction_DuelistTemp.label>дуэлянт гильдии</GuildFaction_DuelistTemp.label>
+  <GuildFaction_DuelistTemp.description>Одинокий искатель приключений, бросающий вызов колонии, чтобы доказать свою ценность. Используется внутренне для дуэлей рекрутирования Гильдии.</GuildFaction_DuelistTemp.description>
+  <GuildFaction_DuelistTemp.pawnSingular>дуэлянт</GuildFaction_DuelistTemp.pawnSingular>
+  <GuildFaction_DuelistTemp.pawnsPlural>дуэлянты</GuildFaction_DuelistTemp.pawnsPlural>
+
+</LanguageData>

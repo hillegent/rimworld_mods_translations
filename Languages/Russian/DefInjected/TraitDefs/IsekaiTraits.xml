@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Isekai_Protagonist.degreeDatas.0.label>протагонист</Isekai_Protagonist.degreeDatas.0.label>
+<Isekai_Protagonist.degreeDatas.0.description>Этот персонаж — Протагонист, избранный самой судьбой. Он получает опыт с невероятной скоростью и развивается быстрее всех.\n\n• множитель опыта ×10\n• +2 дополнительных очка характеристик за уровень\n• Не может иметь: Антагонист, Регрессор, Призванный герой</Isekai_Protagonist.degreeDatas.0.description>
+
+<Isekai_Antagonist.degreeDatas.0.label>антагонист</Isekai_Antagonist.degreeDatas.0.label>
+<Isekai_Antagonist.degreeDatas.0.description>Этот персонаж идёт по пути Антагониста — внушающего страх и ненависть. Он становится сильнее через конфликт, получая огромные боевые бонусы, но само его присутствие тревожит окружающих.\n\n• множитель опыта ×8\n• +25% урон в ближнем бою\n• +10% скорость передвижения\n• -25% социальное влияние\n• -25 мнения от всех пешек\n• Не может иметь: Протагонист, Призванный герой</Isekai_Antagonist.degreeDatas.0.description>
+
+<Isekai_Reincarnated.degreeDatas.0.label>перерождённый</Isekai_Reincarnated.degreeDatas.0.label>
+<Isekai_Reincarnated.degreeDatas.0.description>Этот персонаж переродился — начал новую жизнь, сохранив воспоминания о прошлой. Его уровень и характеристики были сброшены, но прогресс созвездий сохранился, а рост стал значительно быстрее.\n\n• уровень сбрасывается до 1 и характеристики к базовым («Новая игра+»)\n• множитель опыта ×5\n• +10 дополнительных звёздных очков\n• +1 звёздное очко каждые 3 уровня вместо 5\n• прогресс созвездий сохраняется\n• Не может иметь: Протагонист, Антагонист, Пустое ядро</Isekai_Reincarnated.degreeDatas.0.description>
+
+<Isekai_Regressor.degreeDatas.0.label>регрессор</Isekai_Regressor.degreeDatas.0.label>
+<Isekai_Regressor.degreeDatas.0.description>Этот персонаж пережил регрессию — вернулся в прошлое с обрывками знаний о будущем. Он быстрее набирает уровни и может в любой момент бесплатно перераспределять созвездие.\n\n• множитель опыта ×4\n• бесплатный сброс созвездия\n• Не может иметь: Протагонист</Isekai_Regressor.degreeDatas.0.description>
+
+<Isekai_SummonedHero.degreeDatas.0.label>призванный герой</Isekai_SummonedHero.degreeDatas.0.label>
+<Isekai_SummonedHero.degreeDatas.0.description>Этот персонаж был призван из другого мира как герой. Он быстро становится сильнее и устойчив к ментальным срывам, но тоска по родному миру давит на него.\n\n• множитель опыта ×3\n• +1 дополнительное очко характеристик за уровень\n• высокая устойчивость к ментальным срывам\n• +25% социальное влияние\n• -8 настроение (тоска по дому)\n• Не может иметь: Протагонист, Антагонист</Isekai_SummonedHero.degreeDatas.0.description>
+
+<Isekai_NaturalTalent.degreeDatas.0.label>врождённый талант</Isekai_NaturalTalent.degreeDatas.0.label>
+<Isekai_NaturalTalent.degreeDatas.0.description>Рождён с выдающимся скрытым потенциалом. Получает дополнительные звёздные очки при повышении уровня, что позволяет открывать больше узлов созвездия.\n\n• +1 дополнительное звёздное очко каждые 5 уровней (2 вместо 1)</Isekai_NaturalTalent.degreeDatas.0.description>
+
+<Isekai_Prodigy.degreeDatas.0.label>вундеркинд</Isekai_Prodigy.degreeDatas.0.label>
+<Isekai_Prodigy.degreeDatas.0.description>Гений, который усваивает знания с поразительной скоростью. Его разум работает на совершенно ином уровне.\n\n• множитель опыта ×2\n• +50% скорость исследований</Isekai_Prodigy.degreeDatas.0.description>
+
+<Isekai_LateBloomer.degreeDatas.0.label>поздний расцвет</Isekai_LateBloomer.degreeDatas.0.label>
+<Isekai_LateBloomer.degreeDatas.0.description>Начинает медленно, но со временем становится неудержимым. Получение опыта резко увеличивается с ростом уровня.\n\n• уровни 1–10: ×0,5 опыта\n• уровни 11–25: ×1,0 опыта\n• уровни 26–50: ×1,5 опыта\n• уровни 51–100: ×2,0 опыта\n• уровни 101+: ×3,0 опыта</Isekai_LateBloomer.degreeDatas.0.description>
+
+<Isekai_QuickLearner.degreeDatas.0.label>быстро обучается</Isekai_QuickLearner.degreeDatas.0.label>
+<Isekai_QuickLearner.degreeDatas.0.description>Развивается и становится сильнее быстрее большинства. Надёжное преимущество в любой ситуации.\n\n• множитель опыта ×1,5</Isekai_QuickLearner.degreeDatas.0.description>
+
+<Isekai_SlowGrind.degreeDatas.0.label>медленное развитие</Isekai_SlowGrind.degreeDatas.0.label>
+<Isekai_SlowGrind.degreeDatas.0.description>Повышает уровни медленно, но извлекает максимум из каждого уровня.\n\n• множитель опыта ×0,5\n• +2 дополнительных очка характеристик за уровень</Isekai_SlowGrind.degreeDatas.0.description>
+
+<Isekai_PowerSpike.degreeDatas.0.label>всплеск силы</Isekai_PowerSpike.degreeDatas.0.label>
+<Isekai_PowerSpike.degreeDatas.0.description>Испытывает резкие всплески силы через равные промежутки времени.\n\n• +5 дополнительных очков характеристик каждые 10 уровней</Isekai_PowerSpike.degreeDatas.0.description>
+
+<Isekai_AwakenedPotential.degreeDatas.0.label>пробуждённый потенциал</Isekai_AwakenedPotential.degreeDatas.0.label>
+<Isekai_AwakenedPotential.degreeDatas.0.description>Скрытая сила пробуждается на 25 уровне, значительно усиливая все характеристики.\n\n• ниже 25 уровня: -10% ко всем характеристикам\n• 25 уровень+: +50% эффективности характеристик</Isekai_AwakenedPotential.degreeDatas.0.description>
+
+<Isekai_Genius.degreeDatas.0.label>гений</Isekai_Genius.degreeDatas.0.label>
+<Isekai_Genius.degreeDatas.0.description>Выдающийся интеллект в посредственном теле.\n\n• рост ИНТ и МДР удвоен\n• рост СИЛ и ВЫН уменьшен вдвое</Isekai_Genius.degreeDatas.0.description>
+
+<Isekai_BattleManiac.degreeDatas.0.label>боевой маньяк</Isekai_BattleManiac.degreeDatas.0.label>
+<Isekai_BattleManiac.degreeDatas.0.description>Живёт только ради битвы.\n\n• ×3 боевой опыт\n• ×0,1 опыт за работу и социальные действия\n• +15% шанс уклонения в ближнем бою</Isekai_BattleManiac.degreeDatas.0.description>
+
+<Isekai_BerserkerBlood.degreeDatas.0.label>кровь берсерка</Isekai_BerserkerBlood.degreeDatas.0.label>
+<Isekai_BerserkerBlood.degreeDatas.0.description>Когда ранен, впадает в первобытную ярость.\n\n• ниже 50% здоровья: +30% урон ближнего боя, +15% скорость\n• ниже 25% здоровья: +60% урон ближнего боя, +30% скорость\n• -10% порог ментального срыва</Isekai_BerserkerBlood.degreeDatas.0.description>
+
+<Isekai_IronWill.degreeDatas.0.label>железная воля</Isekai_IronWill.degreeDatas.0.label>
+<Isekai_IronWill.degreeDatas.0.description>Несокрушимый разум, закалённый испытаниями.\n\n• -25% порог ментального срыва\n• +30% порог болевого шока\n• -20% социальное влияние</Isekai_IronWill.degreeDatas.0.description>
+
+<Isekai_GlassCannon.degreeDatas.0.label>стеклянная пушка</Isekai_GlassCannon.degreeDatas.0.label>
+<Isekai_GlassCannon.degreeDatas.0.description>Разрушительная сила в хрупком теле.\n\n• +50% урон ближнего боя\n• +30% эффективность дальнего боя\n• эффективность ВЫН снижена вдвое</Isekai_GlassCannon.degreeDatas.0.description>
+
+<Isekai_Fortress.degreeDatas.0.label>крепость</Isekai_Fortress.degreeDatas.0.label>
+<Isekai_Fortress.degreeDatas.0.description>Неподвижная оборонительная стена.\n\n• +20% естественная броня\n• -25% скорость передвижения\n• -20% урон ближнего боя</Isekai_Fortress.degreeDatas.0.description>
+
+<Isekai_ShadowStep.degreeDatas.0.label>шаг тени</Isekai_ShadowStep.degreeDatas.0.label>
+<Isekai_ShadowStep.degreeDatas.0.description>Двигается как тень.\n\n• +25% скорость\n• +20% шанс уклонения в ближнем бою\n• -10% урон ближнего боя</Isekai_ShadowStep.degreeDatas.0.description>
+
+<Isekai_PredatorInstinct.degreeDatas.0.label>инстинкт хищника</Isekai_PredatorInstinct.degreeDatas.0.label>
+<Isekai_PredatorInstinct.degreeDatas.0.description>Врождённое чувство боя и опасности.\n\n• +15% шанс попадания в ближнем бою\n• +15% точность стрельбы\n• -15% шанс срабатывания ловушек</Isekai_PredatorInstinct.degreeDatas.0.description>
+
+<Isekai_Undying.degreeDatas.0.label>бессмертный</Isekai_Undying.degreeDatas.0.label>
+<Isekai_Undying.degreeDatas.0.description>Судьба отказывается позволить ему умереть.\n\n• переживает смертельный удар раз в 3 дня\n• +20% порог болевого шока\n• -5 настроение после срабатывания</Isekai_Undying.degreeDatas.0.description>
+
+<Isekai_Mighty.degreeDatas.0.label>могучий</Isekai_Mighty.degreeDatas.0.label>
+<Isekai_Mighty.degreeDatas.0.description>Одарён исключительной физической силой, но лишён тонкости.\n\n• эффективность СИЛ ×1,5\n• эффективность ЛОВ ×0,75</Isekai_Mighty.degreeDatas.0.description>
+
+<Isekai_Agile.degreeDatas.0.label>ловкий</Isekai_Agile.degreeDatas.0.label>
+<Isekai_Agile.degreeDatas.0.description>Грациозный и быстрый с отличными рефлексами, но физически слабее.\n\n• эффективность ЛОВ ×1,5\n• эффективность СИЛ ×0,75</Isekai_Agile.degreeDatas.0.description>
+
+<Isekai_Resilient.degreeDatas.0.label>стойкий</Isekai_Resilient.degreeDatas.0.label>
+<Isekai_Resilient.degreeDatas.0.description>Железное телосложение, которое не поражают удары, способные повергнуть других, но духовно притуплён.\n\n• эффективность ВЫН ×1,5\n• эффективность МДР ×0,75</Isekai_Resilient.degreeDatas.0.description>
+
+<Isekai_Brilliant.degreeDatas.0.label>блестящий</Isekai_Brilliant.degreeDatas.0.label>
+<Isekai_Brilliant.degreeDatas.0.description>Острый аналитический ум, быстро обрабатывает информацию, но социально неловкий.\n\n• эффективность ИНТ ×1,5\n• эффективность ХАР ×0,75</Isekai_Brilliant.degreeDatas.0.description>
+
+<Isekai_Enlightened.degreeDatas.0.label>просветлённый</Isekai_Enlightened.degreeDatas.0.label>
+<Isekai_Enlightened.degreeDatas.0.description>Глубоко восприимчивый и духовно настроенный. Великая мудрость приходит ценой физической выносливости.\n\n• эффективность МДР ×1,5\n• эффективность ВЫН ×0,75</Isekai_Enlightened.degreeDatas.0.description>
+
+<Isekai_SilverTongue.degreeDatas.0.label>серебряный язык</Isekai_SilverTongue.degreeDatas.0.label>
+<Isekai_SilverTongue.degreeDatas.0.description>Врождённый лидер и дипломат, слова которого имеют вес, но не хватает аналитических способностей.\n\n• эффективность ХАР ×1,5\n• эффективность ИНТ ×0,75</Isekai_SilverTongue.degreeDatas.0.description>
+
+<Isekai_MerchantEye.degreeDatas.0.label>торговый глаз</Isekai_MerchantEye.degreeDatas.0.label>
+<Isekai_MerchantEye.degreeDatas.0.description>Врождённое чувство ценности и торговли. Всегда получает лучшие сделки.\n\n• +25% улучшение цены торговли\n• +20% способность к переговорам</Isekai_MerchantEye.degreeDatas.0.description>
+
+<Isekai_CraftsmanSoul.degreeDatas.0.label>душа ремесленника</Isekai_CraftsmanSoul.degreeDatas.0.label>
+<Isekai_CraftsmanSoul.degreeDatas.0.description>Рождённый мастер с интуитивным пониманием материалов и конструкции. Все его изделия на высоте.\n\n• +25% скорость работы (все типы)\n• +1 шанс повышения качества ремесла</Isekai_CraftsmanSoul.degreeDatas.0.description>
+
+<Isekai_BeastWhisperer.degreeDatas.0.label>шёпот зверей</Isekai_BeastWhisperer.degreeDatas.0.label>
+<Isekai_BeastWhisperer.degreeDatas.0.description>Имеет необычную связь с животными. Все существа тянутся к нему, приручение и обучение просты.\n\n• +40% шанс приручения животных\n• +30% шанс обучения животных\n• +25% урожай от животных\n• Животные не атакуют без причины</Isekai_BeastWhisperer.degreeDatas.0.description>
+
+<Isekai_HealerTouch.degreeDatas.0.label>рука целителя</Isekai_HealerTouch.degreeDatas.0.label>
+<Isekai_HealerTouch.degreeDatas.0.description>Исцеление течёт через его руки словно магия. Медицинские навыки превосходят любые тренировки.\n\n• +30% качество лечения\n• +25% шанс успеха хирургии\n• +20% скорость восстановления иммунитета</Isekai_HealerTouch.degreeDatas.0.description>
+
+<Isekai_Lucky.degreeDatas.0.label>везунчик</Isekai_Lucky.degreeDatas.0.label>
+<Isekai_Lucky.degreeDatas.0.description>Судьба благоволит ему. Хорошие события происходят вокруг постоянно.\n\n• +15% успех операций\n• +10% точность стрельбы\n• +10% цены торговли\n• +5 настроение (чувство удачи)</Isekai_Lucky.degreeDatas.0.description>
+
+<Isekai_CursedLuck.degreeDatas.0.label>проклятая удача</Isekai_CursedLuck.degreeDatas.0.label>
+<Isekai_CursedLuck.degreeDatas.0.description>Его преследует ужасная удача, но он процветает в невзгодах. Несчастья усиливают его.\n\n• ×2 к опыту\n• -15% успех операций\n• -10% цены торговли\n• +20% урон ближнего боя\n• -5 настроение (проклят судьбой)</Isekai_CursedLuck.degreeDatas.0.description>
+
+<Isekai_SystemGlitch.degreeDatas.0.label>сбой системы</Isekai_SystemGlitch.degreeDatas.0.label>
+<Isekai_SystemGlitch.degreeDatas.0.description>Связь с системой уровней повреждена. Быстро получает опыт, но характеристики непредсказуемы.\n\n• ×2 к опыту\n• Характеристики случайно меняются каждые 5 дней\n• Ручное распределение характеристик отключено</Isekai_SystemGlitch.degreeDatas.0.description>
+
+<Isekai_HollowCore.degreeDatas.0.label>пустое ядро</Isekai_HollowCore.degreeDatas.0.label>
+<Isekai_HollowCore.degreeDatas.0.description>Духовное ядро разрушено — может использовать силу, но не формирует навыки созвездий.\n\n• ×3 к опыту\n• Невозможно открыть узлы созвездий\n• Очки звёзд не получаются</Isekai_HollowCore.degreeDatas.0.description>
+
+<Isekai_FragileVessel.degreeDatas.0.label>хрупкий сосуд</Isekai_FragileVessel.degreeDatas.0.label>
+<Isekai_FragileVessel.degreeDatas.0.description>Тело не выдерживает силу. Растёт быстро, но физическая форма страдает.\n\n• ×2,5 к опыту\n• -50% максимального здоровья\n• эффективность ВЫН снижена вдвое</Isekai_FragileVessel.degreeDatas.0.description>
+
+<Isekai_EchoOfDefeat.degreeDatas.0.label>эхо поражения</Isekai_EchoOfDefeat.degreeDatas.0.label>
+<Isekai_EchoOfDefeat.degreeDatas.0.description>Становится сильнее через поражения. Каждое поражение питает решимость.\n\n• Постоянный +10% к опыту\n• ×2 к опыту в течение 3 дней после поражения\n• -5% урон ближнего боя</Isekai_EchoOfDefeat.degreeDatas.0.description>
+
+<Isekai_SealedPower.degreeDatas.0.label>запечатанная сила</Isekai_SealedPower.degreeDatas.0.label>
+<Isekai_SealedPower.degreeDatas.0.description>Огромная сила запечатана. Слаб и ограничен до 25 уровня, затем мощный всплеск.\n\n• До уровня 25: -30% ко всем характеристикам, без очков звёзд\n• На уровне 25: печать снимается!\n• После уровня 25: двойные очки характеристик за уровень, +2 очка звёзд каждые 5 уровней</Isekai_SealedPower.degreeDatas.0.description>
+
+</LanguageData>

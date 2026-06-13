@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Isekai_CreatureStats.label>исекай</Isekai_CreatureStats.label>
+
+  <Isekai_CreatureRank.label>ранг существа</Isekai_CreatureRank.label>
+  <Isekai_CreatureRank.description>Ранг исекая этого существа — от F (самый слабый) до Национального (мировой босс). Более высокие ранги обладают лучшими характеристиками и представляют большую угрозу.</Isekai_CreatureRank.description>
+
+  <Isekai_CreatureLevel.label>уровень существа</Isekai_CreatureLevel.label>
+  <Isekai_CreatureLevel.description>Уровень исекая этого существа. Существа получают опыт и повышают уровень, когда принадлежат игроку.</Isekai_CreatureLevel.description>
+
+</LanguageData>

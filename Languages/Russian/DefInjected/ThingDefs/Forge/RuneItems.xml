@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- ── Fury Rune ── -->
+<Isekai_Rune_Fury.label>руна ярости I</Isekai_Rune_Fury.label>
+<Isekai_Rune_Fury.description>Пылающий рунический камень, ускоряющий руку своего владельца. Руна I уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Fury.description>
+
+<Isekai_Rune_Fury_II.label>руна ярости II</Isekai_Rune_Fury_II.label>
+<Isekai_Rune_Fury_II.description>Пылающий рунический камень, ускоряющий руку своего владельца. Руна II уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Fury_II.description>
+
+<Isekai_Rune_Fury_III.label>руна ярости III</Isekai_Rune_Fury_III.label>
+<Isekai_Rune_Fury_III.description>Пылающий рунический камень, ускоряющий руку своего владельца. Руна III уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Fury_III.description>
+
+<Isekai_Rune_Fury_IV.label>руна ярости IV</Isekai_Rune_Fury_IV.label>
+<Isekai_Rune_Fury_IV.description>Пылающий рунический камень, ускоряющий руку своего владельца. Руна IV уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Fury_IV.description>
+
+<Isekai_Rune_Fury_V.label>руна ярости V</Isekai_Rune_Fury_V.label>
+<Isekai_Rune_Fury_V.description>Пылающий рунический камень, ускоряющий руку своего владельца. Руна V уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Fury_V.description>
+
+<!-- ── Precision Rune ── -->
+<Isekai_Rune_Precision.label>руна меткости I</Isekai_Rune_Precision.label>
+<Isekai_Rune_Precision.description>Спокойный, сосредоточенный рунический камень, который стабилизирует прицел на расстоянии. Руна I уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Precision.description>
+
+<Isekai_Rune_Precision_II.label>руна меткости II</Isekai_Rune_Precision_II.label>
+<Isekai_Rune_Precision_II.description>Спокойный, сосредоточенный рунический камень, который стабилизирует прицел на расстоянии. Руна II уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Precision_II.description>
+
+<Isekai_Rune_Precision_III.label>руна меткости III</Isekai_Rune_Precision_III.label>
+<Isekai_Rune_Precision_III.description>Спокойный, сосредоточенный рунический камень, который стабилизирует прицел на расстоянии. Руна III уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Precision_III.description>
+
+<Isekai_Rune_Precision_IV.label>руна меткости IV</Isekai_Rune_Precision_IV.label>
+<Isekai_Rune_Precision_IV.description>Спокойный, сосредоточенный рунический камень, который стабилизирует прицел на расстоянии. Руна IV уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Precision_IV.description>
+
+<Isekai_Rune_Precision_V.label>руна меткости V</Isekai_Rune_Precision_V.label>
+<Isekai_Rune_Precision_V.description>Спокойный, сосредоточенный рунический камень, который стабилизирует прицел на расстоянии. Руна V уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Precision_V.description>
+
+
+<!-- ── Vampirism Rune ── -->
+<Isekai_Rune_Vampirism.label>руна вампиризма I</Isekai_Rune_Vampirism.label>
+<Isekai_Rune_Vampirism.description>Тёмно-алый рунический камень, который отнимает жизнь у поражённых врагов. Руна I уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Vampirism.description>
+
+<Isekai_Rune_Vampirism_II.label>руна вампиризма II</Isekai_Rune_Vampirism_II.label>
+<Isekai_Rune_Vampirism_II.description>Тёмно-алый рунический камень, который отнимает жизнь у поражённых врагов. Руна II уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Vampirism_II.description>
+
+<Isekai_Rune_Vampirism_III.label>руна вампиризма III</Isekai_Rune_Vampirism_III.label>
+<Isekai_Rune_Vampirism_III.description>Тёмно-алый рунический камень, который отнимает жизнь у поражённых врагов. Руна III уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Vampirism_III.description>
+
+<Isekai_Rune_Vampirism_IV.label>руна вампиризма IV</Isekai_Rune_Vampirism_IV.label>
+<Isekai_Rune_Vampirism_IV.description>Тёмно-алый рунический камень, который отнимает жизнь у поражённых врагов. Руна IV уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Vampirism_IV.description>
+
+<Isekai_Rune_Vampirism_V.label>руна вампиризма V</Isekai_Rune_Vampirism_V.label>
+<Isekai_Rune_Vampirism_V.description>Тёмно-алый рунический камень, который отнимает жизнь у поражённых врагов. Руна V уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Vampirism_V.description>
+
+<!-- ── Thunder Rune ── -->
+<Isekai_Rune_Thunder.label>руна грома I</Isekai_Rune_Thunder.label>
+<Isekai_Rune_Thunder.description>Искрящийся рунический камень молнии, который может кратковременно парализовать поражённого врага. Руна I уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Thunder.description>
+
+<Isekai_Rune_Thunder_II.label>руна грома II</Isekai_Rune_Thunder_II.label>
+<Isekai_Rune_Thunder_II.description>Искрящийся рунический камень молнии, который может кратковременно парализовать поражённого врага. Руна II уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Thunder_II.description>
+
+<Isekai_Rune_Thunder_III.label>руна грома III</Isekai_Rune_Thunder_III.label>
+<Isekai_Rune_Thunder_III.description>Искрящийся рунический камень молнии, который может кратковременно парализовать поражённого врага. Руна III уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Thunder_III.description>
+
+<Isekai_Rune_Thunder_IV.label>руна грома IV</Isekai_Rune_Thunder_IV.label>
+<Isekai_Rune_Thunder_IV.description>Искрящийся рунический камень молнии, который может кратковременно парализовать поражённого врага. Руна IV уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Thunder_IV.description>
+
+<Isekai_Rune_Thunder_V.label>руна грома V</Isekai_Rune_Thunder_V.label>
+<Isekai_Rune_Thunder_V.description>Искрящийся рунический камень молнии, который может кратковременно парализовать поражённого врага. Руна V уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Thunder_V.description>
+
+<!-- ── Flame Rune ── -->
+<Isekai_Rune_Flame.label>руна пламени I</Isekai_Rune_Flame.label>
+<Isekai_Rune_Flame.description>Светящийся рунический камень, окутывающий удары палящим пламенем. Руна I уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Flame.description>
+
+<Isekai_Rune_Flame_II.label>руна пламени II</Isekai_Rune_Flame_II.label>
+<Isekai_Rune_Flame_II.description>Светящийся рунический камень, окутывающий удары палящим пламенем. Руна II уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Flame_II.description>
+
+<Isekai_Rune_Flame_III.label>руна пламени III</Isekai_Rune_Flame_III.label>
+<Isekai_Rune_Flame_III.description>Светящийся рунический камень, окутывающий удары палящим пламенем. Руна III уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Flame_III.description>
+
+<Isekai_Rune_Flame_IV.label>руна пламени IV</Isekai_Rune_Flame_IV.label>
+<Isekai_Rune_Flame_IV.description>Светящийся рунический камень, окутывающий удары палящим пламенем. Руна IV уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Flame_IV.description>
+
+<Isekai_Rune_Flame_V.label>руна пламени V</Isekai_Rune_Flame_V.label>
+<Isekai_Rune_Flame_V.description>Светящийся рунический камень, окутывающий удары палящим пламенем. Руна V уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Flame_V.description>
+
+<!-- ── Frost Rune ── -->
+<Isekai_Rune_Frost.label>руна холода I</Isekai_Rune_Frost.label>
+<Isekai_Rune_Frost.description>Ледяной рунический камень, который охлаждает поражённых врагов. Руна I уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Frost.description>
+
+<Isekai_Rune_Frost_II.label>руна холода II</Isekai_Rune_Frost_II.label>
+<Isekai_Rune_Frost_II.description>Ледяной рунический камень, который охлаждает поражённых врагов. Руна II уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Frost_II.description>
+
+<Isekai_Rune_Frost_III.label>руна холода III</Isekai_Rune_Frost_III.label>
+<Isekai_Rune_Frost_III.description>Ледяной рунический камень, который охлаждает поражённых врагов. Руна III уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Frost_III.description>
+
+<Isekai_Rune_Frost_IV.label>руна холода IV</Isekai_Rune_Frost_IV.label>
+<Isekai_Rune_Frost_IV.description>Ледяной рунический камень, который охлаждает поражённых врагов. Руна IV уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Frost_IV.description>
+
+<Isekai_Rune_Frost_V.label>руна холода V</Isekai_Rune_Frost_V.label>
+<Isekai_Rune_Frost_V.description>Ледяной рунический камень, который охлаждает поражённых врагов. Руна V уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Frost_V.description>
+
+<!-- ── Sharpness Rune ── -->
+<Isekai_Rune_Sharpness.label>руна остроты I</Isekai_Rune_Sharpness.label>
+<Isekai_Rune_Sharpness.description>Острый рунический камень, который затачивает клинки, чтобы пробивать самую прочную броню. Руна I уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Sharpness.description>
+
+<Isekai_Rune_Sharpness_II.label>руна остроты II</Isekai_Rune_Sharpness_II.label>
+<Isekai_Rune_Sharpness_II.description>Острый рунический камень, который затачивает клинки, чтобы пробивать самую прочную броню. Руна II уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Sharpness_II.description>
+
+<Isekai_Rune_Sharpness_III.label>руна остроты III</Isekai_Rune_Sharpness_III.label>
+<Isekai_Rune_Sharpness_III.description>Острый рунический камень, который затачивает клинки, чтобы пробивать самую прочную броню. Руна III уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Sharpness_III.description>
+
+<Isekai_Rune_Sharpness_IV.label>руна остроты IV</Isekai_Rune_Sharpness_IV.label>
+<Isekai_Rune_Sharpness_IV.description>Острый рунический камень, который затачивает клинки, чтобы пробивать самую прочную броню. Руна IV уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Sharpness_IV.description>
+
+<Isekai_Rune_Sharpness_V.label>руна остроты V</Isekai_Rune_Sharpness_V.label>
+<Isekai_Rune_Sharpness_V.description>Острый рунический камень, который затачивает клинки, чтобы пробивать самую прочную броню. Руна V уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Sharpness_V.description>
+
+
+<!-- ── Havoc Rune ── -->
+<Isekai_Rune_Havoc.label>руна разрушения I</Isekai_Rune_Havoc.label>
+<Isekai_Rune_Havoc.description>Яростный рунический камень, который направляет разрушительную силу наружу. Руна I уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Havoc.description>
+
+<Isekai_Rune_Havoc_II.label>руна разрушения II</Isekai_Rune_Havoc_II.label>
+<Isekai_Rune_Havoc_II.description>Яростный рунический камень, который направляет разрушительную силу наружу. Руна II уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Havoc_II.description>
+
+<Isekai_Rune_Havoc_III.label>руна разрушения III</Isekai_Rune_Havoc_III.label>
+<Isekai_Rune_Havoc_III.description>Яростный рунический камень, который направляет разрушительную силу наружу. Руна III уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Havoc_III.description>
+
+<Isekai_Rune_Havoc_IV.label>руна разрушения IV</Isekai_Rune_Havoc_IV.label>
+<Isekai_Rune_Havoc_IV.description>Яростный рунический камень, который направляет разрушительную силу наружу. Руна IV уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Havoc_IV.description>
+
+<Isekai_Rune_Havoc_V.label>руна разрушения V</Isekai_Rune_Havoc_V.label>
+<Isekai_Rune_Havoc_V.description>Яростный рунический камень, который направляет разрушительную силу наружу. Руна V уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Havoc_V.description>
+
+<!-- ── Devastation Rune ── -->
+<Isekai_Rune_Devastation.label>руна опустошения I</Isekai_Rune_Devastation.label>
+<Isekai_Rune_Devastation.description>Нестабильный рунический камень, который усиливает урон дальними снарядами. Руна I уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Devastation.description>
+
+<Isekai_Rune_Devastation_II.label>руна опустошения II</Isekai_Rune_Devastation_II.label>
+<Isekai_Rune_Devastation_II.description>Нестабильный рунический камень, который усиливает урон дальними снарядами. Руна II уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Devastation_II.description>
+
+<Isekai_Rune_Devastation_III.label>руна опустошения III</Isekai_Rune_Devastation_III.label>
+<Isekai_Rune_Devastation_III.description>Нестабильный рунический камень, который усиливает урон дальними снарядами. Руна III уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Devastation_III.description>
+
+<Isekai_Rune_Devastation_IV.label>руна опустошения IV</Isekai_Rune_Devastation_IV.label>
+<Isekai_Rune_Devastation_IV.description>Нестабильный рунический камень, который усиливает урон дальними снарядами. Руна IV уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Devastation_IV.description>
+
+<Isekai_Rune_Devastation_V.label>руна опустошения V</Isekai_Rune_Devastation_V.label>
+<Isekai_Rune_Devastation_V.description>Нестабильный рунический камень, который усиливает урон дальними снарядами. Руна V уровня — вставляется в оружие на рунной станции.</Isekai_Rune_Devastation_V.description>
+
+
+<!-- ── Fortitude Rune ── -->
+<Isekai_Rune_Fortitude.label>руна стойкости I</Isekai_Rune_Fortitude.label>
+<Isekai_Rune_Fortitude.description>Прочный рунический камень, который укрепляет броню. Руна I уровня — вставляется в броню на рунной станции.</Isekai_Rune_Fortitude.description>
+
+<Isekai_Rune_Fortitude_II.label>руна стойкости II</Isekai_Rune_Fortitude_II.label>
+<Isekai_Rune_Fortitude_II.description>Прочный рунический камень, который укрепляет броню. Руна II уровня — вставляется в броню на рунной станции.</Isekai_Rune_Fortitude_II.description>
+
+<Isekai_Rune_Fortitude_III.label>руна стойкости III</Isekai_Rune_Fortitude_III.label>
+<Isekai_Rune_Fortitude_III.description>Прочный рунический камень, который укрепляет броню. Руна III уровня — вставляется в броню на рунной станции.</Isekai_Rune_Fortitude_III.description>
+
+<Isekai_Rune_Fortitude_IV.label>руна стойкости IV</Isekai_Rune_Fortitude_IV.label>
+<Isekai_Rune_Fortitude_IV.description>Прочный рунический камень, который укрепляет броню. Руна IV уровня — вставляется в броню на рунной станции.</Isekai_Rune_Fortitude_IV.description>
+
+<Isekai_Rune_Fortitude_V.label>руна стойкости V</Isekai_Rune_Fortitude_V.label>
+<Isekai_Rune_Fortitude_V.description>Прочный рунический камень, который укрепляет броню. Руна V уровня — вставляется в броню на рунной станции.</Isekai_Rune_Fortitude_V.description>
+
+
+<!-- ── Evasion Rune ── -->
+<Isekai_Rune_Evasion.label>руна уклонения I</Isekai_Rune_Evasion.label>
+<Isekai_Rune_Evasion.description>Проворный рунический камень, который делает носителя более лёгким на ногах. Руна I уровня — вставляется в броню на рунной станции.</Isekai_Rune_Evasion.description>
+
+<Isekai_Rune_Evasion_II.label>руна уклонения II</Isekai_Rune_Evasion_II.label>
+<Isekai_Rune_Evasion_II.description>Проворный рунический камень, который делает носителя более лёгким на ногах. Руна II уровня — вставляется в броню на рунной станции.</Isekai_Rune_Evasion_II.description>
+
+<Isekai_Rune_Evasion_III.label>руна уклонения III</Isekai_Rune_Evasion_III.label>
+<Isekai_Rune_Evasion_III.description>Проворный рунический камень, который делает носителя более лёгким на ногах. Руна III уровня — вставляется в броню на рунной станции.</Isekai_Rune_Evasion_III.description>
+
+<Isekai_Rune_Evasion_IV.label>руна уклонения IV</Isekai_Rune_Evasion_IV.label>
+<Isekai_Rune_Evasion_IV.description>Проворный рунический камень, который делает носителя более лёгким на ногах. Руна IV уровня — вставляется в броню на рунной станции.</Isekai_Rune_Evasion_IV.description>
+
+<Isekai_Rune_Evasion_V.label>руна уклонения V</Isekai_Rune_Evasion_V.label>
+<Isekai_Rune_Evasion_V.description>Проворный рунический камень, который делает носителя более лёгким на ногах. Руна V уровня — вставляется в броню на рунной станции.</Isekai_Rune_Evasion_V.description>
+
+
+<!-- ── Resistance Rune ── -->
+<Isekai_Rune_Resistance.label>руна сопротивления I</Isekai_Rune_Resistance.label>
+<Isekai_Rune_Resistance.description>Плотный рунический камень, который поглощает получаемый урон. Руна I уровня — вставляется в броню на рунной станции.</Isekai_Rune_Resistance.description>
+
+<Isekai_Rune_Resistance_II.label>руна сопротивления II</Isekai_Rune_Resistance_II.label>
+<Isekai_Rune_Resistance_II.description>Плотный рунический камень, который поглощает получаемый урон. Руна II уровня — вставляется в броню на рунной станции.</Isekai_Rune_Resistance_II.description>
+
+<Isekai_Rune_Resistance_III.label>руна сопротивления III</Isekai_Rune_Resistance_III.label>
+<Isekai_Rune_Resistance_III.description>Плотный рунический камень, который поглощает получаемый урон. Руна III уровня — вставляется в броню на рунной станции.</Isekai_Rune_Resistance_III.description>
+
+<Isekai_Rune_Resistance_IV.label>руна сопротивления IV</Isekai_Rune_Resistance_IV.label>
+<Isekai_Rune_Resistance_IV.description>Плотный рунический камень, который поглощает получаемый урон. Руна IV уровня — вставляется в броню на рунной станции.</Isekai_Rune_Resistance_IV.description>
+
+<Isekai_Rune_Resistance_V.label>руна сопротивления V</Isekai_Rune_Resistance_V.label>
+<Isekai_Rune_Resistance_V.description>Плотный рунический камень, который поглощает получаемый урон. Руна V уровня — вставляется в броню на рунной станции.</Isekai_Rune_Resistance_V.description>
+
+
+<!-- ── Regeneration Rune ── -->
+<Isekai_Rune_Regeneration.label>руна регенерации I</Isekai_Rune_Regeneration.label>
+<Isekai_Rune_Regeneration.description>Пульсирующий зелёный рунический камень, который ускоряет заживление ран. Руна I уровня — вставляется в броню на рунной станции.</Isekai_Rune_Regeneration.description>
+
+<Isekai_Rune_Regeneration_II.label>руна регенерации II</Isekai_Rune_Regeneration_II.label>
+<Isekai_Rune_Regeneration_II.description>Пульсирующий зелёный рунический камень, который ускоряет заживление ран. Руна II уровня — вставляется в броню на рунной станции.</Isekai_Rune_Regeneration_II.description>
+
+<Isekai_Rune_Regeneration_III.label>руна регенерации III</Isekai_Rune_Regeneration_III.label>
+<Isekai_Rune_Regeneration_III.description>Пульсирующий зелёный рунический камень, который ускоряет заживление ран. Руна III уровня — вставляется в броню на рунной станции.</Isekai_Rune_Regeneration_III.description>
+
+<Isekai_Rune_Regeneration_IV.label>руна регенерации IV</Isekai_Rune_Regeneration_IV.label>
+<Isekai_Rune_Regeneration_IV.description>Пульсирующий зелёный рунический камень, который ускоряет заживление ран. Руна IV уровня — вставляется в броню на рунной станции.</Isekai_Rune_Regeneration_IV.description>
+
+<Isekai_Rune_Regeneration_V.label>руна регенерации V</Isekai_Rune_Regeneration_V.label>
+<Isekai_Rune_Regeneration_V.description>Пульсирующий зелёный рунический камень, который ускоряет заживление ран. Руна V уровня — вставляется в броню на рунной станции.</Isekai_Rune_Regeneration_V.description>
+
+<!-- Warding Runes -->
+<Isekai_Rune_Warding.label>руна охраны I</Isekai_Rune_Warding.label>
+<Isekai_Rune_Warding.description>Успокаивающий рунический камень, который защищает разум. Руна I уровня — вставляется в броню на рунной станции.</Isekai_Rune_Warding.description>
+
+<Isekai_Rune_Warding_II.label>руна охраны II</Isekai_Rune_Warding_II.label>
+<Isekai_Rune_Warding_II.description>Успокаивающий рунический камень, который защищает разум. Руна II уровня — вставляется в броню на рунной станции.</Isekai_Rune_Warding_II.description>
+
+<Isekai_Rune_Warding_III.label>руна охраны III</Isekai_Rune_Warding_III.label>
+<Isekai_Rune_Warding_III.description>Успокаивающий рунический камень, который защищает разум. Руна III уровня — вставляется в броню на рунной станции.</Isekai_Rune_Warding_III.description>
+
+<Isekai_Rune_Warding_IV.label>руна охраны IV</Isekai_Rune_Warding_IV.label>
+<Isekai_Rune_Warding_IV.description>Успокаивающий рунический камень, который защищает разум. Руна IV уровня — вставляется в броню на рунной станции.</Isekai_Rune_Warding_IV.description>
+
+<Isekai_Rune_Warding_V.label>руна охраны V</Isekai_Rune_Warding_V.label>
+<Isekai_Rune_Warding_V.description>Успокаивающий рунический камень, который защищает разум. Руна V уровня — вставляется в броню на рунной станции.</Isekai_Rune_Warding_V.description>
+
+<!-- Vitality Runes -->
+<Isekai_Rune_Vitality.label>руна жизненной силы I</Isekai_Rune_Vitality.label>
+<Isekai_Rune_Vitality.description>Тёплый рунический камень, который укрепляет защиту от болезней. Руна I уровня — вставляется в броню на рунной станции.</Isekai_Rune_Vitality.description>
+
+<Isekai_Rune_Vitality_II.label>руна жизненной силы II</Isekai_Rune_Vitality_II.label>
+<Isekai_Rune_Vitality_II.description>Тёплый рунический камень, который укрепляет защиту от болезней. Руна II уровня — вставляется в броню на рунной станции.</Isekai_Rune_Vitality_II.description>
+
+<Isekai_Rune_Vitality_III.label>руна жизненной силы III</Isekai_Rune_Vitality_III.label>
+<Isekai_Rune_Vitality_III.description>Тёплый рунический камень, который укрепляет защиту от болезней. Руна III уровня — вставляется в броню на рунной станции.</Isekai_Rune_Vitality_III.description>
+
+<Isekai_Rune_Vitality_IV.label>руна жизненной силы IV</Isekai_Rune_Vitality_IV.label>
+<Isekai_Rune_Vitality_IV.description>Тёплый рунический камень, который укрепляет защиту от болезней. Руна IV уровня — вставляется в броню на рунной станции.</Isekai_Rune_Vitality_IV.description>
+
+<Isekai_Rune_Vitality_V.label>руна жизненной силы V</Isekai_Rune_Vitality_V.label>
+<Isekai_Rune_Vitality_V.description>Тёплый рунический камень, который укрепляет защиту от болезней. Руна V уровня — вставляется в броню на рунной станции.</Isekai_Rune_Vitality_V.description>
+
+<!-- Swiftness Runes -->
+<Isekai_Rune_Swiftness.label>руна стремительности I</Isekai_Rune_Swiftness.label>
+<Isekai_Rune_Swiftness.description>Лёгкий рунический камень, который повышает ловкость. Руна I уровня — вставляется в броню на рунной станции.</Isekai_Rune_Swiftness.description>
+
+<Isekai_Rune_Swiftness_II.label>руна стремительности II</Isekai_Rune_Swiftness_II.label>
+<Isekai_Rune_Swiftness_II.description>Лёгкий рунический камень, который повышает ловкость. Руна II уровня — вставляется в броню на рунной станции.</Isekai_Rune_Swiftness_II.description>
+
+<Isekai_Rune_Swiftness_III.label>руна стремительности III</Isekai_Rune_Swiftness_III.label>
+<Isekai_Rune_Swiftness_III.description>Лёгкий рунический камень, который повышает ловкость. Руна III уровня — вставляется в броню на рунной станции.</Isekai_Rune_Swiftness_III.description>
+
+<Isekai_Rune_Swiftness_IV.label>руна стремительности IV</Isekai_Rune_Swiftness_IV.label>
+<Isekai_Rune_Swiftness_IV.description>Лёгкий рунический камень, который повышает ловкость. Руна IV уровня — вставляется в броню на рунной станции.</Isekai_Rune_Swiftness_IV.description>
+
+<Isekai_Rune_Swiftness_V.label>руна стремительности V</Isekai_Rune_Swiftness_V.label>
+<Isekai_Rune_Swiftness_V.description>Лёгкий рунический камень, который повышает ловкость. Руна V уровня — вставляется в броню на рунной станции.</Isekai_Rune_Swiftness_V.description>
+
+<!-- Bulwark Runes -->
+<Isekai_Rune_Bulwark.label>руна бастиона I</Isekai_Rune_Bulwark.label>
+<Isekai_Rune_Bulwark.description>Массивная защитная руна, которая снижает весь получаемый урон. Руна I уровня — вставляется в броню на рунной станции.</Isekai_Rune_Bulwark.description>
+
+<Isekai_Rune_Bulwark_II.label>руна бастиона II</Isekai_Rune_Bulwark_II.label>
+<Isekai_Rune_Bulwark_II.description>Массивная защитная руна, которая снижает весь получаемый урон. Руна II уровня — вставляется в броню на рунной станции.</Isekai_Rune_Bulwark_II.description>
+
+<Isekai_Rune_Bulwark_III.label>руна бастиона III</Isekai_Rune_Bulwark_III.label>
+<Isekai_Rune_Bulwark_III.description>Массивная защитная руна, которая снижает весь получаемый урон. Руна III уровня — вставляется в броню на рунной станции.</Isekai_Rune_Bulwark_III.description>
+
+<Isekai_Rune_Bulwark_IV.label>руна бастиона IV</Isekai_Rune_Bulwark_IV.label>
+<Isekai_Rune_Bulwark_IV.description>Массивная защитная руна, которая снижает весь получаемый урон. Руна IV уровня — вставляется в броню на рунной станции.</Isekai_Rune_Bulwark_IV.description>
+
+<Isekai_Rune_Bulwark_V.label>руна бастиона V</Isekai_Rune_Bulwark_V.label>
+<Isekai_Rune_Bulwark_V.description>Массивная защитная руна, которая снижает весь получаемый урон. Руна V уровня — вставляется в броню на рунной станции.</Isekai_Rune_Bulwark_V.description>
+
+</LanguageData>
