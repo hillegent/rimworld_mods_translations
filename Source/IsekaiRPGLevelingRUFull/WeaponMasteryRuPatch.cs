@@ -18,6 +18,7 @@ namespace IsekaiRPGLevelingRUFull
             {
                 new Harmony("artas48.isekai_rpg_leveling_ru_full").PatchAll(Assembly.GetExecutingAssembly());
                 HardcodedStringTools.LocalizeSettingsTabs();
+                GuildFactionAddonRuPatch.Apply(new Harmony("artas48.isekai_rpg_leveling_ru_full.guild_addon"));
             }
             catch (Exception ex)
             {

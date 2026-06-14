@@ -15,7 +15,7 @@
 Требуется оригинальный мод:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3657580708
 
-Перевод включает интерфейс, предметы, сценарий Протагониста, мастерство оружия и созвездия/пассивные деревья.
+Перевод включает интерфейс, предметы, сценарий Протагониста, мастерство оружия, созвездия/пассивные деревья и XML-перевод аддона GUILD FACTION ADD-ON.
   </description>
 
   <modDependencies>
@@ -35,5 +35,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3657580708
   <loadAfter>
     <li>brrainz.harmony</li>
     <li>JellyCreative.IsekaiLeveling</li>
+    <li>Poupun.GuildFactionAddon</li>
   </loadAfter>
 </ModMetaData>
