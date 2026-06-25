@@ -4,7 +4,7 @@
     "entries":  [
                     {
                         "original":  "Nanochest",
-                        "translation":  "Наносундук"
+                        "translation":  "Нанохранилище"
                     },
                     {
                         "original":  "Mech Booster",
@@ -48,11 +48,11 @@
                     },
                     {
                         "original":  "Nanochest Storage",
-                        "translation":  "Хранилище наносундука"
+                        "translation":  "Вместимость нанохранилища"
                     },
                     {
                         "original":  "Max Items per Cell (1-9999):",
-                        "translation":  "Макс. предметов в клетке (1-9999):"
+                        "translation":  "Макс. предметов в стопке (1-9999):"
                     },
                     {
                         "original":  "If it doesn\u0027t work right away, try saving and loading your game.",
