@@ -25,7 +25,7 @@ namespace NanotechOverpowerRuFull
     {
         private static readonly string[] TranslatedTabs =
         {
-            "Наносундук",
+            "Нанохранилище",
             "Бустер механоидов",
             "Обелиск (осн.)",
             "Обелиск (цели)",

@@ -16,9 +16,9 @@
   <InstallNT_NanoserumImplant.description>ввести наносыворотку</InstallNT_NanoserumImplant.description>
   <InstallNT_NanoserumImplant.jobString>вводит наносыворотку.</InstallNT_NanoserumImplant.jobString>
   <InstallNT_NanoserumImplant.label>установить наносыворотку</InstallNT_NanoserumImplant.label>
-  <InstallNullBiteImplant.description>установить имплант нулевого укуса</InstallNullBiteImplant.description>
-  <InstallNullBiteImplant.jobString>Имплантирует имплант нулевого укуса.</InstallNullBiteImplant.jobString>
-  <InstallNullBiteImplant.label>установить имплант нулевого укуса</InstallNullBiteImplant.label>
+  <InstallNullBiteImplant.description>установить имплант вечной сытости</InstallNullBiteImplant.description>
+  <InstallNullBiteImplant.jobString>Имплантирует имплант вечной сытости.</InstallNullBiteImplant.jobString>
+  <InstallNullBiteImplant.label>установить имплант вечной сытости</InstallNullBiteImplant.label>
   <InstallPsykerImplant.description>ввести имплант псайкера</InstallPsykerImplant.description>
   <InstallPsykerImplant.jobString>вводит имплант псайкера.</InstallPsykerImplant.jobString>
   <InstallPsykerImplant.label>установить имплант псайкера</InstallPsykerImplant.label>
@@ -1156,9 +1156,9 @@
   <RemoveNT_NanoSerum.description>Извлекает наносыворотку</RemoveNT_NanoSerum.description>
   <RemoveNT_NanoSerum.jobString>Извлекает наносыворотку.</RemoveNT_NanoSerum.jobString>
   <RemoveNT_NanoSerum.label>извлечь наносыворотку</RemoveNT_NanoSerum.label>
-  <RemoveNullBiteImplant.description>Извлечение имплантата нулевого укуса</RemoveNullBiteImplant.description>
-  <RemoveNullBiteImplant.jobString>Извлечение имплантата нулевого укуса.</RemoveNullBiteImplant.jobString>
-  <RemoveNullBiteImplant.label>извлечь имплант нулевого укуса</RemoveNullBiteImplant.label>
+  <RemoveNullBiteImplant.description>Извлечение имплантата вечной сытости</RemoveNullBiteImplant.description>
+  <RemoveNullBiteImplant.jobString>Извлечение имплантата вечной сытости.</RemoveNullBiteImplant.jobString>
+  <RemoveNullBiteImplant.label>извлечь имплант вечной сытости</RemoveNullBiteImplant.label>
   <RemovePsykerImplant.description>Извлекает имплант псайкера.</RemovePsykerImplant.description>
   <RemovePsykerImplant.jobString>Извлекает имплант псайкера.</RemovePsykerImplant.jobString>
   <RemovePsykerImplant.label>извлечь имплант псайкера</RemovePsykerImplant.label>

@@ -24,8 +24,8 @@
   <NanoMechBoost.description>Скайнет растет.</NanoMechBoost.description>
   <NanoMechBoost.label>нанотехнологический механоидный буст</NanoMechBoost.label>
   <NullBiteImplant.description>Нет тебе больше еды, приятель</NullBiteImplant.description>
-  <NullBiteImplant.label>имплант нулевого укуса</NullBiteImplant.label>
-  <NullBiteImplant.labelNoun>имплантат нулевого укуса</NullBiteImplant.labelNoun>
+  <NullBiteImplant.label>имплант вечной сытости</NullBiteImplant.label>
+  <NullBiteImplant.labelNoun>имплантат вечной сытости</NullBiteImplant.labelNoun>
   <PsykerHediff.description>Реальность склонится передо мной.</PsykerHediff.description>
   <PsykerHediff.label>имплант псайкера</PsykerHediff.label>
   <PsykerHediff.labelNoun>нанотехнологический имплантат псайкера</PsykerHediff.labelNoun>
