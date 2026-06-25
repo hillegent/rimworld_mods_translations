@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RTD_Animals.modExtensions.1.extDesc>Окружение клетки</RTD_Animals.modExtensions.1.extDesc>
+  <RTD_Animals.modExtensions.1.extName>Поле клетки</RTD_Animals.modExtensions.1.extName>
+  <RTD_Food.modExtensions.1.extDesc>Окружение клетки</RTD_Food.modExtensions.1.extDesc>
+  <RTD_Food.modExtensions.1.extName>Поле клетки</RTD_Food.modExtensions.1.extName>
+  <RTD_Logging.modExtensions.0.extDesc>Окружение клетки</RTD_Logging.modExtensions.0.extDesc>
+  <RTD_Logging.modExtensions.0.extName>Поле клетки</RTD_Logging.modExtensions.0.extName>
+  <RTD_Medicine.modExtensions.0.extDesc>Окружение клетки</RTD_Medicine.modExtensions.0.extDesc>
+  <RTD_Medicine.modExtensions.0.extName>Поле клетки</RTD_Medicine.modExtensions.0.extName>
+  <RTD_Mining.modExtensions.1.extDesc>Окружение клетки</RTD_Mining.modExtensions.1.extDesc>
+  <RTD_Mining.modExtensions.1.extName>Поле клетки</RTD_Mining.modExtensions.1.extName>
+  <RTD_Research.modExtensions.2.extDesc>Окружение клетки</RTD_Research.modExtensions.2.extDesc>
+  <RTD_Research.modExtensions.2.extName>Поле клетки</RTD_Research.modExtensions.2.extName>
+
+</LanguageData>

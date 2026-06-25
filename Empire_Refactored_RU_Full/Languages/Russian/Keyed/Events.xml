@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Окно событий -->
+  <FCCurrentOngoingEvents>Текущие события</FCCurrentOngoingEvents>
+  <FCTimeRemaining>Оставшееся время</FCTimeRemaining>
+  <FCNewLand>Новые земли</FCNewLand>
+  <FCEventAffectingSettlements>Это событие влияет на следующие поселения:</FCEventAffectingSettlements>
+  <FCEvent>Событие</FCEvent>
+  <FCNoActiveEvents>Нет активных событий.</FCNoActiveEvents>
+  <FCActiveEventsCount>{0} активных событий</FCActiveEventsCount>
+  <FCActiveEventsFiltered>{0} из {1} активных событий</FCActiveEventsFiltered>
+  <FCEventCatAll>Все</FCEventCatAll>
+  <FCNoEventsMatchFilter>Нет событий, соответствующих текущим фильтрам.</FCNoEventsMatchFilter>
+  <FCEndsWithin>Заканчивается через {0}</FCEndsWithin>
+  <FCDurationRange>{0} - {1}</FCDurationRange>
+  <FCEffectPreviewDurationRange>({0}-{1} дней)</FCEffectPreviewDurationRange>
+  <FCMultipleSettlements>Несколько ({0})</FCMultipleSettlements>
+
+  <!-- Окно вариантов событий -->
+  <FCEventAffecting>Влияет на:</FCEventAffecting>
+  <FCEventOptionFree>Бесплатно</FCEventOptionFree>
+  <FCEventSuccessGuaranteed>Успех: Гарантирован</FCEventSuccessGuaranteed>
+  <FCEventSuccessLikely>Успех: Вероятен</FCEventSuccessLikely>
+  <FCEventSuccessUncertain>Успех: Неопределен</FCEventSuccessUncertain>
+  <FCEventSuccessRisky>Успех: Рискован</FCEventSuccessRisky>
+  <FCEffectPreviewReward>награда стоимостью ~{0} серебра</FCEffectPreviewReward>
+  <FCEffectPreviewDuration>({0} дней)</FCEffectPreviewDuration>
+
+  <!-- События строительства -->
+  <FCBuildingEventDesc>{0} строится в {1}. Предполагаемое завершение: {2}.</FCBuildingEventDesc>
+  <FCBuildingEventCompletedMsg>{0} построен в {1}!</FCBuildingEventCompletedMsg>
+
+  <!-- События с персонажами -->
+  <FCDeathOfFactionPawn>Ваша некомпетентность привела к смерти одного из поселенцев ваших поселений! Нестабильность в ваших подчиненных поселениях возросла.</FCDeathOfFactionPawn>
+  <FCCaptureOfFactionPawn>Захват одного из поселенцев вашего поселения вызвал сильную нестабильность в ваших подчиненных поселениях!</FCCaptureOfFactionPawn>
+  <FCPrisonerHasDiedLetter>Заключенный умер</FCPrisonerHasDiedLetter>
+  <FCPrisonerHasDied>{0} в {1} умер от переутомления</FCPrisonerHasDied>
+
+  <!-- События с наемниками -->
+  <FCMercenaryJoined>Наемник присоединился</FCMercenaryJoined>
+  <FCMercenaryJoinedText>Наемник по имени {0} из вашей фракции присоединился к вашей колонии!</FCMercenaryJoinedText>
+
+  <!-- События шаттлов/транспорта -->
+  <FCTransportingInjuredShuttle>Шаттл транспортирует раненых колонистов обратно к вам после успешной обороны поселения</FCTransportingInjuredShuttle>
+  <FCTransportingInjuredDropPod>Дроп-поды транспортируют раненых колонистов обратно к вам после успешной обороны поселения</FCTransportingInjuredDropPod>
+  <FCTransportingInjuredCaravan>Караван транспортирует раненых колонистов обратно к вам после успешной обороны поселения</FCTransportingInjuredCaravan>
+  <FCTransportingInjuredShuttleLost>Шаттл транспортирует раненых колонистов обратно к вам после проваленной обороны поселения</FCTransportingInjuredShuttleLost>
+  <FCTransportingInjuredDropPodLost>Дроп-поды транспортируют раненых колонистов обратно к вам после проваленной обороны поселения</FCTransportingInjuredDropPodLost>
+  <FCTransportingInjuredCaravanLost>Караван транспортирует раненых колонистов обратно к вам после проваленной обороны поселения</FCTransportingInjuredCaravanLost>
+  <FCShuttleLandingBlockedWithItems>Шаттл не может найти свободное место для посадки и ждет его освобождения. Он содержит: {0}.</FCShuttleLandingBlockedWithItems>
+  <FCShuttleLandingBlocked>Шаттл не может найти свободное место для посадки и ждет его освобождения.</FCShuttleLandingBlocked>
+  <FCCaravanDangerTooHigh>Караван ждет, пока ваша карта очистится от опасности, чтобы доставить груз.</FCCaravanDangerTooHigh>
+  <FCCaravanDangerTooHighWithItems>Караван ждет, пока ваша карта очистится от опасности, чтобы доставить груз. Они несут: {0}.</FCCaravanDangerTooHighWithItems>
+
+  <!-- Шаттловый порт -->
+  <FCShuttlePortCallShuttleLabel>Запросить шаттл</FCShuttlePortCallShuttleLabel>
+  <FCShuttlePortCallShuttleDesc>Попросить ваше поселение прислать шаттл, который может перевезти караван:\n Осталось использований: {0} (Стоимость: {1})</FCShuttlePortCallShuttleDesc>
+  <FCTargetAnythingWithColonists>Выберите цель со свободными колонистами для отправки шаттла</FCTargetAnythingWithColonists>
+  <FCRequestShuttleToCaravan>Запросить шаттл для этого каравана</FCRequestShuttleToCaravan>
+  <FCRequestShuttleToColony>Запросить шаттл для этой колонии</FCRequestShuttleToColony>
+  <FCRequestShuttleToMap>Запросить шаттл для этой карты</FCRequestShuttleToMap>
+  <FCShuttlePortCallShuttleForCaravanLabel>Запросить шаттл для каравана</FCShuttlePortCallShuttleForCaravanLabel>
+  <FCTargetAnyWorldObject>Выберите любой объект на карте мира, куда вы хотите отправить шаттл:\n Осталось использований: {0} (Стоимость: {1})</FCTargetAnyWorldObject>
+  <FCSendCaravanHere>Отправить караван сюда</FCSendCaravanHere>
+  <FCNoCaravansToSendShuttleTo>Нет караванов, к которым можно отправить шаттл!</FCNoCaravansToSendShuttleTo>
+  <FCNoShuttleUsesRemaining>В этом налоговом периоде не осталось использований шаттла!</FCNoShuttleUsesRemaining>
+  <FCNotEnoughShuttleUsesRemaining>В этом налоговом периоде недостаточно использований шаттла!</FCNotEnoughShuttleUsesRemaining>
+
+  <FCRandomEventLetterLabel>Случайное событие</FCRandomEventLetterLabel>
+
+</LanguageData>

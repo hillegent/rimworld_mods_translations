@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FineTileNanotech.description>Можно играть на ней в шахматы.</FineTileNanotech.description>
+  <FineTileNanotech.label>изящная нанотехнологический плитка</FineTileNanotech.label>
+  <MarbleTileFour.description>больше похожа на баварий</MarbleTileFour.description>
+  <MarbleTileFour.label>наномраморная плитка "кобальт"</MarbleTileFour.label>
+  <MarbleTileFove.description>вероятно, безопасно ходить on</MarbleTileFove.description>
+  <MarbleTileFove.label>наномраморная плитка "борозда"</MarbleTileFove.label>
+  <MarbleTileOne.description>изгиб в стиле нанотехнологий</MarbleTileOne.description>
+  <MarbleTileOne.label>наномраморная плитка "буря"</MarbleTileOne.label>
+  <MarbleTileThree.description>здесь становится жарко</MarbleTileThree.description>
+  <MarbleTileThree.label>наномраморная плитка "вулкан"</MarbleTileThree.label>
+  <MarbleTileTwo.description>вставка киберпанк2077 раздражающая саундтрек</MarbleTileTwo.description>
+  <MarbleTileTwo.label>наномраморная плитка "темное будущее"</MarbleTileTwo.label>
+  <NanoCarpetFine.description>Эта штука выглядит дорого</NanoCarpetFine.description>
+  <NanoCarpetFine.label>нанотехнологический прекрасный ковер</NanoCarpetFine.label>
+  <Nanoflagstone.description>LВыглядит пригодным для ходьбы...</Nanoflagstone.description>
+  <Nanoflagstone.label>наноплитняк</Nanoflagstone.label>
+  <Nanofluid.description>Непроходимая водоподобная жидкость.</Nanofluid.description>
+  <Nanofluid.label>наножидкость</Nanofluid.label>
+  <Nanohexcarpet.description>пчелиный улей удобный вид</Nanohexcarpet.description>
+  <Nanohexcarpet.label>нано-шестигранный ковер</Nanohexcarpet.label>
+  <Nanohextile.description>Вид улья</Nanohextile.description>
+  <Nanohextile.label>наношестигранная плитка</Nanohextile.label>
+  <Nanomorbidcarpet.description>красивый мраморный вид</Nanomorbidcarpet.description>
+  <Nanomorbidcarpet.label>нано-болезненный ковер</Nanomorbidcarpet.label>
+  <Nanomorbidtile.description>Здесь были большие шины</Nanomorbidtile.description>
+  <Nanomorbidtile.label>нано-болезненная плитка</Nanomorbidtile.label>
+  <Nanosoil.description>Чрезвычайно плодородная почва, на которой мгновенно растут растения.</Nanosoil.description>
+  <Nanosoil.label>нанопочва</Nanosoil.label>
+  <Nanosoil.tools.0.label>земля</Nanosoil.tools.0.label>
+  <Nanospikecoretile.description>Hммм шип</Nanospikecoretile.description>
+  <Nanospikecoretile.label>наношиповая плитка</Nanospikecoretile.label>
+  <Nanostonetile.description>Хороший вкус для высоких технологий замок.</Nanostonetile.description>
+  <Nanostonetile.label>Плитка из нанокамня</Nanostonetile.label>
+  <Nanotile.description>Ходячие плитки из наноботов. Чрезвычайно красивый и безупречный.</Nanotile.description>
+  <Nanotile.label>наноплитка</Nanotile.label>
+  <Nanototemictile.description>Напоминает террарию</Nanototemictile.description>
+  <Nanototemictile.label>нано тотемная плитка</Nanototemictile.label>
+
+</LanguageData>

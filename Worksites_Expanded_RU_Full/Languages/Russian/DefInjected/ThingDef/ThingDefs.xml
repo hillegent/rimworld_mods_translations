@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Filth_DyeRed.description>Пятно пролитой красной краски.</Filth_DyeRed.description>
+  <Filth_DyeRed.label>красный краситель</Filth_DyeRed.label>
+  <Filth_DyeGreen.description>Пятно пролитой зеленой краски.</Filth_DyeGreen.description>
+  <Filth_DyeGreen.label>зеленый краситель</Filth_DyeGreen.label>
+  <Filth_DyeBlue.description>Пятно пролитой синей краски.</Filth_DyeBlue.description>
+  <Filth_DyeBlue.label>синий краситель</Filth_DyeBlue.label>
+  <Filth_DyePurple.description>Пятно пролитой фиолетовой краски.</Filth_DyePurple.description>
+  <Filth_DyePurple.label>фиолетовый краситель</Filth_DyePurple.label>
+  <Filth_DyeCyan.description>Пятно пролитой голубой краски.</Filth_DyeCyan.description>
+  <Filth_DyeCyan.label>голубой краситель</Filth_DyeCyan.label>
+  <Filth_DyeYellow.description>Пятно пролитой желтой краски.</Filth_DyeYellow.description>
+  <Filth_DyeYellow.label>желтый краситель</Filth_DyeYellow.label>
+  <PulseEmitter.description>Пираты используют его даже в самых отдаленных и экстремальных условиях для поиска выгодных целей для рейдов.</PulseEmitter.description>
+  <PulseEmitter.label>импульсный излучатель</PulseEmitter.label>
+</LanguageData>

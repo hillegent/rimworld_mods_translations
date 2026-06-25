@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hediff_SFI.description>Пора как следует размножаться...</Hediff_SFI.description>
+  <Hediff_SFI.label>имплант сверхплодовитости</Hediff_SFI.label>
+  <Hediff_SFI.labelNoun>нанотехнологический имплантат бесплодия</Hediff_SFI.labelNoun>
+  <MechOverlordHediff.description>Я вернусь. - Арнольд.</MechOverlordHediff.description>
+  <MechOverlordHediff.label>имплант повелителя механоидов</MechOverlordHediff.label>
+  <MechOverlordHediff.labelNoun>механический имплантат «Повелитель»</MechOverlordHediff.labelNoun>
+  <NT_BeautyImplantHediff.description>Я чувствую себя прекрасно, детка!</NT_BeautyImplantHediff.description>
+  <NT_BeautyImplantHediff.label>имплант красоты</NT_BeautyImplantHediff.label>
+  <NT_BeautyImplantHediff.labelNoun>имплантат красоты</NT_BeautyImplantHediff.labelNoun>
+  <NT_FeelGoodHediff.description>Нанотехнологический имплантат, который значительно повышает настроение вашим пешкам! Дивный новый мир, созданный компанией «Корпорация хорошего настроения»</NT_FeelGoodHediff.description>
+  <NT_FeelGoodHediff.label>имплант хорошего настроения</NT_FeelGoodHediff.label>
+  <NT_FeelGoodHediff.labelNoun>имплантат хорошего настроения</NT_FeelGoodHediff.labelNoun>
+  <NT_HermesImplantHediff.description>Надо действовать быстро</NT_HermesImplantHediff.description>
+  <NT_HermesImplantHediff.label>имплант Гермеса</NT_HermesImplantHediff.label>
+  <NT_HermesImplantHediff.labelNoun>имплантат Гермеса</NT_HermesImplantHediff.labelNoun>
+  <NT_NanoSerumImplant.description>Я наконец-то могу играть в бадминтон</NT_NanoSerumImplant.description>
+  <NT_NanoSerumImplant.label>наносыворотка</NT_NanoSerumImplant.label>
+  <NT_NanoSerumImplant.labelNoun>наносыворотка</NT_NanoSerumImplant.labelNoun>
+  <NanoBoostHigh.description>Производительность временно повышена за счет нанотехнологических усилителей.</NanoBoostHigh.description>
+  <NanoBoostHigh.label>нанобуст</NanoBoostHigh.label>
+  <NanoMechBoost.description>Скайнет растет.</NanoMechBoost.description>
+  <NanoMechBoost.label>нанотехнологический механоидный буст</NanoMechBoost.label>
+  <NullBiteImplant.description>Нет тебе больше еды, приятель</NullBiteImplant.description>
+  <NullBiteImplant.label>имплант нулевого укуса</NullBiteImplant.label>
+  <NullBiteImplant.labelNoun>имплантат нулевого укуса</NullBiteImplant.labelNoun>
+  <PsykerHediff.description>Реальность склонится передо мной.</PsykerHediff.description>
+  <PsykerHediff.label>имплант псайкера</PsykerHediff.label>
+  <PsykerHediff.labelNoun>нанотехнологический имплантат псайкера</PsykerHediff.labelNoun>
+  <RestlessImplant.description>Симулятор бессонницы</RestlessImplant.description>
+  <RestlessImplant.label>имплант беспокойства</RestlessImplant.label>
+  <RestlessImplant.labelNoun>беспокойный имплантат</RestlessImplant.labelNoun>
+  <StoicImplant.description>Меня больше не беспокоит еда без стола.</StoicImplant.description>
+  <StoicImplant.label>имплант стоика</StoicImplant.label>
+  <StoicImplant.labelNoun>стоический имплантат</StoicImplant.labelNoun>
+
+</LanguageData>

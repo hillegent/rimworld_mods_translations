@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Строительство зданий -->
+  <FCConstructBuilding>Построить здание</FCConstructBuilding>
+  <FCConstruct>Построить</FCConstruct>
+  <FCBuild>Возвести</FCBuild>
+  <FCBuilt>Построено</FCBuilt>
+  <FCWillBeConstructedIn>будет построено в</FCWillBeConstructedIn>
+  <FCHasBeenConstructedAt>было построено в</FCHasBeenConstructedAt>
+  <Empire_BuildingWindow_ConstructionDesc>В данный момент строится: {0}</Empire_BuildingWindow_ConstructionDesc>
+  <FCBuildTime>Время постройки: {0}</FCBuildTime>
+
+  <!-- Ограничения на строительство -->
+  <FCBuildingSurfaceOnly>Это здание можно построить только в наземных поселениях</FCBuildingSurfaceOnly>
+  <FCBuildingOrbitalOnly>Это здание можно построить только на орбитальных платформах</FCBuildingOrbitalOnly>
+  <FCBuildingInvalidSettlement>{0} нельзя построить в {1}</FCBuildingInvalidSettlement>
+  <FCBuildingAlreadyType>Здание такого типа уже существует</FCBuildingAlreadyType>
+  <FCBuildingBeingBuiltAlreadyType>Здание такого типа уже строится</FCBuildingBeingBuiltAlreadyType>
+  <FCBuildingAlreadyConstructed>Там уже строится здание</FCBuildingAlreadyConstructed>
+
+  <!-- Снос зданий -->
+  <FCDestroy>Уничтожить</FCDestroy>
+  <FCDemolish>Снести</FCDemolish>
+  <FCDemolishConfirmation>Вы уверены, что хотите снести {0}? Это будет стоить {1} серебра.</FCDemolishConfirmation>
+  <FCBuildingDemolished>{0} был снесен</FCBuildingDemolished>
+  <FCChangeBuildingButton>Изменить здание</FCChangeBuildingButton>
+
+  <!-- Фильтры зданий -->
+  <FCBuildingFilterAll>Все</FCBuildingFilterAll>
+  <FCBuildingFilterHappiness>Счастье</FCBuildingFilterHappiness>
+  <FCBuildingFilterBasetax>Базовый налог</FCBuildingFilterBasetax>
+  <FCBuildingFilterWorkers>Рабочие</FCBuildingFilterWorkers>
+  <FCBuildingFilterMilitary>Военные</FCBuildingFilterMilitary>
+
+  <!-- Местоположение столицы -->
+  <FCCapitalEstablished>Столица империи основана в {0}! Это место будет использоваться как центр вашей империи.</FCCapitalEstablished>
+  <FCCapitalSeatDisabled>Местоположение столицы отключено. Империя будет использовать запасное место для столицы, если оно доступно.</FCCapitalSeatDisabled>
+  <FCCapitalLost>Столица империи потеряна! Вам следует основать новое местоположение столицы.</FCCapitalLost>
+
+  <!-- Окно зданий -->
+  <Empire_BuildingWindow_Header>Здания — {0}</Empire_BuildingWindow_Header>
+  <Empire_BuildingWindow_EmptySlot>Пустой слот для здания</Empire_BuildingWindow_EmptySlot>
+  <Empire_BuildingWindow_CurrentBuilding>Текущее здание</Empire_BuildingWindow_CurrentBuilding>
+  <Empire_BuildingWindow_SelectBuilding>Выберите здание, чтобы увидеть его детали</Empire_BuildingWindow_SelectBuilding>
+  <Empire_BuildingWindow_Modifiers>Модификаторы</Empire_BuildingWindow_Modifiers>
+  <Empire_BuildingWindow_SettlementImpact>Влияние на поселение</Empire_BuildingWindow_SettlementImpact>
+  <Empire_BuildingWindow_Upgrades>Возможные улучшения</Empire_BuildingWindow_Upgrades>
+  <Empire_BuildingWindow_RequiredBy>Необходимо для</Empire_BuildingWindow_RequiredBy>
+  <Empire_BuildingWindow_Requires>Требуется: {0}</Empire_BuildingWindow_Requires>
+  <Empire_BuildingWindow_CannotDemolishRequired>Невозможно снести: требуется для {0}</Empire_BuildingWindow_CannotDemolishRequired>
+  <Empire_BuildingWindow_SlotUpgrades>Улучшения</Empire_BuildingWindow_SlotUpgrades>
+  <FCBuildingUpgrades>Улучшения зданий</FCBuildingUpgrades>
+  <!--[Core] <FCBuildings>Здания</FCBuildings>-->
+  <FCFacilities>Сооружения</FCFacilities>
+  <FCSearchBuildings>Поиск зданий...</FCSearchBuildings>
+
+  <!-- Заблокированные здания -->
+  <Empire_BuildingWindow_ShowLocked>Показывать заблокированные здания</Empire_BuildingWindow_ShowLocked>
+  <Empire_BuildingWindow_TechLocked>Заблокировано — Требуется технология {0} (исследование: {1})</Empire_BuildingWindow_TechLocked>
+  <Empire_BuildingWindow_LockedButton>Заблокировано</Empire_BuildingWindow_LockedButton>
+  <Empire_BuildingWindow_TechLockedTooltip>Для постройки этого здания требуется исследовать {0}.</Empire_BuildingWindow_TechLockedTooltip>
+
+</LanguageData>

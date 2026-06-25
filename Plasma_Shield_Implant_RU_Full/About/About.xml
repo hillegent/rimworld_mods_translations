@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Plasma Shield Implant - полный русский перевод</name>
+  <author>Artas48</author>
+  <packageId>artas48.plasmashieldimplant.rufull</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>Virathas.PlasmaShieldImplant</packageId>
+      <displayName>Plasma Shield Implant</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2947388281</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>Virathas.PlasmaShieldImplant</li>
+  </loadAfter>
+  <description>Полный русский перевод мода Plasma Shield Implant.
+
+Переведены предметы, импланты, операции, терминал, подсказки щита и захардкоженный пункт меню активации модулей.</description>
+</ModMetaData>

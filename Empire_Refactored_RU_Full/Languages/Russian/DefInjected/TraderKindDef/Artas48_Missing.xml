@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FC_Caravan_Empire_Animals.label>торговец животными</FC_Caravan_Empire_Animals.label>
+  <FC_Caravan_Empire_Apparel.label>торговец одеждой</FC_Caravan_Empire_Apparel.label>
+  <FC_Caravan_Empire_Chemfuel.label>торговец топливом</FC_Caravan_Empire_Chemfuel.label>
+  <FC_Caravan_Empire_Food.label>торговец едой</FC_Caravan_Empire_Food.label>
+  <FC_Caravan_Empire_Gravtech.label>торговец гравитехом</FC_Caravan_Empire_Gravtech.label>
+  <FC_Caravan_Empire_Logging.label>торговец древесиной</FC_Caravan_Empire_Logging.label>
+  <FC_Caravan_Empire_Medicine.label>поставщик медикаментов</FC_Caravan_Empire_Medicine.label>
+  <FC_Caravan_Empire_Mining.label>торговец рудой</FC_Caravan_Empire_Mining.label>
+  <FC_Caravan_Empire_Weapons.label>торговец оружием</FC_Caravan_Empire_Weapons.label>
+
+</LanguageData>

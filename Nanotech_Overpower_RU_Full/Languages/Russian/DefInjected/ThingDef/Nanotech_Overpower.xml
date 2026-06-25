@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ammo_EMPNano.label>ЭМИ-нанотехнологический патрон</Ammo_EMPNano.label>
+  <Ammo_NanoblasterBullet.label>нанотехнологический патрон</Ammo_NanoblasterBullet.label>
+  <Ammo_NanoshotShell.label>нанозаряд</Ammo_NanoshotShell.label>
+  <Ammo_StunnerNano.label>оглушающий нанотехнологический патрон</Ammo_StunnerNano.label>
+  <Artillery_NanoMortar.description>Мометная пусковая установка. Бросает бомбы через стены.</Artillery_NanoMortar.description>
+  <Artillery_NanoMortar.label>мортира</Artillery_NanoMortar.label>
+  <Bullet_BulletNano.label>лазер терминатора</Bullet_BulletNano.label>
+  <Bullet_ChargeNano.label>заряженный нановыстрел</Bullet_ChargeNano.label>
+  <Bullet_EMPNano.label>ЭМИ-нанопульс</Bullet_EMPNano.label>
+  <Bullet_Fake_Torpedo_Nanowarhead.label>торпеда с нанотехнологической боеголовкой</Bullet_Fake_Torpedo_Nanowarhead.label>
+  <Bullet_NanoWarhead.label>нанотехнологическая боеголовка</Bullet_NanoWarhead.label>
+  <Bullet_Nanostickturret.label>нанотурель пуля</Bullet_Nanostickturret.label>
+  <Bullet_Nanosurge.label>нановсплеск лазер</Bullet_Nanosurge.label>
+  <Bullet_Nanoturret.label>нанотурель пуля</Bullet_Nanoturret.label>
+  <Bullet_PainNano.label>анестезирующий дротик</Bullet_PainNano.label>
+  <Bullet_ShotgunNano.label>дробь</Bullet_ShotgunNano.label>
+  <Bullet_SniperNano.label>снайперский импульс</Bullet_SniperNano.label>
+  <Bullet_Torpedo_Nanowarhead.label>торпеда с нанотехнологической боеголовкой</Bullet_Torpedo_Nanowarhead.label>
+  <CE_EMPNano.label>ЭМИ-нанотехнологическая пуля</CE_EMPNano.label>
+  <CE_Nanobullet.label>нанотехнологическая пуля</CE_Nanobullet.label>
+  <CE_NanoshotPellet.label>нанодробина</CE_NanoshotPellet.label>
+  <CE_StunnerNano.label>оглушающая нанотехнологическая пуля</CE_StunnerNano.label>
+  <LYN_Nanocabinet.description>Резко ускоряет работу верстаков и исследовательских столов.</LYN_Nanocabinet.description>
+  <LYN_Nanocabinet.label>наношкаф</LYN_Nanocabinet.label>
+  <NT_BeautyImplantThing.comps.0.useLabel>Самостоятельно вводимый косметический имплантат</NT_BeautyImplantThing.comps.0.useLabel>
+  <NT_BeautyImplantThing.description>нанотехнологический имплантат, который сделает ваши пешки такими же прекрасными, как создатель этого мода</NT_BeautyImplantThing.description>
+  <NT_BeautyImplantThing.label>имплант красоты</NT_BeautyImplantThing.label>
+  <NT_FeelGoodThing.comps.0.useLabel>Самостоятельная инъекция имплантата хорошего настроения</NT_FeelGoodThing.comps.0.useLabel>
+  <NT_FeelGoodThing.description>Нанотехнологический имплантат, который значительно повышает настроение вашим пешкам! Дивный новый мир, созданный компанией «Корпорация хорошего настроения»</NT_FeelGoodThing.description>
+  <NT_FeelGoodThing.label>имплант хорошего настроения</NT_FeelGoodThing.label>
+  <NT_HermesImplantThing.comps.0.useLabel>Самостоятельно вводимый имплантат Гермеса</NT_HermesImplantThing.comps.0.useLabel>
+  <NT_HermesImplantThing.description>Нанотехнологический имплантат, который сделает ваш пешки так же быстро, как игрок в бадминтон.</NT_HermesImplantThing.description>
+  <NT_HermesImplantThing.label>имплант Гермеса</NT_HermesImplantThing.label>
+  <NT_MechOverlord.comps.0.useLabel>Самовнедрить имплантат «Механический Повелитель»</NT_MechOverlord.comps.0.useLabel>
+  <NT_MechOverlord.description>Я - Скайнет.</NT_MechOverlord.description>
+  <NT_MechOverlord.label>имплант повелителя механоидов</NT_MechOverlord.label>
+  <NT_NanoSerum.comps.0.useLabel>Самостоятельное введение наносыворотка</NT_NanoSerum.comps.0.useLabel>
+  <NT_NanoSerum.description>Нанотехнологическая сыворотка, созданная с целью создание суперсолдата.</NT_NanoSerum.description>
+  <NT_NanoSerum.label>наносыворотка</NT_NanoSerum.label>
+  <NT_Nanobots.description>Пакет чрезвычайно универсальных наноботов, способных превращаться в любую материю.</NT_Nanobots.description>
+  <NT_Nanobots.label>наноботы</NT_Nanobots.label>
+  <NT_NullBiteImplant.comps.0.useLabel>Самостоятельная инъекция имплантата нулевого укуса</NT_NullBiteImplant.comps.0.useLabel>
+  <NT_NullBiteImplant.description>Использует нанотехнологии для снабжения организма чистой энергией из квантовой пены, отключая потребность в еде.</NT_NullBiteImplant.description>
+  <NT_NullBiteImplant.label>имплант нулевого укуса</NT_NullBiteImplant.label>
+  <NT_RestlessImplant.comps.0.useLabel>Самостоятельно ввести имплант беспокойства</NT_RestlessImplant.comps.0.useLabel>
+  <NT_RestlessImplant.description>Весь чрезмерно сильная версия циркадного полуцикла. Отключает потребность во сне.</NT_RestlessImplant.description>
+  <NT_RestlessImplant.label>имплант беспокойства</NT_RestlessImplant.label>
+  <NT_StoicImplant.comps.0.useLabel>Самостоятельная инъекция имплантата стойкости</NT_StoicImplant.comps.0.useLabel>
+  <NT_StoicImplant.description>[Вставьте цитату Сенеки]. Отключает потребность в комфорте.</NT_StoicImplant.description>
+  <NT_StoicImplant.label>имплант стоика</NT_StoicImplant.label>
+  <NT_sunlamp.description>Солнечная лампа, разработанная инженерами-нанотехнологами. Поддерживает рост растений в огромном радиусе, дает хорошее тепло и совсем не потребляет энергию.</NT_sunlamp.description>
+  <NT_sunlamp.label>нанотехнологическая солнечная лампа</NT_sunlamp.label>
+  <NT_walllamp.description>настенный светильник на стероидах.</NT_walllamp.description>
+  <NT_walllamp.label>нанотехнологический настенный светильник</NT_walllamp.label>
+  <NT_wallsunlamp.description>нанотехнологический настенный светильник для загара, потому что да</NT_wallsunlamp.description>
+  <NT_wallsunlamp.label>нанотехнологический настенный светильник для загара</NT_wallsunlamp.label>
+  <NanoArmor.description>Выдерживает боеголовки.</NanoArmor.description>
+  <NanoArmor.label>нанотехнологическая броня</NanoArmor.label>
+  <NanoBiologicalBench.description>Позволяет использовать нанотехнологии для создания предметов и прочего биологического оружия.</NanoBiologicalBench.description>
+  <NanoBiologicalBench.label>нанобиологический верстак</NanoBiologicalBench.label>
+  <NanoBoost.description>Экспериментальный стимулятор без зависимости и побочных эффектов. Дает короткий всплеск экстремальной эффективности.</NanoBoost.description>
+  <NanoBoost.label>нанобуст</NanoBoost.label>
+  <NanoCooler.description>Машина для обморожений.</NanoCooler.description>
+  <NanoCooler.label>наноохладитель</NanoCooler.label>
+  <NanoFieldExtender.description>чрезмерно сильная версия расширителя гравиполя.</NanoFieldExtender.description>
+  <NanoFieldExtender.label>нанотехнологический удлинитель поля</NanoFieldExtender.label>
+  <NanoGlitterBench.description>Позволяет использовать нанотехнологии для создания предметов и прочего из расширения «Глиттертех».</NanoGlitterBench.description>
+  <NanoGlitterBench.label>верстак Нано-глиттертех</NanoGlitterBench.label>
+  <NanoHeatSink.description>Эта штука может почти мгновенно отводить огромное количество тепла и хранить еще больше.</NanoHeatSink.description>
+  <NanoHeatSink.label>нанотехнологический радиатор</NanoHeatSink.label>
+  <NanoHeater.description>Держит тепло и уют.</NanoHeater.description>
+  <NanoHeater.label>нанообогреватель</NanoHeater.label>
+  <NanoHelmet.description>Шлем, сделанный из наноботов, способный выдержать практически любой удар. Полностью воздухонепроницаемый и устойчивый к токсичным веществам.</NanoHelmet.description>
+  <NanoHelmet.label>нанотехнологический шлем</NanoHelmet.label>
+  <NanoHoldingPlatform.description>Ловить СЦП еще никогда не было так просто!</NanoHoldingPlatform.description>
+  <NanoHoldingPlatform.label>нанотехнологическая холдинговая платформа</NanoHoldingPlatform.label>
+  <NanoIED.description>Большая нанотехнологическая боеголовка, прикрепленная к датчику движения = большая бум.</NanoIED.description>
+  <NanoIED.label>нанотехнологический СВУ ловушка</NanoIED.label>
+  <NanoLance.description>Ошибка 404: механоид не найден</NanoLance.description>
+  <NanoLance.label>нанокопье</NanoLance.label>
+  <NanoLance.tools.0.label>приклад</NanoLance.tools.0.label>
+  <NanoLance.tools.1.label>ствол</NanoLance.tools.1.label>
+  <NanoMeal.description>На вкус как дома.</NanoMeal.description>
+  <NanoMeal.label>наноблюдо</NanoMeal.label>
+  <NanoMechBooster.description>чрезмерно сильная версия биотехнологического усилителя мехов. Не требует энергии для работы, имеет огромный радиус действия и значительно повышает скорость и скорость работы. Влияет только на союзные механизмы.</NanoMechBooster.description>
+  <NanoMechBooster.label>нано мех усилитель</NanoMechBooster.label>
+  <NanoMedicine.description>Сверхмощное лекарство.</NanoMedicine.description>
+  <NanoMedicine.label>наномедицина</NanoMedicine.label>
+  <NanoMinigun.description>Видишь эту гору, солдат? Да, сэр! Мне это не нравится. Да, сэр!</NanoMinigun.description>
+  <NanoMinigun.label>наноминиган</NanoMinigun.label>
+  <NanoMinigun.tools.0.label>приклад</NanoMinigun.tools.0.label>
+  <NanoMinigun.tools.1.label>ствол</NanoMinigun.tools.1.label>
+  <NanoMortar.description>Они даже не поймут, откуда прилетело.</NanoMortar.description>
+  <NanoMortar.label>нанотехнологический миномет</NanoMortar.label>
+  <NanoProximityDetector.description>Сканер, способный обнаруживать невидимых существ. Устройство поднимает тревогу, когда обнаруживает присутствие психически невидимых биосигнатур в пределах своего радиуса.</NanoProximityDetector.description>
+  <NanoProximityDetector.label>нанотехнологический датчик приближения</NanoProximityDetector.label>
+  <NanoRegenerator.description>Нанотехнологический излучатель, который ремонтирует конструкции и предметы, регенерирует живые ткани в радиусе, очищает все внутри и тушит пожары. Слава Обелиску.</NanoRegenerator.description>
+  <NanoRegenerator.label>нанотехнологический обелиск</NanoRegenerator.label>
+  <NanoShieldBelt.description>Защитный пояс, изготовленный с использованием нанотехнологий. Имеет огромную емкость щита и очень быструю скорость перезарядки, а также ваши пешки могут стрелять во время его ношения.</NanoShieldBelt.description>
+  <NanoShieldBelt.label>нанотехнологический пояс-щит</NanoShieldBelt.label>
+  <NanoShieldGenerator.description>Максимация черепахи. (Эта штука блокирует небольшие снаряды, такие как пули, а также блокирует минометные снаряды, не расходуя энергии, так что вы можете сидеть сложа руки и расслабляться на своей базе, как трус, когда враг с треском не может вас атаковать.)</NanoShieldGenerator.description>
+  <NanoShieldGenerator.label>нано-гибридный щит</NanoShieldGenerator.label>
+  <NanoShotgun.description>Очень сбалансированное оружие, конечно.</NanoShotgun.description>
+  <NanoShotgun.label>нанодробовик</NanoShotgun.label>
+  <NanoShotgun.tools.0.label>приклад</NanoShotgun.tools.0.label>
+  <NanoShotgun.tools.1.label>ствол</NanoShotgun.tools.1.label>
+  <NanoShuttle.comps.3.fuelGizmoLabel>Наноботы</NanoShuttle.comps.3.fuelGizmoLabel>
+  <NanoShuttle.comps.3.fuelLabel>Наноботы</NanoShuttle.comps.3.fuelLabel>
+  <NanoShuttle.description>Совершенный летательный аппарат, способный путешествовать по миру без одной дозаправки.</NanoShuttle.description>
+  <NanoShuttle.label>наношаттл</NanoShuttle.label>
+  <NanoShuttleIncoming.label>наношаттл (входящий)</NanoShuttleIncoming.label>
+  <NanoShuttleLeaving.label>пассажирский шаттл (выходящий)</NanoShuttleLeaving.label>
+  <NanoSmelter.description>Преобразовывает практически любой материал в нанороботов или перерабатывает их обратно в первичные ресурсы.</NanoSmelter.description>
+  <NanoSmelter.label>нанотехнологический плавильная печь</NanoSmelter.label>
+  <NanoSniper.description>360 без прицела доритос и иллюминаты</NanoSniper.description>
+  <NanoSniper.label>наноснайперка</NanoSniper.label>
+  <NanoSniper.tools.0.label>приклад</NanoSniper.tools.0.label>
+  <NanoSniper.tools.1.label>ствол</NanoSniper.tools.1.label>
+  <NanoStick.description>Не трахайтесь со мной! На моей стороне сила Бога и аниме! АААААА! - (Эта палка обезболивает цель при ударе, как будто мгновенно, даже в доспехах. Идеально подходит для захвата заключенные.)</NanoStick.description>
+  <NanoStick.label>нанопосох</NanoStick.label>
+  <NanoStick.tools.0.label>рукоять</NanoStick.tools.0.label>
+  <NanoStick.tools.1.label>лезвие</NanoStick.tools.1.label>
+  <NanoStick.tools.2.label>острие</NanoStick.tools.2.label>
+  <NanoStick.verbs.0.label>удар</NanoStick.verbs.0.label>
+  <NanoStickTurret.description>мгновенно сбивает врагов анестетиками, щекоча издалека не очень красивой штукой (лев не заботится о центрировании спрайта оружия)</NanoStickTurret.description>
+  <NanoStickTurret.label>турель с нанопалкой</NanoStickTurret.label>
+  <NanoStickTurretGun.description>Этого будет достаточно.</NanoStickTurretGun.description>
+  <NanoStickTurretGun.label>нанотурельная пушка</NanoStickTurretGun.label>
+  <NanoStove.description>Нанотехнологический стол для еды и сырых съедобных ресурсов.</NanoStove.description>
+  <NanoStove.label>наноплита</NanoStove.label>
+  <NanoStunner.description>Точная снайперская винтовка, стреляющая одним анестезирующим дротиком. Одна порция, один сон.</NanoStunner.description>
+  <NanoStunner.label>наноанестезирующий снайпер</NanoStunner.label>
+  <NanoStunner.tools.0.label>приклад</NanoStunner.tools.0.label>
+  <NanoStunner.tools.1.label>ствол</NanoStunner.tools.1.label>
+  <NanoSword.description>Думаю, вы можете сказать, что я 'Бегущий по лезвию'...?</NanoSword.description>
+  <NanoSword.label>наномеч</NanoSword.label>
+  <NanoSword.tools.0.label>рукоять</NanoSword.tools.0.label>
+  <NanoSword.tools.1.label>лезвие</NanoSword.tools.1.label>
+  <NanoSword.tools.2.label>острие</NanoSword.tools.2.label>
+  <NanoTurret.description>Бр-р-р, прямо как A-10 «Бородавочник».</NanoTurret.description>
+  <NanoTurret.label>нанотурель</NanoTurret.label>
+  <NanoTurretGun.description>Нанопушка Гатлинга, созданная для уничтожения злоумышленники.</NanoTurretGun.description>
+  <NanoTurretGun.label>нанотурельная пушка</NanoTurretGun.label>
+  <NanoWallcooler.description>Круче, чем ты.</NanoWallcooler.description>
+  <NanoWallcooler.label>нанотехнологический настенный охладитель</NanoWallcooler.label>
+  <NanoWallheater.description>Горячее, чем ты.</NanoWallheater.description>
+  <NanoWallheater.label>нанотехнологический настенный обогреватель</NanoWallheater.label>
+  <NanoWarhead.description>Держите подальше от детей.</NanoWarhead.description>
+  <NanoWarhead.label>нанотехнологическая боеголовка</NanoWarhead.label>
+  <NanoWastepackAtomizer.description>A нанотехнологическое устройство, которое разлагает токсичные отходы на инертные газы с помощью передовых молекулярных процессов. Этот процесс требует небольшого количества энергии, несмотря на его невероятную эффективность.</NanoWastepackAtomizer.description>
+  <NanoWastepackAtomizer.label>нанотехнологический распылитель для мусора</NanoWastepackAtomizer.label>
+  <Nano_GrowthVat_Overcharger.description>машина мгновенного взросления машина</Nano_GrowthVat_Overcharger.description>
+  <Nano_GrowthVat_Overcharger.label>нанотехнологический резервуар для нагнетания</Nano_GrowthVat_Overcharger.label>
+  <Nano_OmniTrainer.comps.0.useLabel>Использовать омнитренер</Nano_OmniTrainer.comps.0.useLabel>
+  <Nano_OmniTrainer.comps.1.floatTextKey>Все навыки обучены</Nano_OmniTrainer.comps.1.floatTextKey>
+  <Nano_OmniTrainer.description>Устали быть неудачником? Это новое нанотехнологическое устройство сделает ваших пешек легендарными мастерами в каждом навыке в секунды!</Nano_OmniTrainer.description>
+  <Nano_OmniTrainer.label>нанотехнологический омнитренер</Nano_OmniTrainer.label>
+  <Nano_SuperRecharger.description>Эта штука мгновенно заряжает механоидов, не требует энергии, практически не производит отходов и может использоваться механоидами любых уровней.</Nano_SuperRecharger.description>
+  <Nano_SuperRecharger.label>нано-перезарядка мехов</Nano_SuperRecharger.label>
+  <Nanoaura.description>Невидимое, неосязаемое облако нанороботов, связанное с владельцем. Он защитит вас от всего и значительно повысит ваши характеристики.</Nanoaura.description>
+  <Nanoaura.label>наноаура</Nanoaura.label>
+  <Nanobattery.description>Хранит огромное количество энергии, а также работает как предохранитель!</Nanobattery.description>
+  <Nanobattery.label>наноаккумулятор</Nanobattery.label>
+  <NanobenchDMS.description>Позволяет использовать нанотехнологии для создания предметов и прочего из «Выключатель мертвеца».</NanobenchDMS.description>
+  <NanobenchDMS.label>верстак Нано-выключатель мертвеца</NanobenchDMS.label>
+  <Nanobiolab.description>Позволяет использовать нанотехнологии для создания лекарств, лекарств и имплантатов. Даже модифицированные.</Nanobiolab.description>
+  <Nanobiolab.label>нанобиолаборатория</Nanobiolab.label>
+  <Nanoblaster.description>Наномашины, сынок! (Эта штука может работать в одиночку практически с любой фракцией, модифицированной или нет. Действуйте осторожно, вас предупредили.)</Nanoblaster.description>
+  <Nanoblaster.label>нанобластер</Nanoblaster.label>
+  <Nanoblaster.tools.0.label>приклад</Nanoblaster.tools.0.label>
+  <Nanoblaster.tools.1.label>ствол</Nanoblaster.tools.1.label>
+  <Nanochest.description>Сундук из наноботов с встроенной черной дырой для решения любых проблем с хранением.</Nanochest.description>
+  <Nanochest.label>наносундук</Nanochest.label>
+  <Nanofabricator.description>Позволяет использовать нанотехнологии для создания практически всего: от ядер персонажей до безумного оружия и одежды.</Nanofabricator.description>
+  <Nanofabricator.label>нанофабрикатор</Nanofabricator.label>
+  <Nanoforge.description>Позволяет использовать нанотехнологии для создания почти всего доступного оружия, доспехов и гаджетов.</Nanoforge.description>
+  <Nanoforge.label>нанокузница</Nanoforge.label>
+  <Nanogenerator.description>Производит безбожное количество энергии бесплатно. Также можно носить с собой!</Nanogenerator.description>
+  <Nanogenerator.label>наногенератор</Nanogenerator.label>
+  <Nanorice.description>Вкусные синтетические ягоды, богатые белком. Их можно есть сырыми, и они не гниют.</Nanorice.description>
+  <Nanorice.label>наноягоды</Nanorice.label>
+  <Nanosurge.description>Это не лазерная указка.</Nanosurge.description>
+  <Nanosurge.label>нановсплеск</Nanosurge.label>
+  <Nanosurge.tools.0.label>стволы</Nanosurge.tools.0.label>
+  <PsykerImplantThing.comps.0.useLabel>Самовнедряемый имплантат псайкера</PsykerImplantThing.comps.0.useLabel>
+  <PsykerImplantThing.description>Да, прикоснитесь к светящемуся плазменному шару...</PsykerImplantThing.description>
+  <PsykerImplantThing.label>имплант псайкера</PsykerImplantThing.label>
+  <ShipTorpedo_NanoWarhead.description>A Торпеда с нанотехнологической боеголовкой. Возможен огонь из торпедных аппаратов. Взрывается при повреждении.</ShipTorpedo_NanoWarhead.description>
+  <ShipTorpedo_NanoWarhead.label>торпеда с нанобоеголовкой</ShipTorpedo_NanoWarhead.label>
+  <Thing_SFI.comps.0.useLabel>Самостоятельно вводимый имплантат сверхплодородности</Thing_SFI.comps.0.useLabel>
+  <Thing_SFI.description>Нанотехнологический имплантат бесплодия для увеличения численности населения.</Thing_SFI.description>
+  <Thing_SFI.label>супер имплантат фертильности</Thing_SFI.label>
+
+</LanguageData>

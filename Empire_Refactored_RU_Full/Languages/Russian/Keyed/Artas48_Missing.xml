@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ERF_RU_Brightness>Яркость</ERF_RU_Brightness>
+  <ERF_RU_Clear>Очистить</ERF_RU_Clear>
+  <ERF_RU_Current>Текущий:</ERF_RU_Current>
+  <ERF_RU_Never>Никогда</ERF_RU_Never>
+  <ERF_RU_Old>Старый:</ERF_RU_Old>
+  <ERF_RU_PatchHotfixAbove>Хотфиксы и выше</ERF_RU_PatchHotfixAbove>
+  <ERF_RU_PatchMajorOnly>Только крупные</ERF_RU_PatchMajorOnly>
+  <ERF_RU_PatchMinorAbove>Малые и выше</ERF_RU_PatchMinorAbove>
+  <ERF_RU_PatchPatchAbove>Патчи и выше</ERF_RU_PatchPatchAbove>
+  <FCActionNotAllowed>Действие недоступно</FCActionNotAllowed>
+  <FCAllowedAnimals>Разрешённые животные</FCAllowedAnimals>
+  <FCAnimalDefaults>По умолчанию</FCAnimalDefaults>
+  <FCAnimalDisableAll>Отключить все</FCAnimalDisableAll>
+  <FCAnimalEnableAll>Включить все</FCAnimalEnableAll>
+  <FCAnimalFilterNoCombatWarning>Не разрешено ни одно боеспособное животное. У караванов доставки не будет животных-охранников.</FCAnimalFilterNoCombatWarning>
+  <FCAnimalFilterNoPackError>Не разрешено ни одно вьючное животное! При закрытии все вьючные животные будут снова включены.</FCAnimalFilterNoPackError>
+  <FCAnimalFilterNoneError>Нет разрешённых животных! При закрытии будут восстановлены значения по умолчанию.</FCAnimalFilterNoneError>
+  <FCAnimalFilterShowAll>Все</FCAnimalFilterShowAll>
+  <FCAnimalFilterShowCombat>Боевые</FCAnimalFilterShowCombat>
+  <FCAnimalFilterShowPack>Вьючные</FCAnimalFilterShowPack>
+  <FCAnimalNotCombatHeader>Не боевое животное:</FCAnimalNotCombatHeader>
+  <FCAnimalNotCombatPowerLow>Слишком низкая боевая мощь ({0}, нужно 50 или больше)</FCAnimalNotCombatPowerLow>
+  <FCAnimalNotCombatTrainability>Слишком низкая обучаемость (нужна средняя или выше)</FCAnimalNotCombatTrainability>
+  <FCAnimalSelection>Выбор животных</FCAnimalSelection>
+  <FCAnimalTagCombat>Боевые</FCAnimalTagCombat>
+  <FCAnimalTagPack>Вьючные</FCAnimalTagPack>
+  <FCAutoMaxRandomTithe>Макс.</FCAutoMaxRandomTithe>
+  <FCAutoMaxRandomTitheDesc>Если включено, бюджет случайной десятины автоматически заполняет оставшийся доход после ручной десятины. Добавление ручной десятины соответственно уменьшит случайный бюджет.</FCAutoMaxRandomTitheDesc>
+  <FCBattleForecast>Прогноз боя:
+Сила врага: {0} (эффективность: x{1})
+Сила обороны: {2} (эффективность: x{3})
+Оценочный шанс победы: {4}%</FCBattleForecast>
+  <FCBillResolved>Счёт закрыт.</FCBillResolved>
+  <FCBuildingInvalidTileMutator>{0} нельзя построить на этой местности</FCBuildingInvalidTileMutator>
+  <FCBuildingRemovedByTypeTransition>{0} удалено из-за смены типа поселения в {1}.</FCBuildingRemovedByTypeTransition>
+  <FCBuildings>Здания</FCBuildings>
+  <FCCapitalRelocatedDesc>Резиденция столицы вашей Империи обновлена и теперь находится в новом месте.</FCCapitalRelocatedDesc>
+  <FCCapitalRelocatedLabel>Столица Империи перенесена</FCCapitalRelocatedLabel>
+  <FCCaravanExotic>Экзотические товары</FCCaravanExotic>
+  <FCCaravanExoticLocked>Требуется 4-й уровень фракции или политика «Меркантильность».</FCCaravanExoticLocked>
+  <FCCaravanExoticTooltip>Редкие и дорогие товары: артефакты, импланты и экзотические материалы.</FCCaravanExoticTooltip>
+  <FCCaravanNoneError>Должен быть включён хотя бы один тип каравана.</FCCaravanNoneError>
+  <FCCaravanResourceTechLocked>Караваны {0} недоступны при вашем текущем технологическом уровне.</FCCaravanResourceTechLocked>
+  <FCCaravanResourceTooltip>Караван, специализирующийся на товарах ресурса {0}, собранных из общего производства империи.</FCCaravanResourceTooltip>
+  <FCCaravanSlaver>Работорговец</FCCaravanSlaver>
+  <FCCaravanSlaverBlocked>Заблокировано политикой пацифизма или эгалитаризма.</FCCaravanSlaverBlocked>
+  <FCCaravanSlaverTooltip>Торгует рабами и нелегальными товарами.</FCCaravanSlaverTooltip>
+  <FCCaravanTypes>Типы караванов</FCCaravanTypes>
+  <FCCaravanTypesDesc>Выберите, какие типы торговых караванов будет отправлять ваша империя.</FCCaravanTypesDesc>
+  <FCCodexBattleDampExample>Пример: исходная эффективность {0}× → сглажена до {1}×</FCCodexBattleDampExample>
+  <FCCodexBattleDamping>Сглаживание эффективности: {0}</FCCodexBattleDamping>
+  <FCCodexBattleDefAdv>Преимущество защитника: {0}× (бонус силы {1}%)</FCCodexBattleDefAdv>
+  <FCCodexBattleParams>Текущие параметры боя</FCCodexBattleParams>
+  <FCCodexBuildingAllBiomes>Все биомы</FCCodexBuildingAllBiomes>
+  <FCCodexBuildingAnyTerrain>Любая местность</FCCodexBuildingAnyTerrain>
+  <FCCodexBuildingApplicableBiomes>Биомы:</FCCodexBuildingApplicableBiomes>
+  <FCCodexBuildingBiomeRestrictions>Ограничения местности</FCCodexBuildingBiomeRestrictions>
+  <FCCodexBuildingCompatibleSettlements>Совместимые поселения</FCCodexBuildingCompatibleSettlements>
+  <FCCodexBuildingCost>Стоимость: {0} серебра</FCCodexBuildingCost>
+  <FCCodexBuildingDuration>Время строительства: {0}</FCCodexBuildingDuration>
+  <FCCodexBuildingHilliness>Рельеф: от {0} до {1}</FCCodexBuildingHilliness>
+  <FCCodexBuildingIncome>Доход: {0} серебра</FCCodexBuildingIncome>
+  <FCCodexBuildingMaxHilliness>Макс. рельеф: {0}</FCCodexBuildingMaxHilliness>
+  <FCCodexBuildingMinHilliness>Мин. рельеф: {0}</FCCodexBuildingMinHilliness>
+  <FCCodexBuildingModifiers>Модификаторы</FCCodexBuildingModifiers>
+  <FCCodexBuildingRequired>Требуемые здания</FCCodexBuildingRequired>
+  <FCCodexBuildingRequiredBy>Требуется для</FCCodexBuildingRequiredBy>
+  <FCCodexBuildingStats>Параметры</FCCodexBuildingStats>
+  <FCCodexBuildingTechGeneral>Общее</FCCodexBuildingTechGeneral>
+  <FCCodexBuildingTechLevel>Технологический уровень: {0}</FCCodexBuildingTechLevel>
+  <FCCodexBuildingUpgrades>Дерево улучшений</FCCodexBuildingUpgrades>
+  <FCCodexBuildingUpkeep>Содержание: {0} серебра</FCCodexBuildingUpkeep>
+  <FCCodexCooldownEffectivenessNote>Раненые пешки снижают боевую эффективность отряда, пока не вылечатся; окно осмотра отряда показывает примерное время лечения. Погибшие наёмники оставляют слот пустым, пока игрок не заполнит его.</FCCodexCooldownEffectivenessNote>
+  <FCCodexCooldownParams>Текущие параметры перезарядки</FCCodexCooldownParams>
+  <FCCodexCooldownTravelDefense>Оборонительные операции: ровно 24 часа (отряд перегруппировывается на месте).</FCCodexCooldownTravelDefense>
+  <FCCodexCooldownTravelOffense>Наступательные операции: рассчитывается время пути отряда от цели обратно до родного поселения.</FCCodexCooldownTravelOffense>
+  <FCCodexDiffCurrent>Текущая сложность: {0}</FCCodexDiffCurrent>
+  <FCCodexDiffCustomLabel>Ваши пользовательские значения:</FCCodexDiffCustomLabel>
+  <FCCodexDiffCustomRow>   {0}: {1}</FCCodexDiffCustomRow>
+  <FCCodexDiffHeader>Сложность → Серебро/рес. | Дни налогов | Мод. десятины | Стоимость рабочих</FCCodexDiffHeader>
+  <FCCodexDiffRow>{0}: {1} | {2} д. | {3} | {4}</FCCodexDiffRow>
+  <FCCodexDisabled>Отключено</FCCodexDisabled>
+  <FCCodexETLAvgLevel>Средний уровень: {0}</FCCodexETLAvgLevel>
+  <FCCodexETLBreakdown>Составляющие:</FCCodexETLBreakdown>
+  <FCCodexETLContrib>+{0}</FCCodexETLContrib>
+  <FCCodexETLCount>Поселений: {0}</FCCodexETLCount>
+  <FCCodexETLCurrent>Текущий ETL: {0}×</FCCodexETLCurrent>
+  <FCCodexETLHandicapCap>Предел форы: {0}×</FCCodexETLHandicapCap>
+  <FCCodexETLIncome>Доход: {0} серебра</FCCodexETLIncome>
+  <FCCodexETLMaxLevel>Макс. уровень: {0}</FCCodexETLMaxLevel>
+  <FCCodexETLMaxSetting>Максимум в настройках: {0}×</FCCodexETLMaxSetting>
+  <FCCodexETLNoSettlements>Нет поселений — ETL по умолчанию равен 1.0×.</FCCodexETLNoSettlements>
+  <FCCodexEnabled>Включено</FCCodexEnabled>
+  <FCCodexFreqCount>Ваших поселений: {0}</FCCodexFreqCount>
+  <FCCodexFreqCurve>Кривая частоты (поселения → множитель):</FCCodexFreqCurve>
+  <FCCodexFreqParams>Текущие параметры частоты атак</FCCodexFreqParams>
+  <FCCodexFreqPoint>{0} поселений → {1}×</FCCodexFreqPoint>
+  <FCCodexFreqRange>Базовый интервал: {0}–{1} дней</FCCodexFreqRange>
+  <FCCodexLiveData>Текущие игровые значения</FCCodexLiveData>
+  <FCCodexNo>Нет</FCCodexNo>
+  <FCCodexProsCurrent>Процветание: {0}</FCCodexProsCurrent>
+  <FCCodexProsDrift>Изменение: {0}/день</FCCodexProsDrift>
+  <FCCodexProsHappiness>Счастье: {0}</FCCodexProsHappiness>
+  <FCCodexProsHeader>Разбивка по поселениям</FCCodexProsHeader>
+  <FCCodexProsLoyalty>Лояльность: {0}</FCCodexProsLoyalty>
+  <FCCodexProsNoSettlements>Нет поселений для отображения данных процветания.</FCCodexProsNoSettlements>
+  <FCCodexProsProdMult>Производство: ×{0}</FCCodexProsProdMult>
+  <FCCodexProsStability>Стабильность: {0}</FCCodexProsStability>
+  <FCCodexProsTargetVal>Цель: {0}</FCCodexProsTargetVal>
+  <FCCodexResExample>Пример: {0} — {1}</FCCodexResExample>
+  <FCCodexResNoSettlements>Нет поселений для отображения данных производства.</FCCodexResNoSettlements>
+  <FCCodexResNoWorkers>На ресурсы пока не назначены рабочие.</FCCodexResNoWorkers>
+  <FCCodexResSilver>Перевод в серебро: {0} серебра/ед. → стоимость {1} серебра</FCCodexResSilver>
+  <FCCodexResStage1>Этап 1 (добавки): база {0}</FCCodexResStage1>
+  <FCCodexResStage2>Этап 2 (множители): ×{0} (включая процветание {1}%)</FCCodexResStage2>
+  <FCCodexResStage3>Этап 3 (рабочие): {0} рабочих → {1} общего производства</FCCodexResStage3>
+  <FCCodexResourceBiomeAdditive>Добавка</FCCodexResourceBiomeAdditive>
+  <FCCodexResourceBiomeMultiplier>Множитель</FCCodexResourceBiomeMultiplier>
+  <FCCodexResourceBiomeName>Биом</FCCodexResourceBiomeName>
+  <FCCodexResourceBiomeProduction>Производство по биомам</FCCodexResourceBiomeProduction>
+  <FCCodexResourceBiomeTotal>Итого</FCCodexResourceBiomeTotal>
+  <FCCodexResourceCompatibleSettlements>Совместимые поселения</FCCodexResourceCompatibleSettlements>
+  <FCCodexResourceDefaultResource>Ресурс по умолчанию: {0}</FCCodexResourceDefaultResource>
+  <FCCodexResourceDefenseWeight>Вес в обороне: {0}</FCCodexResourceDefenseWeight>
+  <FCCodexResourceKeyInfo>Основная информация</FCCodexResourceKeyInfo>
+  <FCCodexResourceMaxTechLevel>Макс. технологический уровень: {0}</FCCodexResourceMaxTechLevel>
+  <FCCodexResourceMinTechLevel>Мин. технологический уровень: {0}</FCCodexResourceMinTechLevel>
+  <FCCodexResourcePoolResource>Накопительный ресурс</FCCodexResourcePoolResource>
+  <FCCodexResourceRequiresResearch>Требуется: {0}</FCCodexResourceRequiresResearch>
+  <FCCodexResourceSearchTithe>Поиск предметов десятины...</FCCodexResourceSearchTithe>
+  <FCCodexResourceTitheItems>Предметы десятины ({0})</FCCodexResourceTitheItems>
+  <FCCodexResourceTitheable>Можно собирать десятину: {0}</FCCodexResourceTitheable>
+  <FCCodexSearchBuildings>Поиск зданий...</FCCodexSearchBuildings>
+  <FCCodexSeeAlso>См. также:</FCCodexSeeAlso>
+  <FCCodexSelectBuilding>Выберите здание слева, чтобы посмотреть подробности.</FCCodexSelectBuilding>
+  <FCCodexSelectEntry>Выберите запись слева, чтобы посмотреть подробности.</FCCodexSelectEntry>
+  <FCCodexSelectResource>Выберите ресурс слева, чтобы посмотреть подробности.</FCCodexSelectResource>
+  <FCCodexSelectSettlement>Выберите тип поселения слева, чтобы посмотреть подробности.</FCCodexSelectSettlement>
+  <FCCodexSettlementAllBiomes>Все биомы</FCCodexSettlementAllBiomes>
+  <FCCodexSettlementAllowedBiomes>Только разрешены: {0}</FCCodexSettlementAllowedBiomes>
+  <FCCodexSettlementBiomes>Ограничения биомов</FCCodexSettlementBiomes>
+  <FCCodexSettlementBlockedBiomes>Запрещены: {0}</FCCodexSettlementBlockedBiomes>
+  <FCCodexSettlementBuildingSlots>Ячейки зданий</FCCodexSettlementBuildingSlots>
+  <FCCodexSettlementBuildingSlotsCount>Ячейки зданий</FCCodexSettlementBuildingSlotsCount>
+  <FCCodexSettlementBuildingSlotsLevel>Уровень</FCCodexSettlementBuildingSlotsLevel>
+  <FCCodexSettlementBuildingSlotsWorkers>Рабочие</FCCodexSettlementBuildingSlotsWorkers>
+  <FCCodexSettlementCanBeRaided>Можно атаковать: {0}</FCCodexSettlementCanBeRaided>
+  <FCCodexSettlementManualBattle>Ручной бой: {0}</FCCodexSettlementManualBattle>
+  <FCCodexSettlementMaxLevel>Макс. уровень: {0}</FCCodexSettlementMaxLevel>
+  <FCCodexSettlementPlanetLayer>Слой планеты: {0}</FCCodexSettlementPlanetLayer>
+  <FCCodexSettlementRaidWeight>Вес выбора цели рейда: {0}</FCCodexSettlementRaidWeight>
+  <FCCodexSettlementResearch>Исследование: {0}</FCCodexSettlementResearch>
+  <FCCodexSettlementResources>Доступные ресурсы</FCCodexSettlementResources>
+  <FCCodexSettlementStatModifiers>Модификаторы параметров</FCCodexSettlementStatModifiers>
+  <FCCodexSettlementStats>Ключевые параметры</FCCodexSettlementStats>
+  <FCCodexSettlementTechLevel>Технологический уровень: {0}</FCCodexSettlementTechLevel>
+  <FCCodexSettlementTechReqs>Требования технологий</FCCodexSettlementTechReqs>
+  <FCCodexSettlementWorkers>Рабочие: {0} базово, +{1} за уровень</FCCodexSettlementWorkers>
+  <FCCodexTabBuildings>Здания</FCCodexTabBuildings>
+  <FCCodexTabInfo>Информация</FCCodexTabInfo>
+  <FCCodexTabResources>Ресурсы</FCCodexTabResources>
+  <FCCodexTabSettlements>Поселения</FCCodexTabSettlements>
+  <FCCodexTipProfitBreakdown>Доход: {0} серебра
+Содержание: {1} серебра
+Прибыль: {2} серебра
+
+Доход — общая серебряная стоимость всего производства поселения. Содержание включает стоимость рабочих, обслуживание зданий и военные расходы.</FCCodexTipProfitBreakdown>
+  <FCCodexTipProsFormula>Множитель производства = процветание / 100. При 50% вы производите вдвое меньше.</FCCodexTipProsFormula>
+  <FCCodexTipProsRange>Диапазон по поселениям: {0}% - {1}%</FCCodexTipProsRange>
+  <FCCodexTipSocialDrift>{0} естественно увеличивается на 1/день, если нет отрицательного модификатора. Политики, здания и события могут увеличивать или уменьшать эту скорость. Этот параметр влияет на цель процветания.</FCCodexTipSocialDrift>
+  <FCCodexTipTaxAveraging>Налоговый доход использует СРЕДНЕЕ значение ежедневных снимков производства за налоговый период, а не один снимок в момент сбора. Постройка или потеря объектов в середине периода пропорционально влияет на среднее.</FCCodexTipTaxAveraging>
+  <FCCodexTipTaxTimer>Сбор налогов каждые {0} дней (настраивается в параметрах).
+</FCCodexTipTaxTimer>
+  <FCCodexTipUnrestDrift>Нестабильность естественно уменьшается на 1/день, если нет штрафного модификатора. Политики, здания и события могут увеличивать или уменьшать эту скорость. Чем ниже нестабильность, тем выше цель процветания.</FCCodexTipUnrestDrift>
+  <FCCodexTitle>Кодекс Империи</FCCodexTitle>
+  <FCCodexWorkerBaseCost>Базовая стоимость рабочего: {0} серебра</FCCodexWorkerBaseCost>
+  <FCCodexWorkerExample>Пример: {0} рабочих сверх лимита → +{1}% к стоимости → {2} серебра за рабочего</FCCodexWorkerExample>
+  <FCCodexWorkerFormula>Формула: стоимость × (1 + переработка/20)</FCCodexWorkerFormula>
+  <FCCodexWorkerFormulaDesc>Каждый рабочий сверх мягкого лимита добавляет 5% к стоимости</FCCodexWorkerFormulaDesc>
+  <FCCodexWorkerParams>Текущие параметры рабочих</FCCodexWorkerParams>
+  <FCCodexYes>Да</FCCodexYes>
+  <FCConfirmDelete>Вы уверены, что хотите удалить «{0}»?</FCConfirmDelete>
+  <FCCost>Стоимость</FCCost>
+  <FCCreateColonyTileModifiersTitle>Модификаторы клетки</FCCreateColonyTileModifiersTitle>
+  <FCCurrentDefender>Текущий защитник</FCCurrentDefender>
+  <FCDailyRate>Текущий темп</FCDailyRate>
+  <FCDefenseBattleOverLeaveMap>Бой окончен. Соберите силы и покиньте поселение, когда будете готовы.</FCDefenseBattleOverLeaveMap>
+  <FCExportFireSupport>Огневая поддержка экспортирована</FCExportFireSupport>
+  <FCExportFireSupportButton>Экспорт</FCExportFireSupportButton>
+  <FCFactionBaseAdjacent>Нельзя основать поселение рядом с существующей базой фракции.</FCFactionBaseAdjacent>
+  <FCImportFireSupport>Импорт</FCImportFireSupport>
+  <FCMirrorPlayerTechLevel>Повторять технологический уровень игрока</FCMirrorPlayerTechLevel>
+  <FCMirrorPlayerTechLevelDesc>Если включено, технологический уровень Империи закрепляется за технологическим уровнем фракции игрока. Исследования больше не повышают технологический уровень Империи.</FCMirrorPlayerTechLevelDesc>
+  <FCNameIsInvalid>Недопустимое имя</FCNameIsInvalid>
+  <FCNo>Нет</FCNo>
+  <FCNone>Нет</FCNone>
+  <FCPauseTithes>Приостановить десятину</FCPauseTithes>
+  <FCPauseTithesDesc>Если включено, во время сбора налогов предметы десятины для этого ресурса собираться не будут. Стоимость его производства будет превращена в доход серебром. Настройки десятины сохранятся и продолжат действовать после возобновления.</FCPauseTithesDesc>
+  <FCPeriodAverageTooltipFaction>Это сумма ожидаемых выплат всех поселений за вычетом содержания эдиктов. Каждое поселение ежедневно фиксирует доход и содержание, а серебро при сборе налогов выплачивается по среднему этих снимков.</FCPeriodAverageTooltipFaction>
+  <FCPeriodAverageTooltipHas>Доход и содержание фиксируются снимком каждый день. При сборе налогов выплачивается среднее серебро по этим ежедневным снимкам.</FCPeriodAverageTooltipHas>
+  <FCPeriodAverageTooltipNone>В этом налоговом цикле ещё не было ежедневных снимков. Основное значение показывает текущий дневной темп.
+
+После прохождения одного дня основное значение переключится на среднее за период — именно оно будет выплачено при сборе налогов.</FCPeriodAverageTooltipNone>
+  <FCReformCaravanBattleStillActive>Бой не закончится, пока все враги не погибнут или не покинут карту.</FCReformCaravanBattleStillActive>
+  <FCReset>Сбросить</FCReset>
+  <FCRoadSegmentsBuilt>Поселения вашей Империи построили новые сегменты {0}, соединяющие ваши территории.</FCRoadSegmentsBuilt>
+  <FCSettingEdgesPerRoadTick>Рёбер за тик дорог</FCSettingEdgesPerRoadTick>
+  <FCSettingEventOptionDelay>Защита от случайного нажатия вариантов события: {0} с</FCSettingEventOptionDelay>
+  <FCSettingFlushRoadCache>Очистить кэш путей дорог</FCSettingFlushRoadCache>
+  <FCSettingRoadBuilderDesc>Строитель дорог автоматически соединяет поселения вашей Империи дорогами по алгоритму минимального остовного дерева, который пересчитывается при следующих событиях:
+ - каждый раз, когда поселение основано или потеряно
+ - когда вы исследуете новый уровень дорог
+
+Для этого нужно рассчитывать стоимость пути между множеством пар поселений, что может быть затратно при большом числе поселений или при очень редком их расположении.
+
+По умолчанию расчёт выполняется в фоновом потоке, чтобы игра не зависала. Если у вас возникают проблемы с потоками, можно отключить это и при необходимости распределить расчёт на несколько тиков.
+
+Распределение расчёта снизит нагрузку на производительность, но дороги не начнут строиться, пока MST не будет полностью построено. Поэтому чем сильнее вы ограничиваете алгоритм, тем дольше придётся ждать начала строительства дорог.</FCSettingRoadBuilderDesc>
+  <FCSettingUseThreadedRoadComputation>Использовать потоковый расчёт дорог</FCSettingUseThreadedRoadComputation>
+  <FCSettingUseThreadedRoadComputationDesc>Рассчитывает дорожные пути в фоновом потоке для лучшей производительности. Отключите, если возникают проблемы со строительством дорог.</FCSettingUseThreadedRoadComputationDesc>
+  <FCSettingsTabRoadBuilder>Строитель дорог</FCSettingsTabRoadBuilder>
+  <FCSettlementEstimatedIncome>Оценочный доход</FCSettlementEstimatedIncome>
+  <FCSettlementEstimatedProfit>Оценочная прибыль</FCSettlementEstimatedProfit>
+  <FCSettlementTypeNoManualBattle>Этот тип поселения не поддерживает ручные бои. Все бои здесь рассчитываются автоматически.</FCSettlementTypeNoManualBattle>
+  <FCTileWrongPlanetLayer>Эта клетка находится на неправильном слое планеты для данного типа поселения.</FCTileWrongPlanetLayer>
+  <FCTithesPaused>Десятина приостановлена</FCTithesPaused>
+  <FCTownLevel_Orbital_1>Станция — пока лишь герметичный жилой модуль с несколькими стыковочными портами, её корпус ещё блестит после недавней постройки.</FCTownLevel_Orbital_1>
+  <FCTownLevel_Orbital_2>Группа соединённых модулей образует ядро станции; базовые шлюзы и грузовые отсеки обслуживают небольшой, но растущий экипаж.</FCTownLevel_Orbital_2>
+  <FCTownLevel_Orbital_3>Станция выросла в солидную орбитальную платформу с отдельными производственными модулями, вращающимися жилыми секциями и расходящимися в стороны солнечными коллекторами.</FCTownLevel_Orbital_3>
+  <FCTownLevel_Orbital_4>Крупная орбитальная установка ощетинилась сенсорными массивами и стыковочными шпилями. Несколько герметичных палуб вмещают специализированные объекты, а турели точечной обороны прочёсывают окружающую пустоту.</FCTownLevel_Orbital_4>
+  <FCTownLevel_Orbital_5>Станция доминирует над местным орбитальным пространством: раскинувшийся комплекс соединённых колец и балок гудит от промышленности. Многослойные щиты и оружейные платформы гарантируют, что ничто не приблизится безнаказанно.</FCTownLevel_Orbital_5>
+  <FCTraitDesc_prosperityLostBase>{0} Базовая потеря процветания</FCTraitDesc_prosperityLostBase>
+  <FCUnPauseTithes>Возобновить десятину</FCUnPauseTithes>
+  <FCYes>Да</FCYes>
+
+</LanguageData>

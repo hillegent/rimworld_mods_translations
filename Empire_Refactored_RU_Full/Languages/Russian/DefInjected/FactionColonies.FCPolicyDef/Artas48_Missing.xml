@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Empty.desc>Нажмите здесь, чтобы принять эту политику.</Empty.desc>
+  <Enacting.desc>Политика находится в разработке.</Enacting.desc>
+  <aFactionDisarmed.desc>Во фракции почти нет, если вообще есть, обученных военных сил.</aFactionDisarmed.desc>
+  <aggressiveCounterattack.desc>Поселения бросают все силы на отражение атакующих. Шанс победы выше, но инфраструктура страдает от хаоса.</aggressiveCounterattack.desc>
+  <authoritarian.desc>Авторитарное общество, которое стремится удерживать контроль над своими членами любыми необходимыми средствами.</authoritarian.desc>
+  <authoritarian.negativeEffects.0>- Лояльность начинается с 70%</authoritarian.negativeEffects.0>
+  <authoritarian.positiveEffects.0>- Можно отправить войска в рейд на поселение другой фракции, чтобы поработить её членов вместо обычного грабежа</authoritarian.positiveEffects.0>
+  <authoritarian.positiveEffects.1>- Можно тратить серебро, чтобы повышать лояльность поселения</authoritarian.positiveEffects.1>
+  <bunkerDown.desc>Поселения сосредоточены на укреплении инфраструктуры. Защитники сражаются осторожно, чтобы уберечь здания.</bunkerDown.desc>
+  <companyUnion.desc>Корпорация, решившая создать собственную самодостаточную торговую империю.</companyUnion.desc>
+  <defenseInDepth.positiveEffects.0>- Военные силы получают +2 уровня к бою при обороне</defenseInDepth.positiveEffects.0>
+  <diversityWeEmbrace.desc>Разнообразное общество не оставляет пустот, из-за которых могло бы рухнуть.</diversityWeEmbrace.desc>
+  <egalitarian.desc>Эгалитарное общество стремится к равенству для всех.</egalitarian.desc>
+  <egalitarian.negativeEffects.0>- Счастье начинается с 60%</egalitarian.negativeEffects.0>
+  <egalitarian.positiveEffects.0>- Можно снизить базовый налог на 20% на два налоговых периода, резко повысив счастье и процветание</egalitarian.positiveEffects.0>
+  <egalitarian.positiveEffects.1>- Получает бонус к базовому налогу (1% за каждые 10% счастья)</egalitarian.positiveEffects.1>
+  <expansionist.desc>Экспансионистское общество стремится распространить свою славу по всему миру.</expansionist.desc>
+  <expansionist.positiveEffects.0>- Первое поселение бесплатно</expansionist.positiveEffects.0>
+  <expansionist.positiveEffects.1>- Раз в год, начиная после первого года, стоимость создания нового поселения снижается на 50%</expansionist.positiveEffects.1>
+  <expansionist.positiveEffects.2>- Построенные вами поселения начинают со 2-го уровня</expansionist.positiveEffects.2>
+  <feudal.desc>Феодальное общество поддерживает феодальный договор, связывающий общество с сюзереном в обмен на защиту.</feudal.desc>
+  <feudal.negativeEffects.0>- Неспособность защитить поселения от рейда значительно снижает лояльность</feudal.negativeEffects.0>
+  <feudal.positiveEffects.0>- Раз в сезон можно попросить наёмника из вашей фракции присоединиться к вашей колонии</feudal.positiveEffects.0>
+  <feudal.positiveEffects.1>- Стоимость всей получаемой десятины увеличена на 20%</feudal.positiveEffects.1>
+  <goodsEconomy.desc>Поселения отдают приоритет отправке физических товаров вместо серебра. Бюджеты десятины значительно растут, но доход серебром уменьшается.</goodsEconomy.desc>
+  <heavyConscription.desc>Большая часть населения призывается в военные силы поселения.</heavyConscription.desc>
+  <heavyTaxation.desc>Увеличьте объём налогов с поселений ценой счастья и роста нестабильности.</heavyTaxation.desc>
+  <industrious.positiveEffects.0>- Все поселения получают стабильные +5 к базовому налогу</industrious.positiveEffects.0>
+  <innovative.positiveEffects.0>- Поселения пассивно генерируют очки исследования, равные 5% их общей прибыли</innovative.positiveEffects.0>
+  <isolationist.desc>Изоляционистское общество стремится держаться в стороне от мировой политики и контактов.</isolationist.desc>
+  <isolationist.negativeEffects.0>- Стоимость создания новых поселений увеличена на 100%</isolationist.negativeEffects.0>
+  <isolationist.negativeEffects.1>- Нельзя использовать военные силы для захвата поселений других фракций</isolationist.negativeEffects.1>
+  <isolationist.positiveEffects.0>- Время улучшения поселений и строительства зданий снижено на 50%</isolationist.positiveEffects.0>
+  <isolationist.positiveEffects.1>- Каждое поселение получает дополнительные +3 к мягкому лимиту рабочих за уровень поселения</isolationist.positiveEffects.1>
+  <isolationist.positiveEffects.2>- Все поселения получают +10% к базовому налогу</isolationist.positiveEffects.2>
+  <lucky.positiveEffects.0>- Негативные случайные события Империи имеют 20% шанс быть переброшенными в обмен на новое событие</lucky.positiveEffects.0>
+  <mercantile.positiveEffects.0>- Случайный торговый караван будет прибывать в вашу столицу каждые 3-5 дней</mercantile.positiveEffects.0>
+  <militaristic.desc>Милитаристское общество, ищущее славу в крови и смерти ради своего дела.</militaristic.desc>
+  <militaristic.positiveEffects.0>- +20% к боевому модификатору при использовании военных сил вашей фракции</militaristic.positiveEffects.0>
+  <militaristic.positiveEffects.1>- Раз в пять дней можно развернуть второй отряд из одного поселения, заплатив 20% стоимости отряда серебром</militaristic.positiveEffects.1>
+  <militaristic.positiveEffects.2>- При создании нового поселения оно начнёт с казармами</militaristic.positiveEffects.2>
+  <militaristic.positiveEffects.3>- Все военные здания стоят на 100 меньше в содержании</militaristic.positiveEffects.3>
+  <minimizeTaxation.desc>Собирайте меньше налогов с поселений. Это сделает их счастливее и снизит нестабильность.</minimizeTaxation.desc>
+  <onePeopleUnited.desc>Общество, объединённое общей целью, сохраняет самую крепкую волю для самых тяжёлых обязанностей.</onePeopleUnited.desc>
+  <pacifist.desc>Пацифистское общество, которое стремится избегать конфликтов там, где это возможно.</pacifist.desc>
+  <pacifist.negativeEffects.0>- Нельзя использовать военные силы для рейдов или захвата поселений других фракций</pacifist.negativeEffects.0>
+  <pacifist.positiveEffects.0>- Раз в пять дней можно отправить дипломатического посланника к другой фракции, чтобы попытаться улучшить отношения</pacifist.positiveEffects.0>
+  <pacifist.positiveEffects.1>- Смерти членов вашей фракции не повышают нестабильность и не снижают счастье</pacifist.positiveEffects.1>
+  <raiders.positiveEffects.0>- Увеличивает ценность добычи на 20% при рейдах</raiders.positiveEffects.0>
+  <raiders.positiveEffects.1>- Военные силы становятся доступны на 1 день раньше после использования их для рейда</raiders.positiveEffects.1>
+  <resilient.positiveEffects.0>- Снижает потерю процветания при атаке на 50%</resilient.positiveEffects.0>
+  <resilient.positiveEffects.1>- При проваленной обороне нельзя потерять здания или уровни поселения</resilient.positiveEffects.1>
+  <roadBuilders.positiveEffects.0>- Автоматически открывает первую технологию дорог</roadBuilders.positiveEffects.0>
+  <roadBuilders.positiveEffects.1>- Дороги строятся за 33% от требуемого времени</roadBuilders.positiveEffects.1>
+  <roadBuilders.positiveEffects.2>- Дороги также будут строиться для соединения с поселениями союзных фракций</roadBuilders.positiveEffects.2>
+  <royalHeritage.desc>Общество под властью королевской семьи объединено своими традициями.</royalHeritage.desc>
+  <scienceFoundation.desc>Общество, ценящее знания и исследование неизвестного.</scienceFoundation.desc>
+  <scorchedEarth.desc>Ваши силы сражаются, совершенно не заботясь о сопутствующем ущербе. Даже победы оставляют на поселении шрамы.</scorchedEarth.desc>
+  <silverStandard.desc>Поселения продают товары на месте и перечисляют монету. Доход серебром растёт, но бюджеты десятины уменьшаются.</silverStandard.desc>
+  <slaveArmy.desc>Большая часть военных сил ваших поселений состоит из рабов или людей в принудительном услужении.</slaveArmy.desc>
+  <slaver.desc>Общество, сосредоточенное на рабстве.</slaver.desc>
+  <slaver.negativeEffects.0>- -2 рабочих сверх максимума</slaver.negativeEffects.0>
+  <slaver.positiveEffects.0>- Ваша фракция с самого начала использует рабов в своих проектах, получая больше рабочих ценой меньшей возможности нанимать обычных граждан.</slaver.positiveEffects.0>
+  <slaver.positiveEffects.1>- +2 рабочих за уровень поселения</slaver.positiveEffects.1>
+  <technocratic.desc>Технократическое общество стремится к расширению знаний и постоянному совершенствованию.</technocratic.desc>
+  <technocratic.positiveEffects.0>- Все исследования, производимые вашими поселениями, удваиваются</technocratic.positiveEffects.0>
+  <technocratic.positiveEffects.1>- Можно отправлять поселениям предметы, исследование которых вы ещё не завершили или которые выше вашего технологического уровня, чтобы разобрать их методом обратной разработки и получить их стоимость в очках исследования</technocratic.positiveEffects.1>
+  <totalMobilization.desc>Каждый, кто способен держаться на ногах, стоит на стенах. Огромная боевая мощь, но мораль страдает, а поражение будет катастрофическим.</totalMobilization.desc>
+  <tradersFederation.desc>Общество, где власть принадлежит тем, у кого есть богатство, чтобы её оплатить.</tradersFederation.desc>
+  <volunteerService.desc>Военные силы ваших поселений состоят только из добровольцев.</volunteerService.desc>
+
+</LanguageData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Empire Refactored - полный русский перевод</name>
+  <author>Artas48</author>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <packageId>artas48.empirerefactored.rufull</packageId>
+  <modVersion>1.0.0</modVersion>
+  <description>
+Полный русский перевод мода Empire Refactored. Переводит Keyed, DefInjected и отдельные строки интерфейса, которые в оригинальном моде зашиты в C#.
+
+Требуется оригинальный мод Empire Refactored.
+  </description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>Matathias.Empire</packageId>
+      <displayName>Empire Refactored</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3701480464</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>Matathias.Empire</li>
+  </loadAfter>
+</ModMetaData>

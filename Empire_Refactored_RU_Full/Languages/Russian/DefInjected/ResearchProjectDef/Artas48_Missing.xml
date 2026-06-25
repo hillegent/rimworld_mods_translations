@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FCRoadBuildingStone.description>Позволяет поселениям вашей Империи со временем автоматически строить каменные дороги. Если строительство дорог включено, дороги будут строиться по одному сегменту каждые 3 дня.</FCRoadBuildingStone.description>
+  <FCRoadBuildingStone.label>Строительство каменных дорог поселениями</FCRoadBuildingStone.label>
+
+</LanguageData>

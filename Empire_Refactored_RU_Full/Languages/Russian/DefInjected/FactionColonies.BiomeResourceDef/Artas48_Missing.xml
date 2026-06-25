@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bunnies_Carrotopia.label>морковия</Bunnies_Carrotopia.label>
+  <Duskwood.label>сумеречный лес</Duskwood.label>
+  <ZBiome_AlpineMeadow.label>альпийский луг</ZBiome_AlpineMeadow.label>
+  <ZBiome_Badlands.label>бедленд</ZBiome_Badlands.label>
+  <ZBiome_CloudForest.label>облачный лес</ZBiome_CloudForest.label>
+  <ZBiome_CoastalDunes.label>прибрежные дюны</ZBiome_CoastalDunes.label>
+  <ZBiome_DesertOasis.label>пустынный оазис</ZBiome_DesertOasis.label>
+  <ZBiome_GlacialShield.label>ледниковый щит</ZBiome_GlacialShield.label>
+  <ZBiome_Grasslands.label>грозовая саванна</ZBiome_Grasslands.label>
+  <ZBiome_Iceberg_NoBeach.label>ледяные поля</ZBiome_Iceberg_NoBeach.label>
+  <ZBiome_Marsh.label>марш</ZBiome_Marsh.label>
+  <ZBiome_Sandbar_NoBeach.label>песчаная отмель</ZBiome_Sandbar_NoBeach.label>
+
+</LanguageData>

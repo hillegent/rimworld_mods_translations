@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/GenStepDef[defName="BlackMarketOutpost_Workers"]/genStep/laborerLabel</xpath>
+    <value>
+      <laborerLabel>контрабандист</laborerLabel>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/GenStepDef[defName="ComponentOutpost_Workers"]/genStep/laborerLabel</xpath>
+    <value>
+      <laborerLabel>техник</laborerLabel>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/GenStepDef[defName="GunsmithingOutpost_Workers"]/genStep/laborerLabel</xpath>
+    <value>
+      <laborerLabel>лакей</laborerLabel>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/GenStepDef[defName="MercenaryOutpost_Workers"]/genStep/laborerLabel</xpath>
+    <value>
+      <laborerLabel>оруженосец</laborerLabel>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/GenStepDef[defName="VehiclesOutpost_Workers"]/genStep/laborerLabel</xpath>
+    <value>
+      <laborerLabel>автомойщик</laborerLabel>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/GenStepDef[defName="VehiclesTier3Outpost_Workers"]/genStep/laborerLabel</xpath>
+    <value>
+      <laborerLabel>механик</laborerLabel>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[@Name="Base_WorkSiteExpanded"]/questDescriptionRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Местные разведчики поделились знаниями о</li>
+        <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Просмотр местных карт предупредил нас о существовании</li>
+        <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Странствующий путешественник упомянул</li>
+        <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Обнаружены перехваченные сообщения</li>
+        <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Сообщено о перемещенных беженцах</li>
+        <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Сборщики дорожных сборов были замечены в</li>
+        <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Дезертир сообщил нам местонахождение</li>
+        <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Захваченный персонал обнаружил, что в</li>
+        <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Раненый путешественник рассказал о</li>
+        <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Охранники открыто бросают вызов прохожим на</li>
+        <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Пьяный бродяга упустил местонахождение</li>
+        <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Необычный трафик вдоль дороги предлагается</li>
+        <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Были замечены рабочие, перевозившие товары в мастерской</li>
+        <li>discoveryMethod(pulseDetected==true)-&gt;Наш импульсный излучатель обнаружил</li>
+        <li>discoveryMethod(pulseDetected==true)-&gt;Сканирование импульсного излучателя выявило</li>
+        <li>discoveryMethod(pulseDetected==true)-&gt;Выходной сигнал импульсного излучателя подтвердил</li>
+        <li>discoveryMethod(pulseDetected==true)-&gt;Импульсный излучатель вернул местоположение</li>
+        <li>discoveryMethod(pulseDetected==true)-&gt;Испущенный нами импульс обнаружил местонахождение</li>
+        <li>discoveryMethod(traderMentioned==true)-&gt;Проходящий мимо торговец упомянул</li>
+        <li>discoveryMethod(traderMentioned==true)-&gt;Странствующий торговец раскрыл местонахождение</li>
+        <li>discoveryMethod(traderMentioned==true)-&gt;Во время торговли водитель каравана рассказал нам, что недавно купил товары в</li>
+        <li>discoveryMethod(traderMentioned==true)-&gt;Местный трейдер рассказал нам, что недавно завершил сделку на</li>
+        <li>discoveryMethod(traderMentioned==true)-&gt;Торговец, проходящий мимо упомянутого</li>
+        <li>questDescription(isFirstQuest==true)-&gt;[sender_article] [senderColor][sender_label]&lt;/color&gt; связался с вами [contactMethod].\n\n[introText]\n\nВы можете совершать рейды на рабочие объекты, находя их на карте мира.\n\nЧтобы получить [reason], они готовы поделиться местоположением [siteType] рядом с [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]</li>
+        <li>senderColor-&gt;&lt;color=#6495ED&gt;</li>
+        <li>senderColor-&gt;&lt;color=#FFA500&gt;</li>
+        <li>senderColor-&gt;&lt;color=#FF4444&gt;</li>
+        <li>introText-&gt;Мегакорпорации, местные военачальники и колонисты используют наемников и спасенные ультратехнологии для защиты своих владений, что делает их опасными как противники и ценными как запасные части.</li>
+        <li>introText-&gt;Корпорации других миров, преступные синдикаты и местные анклавы контролируют ресурсы и торговые пути. Их частные армии и вооружение делают их опасными противниками и ценными запасными частями.</li>
+        <li>introText-&gt;Соперничающие корпорации, пираты и поселенцы всегда соревнуются за территорию, богатство и возможности. Их военная техника и крепости делают их опасными противниками и ценными запасными частями.</li>
+        <li>reason-&gt;мешает работе конкурирующей фракции</li>
+        <li>reason-&gt;ослабляет своих конкурентов и продвигает свою политическую карьеру.</li>
+        <li>reason-&gt;поднимается по корпоративной лестнице, устраняя своих конкурентов</li>
+        <li>reason-&gt;просто вызывает хаос.</li>
+        <li>factionWarning(faction_temporary==false)-&gt;Этот объект является дочерней компанией [enemyFaction_name]. Нападение на него будет иметь дипломатические последствия для их фракции.</li>
+        <li>factionWarning(faction_temporary==false)-&gt;Этот объект является дочерним холдингом [enemyFaction_name]. Атака на него приведет к дипломатическим последствиям в более широком контексте.</li>
+        <li>factionWarning(faction_temporary==false)-&gt;Этот объект принадлежит [enemyFaction_name]. Любое нападение будет откровенно враждебным актом.</li>
+        <li>factionWarning(faction_temporary==false)-&gt;[enemyFaction_name] управляет этим объектом. Любое враждебное действие будет рассматриваться как война против них.</li>
+        <li>factionWarning(faction_temporary==false)-&gt;Эта операция находится под защитой [enemyFaction_name]. Набег на него повредит вашим отношениям с ними.</li>
+        <li>factionWarning(faction_temporary==false)-&gt;Эта операция осуществляется в соответствии с уставом [enemyFaction_name]. Набег на него нарушит их требования и приведет к дипломатическим последствиям.</li>
+        <li>factionWarning(faction_temporary==true)-&gt;Поскольку [enemyFaction_name] — всего лишь небольшая независимая группа, вы можете атаковать их без каких-либо более широких дипломатических последствий.</li>
+        <li>factionWarning(faction_temporary==true)-&gt;[enemyFaction_name] — независимая операция, не имеющая связей с более крупными фракциями. Нападки на них не повлияют на другие ваши отношения.</li>
+        <li>factionWarning(faction_temporary==true)-&gt;Разведка предполагает, что [enemyFaction_name] работает независимо. Вы можете вступить с ними в контакт, не рискуя более широкими дипломатическими последствиями.</li>
+        <li>factionWarning(faction_temporary==true)-&gt;[enemyFaction_name] — независимая местная группа, не имеющая влиятельных союзников. Нападение на них не несет в себе более широкого дипломатического риска.</li>
+        <li>factionWarning(faction_temporary==true)-&gt;[enemyFaction_name] не ​​связан с какой-либо более крупной организацией. Любой конфликт будет рассматриваться как частный спор.</li>
+        <li>factionWarning(faction_temporary==true)-&gt;[enemyFaction_name], похоже, действует не по правилам. Любой конфликт можно отнести к внутренним потерям.</li>
+        <li>factionWarning(faction_temporary==true)-&gt;Этот объект управляется одноразовой подставной организацией без какой-либо явной родительской поддержки. Атака на них не должна выходить за пределы самого объекта.</li>
+        <li>factionWarning(faction_temporary==true)-&gt;[enemyFaction_name] не ​​имеет заявленной заинтересованности в этом объекте. Если они причастны к этому, они будут это отрицать.</li>
+        <li>factionWarning(faction_temporary==true)-&gt;[enemyFaction_name] — развивающаяся держава с ограниченными ресурсами. Уничтожение этого объекта полностью уничтожит их.</li>
+        <li>factionWarning(faction_temporary==true)-&gt;[enemyFaction_name] не ​​имеет вторичных активов. Уничтожение этого места также уничтожит их фракцию.</li>
+        <li>factionWarning(faction_temporary==true)-&gt;Это хрупкая и последняя точка опоры фракции. Если он упадет, [enemyFaction_name] исчезнет вместе с ним.</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_BlackMarketOutpost"]/questNameRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [bmType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [bmType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[bmType] [detected]</li>
+        <li>questName(isFirstQuest==false)-&gt;[enemyFaction_name] [bmType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [contrabandType] Кольцо</li>
+        <li>questName(isFirstQuest==false)-&gt;[bmType] из [enemyFaction_name]</li>
+        <li>adjective-&gt;Скрытый</li>
+        <li>adjective-&gt;Секрет</li>
+        <li>adjective-&gt;Подземный</li>
+        <li>adjective-&gt;Тень</li>
+        <li>adjective-&gt;Тёмный</li>
+        <li>adjective-&gt;Печально известный</li>
+        <li>adjective-&gt;Теневая</li>
+        <li>bmType-&gt;Черный рынок</li>
+        <li>bmType-&gt;Логово контрабандиста</li>
+        <li>bmType-&gt;Подземный обмен</li>
+        <li>bmType-&gt;Контрабандный центр</li>
+        <li>bmType-&gt;Теневой рынок</li>
+        <li>bmType-&gt;Преступная сеть</li>
+        <li>contrabandType-&gt;Контрабанда</li>
+        <li>contrabandType-&gt;Наркотик</li>
+        <li>contrabandType-&gt;Контрабанда</li>
+        <li>detected-&gt;Обнаружено место раскопок</li>
+        <li>detected-&gt;обнаружил</li>
+        <li>detected-&gt;раскрыта</li>
+        <li>detected-&gt;нашел</li>
+        <li>detected-&gt;обнаружен</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_BlackMarketOutpost"]/questDescriptionRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questDescription(isFirstQuest==false)-&gt;[discoveryMethod] и [siteType] рядом с [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]</li>
+        <li>siteType-&gt;Притон черного рынка</li>
+        <li>siteType-&gt;убежище контрабандиста</li>
+        <li>siteType-&gt;подземный рынок</li>
+        <li>siteType-&gt;обмен контрабанды</li>
+        <li>siteType-&gt;теневой рынок</li>
+        <li>intelReport-&gt;Притон находится под управлением [enemyFaction_name] и занимается торговлей нелегальными товарами, наркотиками и украденными товарами.</li>
+        <li>intelReport-&gt;[enemyFaction_name] установил здесь центр контрабанды. Здесь покупают и продают незаконные товары.</li>
+        <li>intelReport-&gt;Ходят слухи, что [enemyFaction_name] незаконно торгует здесь. Нарколаборатории и тайники с оружием скрыты.</li>
+        <li>intelReport-&gt;Укрытие принадлежит [enemyFaction_name]. Вооруженные головорезы и потайные входы указывают на хорошо организованную преступную деятельность.</li>
+        <li>intelReport-&gt;Ходят слухи, что [enemyFaction_name] управляет черным рынком в этом месте. Сюда регулярно прибывают тщательно охраняемые контрабандные партии.</li>
+        <li>rewardHint-&gt;Победа над ними принесет наркотики, контрабанду, оружие и доходы, полученные нечестным путем.</li>
+        <li>rewardHint-&gt;Успешный рейд может привести к появлению на черном рынке товаров и спрятанного серебра.</li>
+        <li>rewardHint-&gt;В их тайниках, скорее всего, хранятся наркотики, оружие и украденные ценности.</li>
+        <li>rewardHint-&gt;Уничтожение контрабандистов позволит вам забрать их контрабанду и спрятанные богатства.</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_BlackMarketOutpost"]//li[@Class="QuestNode_Letter"])[1]/label</xpath>
+    <value>
+      <label>Срок действия квеста истек: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_BlackMarketOutpost"]//li[@Class="QuestNode_Letter"])[1]/text</xpath>
+    <value>
+      <text>Черный рынок, которым управляет [enemyFaction_name], рассыпался и переместился в новое убежище. Срок действия квеста [resolvedQuestName] истек.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_BlackMarketOutpost"]//li[@Class="QuestNode_Letter"])[2]/label</xpath>
+    <value>
+      <label>Квест не выполнен: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_BlackMarketOutpost"]//li[@Class="QuestNode_Letter"])[2]/text</xpath>
+    <value>
+      <text>После обнаружения контрабандисты из [enemyFaction_name] сожгли свою контрабанду и исчезли. Квест [resolvedQuestName] завершен.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_ClothesMakingOutpost"]/questNameRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [clothType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [clothType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[clothType] [detected]</li>
+        <li>questName(isFirstQuest==false)-&gt;[enemyFaction_name] [clothType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [fabricType] [clothType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[clothType] из [enemyFaction_name]</li>
+        <li>adjective-&gt;Отлично</li>
+        <li>adjective-&gt;Скрытый</li>
+        <li>adjective-&gt;Процветающий</li>
+        <li>adjective-&gt;Удаленный</li>
+        <li>adjective-&gt;Защитил</li>
+        <li>adjective-&gt;Занято</li>
+        <li>adjective-&gt;Элегант</li>
+        <li>clothType-&gt;Портновская мастерская</li>
+        <li>clothType-&gt;Текстильная фабрика</li>
+        <li>clothType-&gt;Портной</li>
+        <li>clothType-&gt;Ткацкий дом</li>
+        <li>clothType-&gt;Модная мастерская</li>
+        <li>clothType-&gt;Outfitter</li>
+        <li>fabricType-&gt;Silk</li>
+        <li>fabricType-&gt;Кожа</li>
+        <li>fabricType-&gt;Девилстранд</li>
+        <li>detected-&gt;Обнаружено место раскопок</li>
+        <li>detected-&gt;обнаружил</li>
+        <li>detected-&gt;замечены</li>
+        <li>detected-&gt;нашел</li>
+        <li>detected-&gt;найден</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_ClothesMakingOutpost"]/questDescriptionRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questDescription(isFirstQuest==false)-&gt;[discoveryMethod] и [siteType] рядом с [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]</li>
+        <li>siteType-&gt;текстильная мастерская</li>
+        <li>siteType-&gt;ателье</li>
+        <li>siteType-&gt;Ткацкий завод</li>
+        <li>siteType-&gt;портной</li>
+        <li>siteType-&gt;модный дом</li>
+        <li>intelReport-&gt;Мастерская, которой управляет [enemyFaction_name], производит одежду и текстильные изделия.</li>
+        <li>intelReport-&gt;[enemyFaction_name] создал этот объект для текстильного производства. Здесь покупаются и продаются ткани и одежда.</li>
+        <li>intelReport-&gt;Разведка предполагает, что [enemyFaction_name] производит здесь одежду. Ткацкие станки работают день и ночь, а дворы заполняют тюки сырья.</li>
+        <li>intelReport-&gt;Объект принадлежит [enemyFaction_name]. Стеллажи с готовой одеждой и сложенные ткани наводят на мысль, что здесь работают опытные портные.</li>
+        <li>intelReport-&gt;Наблюдение подтверждает, что [enemyFaction_name] занимается текстильным производством в этом месте. Было замечено, как торговцы уходили с пачками новой одежды.</li>
+        <li>rewardHint-&gt;Победа над ними может принести качественную одежду, текстиль и изделия из кожи.</li>
+        <li>rewardHint-&gt;Успешный рейд может принести прекрасную одежду и рулоны ценной ткани.</li>
+        <li>rewardHint-&gt;В их инвентаре, скорее всего, есть готовая одежда и материалы.</li>
+        <li>rewardHint-&gt;Уничтожение портных позволит вам забрать их запасы одежды и ткацкое оборудование.</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_ClothesMakingOutpost"]//li[@Class="QuestNode_Letter"])[1]/label</xpath>
+    <value>
+      <label>Срок действия квеста истек: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_ClothesMakingOutpost"]//li[@Class="QuestNode_Letter"])[1]/text</xpath>
+    <value>
+      <text>Текстильная мастерская, которой управляет [enemyFaction_name], собрала свои ткацкие станки и двинулась дальше. Срок действия квеста [resolvedQuestName] истек.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_ClothesMakingOutpost"]//li[@Class="QuestNode_Letter"])[2]/label</xpath>
+    <value>
+      <label>Квест не выполнен: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_ClothesMakingOutpost"]//li[@Class="QuestNode_Letter"])[2]/text</xpath>
+    <value>
+      <text>После обнаружения портные из [enemyFaction_name] скрылись со своей лучшей одеждой. Квест [resolvedQuestName] завершен.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_ComponentOutpost"]/questNameRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [compType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [compType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[compType] [detected]</li>
+        <li>questName(isFirstQuest==false)-&gt;[enemyFaction_name] [compType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [partType] Завод</li>
+        <li>questName(isFirstQuest==false)-&gt;[compType] из [enemyFaction_name]</li>
+        <li>adjective-&gt;Промышленная инициатива</li>
+        <li>adjective-&gt;Precision</li>
+        <li>adjective-&gt;Расширенный</li>
+        <li>adjective-&gt;Скрытый</li>
+        <li>adjective-&gt;Удаленный</li>
+        <li>adjective-&gt;Защитил</li>
+        <li>adjective-&gt;Автоматизированный</li>
+        <li>compType-&gt;Завод компонентов</li>
+        <li>compType-&gt;Сборочный завод</li>
+        <li>compType-&gt;Электроника</li>
+        <li>compType-&gt;Техническая мастерская</li>
+        <li>compType-&gt;Производственное предприятие</li>
+        <li>compType-&gt;Circuit Foundry</li>
+        <li>partType-&gt;Компонент</li>
+        <li>partType-&gt;Схема</li>
+        <li>partType-&gt;Электроника</li>
+        <li>detected-&gt;Обнаружено место раскопок</li>
+        <li>detected-&gt;обнаружил</li>
+        <li>detected-&gt;замечены</li>
+        <li>detected-&gt;нашел</li>
+        <li>detected-&gt;идентифицировали</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_ComponentOutpost"]/questDescriptionRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questDescription(isFirstQuest==false)-&gt;[discoveryMethod] и [siteType] рядом с [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]</li>
+        <li>siteType-&gt;Фабрика компонентов</li>
+        <li>siteType-&gt;сборочный завод</li>
+        <li>siteType-&gt;Мастерская электроники</li>
+        <li>siteType-&gt;производственное предприятие</li>
+        <li>siteType-&gt;технологическое литейное производство</li>
+        <li>intelReport-&gt;Завод управляется [enemyFaction_name] и производит компоненты и электронные сборки.</li>
+        <li>intelReport-&gt;[enemyFaction_name] создал здесь площадку прецизионного производства. Здесь покупают и продают электронику.</li>
+        <li>intelReport-&gt;Разведка предполагает, что [enemyFaction_name] производит здесь электронику. На складе сложены ящики с готовыми компонентами и печатными платами.</li>
+        <li>intelReport-&gt;Объект принадлежит [enemyFaction_name]. Автоматизированное оборудование и свет печей указывают на загруженность завода.</li>
+        <li>intelReport-&gt;Наблюдение подтверждает, что [enemyFaction_name] производит электронику в этом месте. Конвои снабжения регулярно отправляются с готовыми схемами.</li>
+        <li>rewardHint-&gt;Победа над ними приведет к получению компонентов, электроники и промышленных товаров.</li>
+        <li>rewardHint-&gt;Успешный рейд может принести ценную электронику.</li>
+        <li>rewardHint-&gt;На их складе, скорее всего, имеются готовые компоненты и современная электроника.</li>
+        <li>rewardHint-&gt;Уничтожение рабочих позволит вам забрать их запасы компонентов и сборочное оборудование.</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_ComponentOutpost"]//li[@Class="QuestNode_Letter"])[1]/label</xpath>
+    <value>
+      <label>Срок действия квеста истек: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_ComponentOutpost"]//li[@Class="QuestNode_Letter"])[1]/text</xpath>
+    <value>
+      <text>Фабрика компонентов, которой управляет [enemyFaction_name], закрылась и переехала. Срок действия квеста [resolvedQuestName] истек.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_ComponentOutpost"]//li[@Class="QuestNode_Letter"])[2]/label</xpath>
+    <value>
+      <label>Квест не выполнен: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_ComponentOutpost"]//li[@Class="QuestNode_Letter"])[2]/text</xpath>
+    <value>
+      <text>После обнаружения [enemyFaction_name] разобрал сборочные линии и сбежал. Квест [resolvedQuestName] завершен.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_FarmingOutpost"]/questNameRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [farmType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [farmType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[farmType] [detected]</li>
+        <li>questName(isFirstQuest==false)-&gt;[enemyFaction_name] [farmType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [cropType] Ферма</li>
+        <li>adjective-&gt;Плодородный</li>
+        <li>adjective-&gt;Процветающий</li>
+        <li>adjective-&gt;Удаленный</li>
+        <li>adjective-&gt;Скрытый</li>
+        <li>adjective-&gt;Защитил</li>
+        <li>adjective-&gt;Обильный</li>
+        <li>adjective-&gt;Пышный</li>
+        <li>farmType-&gt;Ферма</li>
+        <li>farmType-&gt;Усадьба</li>
+        <li>farmType-&gt;Поселение</li>
+        <li>farmType-&gt;Сельскохозяйственный аванпост</li>
+        <li>farmType-&gt;Плантация</li>
+        <li>farmType-&gt;Ранчо</li>
+        <li>cropType-&gt;Кукуруза</li>
+        <li>cropType-&gt;Райс</li>
+        <li>cropType-&gt;Картошка</li>
+        <li>cropType-&gt;Хейграсс</li>
+        <li>detected-&gt;Обнаружено место раскопок</li>
+        <li>detected-&gt;обнаружил</li>
+        <li>detected-&gt;поблизости</li>
+        <li>detected-&gt;нашел</li>
+        <li>detected-&gt;найден</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_FarmingOutpost"]/questDescriptionRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questDescription(isFirstQuest==false)-&gt;[discoveryMethod] и [siteType] рядом с [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]</li>
+        <li>siteType-&gt;фермерский поселок</li>
+        <li>siteType-&gt;сельскохозяйственная застава</li>
+        <li>siteType-&gt;фермерский комплекс</li>
+        <li>siteType-&gt;усадьба</li>
+        <li>siteType-&gt;плантация</li>
+        <li>siteType-&gt;ранчо</li>
+        <li>intelReport-&gt;Поселением управляет [enemyFaction_name], и, судя по всему, оно имеет значительные запасы продовольствия.</li>
+        <li>intelReport-&gt;Ходят слухи, что многие поля здесь принадлежат [enemyFaction_name], и в последнее время были собраны значительные урожаи.</li>
+        <li>intelReport-&gt;[enemyFaction_name] организовал это сельскохозяйственное предприятие. Скот и посевы видны издалека.</li>
+        <li>intelReport-&gt;Ферма принадлежит [enemyFaction_name]. Их поля орошаются и содержатся в хорошем состоянии.</li>
+        <li>intelReport-&gt;Исследования показывают, что [enemyFaction_name] использует этот объект для производства продуктов питания. У них, вероятно, есть еда и сырые ингредиенты.</li>
+        <li>rewardHint-&gt;Рейдерство позволит обеспечить значительные запасы продовольствия и оборудования.</li>
+        <li>rewardHint-&gt;Успешная атака может принести урожай, консервы и инструменты.</li>
+        <li>rewardHint-&gt;Их склады урожая и домашний скот могут прокормить вашу колонию.</li>
+        <li>rewardHint-&gt;Уничтожение защитников позволит вам забрать их запасы еды.</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_FarmingOutpost"]//li[@Class="QuestNode_Letter"])[1]/label</xpath>
+    <value>
+      <label>Срок действия квеста истек: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_FarmingOutpost"]//li[@Class="QuestNode_Letter"])[1]/text</xpath>
+    <value>
+      <text>Фермерское поселение, которым управляет [enemyFaction_name], заброшено. Срок действия квеста [resolvedQuestName] истек.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_FarmingOutpost"]//li[@Class="QuestNode_Letter"])[2]/label</xpath>
+    <value>
+      <label>Квест не выполнен: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_FarmingOutpost"]//li[@Class="QuestNode_Letter"])[2]/text</xpath>
+    <value>
+      <text>После обнаружения фермеры из [enemyFaction_name] скрылись со своими припасами. Квест [resolvedQuestName] завершен.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_GunsmithingOutpost"]/questNameRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [gunType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [gunType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[gunType] [detected]</li>
+        <li>questName(isFirstQuest==false)-&gt;[enemyFaction_name] [gunType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] Arms [camp]</li>
+        <li>questName(isFirstQuest==false)-&gt;[gunType] из [enemyFaction_name]</li>
+        <li>adjective-&gt;Укрепленный</li>
+        <li>adjective-&gt;Скрытый</li>
+        <li>adjective-&gt;Защитил</li>
+        <li>adjective-&gt;Удаленный</li>
+        <li>adjective-&gt;Промышленная инициатива</li>
+        <li>adjective-&gt;Дымчатый</li>
+        <li>adjective-&gt;Вооружен</li>
+        <li>gunType-&gt;Оружейник</li>
+        <li>gunType-&gt;Оружейная</li>
+        <li>gunType-&gt;Оружейная фабрика</li>
+        <li>gunType-&gt;Склад оружия</li>
+        <li>gunType-&gt;Forge</li>
+        <li>gunType-&gt;Арсенал</li>
+        <li>camp-&gt;Депо</li>
+        <li>camp-&gt;Тайник</li>
+        <li>camp-&gt;Запасы</li>
+        <li>detected-&gt;Обнаружено место раскопок</li>
+        <li>detected-&gt;обнаружил</li>
+        <li>detected-&gt;замечены</li>
+        <li>detected-&gt;нашел</li>
+        <li>detected-&gt;идентифицировали</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_GunsmithingOutpost"]/questDescriptionRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questDescription(isFirstQuest==false)-&gt;[discoveryMethod] и [siteType] рядом с [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]</li>
+        <li>siteType-&gt;оружейная мастерская</li>
+        <li>siteType-&gt;Оружейный завод</li>
+        <li>siteType-&gt;склад оружия</li>
+        <li>siteType-&gt;кузница</li>
+        <li>siteType-&gt;арсенал</li>
+        <li>intelReport-&gt;Мастерской управляет [enemyFaction_name], они активно занимаются производством огнестрельного оружия и боеприпасов.</li>
+        <li>intelReport-&gt;[enemyFaction_name] создал этот объект по производству оружия. Здесь покупают и продают оружие.</li>
+        <li>intelReport-&gt;Разведка предполагает, что [enemyFaction_name] производит здесь оружие. Ящики с оружием и деталями оружия заполняют складские дворы.</li>
+        <li>intelReport-&gt;Объект принадлежит [enemyFaction_name]. Дым и звуки испытаний оружия позволяют предположить, что оружие производится здесь.</li>
+        <li>intelReport-&gt;Наблюдение подтверждает, что [enemyFaction_name] проводил здесь операцию по продаже оружия. Отгрузки готового оружия отправляются регулярно.</li>
+        <li>rewardHint-&gt;Победа над ними приведет к получению оружия, боеприпасов и частей оружия.</li>
+        <li>rewardHint-&gt;Успешное нападение может обеспечить качественное огнестрельное оружие и инструменты.</li>
+        <li>rewardHint-&gt;Их арсенал, скорее всего, содержит готовое оружие и накопленные боеприпасы.</li>
+        <li>rewardHint-&gt;Уничтожение оружейников позволит вам забрать их запасы оружия и оборудования.</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_GunsmithingOutpost"]//li[@Class="QuestNode_Letter"])[1]/label</xpath>
+    <value>
+      <label>Срок действия квеста истек: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_GunsmithingOutpost"]//li[@Class="QuestNode_Letter"])[1]/text</xpath>
+    <value>
+      <text>Оружейная мастерская, которой управляет [enemyFaction_name], была разобрана и перенесена. Срок действия квеста [resolvedQuestName] истек.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_GunsmithingOutpost"]//li[@Class="QuestNode_Letter"])[2]/label</xpath>
+    <value>
+      <label>Квест не выполнен: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_GunsmithingOutpost"]//li[@Class="QuestNode_Letter"])[2]/text</xpath>
+    <value>
+      <text>После обнаружения [enemyFaction_name] разрушил их оружейные кузницы и сбежал. Квест [resolvedQuestName] завершен.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_HomesteadOutpost"]/questNameRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [homeType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [homeType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[homeType] [detected]</li>
+        <li>questName(isFirstQuest==false)-&gt;[enemyFaction_name] [homeType]</li>
+        <li>adjective-&gt;Отброшено</li>
+        <li>adjective-&gt;Удаленный</li>
+        <li>adjective-&gt;Изолировано</li>
+        <li>adjective-&gt;Fringe</li>
+        <li>adjective-&gt;Скрытый</li>
+        <li>adjective-&gt;Frontier</li>
+        <li>adjective-&gt;Wilderness</li>
+        <li>homeType-&gt;Усадьба</li>
+        <li>homeType-&gt;Кабина</li>
+        <li>homeType-&gt;Лачуга</li>
+        <li>homeType-&gt;Жилье</li>
+        <li>homeType-&gt;Поселение</li>
+        <li>homeType-&gt;Аванпост</li>
+        <li>detected-&gt;Обнаружено место раскопок</li>
+        <li>detected-&gt;обнаружил</li>
+        <li>detected-&gt;поблизости</li>
+        <li>detected-&gt;нашел</li>
+        <li>detected-&gt;найден</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_HomesteadOutpost"]/questDescriptionRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questDescription(isFirstQuest==false)-&gt;[discoveryMethod] и [siteType] рядом с [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]</li>
+        <li>siteType-&gt;Усадьба в дикой местности</li>
+        <li>siteType-&gt;удаленная кабина</li>
+        <li>siteType-&gt;приграничное жилище</li>
+        <li>siteType-&gt;изолированной ферме.</li>
+        <li>siteType-&gt;грубое урегулирование</li>
+        <li>intelReport-&gt;Изгои и бродяги смело отправляются в дикую местность в независимых усадьбах, недоступных приличному обществу. [enemyFaction_name] пытается здесь зарабатывать на жизнь.</li>
+        <li>intelReport-&gt;Семьи и небольшие группы выбирают усадьбы в дикой природе по самым разным причинам. [enemyFaction_name] работает здесь на небольшом участке земли.</li>
+        <li>intelReport-&gt;Пилоты, потерпевшие крушение, изгнанные чужеземцы и другие транзитные путешественники сосуществуют в таких усадьбах в дикой местности, как эти. [enemyFaction_name] подает здесь претензию.</li>
+        <li>intelReport-&gt;Независимые поселенцы из [enemyFaction_name] пытаются заработать здесь на жизнь. Они вручную перекапывают почву и строят убежища перед первой, а может быть, и последней зимой.</li>
+        <li>intelReport-&gt;Изгнанники, семьи, оказавшиеся в затруднительном положении, и осужденные преступники должны объединиться в усадьбах, чтобы выжить в дикой природе. [enemyFaction_name] установили здесь свои склады, используя древесину и лом.</li>
+        <li>intelReport-&gt;Жизнь за пределами поселений поддерживается сотрудничеством между незнакомцами в усадьбах Уиндернесс. [enemyFaction_name] заняли здесь свое место.</li>
+        <li>intelReport-&gt;Бродяги, дезертиры и смешанные группы всех, кто вырвался из организованного общества, собираются в отдаленных усадьбах. [enemyFaction_name] пытаются обрабатывать здесь землю.</li>
+        <li>rewardHint-&gt;Они ведут натуральное хозяйство и не производят никаких товаров, кроме продуктов питания для своих семей.</li>
+        <li>rewardHint-&gt;Все производство и торговля здесь направлены непосредственно на поддержание жизни группы.</li>
+        <li>rewardHint-&gt;Они производят ровно столько, чтобы выжить, обменивая небольшие количества на основные личные вещи и лекарства.</li>
+        <li>rewardHint-&gt;Здесь хранятся основные продукты питания, медикаменты и одежда.</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_HomesteadOutpost"]//li[@Class="QuestNode_Letter"])[1]/label</xpath>
+    <value>
+      <label>Срок действия квеста истек: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_HomesteadOutpost"]//li[@Class="QuestNode_Letter"])[1]/text</xpath>
+    <value>
+      <text>Усадьба, которой управляет [enemyFaction_name], заброшена. Срок действия квеста [resolvedQuestName] истек.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_HomesteadOutpost"]//li[@Class="QuestNode_Letter"])[2]/label</xpath>
+    <value>
+      <label>Квест не выполнен: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_HomesteadOutpost"]//li[@Class="QuestNode_Letter"])[2]/text</xpath>
+    <value>
+      <text>Поселенцы из [enemyFaction_name] скрылись со своим имуществом. Квест [resolvedQuestName] завершен.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_MercenaryOutpost"]/questNameRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [mercType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [mercType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[mercType] [detected]</li>
+        <li>questName(isFirstQuest==false)-&gt;[enemyFaction_name] [mercType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] Военный лагерь</li>
+        <li>adjective-&gt;Укрепленный</li>
+        <li>adjective-&gt;Враждебный</li>
+        <li>adjective-&gt;Защитил</li>
+        <li>adjective-&gt;Вооружен</li>
+        <li>adjective-&gt;Готовность к бою</li>
+        <li>adjective-&gt;Укоренился</li>
+        <li>adjective-&gt;Боевик</li>
+        <li>mercType-&gt;Лагерь наемников</li>
+        <li>mercType-&gt;Военный лагерь</li>
+        <li>mercType-&gt;Военная застава</li>
+        <li>mercType-&gt; </li>
+        <li>mercType-&gt;Пост охраны</li>
+        <li>mercType-&gt;Казармы</li>
+        <li>detected-&gt;Обнаружено место раскопок</li>
+        <li>detected-&gt;обнаружил</li>
+        <li>detected-&gt;замечены</li>
+        <li>detected-&gt;нашел</li>
+        <li>detected-&gt;идентифицировали</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_MercenaryOutpost"]/questDescriptionRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questDescription(isFirstQuest==false)-&gt;[discoveryMethod] и [siteType] рядом с [map_definite]. [intelReport]\n\n[factionWarning]\n\n[rewardHint]</li>
+        <li>siteType-&gt;наемник лагерь</li>
+        <li>siteType-&gt;военный аванпост</li>
+        <li>siteType-&gt;база безопасности</li>
+        <li>siteType-&gt;вооруженный лагерь</li>
+        <li>siteType-&gt;военному лагерю</li>
+        <li>intelReport-&gt;Лагерем управляет [enemyFaction_name], в нем размещается вооруженный персонал и военные припасы.</li>
+        <li>intelReport-&gt;[enemyFaction_name] установил здесь передовую оперативную базу. Здесь складируется вооружение.</li>
+        <li>intelReport-&gt;Разведка предполагает, что [enemyFaction_name] использует этот объект для проведения военных операций. Ожидайте сильного сопротивления.</li>
+        <li>intelReport-&gt;Аванпост принадлежит [enemyFaction_name]. Патрули и оборонительные позиции позволяют предположить, что здесь живут профессиональные солдаты.</li>
+        <li>intelReport-&gt;Наблюдение показывает, что [enemyFaction_name] разместил здесь обученных бойцов с высококачественным оборудованием.</li>
+        <li>rewardHint-&gt;Победа над ними даст оружие, доспехи и военные припасы.</li>
+        <li>rewardHint-&gt;Успешное нападение может обеспечить высококачественное боевое снаряжение и боеприпасы.</li>
+        <li>rewardHint-&gt;На их складах, вероятно, есть оружие и доспехи.</li>
+        <li>rewardHint-&gt;Устранив наемников, вы сможете забрать их военную технику.</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_MercenaryOutpost"]//li[@Class="QuestNode_Letter"])[1]/label</xpath>
+    <value>
+      <label>Срок действия квеста истек: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_MercenaryOutpost"]//li[@Class="QuestNode_Letter"])[1]/text</xpath>
+    <value>
+      <text>Лагерь наемников, которым управляет [enemyFaction_name], переехал в новое место. Срок действия квеста [resolvedQuestName] истек.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_MercenaryOutpost"]//li[@Class="QuestNode_Letter"])[2]/label</xpath>
+    <value>
+      <label>Квест не выполнен: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_MercenaryOutpost"]//li[@Class="QuestNode_Letter"])[2]/text</xpath>
+    <value>
+      <text>Наемники из [enemyFaction_name] получили подкрепление. Повторный вход означал бы почти верную смерть. Квест [resolvedQuestName] завершен.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_MiningOutpost"]/questNameRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] Горнодобывающая промышленность [camp]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] Горнодобывающая промышленность [camp]</li>
+        <li>questName(isFirstQuest==false)-&gt;Горнодобывающая промышленность [camp] [detected]</li>
+        <li>questName(isFirstQuest==false)-&gt;[enemyFaction_name] Mining [camp]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [oreType] Шахта</li>
+        <li>adjective-&gt;Удаленный</li>
+        <li>adjective-&gt;Скрытый</li>
+        <li>adjective-&gt;Укрепленный</li>
+        <li>adjective-&gt;Отдаленное</li>
+        <li>adjective-&gt;Защитил</li>
+        <li>adjective-&gt;Deep</li>
+        <li>adjective-&gt;Богатый</li>
+        <li>camp-&gt;Аванпост</li>
+        <li>camp-&gt;Лагерь</li>
+        <li>camp-&gt;Объект</li>
+        <li>camp-&gt;Объект</li>
+        <li>camp-&gt;Операция</li>
+        <li>camp-&gt;Карьер</li>
+        <li>oreType-&gt;Сталь</li>
+        <li>oreType-&gt;Золото</li>
+        <li>oreType-&gt;Пласталь</li>
+        <li>oreType-&gt;Компонент</li>
+        <li>detected-&gt;Обнаружено место раскопок</li>
+        <li>detected-&gt;обнаружил</li>
+        <li>detected-&gt;поблизости</li>
+        <li>detected-&gt;нашел</li>
+        <li>detected-&gt;найден</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_MiningOutpost"]/questDescriptionRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questDescription(isFirstQuest==false)-&gt;[discoveryMethod] и шахта [siteType] рядом с [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]</li>
+        <li>siteType-&gt;аванпост</li>
+        <li>siteType-&gt; </li>
+        <li>siteType-&gt;лагерь</li>
+        <li>siteType-&gt;операция</li>
+        <li>siteType-&gt; </li>
+        <li>siteType-&gt;карьер</li>
+        <li>intelReport-&gt;Ходят слухи, что объектом управляет [enemyFaction_name] и он содержит ценную руду и оборудование.</li>
+        <li>intelReport-&gt;Судя по всему, это место является дочерней компанией [enemyFaction_name], занимающейся добычей ценных полезных ископаемых в этом регионе.</li>
+        <li>intelReport-&gt;Исследования показывают, что [enemyFaction_name] недавно организовал эту горнодобывающую операцию. Вероятно, он снабжен ресурсами.</li>
+        <li>intelReport-&gt;Операция принадлежит [enemyFaction_name]. Ожидается, что здесь хранят необработанный металл.</li>
+        <li>intelReport-&gt;На этом участке была обнаружена сейсмическая активность. [enemyFaction_name], похоже, добывает ценную руду.</li>
+        <li>rewardHint-&gt;Если вы нападете на него и разрушите его оборону, вы сможете забрать все оставшиеся ресурсы.</li>
+        <li>rewardHint-&gt;Уничтожение защитников позволит вам спасти их горнодобывающее оборудование и накопленную руду.</li>
+        <li>rewardHint-&gt;Успешный рейд может принести ценные минералы и промышленное оборудование.</li>
+        <li>rewardHint-&gt;Их запасы руды и горнодобывающее оборудование станут отличным спасением.</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_MiningOutpost"]//li[@Class="QuestNode_Letter"])[1]/label</xpath>
+    <value>
+      <label>Срок действия квеста истек: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_MiningOutpost"]//li[@Class="QuestNode_Letter"])[1]/text</xpath>
+    <value>
+      <text>Горнодобывающий аванпост, которым управляет [enemyFaction_name], собрался и переехал. Срок действия квеста [resolvedQuestName] истек.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_MiningOutpost"]//li[@Class="QuestNode_Letter"])[2]/label</xpath>
+    <value>
+      <label>Квест не выполнен: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_MiningOutpost"]//li[@Class="QuestNode_Letter"])[2]/text</xpath>
+    <value>
+      <text>После обнаружения горнодобывающая застава, управляемая [enemyFaction_name], рассредоточилась и покинула это место. Квест [resolvedQuestName] завершен.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_OrbitalPlatform"]/questNameRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [platformType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[platformType] [detected]</li>
+        <li>questName(isFirstQuest==false)-&gt;[enemyFaction_name] [platformType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] Орбитальная [hubType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[platformType] из [enemyFaction_name]</li>
+        <li>adjective-&gt;Дрифтинг</li>
+        <li>adjective-&gt;Оспариваемый</li>
+        <li>adjective-&gt;Незарегистрированный</li>
+        <li>adjective-&gt;Бесплатно</li>
+        <li>adjective-&gt;Независимый</li>
+        <li>adjective-&gt;Орбитальный</li>
+        <li>adjective-&gt;Переполненный</li>
+        <li>platformType-&gt;Орбитальная платформа</li>
+        <li>platformType-&gt;Грузовой отсек</li>
+        <li>platformType-&gt;Транзитный узел</li>
+        <li>platformType-&gt;Путевая станция</li>
+        <li>platformType-&gt;Погрузочный отсек</li>
+        <li>platformType-&gt;Орбитальная среда обитания</li>
+        <li>platformType-&gt;Аркология</li>
+        <li>hubType-&gt;Путевая станция</li>
+        <li>hubType-&gt;Freeport</li>
+        <li>hubType-&gt;Реле</li>
+        <li>hubType-&gt;Причал</li>
+        <li>detected-&gt;Обнаружен</li>
+        <li>detected-&gt;Обнаружен</li>
+        <li>detected-&gt;Расположен</li>
+        <li>detected-&gt;На графике</li>
+        <li>detected-&gt;Отсканировано</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_OrbitalPlatform"]/questDescriptionRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questDescription(isFirstQuest==false)-&gt;[discoveryMethod] и [siteType] на орбите над [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]\n\nДобраться до платформы можно мирным путем с помощью транспортных капсул или шаттла. Пилотирование вашего корабля здесь было бы враждебным актом.</li>
+        <li>siteType-&gt;орбитальная путевая станция</li>
+        <li>siteType-&gt;Орбитальная платформа</li>
+        <li>siteType-&gt;орбитальная среда обитания</li>
+        <li>siteType-&gt;космический комплекс</li>
+        <li>siteType-&gt;орбитальный свободный порт</li>
+        <li>siteType-&gt;космическая аркология</li>
+        <li>siteType-&gt;перенаселенное орбитальное поселение</li>
+        <li>intelReport-&gt;Орбитальная платформа плывет по оживленному торговому маршруту. [enemyFaction_name] широко представлен в стыковочных отсеках и командных палубах, но внутренние палубы заполнены жителями, орбитальными торговцами и игроками.</li>
+        <li>intelReport-&gt;[enemyFaction_name] управляет здесь орбитальной аркологией. Платформа представляет собой свободный порт, где торговцы, наемники и бродяги торгуются в напряженных кварталах.</li>
+        <li>intelReport-&gt;Орбитальный город является перевалочным пунктом для большей части движения грави-кораблей в этом регионе и регулируется [enemyFaction_name]. На его рынках работают как постоянные жители, так и временные команды, которые разгружают трофеи, получают контракты, нанимают наемников, продают грузы и уезжают дальше. Вся экономика построена на постоянном потоке грузов.</li>
+        <li>intelReport-&gt;Плавающий город над [map_definite] не ​​имеет зарегистрированной власти, его постоянное население и проходящий поток грузовых кораблей объединены в одни и те же непрерывные открытые рынки.</li>
+        <li>intelReport-&gt;[enemyFaction_name] Загруженная промежуточная станция открыта для всех, кто перемещается между периферийными мирами. Эту промежуточную станцию ​​часто посещают орбитальные торговцы, наемники, наладчики и те, кто хочет избежать правосудия.</li>
+        <li>intelReport-&gt;Платформа над этим краевым миром — место встречи наемников и независимых подрядчиков этой звездной системы. [enemyFaction_name] недавно начал облагать налогом рынки, что поставило их в противоречие с другими участниками платформы.</li>
+        <li>intelReport-&gt;Переполненную орбитальную платформу часто посещают наемники, наемники, выполняющие задания из баров, и игроки. [enemyFaction_name] недавно захватил контроль над депо и теперь взимает топливный сбор со всех кораблей.</li>
+        <li>rewardHint-&gt;Платформа открыта для мирного движения. Вы можете причалить сюда, чтобы дозаправиться, купить детали космического корабля, найти контракты, получить улучшения или сыграть в азартные игры. Попытка захватить эту платформу силой означает борьбу с охраной [enemyFaction_name] и каждым вооруженным экипажем наемников, стоящим в настоящее время на стоянке, а также с бортовой системой вооружения.</li>
+        <li>rewardHint-&gt;Платформа открыта для всех, кто мирно причаливает в поисках работы, играет в азартные игры или получает аугментации; но грузовые отсеки содержат как законный груз, так и редкие товары. Тот, кто контролирует стыковочное кольцо, контролирует доступ ко всему нему. Ничто из того, что вы совершали, не подготовило вас к этому.</li>
+        <li>rewardHint-&gt;Здесь вы можете пристыковаться, чтобы дозаправиться, приобрести детали космического корабля, нанять дополнительный экипаж, получить улучшения или сыграть в азартные игры. Нападение на эту орбитальную платформу означает стрельбу с близкого расстояния, коридор за коридором, без воздуха и без отступления. Это самый прибыльный рейд, но и самый опасный.</li>
+        <li>rewardHint-&gt;Гравшипы постоянно причаливают сюда для дозаправки, пополнения запасов и приобретения новых компонентов. Ближний бой, корабельное вооружение и отсутствие выхода означают, что вам понадобится каждый способный человек, который у вас есть, чтобы совершить набег.</li>
+        <li>rewardHint-&gt;На станции оживленная экономика. Редкие товары, космические технологии и серебро перемещаются в огромных количествах. Платформа в любой момент времени обладает большей огневой мощью, чем небольшая армия.</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_OrbitalPlatform"]//li[@Class="QuestNode_Letter"])[1]/label</xpath>
+    <value>
+      <label>Срок действия квеста истек: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_OrbitalPlatform"]//li[@Class="QuestNode_Letter"])[1]/text</xpath>
+    <value>
+      <text>Платформа, управляемая [enemyFaction_name], по неизвестной причине вышла на более высокую орбиту за пределы досягаемости стыковки. Срок действия квеста [resolvedQuestName] истек.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_OrbitalPlatform"]//li[@Class="QuestNode_Letter"])[2]/label</xpath>
+    <value>
+      <label>Квест не выполнен: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_OrbitalPlatform"]//li[@Class="QuestNode_Letter"])[2]/text</xpath>
+    <value>
+      <text>Вас отлучил от церкви [enemyFaction_name]. Их истребители-гравитанты имеют постоянный приказ перехватывать и уничтожать любой ваш грави-корабль при приближении. Квест [resolvedQuestName] завершен.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_VehiclesOutpost"]/questNameRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [vehType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [vehType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[vehType] [detected]</li>
+        <li>questName(isFirstQuest==false)-&gt;[enemyFaction_name] [vehType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[vehType] из [enemyFaction_name]</li>
+        <li>adjective-&gt;Занято</li>
+        <li>adjective-&gt;Скрытый</li>
+        <li>adjective-&gt;Временное решение</li>
+        <li>adjective-&gt;Удаленный</li>
+        <li>adjective-&gt;Спрятано</li>
+        <li>vehType-&gt;Chop Shop</li>
+        <li>vehType-&gt;Гараж</li>
+        <li>vehType-&gt;Свалка</li>
+        <li>vehType-&gt;Моторный парк</li>
+        <li>vehType-&gt;Ремонтный отсек</li>
+        <li>vehType-&gt;Склад металлолома</li>
+        <li>vehType-&gt;Транспортная база</li>
+        <li>vehType-&gt;Тайник транспортных средств</li>
+        <li>vehType-&gt;Тайник транспортных средств</li>
+        <li>vehType-&gt; </li>
+        <li>detected-&gt;Обнаружено место раскопок</li>
+        <li>detected-&gt;обнаружил</li>
+        <li>detected-&gt;идентифицировали</li>
+        <li>detected-&gt;нашел</li>
+        <li>detected-&gt;замечены</li>
+        <li>detected-&gt;обнаружен</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_VehiclesOutpost"]/questDescriptionRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questDescription(isFirstQuest==false)-&gt;[discoveryMethod] и [siteType] рядом с [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]</li>
+        <li>siteType-&gt;цех</li>
+        <li>siteType-&gt;гаражный комплекс</li>
+        <li>siteType-&gt;временная автобаза</li>
+        <li>siteType-&gt;ремонтная площадка</li>
+        <li>siteType-&gt;спасательная операция</li>
+        <li>siteType-&gt;Тайник с транспортным средством</li>
+        <li>intelReport-&gt;[enemyFaction_name] работает над чем-то для этого объекта. По слухам, какая бы машина у них ни была внутри, она находится в рабочем состоянии.</li>
+        <li>intelReport-&gt;Запах масла и шум двигателей на холостом ходу позволяют предположить, что внутри [enemyFaction_name] что-то припарковано. Двор завален запасными частями и канистрами с топливом.</li>
+        <li>intelReport-&gt;[enemyFaction_name] использует это место для хранения и обслуживания автомобиля.</li>
+        <li>intelReport-&gt;Следы шин и жирные пятна указывают на гараж [enemyFaction_name]. Внутри припаркован автомобиль вместе с запчастями.</li>
+        <li>intelReport-&gt;Были замечены замасленные рабочие из [enemyFaction_name], приходящие и уходящие с этого объекта. Они обслуживали что-то с двигателем.</li>
+        <li>intelReport-&gt;Разведка предполагает, что это гараж, которым управляет [enemyFaction_name]. Бочки с топливом, инструменты и как минимум один исправный автомобиль.</li>
+        <li>rewardHint-&gt;Победа над наемниками на этом месте позволит получить детали, топливо и их транспортное средство.</li>
+        <li>rewardHint-&gt;Успешный рейд, скорее всего, позволит получить работоспособную машину вместе с запасными частями и химическим топливом, необходимыми для ее поддержания.</li>
+        <li>rewardHint-&gt;На их складах, вероятно, хранятся инструменты и полезные запасы компонентов для автомобилей.</li>
+        <li>rewardHint-&gt;Добыча на этом объекте, скорее всего, будет на колесах. Одни только его части были бы ценным товаром.</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_VehiclesOutpost"]//li[@Class="QuestNode_Letter"])[1]/label</xpath>
+    <value>
+      <label>Срок действия квеста истек: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_VehiclesOutpost"]//li[@Class="QuestNode_Letter"])[1]/text</xpath>
+    <value>
+      <text>Автопарк, которым управляет [enemyFaction_name], перевез свой автопарк на новое место. Срок действия квеста [resolvedQuestName] истек.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_VehiclesOutpost"]//li[@Class="QuestNode_Letter"])[2]/label</xpath>
+    <value>
+      <label>Квест не выполнен: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_VehiclesOutpost"]//li[@Class="QuestNode_Letter"])[2]/text</xpath>
+    <value>
+      <text>После обнаружения [enemyFaction_name] загрузили свои машины и уехали. Квест [resolvedQuestName] завершен.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_VehiclesTier3Outpost"]/questNameRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [vehType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] [vehType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[vehType] [detected]</li>
+        <li>questName(isFirstQuest==false)-&gt;[enemyFaction_name] [vehType]</li>
+        <li>questName(isFirstQuest==false)-&gt;[vehType] из [enemyFaction_name]</li>
+        <li>adjective-&gt;Эксклюзивный</li>
+        <li>adjective-&gt;Укрепленный</li>
+        <li>adjective-&gt;Охраняемый</li>
+        <li>adjective-&gt;Высокая ценность</li>
+        <li>adjective-&gt;Приз</li>
+        <li>adjective-&gt;Защищенная база безопасности</li>
+        <li>adjective-&gt;Хорошо защищенный</li>
+        <li>vehType-&gt;Соединение</li>
+        <li>vehType-&gt;Депо</li>
+        <li>vehType-&gt;Ангар</li>
+        <li>vehType-&gt;Отсек</li>
+        <li>vehType-&gt;Защищенный гараж</li>
+        <li>vehType-&gt;Соединение для хранения данных</li>
+        <li>vehType-&gt;Тайник транспортных средств</li>
+        <li>vehType-&gt;Хранилище транспортных средств</li>
+        <li>detected-&gt;Обнаружено место раскопок</li>
+        <li>detected-&gt;обнаружил</li>
+        <li>detected-&gt;идентифицировали</li>
+        <li>detected-&gt;нашел</li>
+        <li>detected-&gt;прослеживается</li>
+        <li>detected-&gt;обнаружен</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/QuestScriptDef[defName="OpportunitySite_VehiclesTier3Outpost"]/questDescriptionRules/rulesStrings</xpath>
+    <value>
+      <rulesStrings>
+        <li>questDescription(isFirstQuest==false)-&gt;[discoveryMethod] и [siteType] рядом с [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]</li>
+        <li>siteType-&gt;охраняемый автопарк</li>
+        <li>siteType-&gt;охраняемое хранилище</li>
+        <li>siteType-&gt;тайник для ценных транспортных средств</li>
+        <li>siteType-&gt;укрепленный отсек для хранения</li>
+        <li>siteType-&gt;хранилище частных автомобилей</li>
+        <li>intelReport-&gt;[enemyFaction_name] работает над чем-то важным на этом объекте. По слухам, какое бы транспортное средство у них ни было внутри, оно далеко не обычное.</li>
+        <li>intelReport-&gt;Запах масла и звук двигателей V12 позволяют предположить, что внутри [enemyFaction_name] припарковано что-то ценное. Во дворе завалены бочки с авиационным топливом.</li>
+        <li>intelReport-&gt;[enemyFaction_name] использовал это место для хранения и обслуживания автомобиля, который нелегко заменить.</li>
+        <li>intelReport-&gt;Следы в грязи указывают на гараж [enemyFaction_name]. Внутри припаркован автомобиль вместе с запчастями.</li>
+        <li>intelReport-&gt;Специалисты-механики из [enemyFaction_name] были замечены приходящим и уходящим с этого объекта. Они обслуживали что-то с двигателем.</li>
+        <li>intelReport-&gt;Разведка предполагает, что [enemyFaction_name] управляет гаражом для автомобилей в этом месте. Специализированные детали и топливо прибывают под конвоем.</li>
+        <li>rewardHint-&gt;Победа над наемниками на этом месте позволит получить детали, топливо и само транспортное средство.</li>
+        <li>rewardHint-&gt;Успешный рейд, скорее всего, позволит получить работоспособную машину вместе с запасными частями и химическим топливом, необходимыми для ее поддержания.</li>
+        <li>rewardHint-&gt;На их складах, вероятно, хранятся инструменты и полезные запасы компонентов для автомобилей.</li>
+        <li>rewardHint-&gt;Добыча на этом объекте, скорее всего, будет на колесах. Одни только его части были бы ценным товаром.</li>
+      </rulesStrings>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_VehiclesTier3Outpost"]//li[@Class="QuestNode_Letter"])[1]/label</xpath>
+    <value>
+      <label>Срок действия квеста истек: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_VehiclesTier3Outpost"]//li[@Class="QuestNode_Letter"])[1]/text</xpath>
+    <value>
+      <text>[enemyFaction_name] переместили свои боевые машины. Срок действия квеста [resolvedQuestName] истек.</text>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_VehiclesTier3Outpost"]//li[@Class="QuestNode_Letter"])[2]/label</xpath>
+    <value>
+      <label>Квест не выполнен: [resolvedQuestName]</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>(/Defs/QuestScriptDef[defName="OpportunitySite_VehiclesTier3Outpost"]//li[@Class="QuestNode_Letter"])[2]/text</xpath>
+    <value>
+      <text>[enemyFaction_name] эвакуировали свои машины после того, как были обнаружены. Квест [resolvedQuestName] завершен.</text>
+    </value>
+  </Operation>
+</Patch>

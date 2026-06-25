@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bolt.description>ЗЕВС! ТВОЙ СЫН ВЕРНУЛСЯ!</Bolt.description>
+  <Bolt.label>молния</Bolt.label>
+  <Ruin.description>Перегружает цель мозговой гнилью.</Ruin.description>
+  <Ruin.label>разрушение</Ruin.label>
+  <ShadowStep.description>телепортация</ShadowStep.description>
+  <ShadowStep.label>теневой шаг</ShadowStep.label>
+  <Stormfall.description>ПУСТЬ МОРЯ ВСКИПЯТ!</Stormfall.description>
+  <Stormfall.label>бурепад</Stormfall.label>
+
+</LanguageData>

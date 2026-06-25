@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Worksites Expanded - полный русский перевод</name>
+  <author>Artas48</author>
+  <packageId>artas48.worksitesexpanded.rufull</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>Полный русский перевод мода Worksites Expanded: XML, квестовые правила и строки, зашитые в C#.</description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>godsfathermixtape.worksitesexpanded</packageId>
+      <displayName>Worksites Expanded</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3687071198</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>godsfathermixtape.worksitesexpanded</li>
+  </loadAfter>
+</ModMetaData>

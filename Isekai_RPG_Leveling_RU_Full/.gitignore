@@ -1,0 +1,6 @@
+BuildStaging/
+About/PublishedFileId.txt
+Source/**/bin/
+Source/**/obj/
+*.user
+*.suo

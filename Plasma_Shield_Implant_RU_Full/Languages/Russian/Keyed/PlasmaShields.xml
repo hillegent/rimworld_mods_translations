@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlasmaShieldLabel>Плазменный щит</PlasmaShieldLabel>
+  <PlasmaShieldTip>Этот персонаж защищен плазменным щитом. Щит защищает от любых атак и не мешает атаковать изнутри. ЭМИ-урон по-прежнему мгновенно разрушит его.</PlasmaShieldTip>
+  <PlasmaShieldModuleDisabled>(отключен)</PlasmaShieldModuleDisabled>
+  <PlasmaShieldTerminalCantReach>Не добраться</PlasmaShieldTerminalCantReach>
+  <PlasmaShieldTerminalNoPower>Нет питания</PlasmaShieldTerminalNoPower>
+  <PlasmaShieldHardenedTip>Этот персонаж защищен плазменным щитом. Щит защищает от любых атак и не мешает атаковать изнутри. Этот щит укреплен и ослабляет воздействие мощных атак. ЭМИ-урон по-прежнему мгновенно разрушит его.</PlasmaShieldHardenedTip>
+  <PlasmaShieldDampeningTip>Этот персонаж защищен плазменным щитом. Щит защищает от любых атак и не мешает атаковать изнутри. Этот щит не предотвращает получение урона носителем, но ослабляет силу всех атак.</PlasmaShieldDampeningTip>
+  <PlasmaShieldResistantTip>Этот персонаж защищен плазменным щитом. Щит защищает от любых атак и не мешает атаковать изнутри. Сопротивляется ЭМИ-урону.</PlasmaShieldResistantTip>
+  <PlasmaShieldAdaptiveTip>Этот персонаж защищен плазменным щитом. Щит защищает от любых атак и не мешает атаковать изнутри. Этот щит адаптируется к получаемому урону и получает меньше урона от последующих атак того же типа. ЭМИ-урон по-прежнему мгновенно разрушит его.</PlasmaShieldAdaptiveTip>
+
+</LanguageData>

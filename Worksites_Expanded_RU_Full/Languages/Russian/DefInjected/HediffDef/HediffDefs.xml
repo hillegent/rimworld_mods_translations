@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MiningOutpost_CombatMedic.description>Обработка ран с исключительной скоростью в условиях боя с высокими ставками.</MiningOutpost_CombatMedic.description>
+  <MiningOutpost_CombatMedic.label>боевой медик</MiningOutpost_CombatMedic.label>
+  <MO_OrbitalEngineerToolkit.description>Многофункциональный инструмент, рассчитанный на вакуум, встраиваемый в вакуумный костюм владельца. Позволяет инженеру менять трассу трубопроводов, сваривать обшивку и убирать беспорядок в грузовом отсеке вдвое быстрее, чем обычно.</MO_OrbitalEngineerToolkit.description>
+  <MO_OrbitalEngineerToolkit.label>набор инструментов орбитального инженера</MO_OrbitalEngineerToolkit.label>
+  <MiningOutpost_ParleyBetrayal.description>Эта пешка тайно планирует предать колонию.</MiningOutpost_ParleyBetrayal.description>
+  <MiningOutpost_ParleyBetrayal.label>тайно планирует предательство</MiningOutpost_ParleyBetrayal.label>
+  <MiningOutpost_WorkFatigue.description>Этот человек работает сверхурочно за мизерную зарплату.</MiningOutpost_WorkFatigue.description>
+  <MiningOutpost_WorkFatigue.label>усталость аванпоста</MiningOutpost_WorkFatigue.label>
+  <MiningOutpost_LaborerFatigue.description>Этот человек несет тяжелый груз.</MiningOutpost_LaborerFatigue.description>
+  <MiningOutpost_LaborerFatigue.label>усталость рабочих</MiningOutpost_LaborerFatigue.label>
+  <MiningOutpost_Panic.description>Этот человек в панике сжимается на месте, пытаясь укрыться от боя.</MiningOutpost_Panic.description>
+  <MiningOutpost_Panic.label>паника</MiningOutpost_Panic.label>
+</LanguageData>

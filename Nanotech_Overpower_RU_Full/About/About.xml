@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>[HYE] Nanotech Overpower - полный русский перевод</name>
+  <author>Artas48</author>
+  <packageId>artas48.nanotechoverpower.rufull</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modVersion>1.0.0</modVersion>
+  <description>Полный русский перевод мода [HYE] Nanotech Overpower.
+
+Переведены XML-строки, DLC и мод-интеграции, а также хардкод из C# через Harmony.
+
+Требуется оригинальный мод.</description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>Hye.NTO</packageId>
+      <displayName>[HYE] Nanotech Overpower</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3533473917</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>Hye.NTO</li>
+  </loadAfter>
+</ModMetaData>

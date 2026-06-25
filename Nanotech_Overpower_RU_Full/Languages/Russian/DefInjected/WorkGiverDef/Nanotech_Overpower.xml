@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BWBills.gerund>биокрафт</BWBills.gerund>
+  <BWBills.verb>биокрафтить</BWBills.verb>
+  <Glitterbills.gerund>глиттеркрафт</Glitterbills.gerund>
+  <Glitterbills.verb>глиттеркрафтить</Glitterbills.verb>
+  <Nanobills.gerund>нанокрафтинг</Nanobills.gerund>
+  <Nanobills.verb>нанокрафт</Nanobills.verb>
+  <Nanocooking.gerund>наноприготовление</Nanocooking.gerund>
+  <Nanocooking.verb>наноповар</Nanocooking.verb>
+  <Nanoforging.gerund>наноковка</Nanoforging.gerund>
+  <Nanoforging.verb>наноковка</Nanoforging.verb>
+  <Nanosmelting.gerund>наносплавка</Nanosmelting.gerund>
+  <Nanosmelting.verb>наносплавка</Nanosmelting.verb>
+  <Nanoswitches.gerund>наносборка</Nanoswitches.gerund>
+  <Nanoswitches.verb>нанособирать</Nanoswitches.verb>
+  <Nanosynthesizing.gerund>наносинтезирующий</Nanosynthesizing.gerund>
+  <Nanosynthesizing.verb>наносинтезировать</Nanosynthesizing.verb>
+
+</LanguageData>

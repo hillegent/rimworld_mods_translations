@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WE_GamblingLost.stages.0.label>проиграли за карточным столом</WE_GamblingLost.stages.0.label>
+  <WE_GamblingLost.stages.0.description>Я проиграл за карточным столом.</WE_GamblingLost.stages.0.description>
+  <WE_GamblingLostAll.stages.0.label>проиграли все в азартные игры</WE_GamblingLostAll.stages.0.label>
+  <WE_GamblingLostAll.stages.0.description>Я потерял все, играя на сдачу!</WE_GamblingLostAll.stages.0.description>
+  <WE_GamblingWon.stages.0.label>выиграл за карточным столом</WE_GamblingWon.stages.0.label>
+  <WE_GamblingWon.stages.0.description>Я выиграл за карточным столом!</WE_GamblingWon.stages.0.description>
+  <WE_GamblingWonBig.stages.0.label>вычищен стол</WE_GamblingWonBig.stages.0.label>
+  <WE_GamblingWonBig.stages.0.description>Я забрал деньги практически у всех за этим столом!</WE_GamblingWonBig.stages.0.description>
+  <WE_GamblingAssetWin.stages.0.label>рискнул всем и выиграл</WE_GamblingAssetWin.stages.0.label>
+  <WE_GamblingAssetWin.stages.0.description>Не могу поверить, что я рискнул всем, и это действительно сработало!</WE_GamblingAssetWin.stages.0.description>
+  <WE_GamblingAssetLoss.stages.0.label>отказался от ценных вещей за карточным столом</WE_GamblingAssetLoss.stages.0.label>
+  <WE_GamblingAssetLoss.stages.0.description>Не могу поверить, что я вот так отказался от ценных вещей за карточным столом.</WE_GamblingAssetLoss.stages.0.description>
+  <WE_GamblingOrganWin.stages.0.label>поставил часть тела на ставку и удержал на</WE_GamblingOrganWin.stages.0.label>
+  <WE_GamblingOrganWin.stages.0.description>Не могу поверить, что я только что успешно поставил на ставку часть тела и выиграл!</WE_GamblingOrganWin.stages.0.description>
+  <WE_GamblingOrganLoss.stages.0.label>проиграл орган</WE_GamblingOrganLoss.stages.0.label>
+  <WE_GamblingOrganLoss.stages.0.description>Не могу поверить, что я отказался от такого органа. Что я сделал?</WE_GamblingOrganLoss.stages.0.description>
+  <MiningOutpost_HumiliatedEnemy.stages.0.label>успех переговоров</MiningOutpost_HumiliatedEnemy.stages.0.label>
+  <MiningOutpost_HumiliatedEnemy.stages.0.description>Мы унизили более слабую фракцию. Было приятно наблюдать за ними. согнуть колено.</MiningOutpost_HumiliatedEnemy.stages.0.description>
+  <Thought_SweetedenDeal_Tier1.stages.0.label>падает ниц ради сделки</Thought_SweetedenDeal_Tier1.stages.0.label>
+  <Thought_SweetedenDeal_Tier1.stages.0.description>Мне пришлось вежливо попросить кого-нибудь согласиться с моими условиями. Это было унизительно.</Thought_SweetedenDeal_Tier1.stages.0.description>
+  <Thought_SweetedenDeal_Tier1a.stages.0.label>падает ниц ради сделки</Thought_SweetedenDeal_Tier1a.stages.0.label>
+  <Thought_SweetedenDeal_Tier1a.stages.0.description>Я до сих пор не забыл, что мне пришлось вежливо попросить, чтобы настоять на своих требованиях.</Thought_SweetedenDeal_Tier1a.stages.0.description>
+  <Thought_SweetedenDeal_Tier2.stages.0.label>неоднократно падает ниц</Thought_SweetedenDeal_Tier2.stages.0.label>
+  <Thought_SweetedenDeal_Tier2.stages.0.description>Я практически ползал на коленях, умоляя этих людей о сделках. Моя гордость серьезно пострадала.</Thought_SweetedenDeal_Tier2.stages.0.description>
+  <Thought_SweetedenDeal_Tier2a.stages.0.label>неоднократно падает ниц</Thought_SweetedenDeal_Tier2a.stages.0.label>
+  <Thought_SweetedenDeal_Tier2a.stages.0.description>Я до сих пор не забыл, что практически ползал на коленях, выдвигая свои требования.</Thought_SweetedenDeal_Tier2a.stages.0.description>
+  <Thought_SweetedenDeal_Tier3.stages.0.label>постоянно унижается</Thought_SweetedenDeal_Tier3.stages.0.label>
+  <Thought_SweetedenDeal_Tier3.stages.0.description>Я всего лишь собака.</Thought_SweetedenDeal_Tier3.stages.0.description>
+  <Thought_SweetedenDeal_Tier3a.stages.0.label>постоянно унижается</Thought_SweetedenDeal_Tier3a.stages.0.label>
+  <Thought_SweetedenDeal_Tier3a.stages.0.description>Я до сих пор не забыл, что чувствую себя собакой.</Thought_SweetedenDeal_Tier3a.stages.0.description>
+  <Thought_SweetedenDeal_Tier4.stages.0.label>совершенно покорная</Thought_SweetedenDeal_Tier4.stages.0.label>
+  <Thought_SweetedenDeal_Tier4.stages.0.description>Я отдал все свое самоуважение до последней капли. Я хочу жить в дыре вечно.</Thought_SweetedenDeal_Tier4.stages.0.description>
+  <Thought_CounterParleyHumiliation.stages.0.label>унижена заставой</Thought_CounterParleyHumiliation.stages.0.label>
+  <Thought_CounterParleyHumiliation.stages.0.description>Меня унизила более слабая фракция. Я никогда не переживу этого.</Thought_CounterParleyHumiliation.stages.0.description>
+  <Thought_ParleyFledSortie.stages.0.label>убежал из засады</Thought_ParleyFledSortie.stages.0.label>
+  <Thought_ParleyFledSortie.stages.0.description>Мы сбежали с поля битвы. Позорно.</Thought_ParleyFledSortie.stages.0.description>
+  <MiningOutpost_PulseEmitterFrustrated.stages.0.label>расстроен импульсным излучателем</MiningOutpost_PulseEmitterFrustrated.stages.0.label>
+  <MiningOutpost_PulseEmitterFrustrated.stages.0.description>Импульсный излучатель сложно использовать таким образом, и это меня расстраивает.</MiningOutpost_PulseEmitterFrustrated.stages.0.description>
+  <MiningOutpost_PulseEmitterExhilarated.stages.0.label>Импульсный излучатель молниеносно быстро</MiningOutpost_PulseEmitterExhilarated.stages.0.label>
+  <MiningOutpost_PulseEmitterExhilarated.stages.0.description>Импульсный излучатель такой быстрый!</MiningOutpost_PulseEmitterExhilarated.stages.0.description>
+</LanguageData>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BlackMarketOutpost.description>Скрытый притон черного рынка. Оно истечет со временем. А до тех пор вы можете совершить набег на него, если хотите.</BlackMarketOutpost.description>
+  <BlackMarketOutpost.approachingReportString>Атака: {0}.</BlackMarketOutpost.approachingReportString>
+  <BlackMarketOutpost.label>аванпост чёрного рынка</BlackMarketOutpost.label>
+  <BlackMarketOutpost.approachOrderString>Напасть на {0}</BlackMarketOutpost.approachOrderString>
+  <ClothesMakingOutpost.description>Укрепленное текстильное и пошивочное предприятие. Оно истечет со временем. А до тех пор вы можете совершить набег на него, если хотите.</ClothesMakingOutpost.description>
+  <ClothesMakingOutpost.approachingReportString>Атака: {0}.</ClothesMakingOutpost.approachingReportString>
+  <ClothesMakingOutpost.label>швейный аванпост</ClothesMakingOutpost.label>
+  <ClothesMakingOutpost.approachOrderString>Напасть на {0}</ClothesMakingOutpost.approachOrderString>
+  <ComponentOutpost.description>Укрепленный завод по производству компонентов. Оно истечет со временем. А до тех пор вы можете совершить набег на него, если хотите.</ComponentOutpost.description>
+  <ComponentOutpost.approachingReportString>Атака: {0}.</ComponentOutpost.approachingReportString>
+  <ComponentOutpost.label>компонентный аванпост</ComponentOutpost.label>
+  <ComponentOutpost.approachOrderString>Напасть на {0}</ComponentOutpost.approachOrderString>
+  <FarmingOutpost.description>Соседняя ферма. Оно истечет со временем. А до тех пор вы можете совершить набег на него, если хотите.</FarmingOutpost.description>
+  <FarmingOutpost.approachingReportString>Атака: {0}.</FarmingOutpost.approachingReportString>
+  <FarmingOutpost.label>фермерский аванпост</FarmingOutpost.label>
+  <FarmingOutpost.approachOrderString>Напасть на {0}</FarmingOutpost.approachOrderString>
+  <GunsmithingOutpost.description>Укреплённое оружейное производство. Оно истечет со временем. А до тех пор вы можете совершить набег на него, если хотите.</GunsmithingOutpost.description>
+  <GunsmithingOutpost.approachingReportString>Атака: {0}.</GunsmithingOutpost.approachingReportString>
+  <GunsmithingOutpost.label>оружейный аванпост</GunsmithingOutpost.label>
+  <GunsmithingOutpost.approachOrderString>Напасть на {0}</GunsmithingOutpost.approachOrderString>
+  <HomesteadOutpost.description>Грубая усадьба в глуши. Кто-то пытается здесь заработать на жизнь.</HomesteadOutpost.description>
+  <HomesteadOutpost.approachingReportString>Атака: {0}.</HomesteadOutpost.approachingReportString>
+  <HomesteadOutpost.label>усадебный аванпост</HomesteadOutpost.label>
+  <HomesteadOutpost.approachOrderString>Напасть на {0}</HomesteadOutpost.approachOrderString>
+  <MercenaryOutpost.description>Укрепленное убежище наемников. Оно истечет со временем. А до тех пор вы можете совершить набег на него, если хотите.</MercenaryOutpost.description>
+  <MercenaryOutpost.approachingReportString>Атака: {0}.</MercenaryOutpost.approachingReportString>
+  <MercenaryOutpost.label>лагерь наёмников</MercenaryOutpost.label>
+  <MercenaryOutpost.approachOrderString>Напасть на {0}</MercenaryOutpost.approachOrderString>
+  <MiningOutpost.description>Укреплённый горнодобывающий комплекс. Оно истечет со временем. А до тех пор вы можете совершить набег на него, если хотите.</MiningOutpost.description>
+  <MiningOutpost.approachingReportString>Атака: {0}.</MiningOutpost.approachingReportString>
+  <MiningOutpost.label>шахтёрский аванпост</MiningOutpost.label>
+  <MiningOutpost.approachOrderString>Напасть на {0}</MiningOutpost.approachOrderString>
+  <OrbitalPlatform.description>Орбитальная платформа на низкой орбите. Случайная пуля, пробившая корпус, означает, что все дышат вакуумом. Здесь могут спокойно приземляться пассажирские шаттлы. Вы можете совершить набег на эту платформу, используя грави-корабль, если у вас есть такой, который вы готовы сжечь.</OrbitalPlatform.description>
+  <OrbitalPlatform.approachingReportString>Приближение к {0}.</OrbitalPlatform.approachingReportString>
+  <OrbitalPlatform.label>орбитальная платформа</OrbitalPlatform.label>
+  <OrbitalPlatform.approachOrderString>Пристыковаться к {0}</OrbitalPlatform.approachOrderString>
+  <VehiclesOutpost.description>Укрепленная автомастерская и депо. Оно истечет со временем. А до тех пор вы можете совершить набег на него, если хотите.</VehiclesOutpost.description>
+  <VehiclesOutpost.approachingReportString>Атака: {0}.</VehiclesOutpost.approachingReportString>
+  <VehiclesOutpost.label>транспортный аванпост</VehiclesOutpost.label>
+  <VehiclesOutpost.approachOrderString>Напасть на {0}</VehiclesOutpost.approachOrderString>
+  <VehiclesTier3Outpost.description>Укрепленное депо для высокопроизводительной техники. Оно истечет со временем. А до тех пор вы можете совершить набег на него, если хотите.</VehiclesTier3Outpost.description>
+  <VehiclesTier3Outpost.approachingReportString>Атака: {0}.</VehiclesTier3Outpost.approachingReportString>
+  <VehiclesTier3Outpost.label>аванпост скоростной техники</VehiclesTier3Outpost.label>
+  <VehiclesTier3Outpost.approachOrderString>Напасть на {0}</VehiclesTier3Outpost.approachOrderString>
+</LanguageData>

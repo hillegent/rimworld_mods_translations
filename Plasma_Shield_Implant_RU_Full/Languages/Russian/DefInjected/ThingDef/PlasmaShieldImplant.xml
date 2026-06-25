@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlasmaShieldImplant.label>имплант плазменного щита</PlasmaShieldImplant.label>
+  <PlasmaShieldImplant.description>Сердечный имплант, создающий защитное поле вокруг носителя. Поле блокирует как дистанционные атаки, так и атаки в ближнем бою, не мешая использовать снаряжение. Заряд ЭМИ мгновенно разрушит поле.</PlasmaShieldImplant.description>
+  <PsiShieldBooster.label>усилитель пси-щита</PsiShieldBooster.label>
+  <PsiShieldBooster.description>Модификация плазменного щита, которая уменьшает базовую емкость щита, но позволяет психической чувствительности носителя заряжать поле. Для работы требуется имплант плазменного щита.</PsiShieldBooster.description>
+  <PlasmaShieldBattery.label>батарея плазменного щита</PlasmaShieldBattery.label>
+  <PlasmaShieldBattery.description>Батарея для плазменного щита, увеличивающая прочность поля.</PlasmaShieldBattery.description>
+  <AdvancedPlasmaShieldBattery.label>улучшенная батарея плазменного щита</AdvancedPlasmaShieldBattery.label>
+  <AdvancedPlasmaShieldBattery.description>Улучшенная батарея для плазменного щита, увеличивающая прочность поля.</AdvancedPlasmaShieldBattery.description>
+  <HardenedPlasmaShield.label>укрепленный плазменный щит</HardenedPlasmaShield.label>
+  <HardenedPlasmaShield.description>Улучшение генератора, делающее щит укрепленным. Запас энергии становится меньше, зато укрепленный щит лишь частично истощается от отдельных мощных атак.</HardenedPlasmaShield.description>
+  <DampeningPlasmaShield.label>демпфирующий плазменный щит</DampeningPlasmaShield.label>
+  <DampeningPlasmaShield.description>Это улучшение пропускает атаки через щит, но снижает силу их воздействия.</DampeningPlasmaShield.description>
+  <ResistantPlasmaShield.label>ЭМИ-устойчивый плазменный щит</ResistantPlasmaShield.label>
+  <ResistantPlasmaShield.description>Улучшение генератора, позволяющее щиту сопротивляться ЭМИ-урону. Это функциональный модуль: одновременно может быть активен только один функциональный модуль.</ResistantPlasmaShield.description>
+  <AdaptivePlasmaShield.label>адаптивный плазменный щит</AdaptivePlasmaShield.label>
+  <AdaptivePlasmaShield.description>Модификация создаваемого поля, позволяющая щиту адаптироваться к типам урона. Это функциональный модуль: одновременно может быть активен только один функциональный модуль.</AdaptivePlasmaShield.description>
+  <PlasmaShieldFunctionalityEnhancer.label>усилитель плазменного щита</PlasmaShieldFunctionalityEnhancer.label>
+  <PlasmaShieldFunctionalityEnhancer.description>Улучшение для всех установленных функциональных модулей, повышающее их эффективность.</PlasmaShieldFunctionalityEnhancer.description>
+  <PlasmaShieldRegenerator.label>регенератор плазменного щита</PlasmaShieldRegenerator.label>
+  <PlasmaShieldRegenerator.description>Модификация генератора, которая ускоряет восстановление щита, но увеличивает задержку восстановления после пробития.</PlasmaShieldRegenerator.description>
+  <PsionicRegenerator.label>псионический регенератор</PsionicRegenerator.label>
+  <PsionicRegenerator.description>Модификация генератора, связывающая ментальную силу носителя со скоростью восстановления щита. Это вызывает психическое напряжение, из-за чего носитель быстрее устает.</PsionicRegenerator.description>
+  <ModuleSwitchTerminal.label>терминал переключения модулей</ModuleSwitchTerminal.label>
+  <ModuleSwitchTerminal.description>Терминал для перенастройки модулей щита.</ModuleSwitchTerminal.description>
+
+</LanguageData>

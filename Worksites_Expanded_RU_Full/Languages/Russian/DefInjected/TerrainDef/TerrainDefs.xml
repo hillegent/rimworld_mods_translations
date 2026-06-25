@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WorksiteSmoothed_Sandstone.description>Гладкий пол из песчаника с чистыми острыми краями.</WorksiteSmoothed_Sandstone.description>
+  <WorksiteSmoothed_Sandstone.label>Гладкий песчаник</WorksiteSmoothed_Sandstone.label>
+  <WorksiteSmoothed_Marble.description>Гладкий мраморный пол с чистыми острыми краями.</WorksiteSmoothed_Marble.description>
+  <WorksiteSmoothed_Marble.label>гладкий мрамор</WorksiteSmoothed_Marble.label>
+  <WorksiteSmoothed_Granite.description>Гладкий гранитный пол с чистыми острыми краями.</WorksiteSmoothed_Granite.description>
+  <WorksiteSmoothed_Granite.label>гладкий гранит</WorksiteSmoothed_Granite.label>
+  <WorksiteSmoothed_Limestone.description>Гладкий пол из известняка с чистыми острыми краями.</WorksiteSmoothed_Limestone.description>
+  <WorksiteSmoothed_Limestone.label>гладкий известняк</WorksiteSmoothed_Limestone.label>
+  <WorksiteSmoothed_Slate.description>Гладкий шиферный пол с чистыми острыми краями.</WorksiteSmoothed_Slate.description>
+  <WorksiteSmoothed_Slate.label>гладкий сланец</WorksiteSmoothed_Slate.label>
+  <WorksiteRough_Sandstone.description>Грубый пол из песчаника с чистыми острыми краями.</WorksiteRough_Sandstone.description>
+  <WorksiteRough_Sandstone.label>необработанный песчаник</WorksiteRough_Sandstone.label>
+  <WorksiteRough_Marble.description>Грубый мраморный пол с чистыми острыми краями.</WorksiteRough_Marble.description>
+  <WorksiteRough_Marble.label>необработанный мрамор</WorksiteRough_Marble.label>
+  <WorksiteRough_Granite.description>Грубый гранитный пол с чистыми острыми краями.</WorksiteRough_Granite.description>
+  <WorksiteRough_Granite.label>необработанный гранит</WorksiteRough_Granite.label>
+  <WorksiteRough_Limestone.description>Грубый пол из известняка с чистыми острыми краями.</WorksiteRough_Limestone.description>
+  <WorksiteRough_Limestone.label>необработанный известняк</WorksiteRough_Limestone.label>
+  <WorksiteRough_Slate.description>Грубый пол из шифера с чистыми острыми краями.</WorksiteRough_Slate.description>
+  <WorksiteRough_Slate.label>шероховатый сланец</WorksiteRough_Slate.label>
+</LanguageData>

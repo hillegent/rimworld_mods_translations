@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallPlasmaShieldImplant.label>установить имплант плазменного щита</InstallPlasmaShieldImplant.label>
+  <InstallPlasmaShieldImplant.description>Установить имплант плазменного щита.</InstallPlasmaShieldImplant.description>
+  <InstallPlasmaShieldImplant.jobString>Устанавливает имплант плазменного щита.</InstallPlasmaShieldImplant.jobString>
+  <InstallPsiShieldBooster.label>установить усилитель пси-щита</InstallPsiShieldBooster.label>
+  <InstallPsiShieldBooster.description>Установить усилитель пси-щита.</InstallPsiShieldBooster.description>
+  <InstallPsiShieldBooster.jobString>Устанавливает усилитель пси-щита.</InstallPsiShieldBooster.jobString>
+  <InstallPlasmaShieldBattery.label>установить батарею плазменного щита</InstallPlasmaShieldBattery.label>
+  <InstallPlasmaShieldBattery.description>Установить батарею плазменного щита.</InstallPlasmaShieldBattery.description>
+  <InstallPlasmaShieldBattery.jobString>Устанавливает батарею плазменного щита.</InstallPlasmaShieldBattery.jobString>
+  <InstallAdvancedPlasmaShieldBattery.label>установить улучшенную батарею плазменного щита</InstallAdvancedPlasmaShieldBattery.label>
+  <InstallAdvancedPlasmaShieldBattery.description>Установить улучшенную батарею плазменного щита.</InstallAdvancedPlasmaShieldBattery.description>
+  <InstallAdvancedPlasmaShieldBattery.jobString>Устанавливает улучшенную батарею плазменного щита.</InstallAdvancedPlasmaShieldBattery.jobString>
+  <InstallHardenedPlasmaShield.label>установить укрепленный плазменный щит</InstallHardenedPlasmaShield.label>
+  <InstallHardenedPlasmaShield.description>Установить укрепленный плазменный щит.</InstallHardenedPlasmaShield.description>
+  <InstallHardenedPlasmaShield.jobString>Устанавливает укрепленный плазменный щит.</InstallHardenedPlasmaShield.jobString>
+  <InstallDampeningPlasmaShield.label>установить демпфирующий плазменный щит</InstallDampeningPlasmaShield.label>
+  <InstallDampeningPlasmaShield.description>Установить демпфирующий плазменный щит.</InstallDampeningPlasmaShield.description>
+  <InstallDampeningPlasmaShield.jobString>Устанавливает демпфирующий плазменный щит.</InstallDampeningPlasmaShield.jobString>
+  <InstallResistantPlasmaShield.label>установить ЭМИ-устойчивый плазменный щит</InstallResistantPlasmaShield.label>
+  <InstallResistantPlasmaShield.description>Установить ЭМИ-устойчивый плазменный щит.</InstallResistantPlasmaShield.description>
+  <InstallResistantPlasmaShield.jobString>Устанавливает ЭМИ-устойчивый плазменный щит.</InstallResistantPlasmaShield.jobString>
+  <InstallAdaptivePlasmaShield.label>установить адаптивный плазменный щит</InstallAdaptivePlasmaShield.label>
+  <InstallAdaptivePlasmaShield.description>Установить адаптивный плазменный щит.</InstallAdaptivePlasmaShield.description>
+  <InstallAdaptivePlasmaShield.jobString>Устанавливает адаптивный плазменный щит.</InstallAdaptivePlasmaShield.jobString>
+  <InstallPlasmaShieldFunctionalityEnhancer.label>установить усилитель плазменного щита</InstallPlasmaShieldFunctionalityEnhancer.label>
+  <InstallPlasmaShieldFunctionalityEnhancer.description>Установить усилитель плазменного щита.</InstallPlasmaShieldFunctionalityEnhancer.description>
+  <InstallPlasmaShieldFunctionalityEnhancer.jobString>Устанавливает усилитель плазменного щита.</InstallPlasmaShieldFunctionalityEnhancer.jobString>
+  <InstallPlasmaShieldRegenerator.label>установить регенератор плазменного щита</InstallPlasmaShieldRegenerator.label>
+  <InstallPlasmaShieldRegenerator.description>Установить регенератор плазменного щита.</InstallPlasmaShieldRegenerator.description>
+  <InstallPlasmaShieldRegenerator.jobString>Устанавливает регенератор плазменного щита.</InstallPlasmaShieldRegenerator.jobString>
+  <InstallPsionicRegenerator.label>установить псионический регенератор</InstallPsionicRegenerator.label>
+  <InstallPsionicRegenerator.description>Установить псионический регенератор.</InstallPsionicRegenerator.description>
+  <InstallPsionicRegenerator.jobString>Устанавливает псионический регенератор.</InstallPsionicRegenerator.jobString>
+
+</LanguageData>

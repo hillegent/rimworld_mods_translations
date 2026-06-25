@@ -1,0 +1,34 @@
+{
+  "source": "D:\\steam\\steamapps\\workshop\\content\\294100\\3533473917",
+  "destination": "D:\\steam\\steamapps\\common\\RimWorld\\Mods\\Nanotech_Overpower_RU_Full",
+  "entries": 1507,
+  "unique_originals": 1463,
+  "conflicts": 0,
+  "conflict_examples": [],
+  "def_types": {
+    "AbilityDef": 8,
+    "AchievementsExpanded.AchievementDef": 20,
+    "AchievementsExpanded.AchievementTabDef": 1,
+    "ApparelLayerDef": 2,
+    "CombatExtended.AmmoCategoryDef": 3,
+    "CombatExtended.AmmoSetDef": 4,
+    "DesignatorDropdownGroupDef": 3,
+    "GeneDef": 2,
+    "HediffDef": 34,
+    "RecipeDef": 1170,
+    "TerrainDef": 37,
+    "ThingCategoryDef": 4,
+    "ThingDef": 192,
+    "ThoughtDef": 10,
+    "TransportShipDef": 1,
+    "WorkGiverDef": 16
+  },
+  "validation": {
+    "xml_files": 17,
+    "xml_errors": [],
+    "dll_exists": true,
+    "untranslated_like": [],
+    "untranslated_like_count": 0,
+    "preview_exists": true
+  }
+}

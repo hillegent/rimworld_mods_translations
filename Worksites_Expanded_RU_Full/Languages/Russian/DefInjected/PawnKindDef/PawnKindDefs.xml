@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MiningOutpost_OrbitalLaborer_Stevedore.label>стивидор</MiningOutpost_OrbitalLaborer_Stevedore.label>
+  <MiningOutpost_OrbitalLaborer_Scrapper.label>скрепер</MiningOutpost_OrbitalLaborer_Scrapper.label>
+  <MiningOutpost_OrbitalLaborer_Vendor.label>поставщик</MiningOutpost_OrbitalLaborer_Vendor.label>
+  <MiningOutpost_OrbitalLaborer_Resident.label>резидент</MiningOutpost_OrbitalLaborer_Resident.label>
+  <MiningOutpost_OrbitalEngineer.label>орбитальный инженер</MiningOutpost_OrbitalEngineer.label>
+  <MiningOutpostCombat_OrbitalSecurity.label>Охрана орбитальной станции</MiningOutpostCombat_OrbitalSecurity.label>
+  <MiningOutpostCombat_StationSecurity.label>Охрана станции</MiningOutpostCombat_StationSecurity.label>
+  <MiningOutpostCombat_CriminalCombat_Enforcer.label>Силовик</MiningOutpostCombat_CriminalCombat_Enforcer.label>
+  <MiningOutpostCombat_CriminalCombat_DebtCollector.label>сборщик долгов</MiningOutpostCombat_CriminalCombat_DebtCollector.label>
+  <MiningOutpostCombat_CriminalCombat_Racketeer.label>рэкет</MiningOutpostCombat_CriminalCombat_Racketeer.label>
+  <MiningOutpostCombat_CriminalCombat_Bouncer.label>вышибала</MiningOutpostCombat_CriminalCombat_Bouncer.label>
+  <MiningOutpostCombat_CriminalCombat_Gambler.label>игрок</MiningOutpostCombat_CriminalCombat_Gambler.label>
+  <MiningOutpostCombat_CriminalCombat_Hustler.label>мошенник</MiningOutpostCombat_CriminalCombat_Hustler.label>
+  <MiningOutpostCombat_CriminalCombat_Thug.label>головорез</MiningOutpostCombat_CriminalCombat_Thug.label>
+  <MiningOutpost_Miner.label>шахтер на аванпосте</MiningOutpost_Miner.label>
+  <MiningOutpost_Farmer.label>фермер на аванпосте</MiningOutpost_Farmer.label>
+  <MiningOutpost_Hauler.label>Рабочий на аванпосте</MiningOutpost_Hauler.label>
+  <MiningOutpost_Tailor.label>Портной на аванпосте</MiningOutpost_Tailor.label>
+  <MiningOutpost_BlackMarketSlave.label>Раб</MiningOutpost_BlackMarketSlave.label>
+  <OutpostMedic.label>Медик на аванпосте</OutpostMedic.label>
+  <OutpostMedicLeader.label>Руководитель медика на аванпосте</OutpostMedicLeader.label>
+</LanguageData>

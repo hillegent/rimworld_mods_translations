@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallNT_BeautyImplant.description>ввести имплант красоты</InstallNT_BeautyImplant.description>
+  <InstallNT_BeautyImplant.jobString>вводит имплант красоты.</InstallNT_BeautyImplant.jobString>
+  <InstallNT_BeautyImplant.label>установить имплант красоты</InstallNT_BeautyImplant.label>
+  <InstallNT_FeelGoodImplant.description>ввести имплант хорошего настроения</InstallNT_FeelGoodImplant.description>
+  <InstallNT_FeelGoodImplant.jobString>вводит имплант хорошего настроения.</InstallNT_FeelGoodImplant.jobString>
+  <InstallNT_FeelGoodImplant.label>установить имплант хорошего настроения</InstallNT_FeelGoodImplant.label>
+  <InstallNT_HermesImplant.description>ввести имплант Гермеса</InstallNT_HermesImplant.description>
+  <InstallNT_HermesImplant.jobString>вводит имплант Гермеса.</InstallNT_HermesImplant.jobString>
+  <InstallNT_HermesImplant.label>установить имплант Гермеса</InstallNT_HermesImplant.label>
+  <InstallNT_MechOverlord.description>ввести имплант повелителя механоидов</InstallNT_MechOverlord.description>
+  <InstallNT_MechOverlord.jobString>вводит имплант повелителя механоидов.</InstallNT_MechOverlord.jobString>
+  <InstallNT_MechOverlord.label>установить имплант повелителя механоидов</InstallNT_MechOverlord.label>
+  <InstallNT_NanoserumImplant.description>ввести наносыворотку</InstallNT_NanoserumImplant.description>
+  <InstallNT_NanoserumImplant.jobString>вводит наносыворотку.</InstallNT_NanoserumImplant.jobString>
+  <InstallNT_NanoserumImplant.label>установить наносыворотку</InstallNT_NanoserumImplant.label>
+  <InstallNullBiteImplant.description>установить имплант нулевого укуса</InstallNullBiteImplant.description>
+  <InstallNullBiteImplant.jobString>Имплантирует имплант нулевого укуса.</InstallNullBiteImplant.jobString>
+  <InstallNullBiteImplant.label>установить имплант нулевого укуса</InstallNullBiteImplant.label>
+  <InstallPsykerImplant.description>ввести имплант псайкера</InstallPsykerImplant.description>
+  <InstallPsykerImplant.jobString>вводит имплант псайкера.</InstallPsykerImplant.jobString>
+  <InstallPsykerImplant.label>установить имплант псайкера</InstallPsykerImplant.label>
+  <InstallRestlessImplant.description>установить имплант беспокойства</InstallRestlessImplant.description>
+  <InstallRestlessImplant.jobString>Имплантирует имплант беспокойства.</InstallRestlessImplant.jobString>
+  <InstallRestlessImplant.label>установить имплант беспокойства</InstallRestlessImplant.label>
+  <InstallStoicImplant.description>установить имплант стоика</InstallStoicImplant.description>
+  <InstallStoicImplant.jobString>Установка имплантата стойкости.</InstallStoicImplant.jobString>
+  <InstallStoicImplant.label>установить имплант стоика</InstallStoicImplant.label>
+  <Install_SFI.description>ввести имплант сверхплодовитости</Install_SFI.description>
+  <Install_SFI.jobString>вводит имплант сверхплодовитости.</Install_SFI.jobString>
+  <Install_SFI.label>установить имплант сверхплодовитости</Install_SFI.label>
+  <MakeAmmo_EMPNano.jobString>Сборка нанотехнологических картриджей ЭМИ.</MakeAmmo_EMPNano.jobString>
+  <MakeAmmo_EMPNano.label>сделать ЭМИ-нанотехнологические патроны x100</MakeAmmo_EMPNano.label>
+  <MakeAmmo_Nanoshot.jobString>Сборка нанозарядных снарядов.</MakeAmmo_Nanoshot.jobString>
+  <MakeAmmo_Nanoshot.label>сделать нанозаряды x250</MakeAmmo_Nanoshot.label>
+  <MakeAmmo_Nanotech.jobString>Изготовление нанотехнологических картриджей.</MakeAmmo_Nanotech.jobString>
+  <MakeAmmo_Nanotech.label>сделать нанотехнологические патроны x500</MakeAmmo_Nanotech.label>
+  <MakeAmmo_StunnerNano.jobString>Сборка оглушающих нанотехнологических патронов.</MakeAmmo_StunnerNano.jobString>
+  <MakeAmmo_StunnerNano.label>сделать оглушающие нанотехнологические патроны x200</MakeAmmo_StunnerNano.label>
+  <MaxRecycle_Smeltables.description>Перерабатывает практически все, вплоть до 100% базовых материалов. Если не подлежит вторичной переработке, вместо этого производит нанобот 1.</MaxRecycle_Smeltables.description>
+  <MaxRecycle_Smeltables.jobString>Переработка предметов в базовые ресурсы.</MaxRecycle_Smeltables.jobString>
+  <MaxRecycle_Smeltables.label>перерабатывает в базовые ресурсы</MaxRecycle_Smeltables.label>
+  <NTR_ADPShell.label>ADP оболочка x5</NTR_ADPShell.label>
+  <NTR_AM_Apparel_ExpandedHeavyShield.label>механический щит</NTR_AM_Apparel_ExpandedHeavyShield.label>
+  <NTR_AM_BeamcasterPack.label>пакет лучевого заклинателя</NTR_AM_BeamcasterPack.label>
+  <NTR_AM_CryptoPack.label>механический крипто-пакет</NTR_AM_CryptoPack.label>
+  <NTR_AM_HyperLinkageChip.label>чип гиперсвязи (уровень) 4)</NTR_AM_HyperLinkageChip.label>
+  <NTR_AM_MechBreakerArmor.label>механическая защитная броня</NTR_AM_MechBreakerArmor.label>
+  <NTR_AM_MechBreakerHelm.label>механоидный шлем-разрушитель</NTR_AM_MechBreakerHelm.label>
+  <NTR_AM_MechCommanderHelm.label>механический шлем мастера</NTR_AM_MechCommanderHelm.label>
+  <NTR_AM_MechCommanderSuit.label>механический костюм</NTR_AM_MechCommanderSuit.label>
+  <NTR_AM_QuantumMatrixChip.label>чип квантовой матрицы (уровень 6)</NTR_AM_QuantumMatrixChip.label>
+  <NTR_AM_StellarProcessingChip.label>звездный чип обработки (уровень 5)</NTR_AM_StellarProcessingChip.label>
+  <NTR_AP_AR_Mekakushi.label>Повязка на глаза AD x1</NTR_AP_AR_Mekakushi.label>
+  <NTR_AP_DimiRa_1BK.label>Солдатский рюкзак D x1</NTR_AP_DimiRa_1BK.label>
+  <NTR_AP_DimiRa_EXOA.label>Рабочий экзоскелет D x1</NTR_AP_DimiRa_EXOA.label>
+  <NTR_AP_DimiRa_EyeA.label>Очки прицеливания AD x1</NTR_AP_DimiRa_EyeA.label>
+  <NTR_AP_DimiRa_Mask.label>Противогаз AD x1</NTR_AP_DimiRa_Mask.label>
+  <NTR_ARR_AetherLance.label>эфирное копье x1</NTR_ARR_AetherLance.label>
+  <NTR_ARR_AethericShell.label>эфирная оболочка x5</NTR_ARR_AethericShell.label>
+  <NTR_ARR_AethericShieldBelt.label>пояс с эфирным щитом x1</NTR_ARR_AethericShieldBelt.label>
+  <NTR_ARR_Carbine.label>эфирный карабин x1</NTR_ARR_Carbine.label>
+  <NTR_ARR_CasterRobeBasic.label>мантия заклинателя x1</NTR_ARR_CasterRobeBasic.label>
+  <NTR_ARR_Ceruleum.label>церулеум x20</NTR_ARR_Ceruleum.label>
+  <NTR_ARR_CompositeBow.label>эфирный композитный лук x1</NTR_ARR_CompositeBow.label>
+  <NTR_ARR_CompoundBowArrow.label>составная стрела для лука x10</NTR_ARR_CompoundBowArrow.label>
+  <NTR_ARR_CrystalSand.label>кристаллический песок x20</NTR_ARR_CrystalSand.label>
+  <NTR_ARR_DoublePistol.label>эфирный двойной пистолет x1</NTR_ARR_DoublePistol.label>
+  <NTR_ARR_EarthCrystal.label>кристалл земли x50</NTR_ARR_EarthCrystal.label>
+  <NTR_ARR_Falchion.label>эфирный фальчион x1</NTR_ARR_Falchion.label>
+  <NTR_ARR_FireCrystal.label>огненный кристалл x50</NTR_ARR_FireCrystal.label>
+  <NTR_ARR_Firesand.label>огненный песок x20</NTR_ARR_Firesand.label>
+  <NTR_ARR_FocusCrystal.label>кристалл фокусировки x1</NTR_ARR_FocusCrystal.label>
+  <NTR_ARR_Hauberk.label>кольчуга x1</NTR_ARR_Hauberk.label>
+  <NTR_ARR_HybridCompoundBow.label>гибридный составной лук x1</NTR_ARR_HybridCompoundBow.label>
+  <NTR_ARR_HybridPowerArmor.label>гибридная силовая броня x1</NTR_ARR_HybridPowerArmor.label>
+  <NTR_ARR_HybridPowerArmorGlamoured.label>гламурная гибридная силовая броня x1</NTR_ARR_HybridPowerArmorGlamoured.label>
+  <NTR_ARR_HybridPowerHelmet.label>гибридный силовой шлем x1</NTR_ARR_HybridPowerHelmet.label>
+  <NTR_ARR_HybridPowerHelmetGlamoured.label>гламурный гибридный силовой шлем x1</NTR_ARR_HybridPowerHelmetGlamoured.label>
+  <NTR_ARR_HybridReconArmor.label>гибридная разведывательная броня x1</NTR_ARR_HybridReconArmor.label>
+  <NTR_ARR_HybridReconArmorGlamoured.label>гламурная гибридная разведывательная броня x1</NTR_ARR_HybridReconArmorGlamoured.label>
+  <NTR_ARR_HybridReconHelmet.label>гибридный шлем разведчика x1</NTR_ARR_HybridReconHelmet.label>
+  <NTR_ARR_HybridReconHelmetGlamoured.label>гламурный гибридный шлем разведчика x1</NTR_ARR_HybridReconHelmetGlamoured.label>
+  <NTR_ARR_HybridRepeater.label>гибридный повторитель x1</NTR_ARR_HybridRepeater.label>
+  <NTR_ARR_HybridRifle.label>гибридная винтовка x1</NTR_ARR_HybridRifle.label>
+  <NTR_ARR_HybridScattergun.label>Гибридный обрез x1</NTR_ARR_HybridScattergun.label>
+  <NTR_ARR_IceCrystal.label>ледяной кристалл x50</NTR_ARR_IceCrystal.label>
+  <NTR_ARR_Knife.label>эорзейский нож x1</NTR_ARR_Knife.label>
+  <NTR_ARR_LeatherCuirass.label>кираса (кожа) x1</NTR_ARR_LeatherCuirass.label>
+  <NTR_ARR_LightningCrystal.label>кристалл молнии x50</NTR_ARR_LightningCrystal.label>
+  <NTR_ARR_LongBow.label>эфирный длинный лук x1</NTR_ARR_LongBow.label>
+  <NTR_ARR_MealTravel.label>дорожный паек x1</NTR_ARR_MealTravel.label>
+  <NTR_ARR_MedicineAlchemical.label>алхимическая медицина x1</NTR_ARR_MedicineAlchemical.label>
+  <NTR_ARR_MetalCuirass.label>кираса (металл) x1</NTR_ARR_MetalCuirass.label>
+  <NTR_ARR_PotHelm.label>горшечный шлем x1</NTR_ARR_PotHelm.label>
+  <NTR_ARR_PotHelmGlamoured.label>гламурный шлем-горшок x1</NTR_ARR_PotHelmGlamoured.label>
+  <NTR_ARR_Potion.label>зелье x1</NTR_ARR_Potion.label>
+  <NTR_ARR_PotionAntidote.label>противоядие x1</NTR_ARR_PotionAntidote.label>
+  <NTR_ARR_PotionDexterity.label>зелье ловкости x1</NTR_ARR_PotionDexterity.label>
+  <NTR_ARR_PotionEther.label>эфир x1</NTR_ARR_PotionEther.label>
+  <NTR_ARR_PotionHi.label>Высокое зелье x1</NTR_ARR_PotionHi.label>
+  <NTR_ARR_PotionStrength.label>зелье силы x1</NTR_ARR_PotionStrength.label>
+  <NTR_ARR_PotionUnlearning.label>зелье разучивания x1</NTR_ARR_PotionUnlearning.label>
+  <NTR_ARR_PotionVitality.label>зелье жизненной силы x1</NTR_ARR_PotionVitality.label>
+  <NTR_ARR_Sallet.label>салет x1</NTR_ARR_Sallet.label>
+  <NTR_ARR_SalletGlamoured.label>гламурный салет x1</NTR_ARR_SalletGlamoured.label>
+  <NTR_ARR_SoulCrystal_Astrologian.label>Кристалл души (астролог) x1</NTR_ARR_SoulCrystal_Astrologian.label>
+  <NTR_ARR_SoulCrystal_Bard.label>Кристалл души (бард) x1</NTR_ARR_SoulCrystal_Bard.label>
+  <NTR_ARR_SoulCrystal_BlackMage.label>Кристалл души (черный маг) x1</NTR_ARR_SoulCrystal_BlackMage.label>
+  <NTR_ARR_SoulCrystal_Dancer.label>Кристалл души (танцовщица) x1</NTR_ARR_SoulCrystal_Dancer.label>
+  <NTR_ARR_SoulCrystal_DarkKnight.label>Кристалл души (темный рыцарь) x1</NTR_ARR_SoulCrystal_DarkKnight.label>
+  <NTR_ARR_SoulCrystal_Dragoon.label>Кристалл души (драгун) x1</NTR_ARR_SoulCrystal_Dragoon.label>
+  <NTR_ARR_SoulCrystal_Gunbreaker.label>Кристалл души (стрелок) x1</NTR_ARR_SoulCrystal_Gunbreaker.label>
+  <NTR_ARR_SoulCrystal_Machinist.label>Кристалл души (механик) x1</NTR_ARR_SoulCrystal_Machinist.label>
+  <NTR_ARR_SoulCrystal_Monk.label>Кристалл души (монах) x1</NTR_ARR_SoulCrystal_Monk.label>
+  <NTR_ARR_SoulCrystal_Ninja.label>Кристалл души (ниндзя) x1</NTR_ARR_SoulCrystal_Ninja.label>
+  <NTR_ARR_SoulCrystal_Paladin.label>Кристалл души (паладин) x1</NTR_ARR_SoulCrystal_Paladin.label>
+  <NTR_ARR_SoulCrystal_Reaper.label>Кристалл души (жнец) x1</NTR_ARR_SoulCrystal_Reaper.label>
+  <NTR_ARR_SoulCrystal_RedMage.label>Кристалл души (красный маг) x1</NTR_ARR_SoulCrystal_RedMage.label>
+  <NTR_ARR_SoulCrystal_Sage.label>Кристалл души (шалфей) x1</NTR_ARR_SoulCrystal_Sage.label>
+  <NTR_ARR_SoulCrystal_Samurai.label>Кристалл души (самурай) x1</NTR_ARR_SoulCrystal_Samurai.label>
+  <NTR_ARR_SoulCrystal_Scholar.label>Кристалл души (ученый) x1</NTR_ARR_SoulCrystal_Scholar.label>
+  <NTR_ARR_SoulCrystal_Summoner.label>Кристалл души (призыватель) x1</NTR_ARR_SoulCrystal_Summoner.label>
+  <NTR_ARR_SoulCrystal_Warrior.label>Кристалл души (воин) x1</NTR_ARR_SoulCrystal_Warrior.label>
+  <NTR_ARR_SoulCrystal_WhiteMage.label>Кристалл души (белый маг) x1</NTR_ARR_SoulCrystal_WhiteMage.label>
+  <NTR_ARR_Spear.label>эфирное копье x1</NTR_ARR_Spear.label>
+  <NTR_ARR_WaterCrystal.label>водный кристалл x50</NTR_ARR_WaterCrystal.label>
+  <NTR_ARR_Weapon_Arcanist.label>оружие арканиста x1</NTR_ARR_Weapon_Arcanist.label>
+  <NTR_ARR_Weapon_Archer.label>оружие лучника x1</NTR_ARR_Weapon_Archer.label>
+  <NTR_ARR_Weapon_Astrologian.label>оружие астролога x1</NTR_ARR_Weapon_Astrologian.label>
+  <NTR_ARR_Weapon_Conjurer.label>оружие фокусника x1</NTR_ARR_Weapon_Conjurer.label>
+  <NTR_ARR_Weapon_Dancer.label>оружие танцора x1</NTR_ARR_Weapon_Dancer.label>
+  <NTR_ARR_Weapon_DarkKnight.label>оружие темного рыцаря x1</NTR_ARR_Weapon_DarkKnight.label>
+  <NTR_ARR_Weapon_Gladiator.label>оружие гладиатора x1</NTR_ARR_Weapon_Gladiator.label>
+  <NTR_ARR_Weapon_Gunbreaker.label>оружие разбойника x1</NTR_ARR_Weapon_Gunbreaker.label>
+  <NTR_ARR_Weapon_Lancer.label>улан оружие x1</NTR_ARR_Weapon_Lancer.label>
+  <NTR_ARR_Weapon_Machinist.label>оружие машиниста x1</NTR_ARR_Weapon_Machinist.label>
+  <NTR_ARR_Weapon_Marauder.label>оружие мародера x1</NTR_ARR_Weapon_Marauder.label>
+  <NTR_ARR_Weapon_Pugilist.label>оружие боксёра x1</NTR_ARR_Weapon_Pugilist.label>
+  <NTR_ARR_Weapon_Reaper.label>оружие жнеца x1</NTR_ARR_Weapon_Reaper.label>
+  <NTR_ARR_Weapon_RedMage.label>оружие красного мага x1</NTR_ARR_Weapon_RedMage.label>
+  <NTR_ARR_Weapon_Rogue.label>оружие разбойника x1</NTR_ARR_Weapon_Rogue.label>
+  <NTR_ARR_Weapon_Sage.label>оружие мудреца x1</NTR_ARR_Weapon_Sage.label>
+  <NTR_ARR_Weapon_Samurai.label>самурайское оружие x1</NTR_ARR_Weapon_Samurai.label>
+  <NTR_ARR_Weapon_Thaumaturge.label>оружие тауматурга x1</NTR_ARR_Weapon_Thaumaturge.label>
+  <NTR_ARR_WindCrystal.label>Кристалл ветра x50</NTR_ARR_WindCrystal.label>
+  <NTR_ARR_Zweihander.label>эфирный цвайхандер x1</NTR_ARR_Zweihander.label>
+  <NTR_AR_ATGrenadebelt.label>AT Пояс для гранат x1</NTR_AR_ATGrenadebelt.label>
+  <NTR_AR_AnimaSeed.label>создать семя анимы x1</NTR_AR_AnimaSeed.label>
+  <NTR_AR_BerryTea.label>Красный ягодный чай x25</NTR_AR_BerryTea.label>
+  <NTR_AR_Blocks.label>Лунные блоки x50</NTR_AR_Blocks.label>
+  <NTR_AR_ColdWine.label>Ледяное вино x10</NTR_AR_ColdWine.label>
+  <NTR_AR_EMPbelt.label>эми-пояс для гранат x1</NTR_AR_EMPbelt.label>
+  <NTR_AR_Feather.label>создать перо Ариэль x50</NTR_AR_Feather.label>
+  <NTR_AR_GrenadeGusbelt.label>Пояс для газовых гранат x1</NTR_AR_GrenadeGusbelt.label>
+  <NTR_AR_Grenadebelt.label>Пояс для гранат x1</NTR_AR_Grenadebelt.label>
+  <NTR_AR_HotWine.label>Горячее вино x10</NTR_AR_HotWine.label>
+  <NTR_AR_Item_OkouA.label>Лавония для медитации x25</NTR_AR_Item_OkouA.label>
+  <NTR_AR_Item_OkouB.label>Стерилизационные благовония x25</NTR_AR_Item_OkouB.label>
+  <NTR_AR_Item_OkouC.label>Трудовые благовония x25</NTR_AR_Item_OkouC.label>
+  <NTR_AR_JamAkaBerry.label>создать варенье из красных ягод x50</NTR_AR_JamAkaBerry.label>
+  <NTR_AR_JamAkaBudou.label>Золотой виноградный джем x50</NTR_AR_JamAkaBudou.label>
+  <NTR_AR_JoinerWalkIn_Aliaile_Wine.label>Капля Ариэля (Призыв) x1</NTR_AR_JoinerWalkIn_Aliaile_Wine.label>
+  <NTR_AR_JoinerWalkIn_Dimiaile_Wine.label>Капля Димиэля (Призыв) x1</NTR_AR_JoinerWalkIn_Dimiaile_Wine.label>
+  <NTR_AR_MealFine.label>создать изысканная еда Ариэль x10</NTR_AR_MealFine.label>
+  <NTR_AR_MealFine_Meat.label>создать изысканная мясная еда Ариэль x10</NTR_AR_MealFine_Meat.label>
+  <NTR_AR_MealFine_Veg.label>создать изысканная еда Ариэль x10</NTR_AR_MealFine_Veg.label>
+  <NTR_AR_MealLavish.label>роскошная еда Ариэль x10</NTR_AR_MealLavish.label>
+  <NTR_AR_MealLavish_Meat.label>роскошная мясная еда Ариэль x10</NTR_AR_MealLavish_Meat.label>
+  <NTR_AR_MealLavish_Veg.label>роскошная овощная еда Ариэль x10</NTR_AR_MealLavish_Veg.label>
+  <NTR_AR_MealSimple.label>простая еда Ариэль x10</NTR_AR_MealSimple.label>
+  <NTR_AR_MealSurvivalPack.label>Ариэль Еда для выживания x10</NTR_AR_MealSurvivalPack.label>
+  <NTR_AR_MechSerumHealer.label>Фрагмент жизни (Целитель) x1</NTR_AR_MechSerumHealer.label>
+  <NTR_AR_MechSerumResurrector.label>Кристалл жизни (Воскреситель) x1</NTR_AR_MechSerumResurrector.label>
+  <NTR_AR_MedicineAdvance.label>Ариэль Передовая медицина x10</NTR_AR_MedicineAdvance.label>
+  <NTR_AR_MedicineBasic.label>Ариэль Базовая медицина x10</NTR_AR_MedicineBasic.label>
+  <NTR_AR_MeleeWeapon_Bayonet.label>Штык x1</NTR_AR_MeleeWeapon_Bayonet.label>
+  <NTR_AR_MeleeWeapon_Knife.label>Нож x1</NTR_AR_MeleeWeapon_Knife.label>
+  <NTR_AR_MeleeWeapon_Mace.label>Булава x1</NTR_AR_MeleeWeapon_Mace.label>
+  <NTR_AR_MeleeWeapon_Rapier.label>Рапира x1</NTR_AR_MeleeWeapon_Rapier.label>
+  <NTR_AR_NoPsiWine.label>создать вино пси-блока x10</NTR_AR_NoPsiWine.label>
+  <NTR_AR_OffensiveWine.label>LВино последней битвы x10</NTR_AR_OffensiveWine.label>
+  <NTR_AR_PenoxycyWine.label>Пеноксицилиновое вино x5</NTR_AR_PenoxycyWine.label>
+  <NTR_AR_PsiWine.label>Психическое вино x10</NTR_AR_PsiWine.label>
+  <NTR_AR_RawAkaBerry.label>Красная ягода x50</NTR_AR_RawAkaBerry.label>
+  <NTR_AR_RawBudou.label>Золотой виноград x50</NTR_AR_RawBudou.label>
+  <NTR_AR_RelaxWine.label>Вино для расслабления x10</NTR_AR_RelaxWine.label>
+  <NTR_AR_ResidualSoul.label>Остаток жизни x10</NTR_AR_ResidualSoul.label>
+  <NTR_AR_SGbelt.label>Пояс для дымовых гранат x1</NTR_AR_SGbelt.label>
+  <NTR_AR_SocialWine.label>Социальное вино x5</NTR_AR_SocialWine.label>
+  <NTR_AR_VictoryWine.label>Вино Победы x5</NTR_AR_VictoryWine.label>
+  <NTR_AR_Vinleather.label>создать винкожа x50</NTR_AR_Vinleather.label>
+  <NTR_AR_Wine.label>Золотое вино x25</NTR_AR_Wine.label>
+  <NTR_AR_WineRaisin.label>Вино изюм x25</NTR_AR_WineRaisin.label>
+  <NTR_AR_WingWine.label>Капля ангела x5</NTR_AR_WingWine.label>
+  <NTR_AR_cloth.label>создать нить Ариэль x50</NTR_AR_cloth.label>
+  <NTR_AR_hospitalWine.label>Больничное вино x10</NTR_AR_hospitalWine.label>
+  <NTR_AR_incendiaryGrenadebelt.label>Пояс для зажигательных гранат x1</NTR_AR_incendiaryGrenadebelt.label>
+  <NTR_AR_shieldparts.label>Запасные части для щита x10</NTR_AR_shieldparts.label>
+  <NTR_AR_spaceWine.label>Вино Звездной пыли x5</NTR_AR_spaceWine.label>
+  <NTR_AR_synthemeat.label>Ягодное мясо x50</NTR_AR_synthemeat.label>
+  <NTR_AR_turretparts.label>TЗапасные части турели x10</NTR_AR_turretparts.label>
+  <NTR_AddictionRemover.label>Устранение зависимости x1</NTR_AddictionRemover.label>
+  <NTR_AdvancedComponent.label>продвинутые компоненты x10</NTR_AdvancedComponent.label>
+  <NTR_AerialAutocannon.label>Воздушная автопушка x1</NTR_AerialAutocannon.label>
+  <NTR_AgaveNectar.label>Нектар агавы x10</NTR_AgaveNectar.label>
+  <NTR_AgeReversingMechSerum.label>Механическая сыворотка, обращающая возраст</NTR_AgeReversingMechSerum.label>
+  <NTR_AmbrosiaDrug.label>амброзия</NTR_AmbrosiaDrug.label>
+  <NTR_AmbrosiaDrug_Batch.label>амброзия x25</NTR_AmbrosiaDrug_Batch.label>
+  <NTR_AmbrosiaFood.label>Амброзия x50</NTR_AmbrosiaFood.label>
+  <NTR_AmorphousHardDrive.label>Аморфное запоминающее устройство x1</NTR_AmorphousHardDrive.label>
+  <NTR_Anchovy.label>Анчоус x10</NTR_Anchovy.label>
+  <NTR_AncientBroadcaster.label>Древний радиовещатель x1</NTR_AncientBroadcaster.label>
+  <NTR_AnesthesiaPistol.label>Анестезиологический пистолет x1</NTR_AnesthesiaPistol.label>
+  <NTR_Angelfish.label>Анчоус x10</NTR_Angelfish.label>
+  <NTR_Anglerfish.label>Удильщик x10</NTR_Anglerfish.label>
+  <NTR_Apparel_AR_Amulet.label>Амулет AD x1</NTR_Apparel_AR_Amulet.label>
+  <NTR_Apparel_AR_MechlordHelmet.label>Командирский шлем A x1</NTR_Apparel_AR_MechlordHelmet.label>
+  <NTR_Apparel_AR_MechlordSuit.label>Командирский доспех A x1</NTR_Apparel_AR_MechlordSuit.label>
+  <NTR_Apparel_AdvanceTacticalHelmet.label>Тактический шлем улучшенный x1</NTR_Apparel_AdvanceTacticalHelmet.label>
+  <NTR_Apparel_DefensivePowerSkeleton.label>Защитный экзоскелетный блок x1</NTR_Apparel_DefensivePowerSkeleton.label>
+  <NTR_Apparel_DimiRa_HDR.label>Тяжелый бронекостюм AD x1</NTR_Apparel_DimiRa_HDR.label>
+  <NTR_Apparel_DimiRa_HELANG.label>Военный шлем AD x1</NTR_Apparel_DimiRa_HELANG.label>
+  <NTR_Apparel_DimiRa_HELT.label>Легкий шлем AD x1</NTR_Apparel_DimiRa_HELT.label>
+  <NTR_Apparel_DimiRa_MDAA.label>Боевое снаряжение AD x1</NTR_Apparel_DimiRa_MDAA.label>
+  <NTR_Apparel_DimiRa_MDAB.label>Бронированный костюм AD x1</NTR_Apparel_DimiRa_MDAB.label>
+  <NTR_Apparel_DimiRa_MDANG.label>Военная броня AD x1</NTR_Apparel_DimiRa_MDANG.label>
+  <NTR_Apparel_IVASuit.label>IVA костюм x1</NTR_Apparel_IVASuit.label>
+  <NTR_Apparel_UniformCap.label>Униформа Кепка x1</NTR_Apparel_UniformCap.label>
+  <NTR_Apparel_ZZspace_HELA.label>Космический шлем AD x1</NTR_Apparel_ZZspace_HELA.label>
+  <NTR_Apparel_ZZspace_MDAB.label>Космический костюм AD x1</NTR_Apparel_ZZspace_MDAB.label>
+  <NTR_Archite.label>Архитовая капсула x5</NTR_Archite.label>
+  <NTR_ArchotechExoticParticlesx10.label>экзотические Частицы x10</NTR_ArchotechExoticParticlesx10.label>
+  <NTR_ArchotechFragment.label>архотек Фрагменты x100</NTR_ArchotechFragment.label>
+  <NTR_ArchotechMechaniteCore.label>Ядро механитового дизассемблера</NTR_ArchotechMechaniteCore.label>
+  <NTR_Artifuscle.label>создать арти-мускул x25</NTR_Artifuscle.label>
+  <NTR_ArtifuscleMass.label>создать арти-мускул x100</NTR_ArtifuscleMass.label>
+  <NTR_AtlantGrenadeLauncher.label>Гранатомет Атлант x1</NTR_AtlantGrenadeLauncher.label>
+  <NTR_Attomachinery.label>создать аттомеханизмы x50</NTR_Attomachinery.label>
+  <NTR_BHD_Fentanyl.label>создать апач x10</NTR_BHD_Fentanyl.label>
+  <NTR_BHD_Meth.label>создать синее небо x10</NTR_BHD_Meth.label>
+  <NTR_BHD_Morphine.label>создать блаженство x10</NTR_BHD_Morphine.label>
+  <NTR_BabyFood.label>Детское питание x25</NTR_BabyFood.label>
+  <NTR_Barrel.label>Усиленный ствол x1</NTR_Barrel.label>
+  <NTR_BasicSubcore.label>Базовое подядро x5</NTR_BasicSubcore.label>
+  <NTR_BeautyImplant.label>имплант красоты</NTR_BeautyImplant.label>
+  <NTR_Beer.label>пиво x1</NTR_Beer.label>
+  <NTR_Beer_Batch.label>пиво x4</NTR_Beer_Batch.label>
+  <NTR_Bioferrite.label>Биоферрит x200</NTR_Bioferrite.label>
+  <NTR_BiomutationPulser.label>Биомутационный импульсный генератор x1</NTR_BiomutationPulser.label>
+  <NTR_BlackTruffles.label>создать черные трюфели x50</NTR_BlackTruffles.label>
+  <NTR_BlueGel.label>создать синий гель x50</NTR_BlueGel.label>
+  <NTR_Bow_Great.label>Большой лук</NTR_Bow_Great.label>
+  <NTR_Bow_Recurve.label>Изогнутый лук</NTR_Bow_Recurve.label>
+  <NTR_Bow_Short.label>короткий лук</NTR_Bow_Short.label>
+  <NTR_CE_FSX.label>создать FSX x50</NTR_CE_FSX.label>
+  <NTR_CE_Prometheum.label>создать прометиум x50</NTR_CE_Prometheum.label>
+  <NTR_CE_Psycho.label>создать психо x10</NTR_CE_Psycho.label>
+  <NTR_CannedEggs.label>консервированные Яйца x10</NTR_CannedEggs.label>
+  <NTR_CannedFish.label>Консервы рыбные x10</NTR_CannedFish.label>
+  <NTR_CannedFruit.label>Консервы фруктовые x10</NTR_CannedFruit.label>
+  <NTR_CannedMeat.label>Консервы мясные x10</NTR_CannedMeat.label>
+  <NTR_CannedProduce.label>Консервы x10</NTR_CannedProduce.label>
+  <NTR_Carbohydrate.label>Карбогидрат x50</NTR_Carbohydrate.label>
+  <NTR_CarbohydrateMass.label>Углеводы x200</NTR_CarbohydrateMass.label>
+  <NTR_Ceramics.label>Керамика x20</NTR_Ceramics.label>
+  <NTR_CeramicsMass.label>Керамика x80</NTR_CeramicsMass.label>
+  <NTR_Cheese.label>Сыр x10</NTR_Cheese.label>
+  <NTR_Chemfuel.label>химтопливо x100</NTR_Chemfuel.label>
+  <NTR_ChirashizushiBowlSimple.label>Чирасидзуси Чаша (простая) x10</NTR_ChirashizushiBowlSimple.label>
+  <NTR_ChocolateSyrup.label>Шоколадный сироп x10</NTR_ChocolateSyrup.label>
+  <NTR_CloningSerum.label>Механизм клонирования сыворотка</NTR_CloningSerum.label>
+  <NTR_Cloth.label>ткань x100</NTR_Cloth.label>
+  <NTR_Clownfish.label>Клоун x10</NTR_Clownfish.label>
+  <NTR_Component.label>компоненты x10</NTR_Component.label>
+  <NTR_ComponentGBEP.label>Платформа излучения гамма-излучения x1</NTR_ComponentGBEP.label>
+  <NTR_ComponentGBEPPack.label>Платформа излучения гамма-излучения x4</NTR_ComponentGBEPPack.label>
+  <NTR_ComponentSteam.label>создать паровое ядро x10</NTR_ComponentSteam.label>
+  <NTR_ContainerTransponder.label>Контейнерный транспондер x1</NTR_ContainerTransponder.label>
+  <NTR_CryogenicNexus.label>Криогенная связь x1</NTR_CryogenicNexus.label>
+  <NTR_Cyludapam.label>создать цилудапам x10</NTR_Cyludapam.label>
+  <NTR_DeepFriedFish.label>Жареная рыба во фритюре x10</NTR_DeepFriedFish.label>
+  <NTR_DeepFriedMeat.label>Жареное во фритюре мясо x10</NTR_DeepFriedMeat.label>
+  <NTR_DeepFriedVegetables.label>Овощи во фритюре x10</NTR_DeepFriedVegetables.label>
+  <NTR_Devilstrand.label>создать дьявольская нить x100</NTR_Devilstrand.label>
+  <NTR_Diamond.label>Алмазы x100</NTR_Diamond.label>
+  <NTR_DigestibleResurrectorNanites.label>Перевариваемые воскресительные наниты x10</NTR_DigestibleResurrectorNanites.label>
+  <NTR_Drug_Psilocap.label>создать псилоцибиновый гриб x1</NTR_Drug_Psilocap.label>
+  <NTR_Drug_Psilocap_Batch.label>создать псилоцибиновый гриб x4</NTR_Drug_Psilocap_Batch.label>
+  <NTR_Dye.label>краситель x50</NTR_Dye.label>
+  <NTR_EMPShell.label>ЭМИ снаряд x10</NTR_EMPShell.label>
+  <NTR_Eccentric_Deuterium.label>Эксцентрический дейтерий</NTR_Eccentric_Deuterium.label>
+  <NTR_Eccentric_Deuterium_Bulk.label>Эксцентрический дейтерий в массе x4</NTR_Eccentric_Deuterium_Bulk.label>
+  <NTR_Eccentric_Eccentric_Gun_E15CR.label>E15 зарядная винтовка</NTR_Eccentric_Eccentric_Gun_E15CR.label>
+  <NTR_Eccentric_Eccentric_Gun_E15CR_CGL2UB.label>E15 зарядная винтовка с зарядом CGL2</NTR_Eccentric_Eccentric_Gun_E15CR_CGL2UB.label>
+  <NTR_Eccentric_Eccentric_Gun_E15CR_TAGM.label>E15 с зарядной винтовкой TAGM</NTR_Eccentric_Eccentric_Gun_E15CR_TAGM.label>
+  <NTR_Eccentric_Eccentric_Gun_E16PR.label>E16 с высокоточной зарядной винтовкой</NTR_Eccentric_Eccentric_Gun_E16PR.label>
+  <NTR_Eccentric_Eccentric_Gun_E16PR_TAGM.label>E16 с высокоточным зарядом TAGM</NTR_Eccentric_Eccentric_Gun_E16PR_TAGM.label>
+  <NTR_Eccentric_Eccentric_Gun_E18DMR.label>E18 специализированная стрелковая винтовка</NTR_Eccentric_Eccentric_Gun_E18DMR.label>
+  <NTR_Eccentric_Eccentric_Gun_E21AMR.label>E21 Противоматериальная винтовка</NTR_Eccentric_Eccentric_Gun_E21AMR.label>
+  <NTR_Eccentric_Eccentric_Gun_E9C.label>E9C зарядный карабин</NTR_Eccentric_Eccentric_Gun_E9C.label>
+  <NTR_Eccentric_Eccentric_Gun_E9C_CGL2UB.label>E9C зарядный карабин с CGL2</NTR_Eccentric_Eccentric_Gun_E9C_CGL2UB.label>
+  <NTR_Eccentric_Eccentric_Gun_L20C.label>создать L20C ручной пулемет</NTR_Eccentric_Eccentric_Gun_L20C.label>
+  <NTR_Eccentric_Eccentric_Gun_M1CGL.label>CGL1 Гранатомет</NTR_Eccentric_Eccentric_Gun_M1CGL.label>
+  <NTR_Eccentric_Eccentric_Gun_M5CAW.label>создать CAW5 HEDP</NTR_Eccentric_Eccentric_Gun_M5CAW.label>
+  <NTR_Eccentric_Eccentric_Gun_P12PDW.label>создать P12 оружие самообороны</NTR_Eccentric_Eccentric_Gun_P12PDW.label>
+  <NTR_Eccentric_Eccentric_Gun_S8P.label>S8 зарядный пистолет</NTR_Eccentric_Eccentric_Gun_S8P.label>
+  <NTR_Eccentric_Eccentric_Rosethorn.label>M3 Розторн</NTR_Eccentric_Eccentric_Rosethorn.label>
+  <NTR_Eccentric_Helium.label>Эксцентрический объемный гелий</NTR_Eccentric_Helium.label>
+  <NTR_Eccentric_Helium_Bulk.label>Эксцентрический объемный гелий x4</NTR_Eccentric_Helium_Bulk.label>
+  <NTR_Eccentric_HexCell.label>Эксцентрический шестигранный элемент x5</NTR_Eccentric_HexCell.label>
+  <NTR_Eccentric_Nanoweave.label>Эксцентрический наноплетеный x100</NTR_Eccentric_Nanoweave.label>
+  <NTR_Eccentric_ReactorHullPlate.label>Эксцентрическая плита корпуса реактора</NTR_Eccentric_ReactorHullPlate.label>
+  <NTR_Eccentric_ReactorHullPlate_Bulk.label>Эксцентриковая плита корпуса реактора, объем x10</NTR_Eccentric_ReactorHullPlate_Bulk.label>
+  <NTR_Eccentric_TFGM.label>Эксцентрик TFGM</NTR_Eccentric_TFGM.label>
+  <NTR_Eccentric_TFGM_Bulk.label>Эксцентрик TFGM, объемный x10</NTR_Eccentric_TFGM_Bulk.label>
+  <NTR_Eccentric_Tritium.label>Эксцентрический тритий</NTR_Eccentric_Tritium.label>
+  <NTR_Eccentric_Tritium_Bulk.label>Эксцентрический объемный тритий x4</NTR_Eccentric_Tritium_Bulk.label>
+  <NTR_Eel.label>угорь x10</NTR_Eel.label>
+  <NTR_FacilityIntel.label>Информация о объекте x1</NTR_FacilityIntel.label>
+  <NTR_FeelGood.label>имплантат хорошего настроения</NTR_FeelGood.label>
+  <NTR_FineBake.label>Тонкая выпечка x10</NTR_FineBake.label>
+  <NTR_FineDessert.label>Изысканный десерт x10</NTR_FineDessert.label>
+  <NTR_FineGrill.label>создать изысканное блюдо на гриле x10</NTR_FineGrill.label>
+  <NTR_FineMeal.label>Изысканная еда x10</NTR_FineMeal.label>
+  <NTR_FineSoup.label>Изысканный суп x10</NTR_FineSoup.label>
+  <NTR_FineStew.label>Отличное тушеное мясо x10</NTR_FineStew.label>
+  <NTR_FireControlSystem.label>Система управления огнем x1</NTR_FireControlSystem.label>
+  <NTR_Firefoam.label>Огнеупорный снаряд x10</NTR_Firefoam.label>
+  <NTR_Fish_Bass.label>окунь x50</NTR_Fish_Bass.label>
+  <NTR_Fish_Bluefish.label>луфарь x50</NTR_Fish_Bluefish.label>
+  <NTR_Fish_Catfish.label>Сом x50</NTR_Fish_Catfish.label>
+  <NTR_Fish_Cod.label>треска x50</NTR_Fish_Cod.label>
+  <NTR_Fish_Dogfish.label>Собака x50</NTR_Fish_Dogfish.label>
+  <NTR_Fish_Flounder.label>камбала x50</NTR_Fish_Flounder.label>
+  <NTR_Fish_Frostfish.label>морозная рыба x50</NTR_Fish_Frostfish.label>
+  <NTR_Fish_Guppy.label>Гуппи x50</NTR_Fish_Guppy.label>
+  <NTR_Fish_Marlin.label>Марлин x50</NTR_Fish_Marlin.label>
+  <NTR_Fish_Piranha.label>Пиранья x50</NTR_Fish_Piranha.label>
+  <NTR_Fish_Salmon.label>лосось x50</NTR_Fish_Salmon.label>
+  <NTR_Fish_Tilapia.label>Tилапия x50</NTR_Fish_Tilapia.label>
+  <NTR_Fish_Toxfish.label>токсорыба x50</NTR_Fish_Toxfish.label>
+  <NTR_Fish_Tuna.label>тунец x50</NTR_Fish_Tuna.label>
+  <NTR_Flake.label>хлопья x1</NTR_Flake.label>
+  <NTR_Flake_Batch.label>хлопья x4</NTR_Flake_Batch.label>
+  <NTR_Flamebow.label>Огненный лук</NTR_Flamebow.label>
+  <NTR_FleshBreaker.label>создать разрыватель плоти x5</NTR_FleshBreaker.label>
+  <NTR_Flour.label>мука x10</NTR_Flour.label>
+  <NTR_Flux.label>поток x10</NTR_Flux.label>
+  <NTR_FutomakiLavish.label>Футомаки (роскошная) x10</NTR_FutomakiLavish.label>
+  <NTR_GammaSerum.label>Гамма-сыворотка x3</NTR_GammaSerum.label>
+  <NTR_GauranlenSeed.label>создать гауранленовое семя x1</NTR_GauranlenSeed.label>
+  <NTR_GhoulResurrectionSerum.label>Сыворотка воскрешения гуля x5</NTR_GhoulResurrectionSerum.label>
+  <NTR_Glittercore.label>создать глиттер-ядро x5</NTR_Glittercore.label>
+  <NTR_Glitterheart.label>создать глиттер-сердце x1</NTR_Glitterheart.label>
+  <NTR_Glitterlink.label>создать глиттер-связь x1</NTR_Glitterlink.label>
+  <NTR_GlitterworldMedicine.label>Медицина сверкающих миров x10</NTR_GlitterworldMedicine.label>
+  <NTR_GoJuice.label>го-сок x1</NTR_GoJuice.label>
+  <NTR_GoJuice_Batch.label>го-сок x4</NTR_GoJuice_Batch.label>
+  <NTR_Gold.label>золото x100</NTR_Gold.label>
+  <NTR_GoldenCube.label>Золотой куб x1</NTR_GoldenCube.label>
+  <NTR_GoldenSkinReplacement.label>Замена золотой кожи x1</NTR_GoldenSkinReplacement.label>
+  <NTR_GoldenTeethReplacement.label>Замена золотых зубов x1</NTR_GoldenTeethReplacement.label>
+  <NTR_Goldfish.label>Золотая рыбка x10</NTR_Goldfish.label>
+  <NTR_GourmetBake.label>Выпечка для гурманов x10</NTR_GourmetBake.label>
+  <NTR_GourmetDessert.label>Десерт для гурманов x10</NTR_GourmetDessert.label>
+  <NTR_GourmetGrill.label>создать гурманское блюдо на гриле x10</NTR_GourmetGrill.label>
+  <NTR_GourmetMeal.label>Изысканное блюдо x10</NTR_GourmetMeal.label>
+  <NTR_GourmetSoup.label>Изысканный суп x10</NTR_GourmetSoup.label>
+  <NTR_Granite.label>Гранитные блоки x100</NTR_Granite.label>
+  <NTR_Graphene.label>Графен x20</NTR_Graphene.label>
+  <NTR_GrapheneMass.label>Графен x80</NTR_GrapheneMass.label>
+  <NTR_Gravcore.label>создать гравиядро x1</NTR_Gravcore.label>
+  <NTR_GravlitePanel.label>создать гравлайт-панель x10</NTR_GravlitePanel.label>
+  <NTR_Gsh30Gatlinggun.label>Gsh30-6 "Флоггер" x1</NTR_Gsh30Gatlinggun.label>
+  <NTR_Gun_APS.label>APS Подводная винтовка x1</NTR_Gun_APS.label>
+  <NTR_Gun_AR_ATBRifle.label>Противотанковая винтовка x1</NTR_Gun_AR_ATBRifle.label>
+  <NTR_Gun_AR_ATRifle.label>Противотанковая винтовка x1</NTR_Gun_AR_ATRifle.label>
+  <NTR_Gun_AR_AssaultRifleDMR.label>Стрелковая винтовка x1</NTR_Gun_AR_AssaultRifleDMR.label>
+  <NTR_Gun_AR_AssaultRifleGL.label>Штурмовая винтовка (GL) x1</NTR_Gun_AR_AssaultRifleGL.label>
+  <NTR_Gun_AR_AutoRevolver.label>Автоматический револьвер x1</NTR_Gun_AR_AutoRevolver.label>
+  <NTR_Gun_AR_Autopistol.label>Тяжелый пистолет x1</NTR_Gun_AR_Autopistol.label>
+  <NTR_Gun_AR_AutopistolB.label>Пистолет с переключателем x1</NTR_Gun_AR_AutopistolB.label>
+  <NTR_Gun_AR_AutopistolS.label>Компактный пистолет x1</NTR_Gun_AR_AutopistolS.label>
+  <NTR_Gun_AR_AutopistolSSV.label>Платиновый компактный пистолет x1</NTR_Gun_AR_AutopistolSSV.label>
+  <NTR_Gun_AR_BoltActionRifle.label>Пехотная винтовка x1</NTR_Gun_AR_BoltActionRifle.label>
+  <NTR_Gun_AR_BoltActionRifleBY.label>Пехотная винтовка (штык) x1</NTR_Gun_AR_BoltActionRifleBY.label>
+  <NTR_Gun_AR_BoltActionRifleGR.label>Пехотная винтовка (граната) x1</NTR_Gun_AR_BoltActionRifleGR.label>
+  <NTR_Gun_AR_ChainShotgun.label>Автоматический дробовик x1</NTR_Gun_AR_ChainShotgun.label>
+  <NTR_Gun_AR_ChainShotgunBY.label>Автоматический дробовик (штык) x1</NTR_Gun_AR_ChainShotgunBY.label>
+  <NTR_Gun_AR_HeavySMG.label>Тяжелый ПП x1</NTR_Gun_AR_HeavySMG.label>
+  <NTR_Gun_AR_HeavySMGB.label>Короткий ПП x1</NTR_Gun_AR_HeavySMGB.label>
+  <NTR_Gun_AR_LMG.label>С водяным охлаждением ручной пулемет x1</NTR_Gun_AR_LMG.label>
+  <NTR_Gun_AR_LMGBB.label>С воздушным охлаждением ручной пулемет x1</NTR_Gun_AR_LMGBB.label>
+  <NTR_Gun_AR_LMGCC.label>Ручной пулемет x1</NTR_Gun_AR_LMGCC.label>
+  <NTR_Gun_AR_MachineCarbine.label>Карабин-автомат x1</NTR_Gun_AR_MachineCarbine.label>
+  <NTR_Gun_AR_MachineCarbineII.label>Карабин-автомат (легкий) x1</NTR_Gun_AR_MachineCarbineII.label>
+  <NTR_Gun_AR_MachinePistol.label>Пистолет-пулемет x1</NTR_Gun_AR_MachinePistol.label>
+  <NTR_Gun_AR_MachinePistolB.label>Пистолет-пулемет x1</NTR_Gun_AR_MachinePistolB.label>
+  <NTR_Gun_AR_MachinePistolBBY.label>Пистолет-пулемет (штык) x1</NTR_Gun_AR_MachinePistolBBY.label>
+  <NTR_Gun_AR_MachinePistolSV.label>Платиновый пистолет-пулемет x1</NTR_Gun_AR_MachinePistolSV.label>
+  <NTR_Gun_AR_Militarypistol.label>Военный пистолет x1</NTR_Gun_AR_Militarypistol.label>
+  <NTR_Gun_AR_MilitarypistolB.label>Военный пистолет x1</NTR_Gun_AR_MilitarypistolB.label>
+  <NTR_Gun_AR_Musket.label>Мушкет x1</NTR_Gun_AR_Musket.label>
+  <NTR_Gun_AR_Revolver.label>Револьвер x1</NTR_Gun_AR_Revolver.label>
+  <NTR_Gun_AR_RevolverSV.label>Платиновый револьвер x1</NTR_Gun_AR_RevolverSV.label>
+  <NTR_Gun_AR_SemiAutomaticCarbine.label>Полуавтоматический карабин x1</NTR_Gun_AR_SemiAutomaticCarbine.label>
+  <NTR_Gun_AR_SemiAutomaticCarbineB.label>Полуавтоматический карабин (легкий) x1</NTR_Gun_AR_SemiAutomaticCarbineB.label>
+  <NTR_Gun_AR_SemiAutomaticRifle.label>Полуавтоматическая винтовка x1</NTR_Gun_AR_SemiAutomaticRifle.label>
+  <NTR_Gun_AR_SemiAutomaticRifleBY.label>Полуавтоматическая винтовка (штык) x1</NTR_Gun_AR_SemiAutomaticRifleBY.label>
+  <NTR_Gun_AR_SilentRifle.label>Бесшумная винтовка x1</NTR_Gun_AR_SilentRifle.label>
+  <NTR_Gun_AR_SniperRifle.label>Снайперская винтовка x1</NTR_Gun_AR_SniperRifle.label>
+  <NTR_Gun_AssaultRifle.label>Штурмовая винтовка</NTR_Gun_AssaultRifle.label>
+  <NTR_Gun_Autopistol.label>Автопистолет</NTR_Gun_Autopistol.label>
+  <NTR_Gun_BeamRepeater.label>Повторитель луча</NTR_Gun_BeamRepeater.label>
+  <NTR_Gun_BoltActionRifle.label>Винтовка с продольно-скользящим затвором</NTR_Gun_BoltActionRifle.label>
+  <NTR_Gun_ChainShotgun.label>Цепь Дробовик</NTR_Gun_ChainShotgun.label>
+  <NTR_Gun_ChargeLance.label>Заряженное копье</NTR_Gun_ChargeLance.label>
+  <NTR_Gun_ChargeRifle.label>Зарядная винтовка</NTR_Gun_ChargeRifle.label>
+  <NTR_Gun_DoomsdayRocket.label>Ракетная установка «Судный день»</NTR_Gun_DoomsdayRocket.label>
+  <NTR_Gun_EmpLauncher.label>ЭМИ-пусковая установка</NTR_Gun_EmpLauncher.label>
+  <NTR_Gun_HCC.label>Гибридный боевой коготь x1</NTR_Gun_HCC.label>
+  <NTR_Gun_HeavySMG.label>Тяжелый ПП</NTR_Gun_HeavySMG.label>
+  <NTR_Gun_HellcatRifle.label>Адская винтовка</NTR_Gun_HellcatRifle.label>
+  <NTR_Gun_IncendiaryLauncher.label>Зажигательная установка</NTR_Gun_IncendiaryLauncher.label>
+  <NTR_Gun_Incinerator.label>Мусоросжигательный завод</NTR_Gun_Incinerator.label>
+  <NTR_Gun_JusticeGavel.label>2A46M "Молоток правосудия" x1</NTR_Gun_JusticeGavel.label>
+  <NTR_Gun_LMG.label>создать ручной пулемет</NTR_Gun_LMG.label>
+  <NTR_Gun_LaserGun.label>LY-10 Тяжелый лазер x1</NTR_Gun_LaserGun.label>
+  <NTR_Gun_MachinePistol.label>Пистолет-пулемет</NTR_Gun_MachinePistol.label>
+  <NTR_Gun_Minigun.label>Миниган</NTR_Gun_Minigun.label>
+  <NTR_Gun_PumpShotgun.label>Помповое ружье</NTR_Gun_PumpShotgun.label>
+  <NTR_Gun_Revolver.label>Револьвер</NTR_Gun_Revolver.label>
+  <NTR_Gun_SmokeLauncher.label>Дымовая установка</NTR_Gun_SmokeLauncher.label>
+  <NTR_Gun_SniperRifle.label>Снайперская винтовка</NTR_Gun_SniperRifle.label>
+  <NTR_Gun_ToxbombLauncher.label>Пусковая установка для токсичных бомб</NTR_Gun_ToxbombLauncher.label>
+  <NTR_Gun_TripleRocket.label>Тройная ракета Пусковая установка</NTR_Gun_TripleRocket.label>
+  <NTR_GunkanmakiGourmet.label>Гунканмаки (изысканная) x10</NTR_GunkanmakiGourmet.label>
+  <NTR_Haddock.label>Пикша x10</NTR_Haddock.label>
+  <NTR_Halibut.label>Палтус x10</NTR_Halibut.label>
+  <NTR_Hay.label>сено x50</NTR_Hay.label>
+  <NTR_Hemogen.label>Пакет гемогена x10</NTR_Hemogen.label>
+  <NTR_HermesImplant.label>имплант Гермеса</NTR_HermesImplant.label>
+  <NTR_Herring.label>Сельдь x10</NTR_Herring.label>
+  <NTR_Hexagel.label>Гексагель x50</NTR_Hexagel.label>
+  <NTR_HighExplosiveShell.label>Осколочно-фугасный снаряд x10</NTR_HighExplosiveShell.label>
+  <NTR_HullFoamx25.label>Канистра из пенопласта x25</NTR_HullFoamx25.label>
+  <NTR_HumanSurimi.label>Человеческие сурими x10</NTR_HumanSurimi.label>
+  <NTR_Hyperweave.label>гиперткань x100</NTR_Hyperweave.label>
+  <NTR_Hypomorphone.label>гипоморфон x10</NTR_Hypomorphone.label>
+  <NTR_IncendiaryShell.label>Зажигательный снаряд x10</NTR_IncendiaryShell.label>
+  <NTR_InsectJellyPreserves.label>Желеобразные консервы из насекомых x10</NTR_InsectJellyPreserves.label>
+  <NTR_IsolinearModule.label>Изолинейный вычислительный модуль</NTR_IsolinearModule.label>
+  <NTR_IsolinearProcessor.label>Изолинейный процессор</NTR_IsolinearProcessor.label>
+  <NTR_Jade.label>нефрит x100</NTR_Jade.label>
+  <NTR_JuggernautSerum.label>Сыворотка Джаггернаута x5</NTR_JuggernautSerum.label>
+  <NTR_KS23K.label>TУла боевой дробовик x1</NTR_KS23K.label>
+  <NTR_Kibble.label>корм x100</NTR_Kibble.label>
+  <NTR_Kit_Electronic.label>Ремонтный комплект для электроники x1</NTR_Kit_Electronic.label>
+  <NTR_Kit_ElectronicMass.label>Ремонтный комплект для электроники x4</NTR_Kit_ElectronicMass.label>
+  <NTR_Kit_Mechanic.label>Комплект для ремонта механики x1</NTR_Kit_Mechanic.label>
+  <NTR_Kit_MechanicMass.label>Ремкомплект механика x4</NTR_Kit_MechanicMass.label>
+  <NTR_Koi.label>Кои x10</NTR_Koi.label>
+  <NTR_KordMachineGun.label>Корд Пулемет x1</NTR_KordMachineGun.label>
+  <NTR_LavishBake.label>LВыпечка x10</NTR_LavishBake.label>
+  <NTR_LavishDessert.label>Щедрый десерт x10</NTR_LavishDessert.label>
+  <NTR_LavishGrill.label>создать роскошное блюдо на гриле x10</NTR_LavishGrill.label>
+  <NTR_LavishMeal.label>LОбильная еда x10</NTR_LavishMeal.label>
+  <NTR_LavishSoup.label>Обильный суп x10</NTR_LavishSoup.label>
+  <NTR_LavishStew.label>Обильное рагу x10</NTR_LavishStew.label>
+  <NTR_Limestone.label>LИзвестняковые блоки x100</NTR_Limestone.label>
+  <NTR_Lobster.label>LОмар x10</NTR_Lobster.label>
+  <NTR_Luciferium.label>люцифериум</NTR_Luciferium.label>
+  <NTR_Luciferium_Batch.label>люцифериум x10</NTR_Luciferium_Batch.label>
+  <NTR_MF_MealFine_Meat_x10.label>Изысканный рацион (мясо) x10</NTR_MF_MealFine_Meat_x10.label>
+  <NTR_MF_MealFine_Veg_x10.label>Изысканный рацион (овощи) x10</NTR_MF_MealFine_Veg_x10.label>
+  <NTR_MF_MealFine_x10.label>Хороший рацион x10</NTR_MF_MealFine_x10.label>
+  <NTR_MF_MealLavish_Meat_x10.label>Обильный рацион (Мясо) x10</NTR_MF_MealLavish_Meat_x10.label>
+  <NTR_MF_MealLavish_Veg_x10.label>LОбильный рацион (овощи) x10</NTR_MF_MealLavish_Veg_x10.label>
+  <NTR_MF_MealLavish_x10.label>LЩедрый рацион x10</NTR_MF_MealLavish_x10.label>
+  <NTR_MF_MealSurvivalPackTypeII_x10.label>Боевой рацион x10</NTR_MF_MealSurvivalPackTypeII_x10.label>
+  <NTR_MF_MealSurvivalPackTypeIM_x50.label>Мясные консервы x50</NTR_MF_MealSurvivalPackTypeIM_x50.label>
+  <NTR_MF_MealSurvivalPackTypeIV_x50.label>Консервы Овощи x50</NTR_MF_MealSurvivalPackTypeIV_x50.label>
+  <NTR_MF_Synthsweets_x10.label>Синтезированные сладости x10</NTR_MF_Synthsweets_x10.label>
+  <NTR_MF_Tabako_x10.label>Синтетический табак x10</NTR_MF_Tabako_x10.label>
+  <NTR_MF_energydrink_x10.label>Энергетические напитки x10</NTR_MF_energydrink_x10.label>
+  <NTR_MF_packTea_x10.label>Чай пакетированный x10</NTR_MF_packTea_x10.label>
+  <NTR_MF_synthemeat_x50.label>Синтемеат x50</NTR_MF_synthemeat_x50.label>
+  <NTR_MP_Apparel_PlagueBandolier.label>Чумной патронташ</NTR_MP_Apparel_PlagueBandolier.label>
+  <NTR_MP_GuardianMechanites.label>Механиты-стражи x10</NTR_MP_GuardianMechanites.label>
+  <NTR_MP_Gun_ChaosRocket.label>Хаос-пусковая установка</NTR_MP_Gun_ChaosRocket.label>
+  <NTR_MP_Gun_MechaniteBlowpipe.label>Механитовая трубка</NTR_MP_Gun_MechaniteBlowpipe.label>
+  <NTR_MP_Gun_MechaniteCompact.label>создать чумная техника компакт</NTR_MP_Gun_MechaniteCompact.label>
+  <NTR_MP_Gun_MechaniteCyclone.label>создать чумная техника циклон</NTR_MP_Gun_MechaniteCyclone.label>
+  <NTR_MP_Gun_MechaniteDarter.label>Механитовый дротик</NTR_MP_Gun_MechaniteDarter.label>
+  <NTR_MP_Gun_MechaniteSlugger.label>создать чумная техника слаггер</NTR_MP_Gun_MechaniteSlugger.label>
+  <NTR_MP_Gun_MechaniteStinger.label>Механит Стингер</NTR_MP_Gun_MechaniteStinger.label>
+  <NTR_MP_Gun_MechaniteTempest.label>Механитовая буря</NTR_MP_Gun_MechaniteTempest.label>
+  <NTR_MP_MechaniteCanister.label>Механитовая канистра x10</NTR_MP_MechaniteCanister.label>
+  <NTR_MP_MeleeWeapon_PlagueChainsword.label>Цепной клинок Чумной технологии</NTR_MP_MeleeWeapon_PlagueChainsword.label>
+  <NTR_MP_MeleeWeapon_PlagueClaw.label>Чумной коготь</NTR_MP_MeleeWeapon_PlagueClaw.label>
+  <NTR_MP_MeleeWeapon_PlagueFang.label>Чумной клык</NTR_MP_MeleeWeapon_PlagueFang.label>
+  <NTR_MP_MeleeWeapon_PlagueNeedle.label>чумная Игла</NTR_MP_MeleeWeapon_PlagueNeedle.label>
+  <NTR_MP_ReanimatorMechanites.label>Механиты-реаниматоры</NTR_MP_ReanimatorMechanites.label>
+  <NTR_MP_Shell_Chaos.label>Хаосовый панцирь x10</NTR_MP_Shell_Chaos.label>
+  <NTR_MP_Shell_Plague.label>Чумной шрапнельный панцирь x10</NTR_MP_Shell_Plague.label>
+  <NTR_MP_StimulantMechanites.label>Стимулирующие механиты x10</NTR_MP_StimulantMechanites.label>
+  <NTR_Mackerel.label>Скумбрия x10</NTR_Mackerel.label>
+  <NTR_Marble.label>Мраморные блоки x100</NTR_Marble.label>
+  <NTR_Mayo.label>Майо x10</NTR_Mayo.label>
+  <NTR_MeatFineMeal.label>Изысканная еда из плотоядных животных x10</NTR_MeatFineMeal.label>
+  <NTR_MeatLavishMeal.label>Общественная вегетарианская еда x10</NTR_MeatLavishMeal.label>
+  <NTR_MechOverlordImplant.label>имплант повелителя механоидов</NTR_MechOverlordImplant.label>
+  <NTR_MechSerumYouth.label>Сыворотка молодости</NTR_MechSerumYouth.label>
+  <NTR_Mechlink.label>Мехлинк x1</NTR_Mechlink.label>
+  <NTR_Medicine.label>Медицина x10</NTR_Medicine.label>
+  <NTR_MedicineHerbal.label>Фитотерапия x10</NTR_MedicineHerbal.label>
+  <NTR_MeleeWeapon_Axe.label>топор</NTR_MeleeWeapon_Axe.label>
+  <NTR_MeleeWeapon_BreachAxe.label>штурмовой Топор</NTR_MeleeWeapon_BreachAxe.label>
+  <NTR_MeleeWeapon_Club.label>дубинка</NTR_MeleeWeapon_Club.label>
+  <NTR_MeleeWeapon_Gladius.label>Гладиус</NTR_MeleeWeapon_Gladius.label>
+  <NTR_MeleeWeapon_Ikwa.label>иква</NTR_MeleeWeapon_Ikwa.label>
+  <NTR_MeleeWeapon_Knife.label>Нож</NTR_MeleeWeapon_Knife.label>
+  <NTR_MeleeWeapon_LongSword.label>Длинный меч</NTR_MeleeWeapon_LongSword.label>
+  <NTR_MeleeWeapon_Mace.label>Булава</NTR_MeleeWeapon_Mace.label>
+  <NTR_MeleeWeapon_MonoSword.label>Мономеч</NTR_MeleeWeapon_MonoSword.label>
+  <NTR_MeleeWeapon_MonoSwordBladelink.label>Персона Мономеч</NTR_MeleeWeapon_MonoSwordBladelink.label>
+  <NTR_MeleeWeapon_PlasmaSword.label>Плазменный меч</NTR_MeleeWeapon_PlasmaSword.label>
+  <NTR_MeleeWeapon_PlasmaSwordBladelink.label>Персона Плазменный меч</NTR_MeleeWeapon_PlasmaSwordBladelink.label>
+  <NTR_MeleeWeapon_PsyfocusStaff.label>элтекс Посох</NTR_MeleeWeapon_PsyfocusStaff.label>
+  <NTR_MeleeWeapon_Spear.label>Копье</NTR_MeleeWeapon_Spear.label>
+  <NTR_MeleeWeapon_Warhammer.label>боевой молот</NTR_MeleeWeapon_Warhammer.label>
+  <NTR_MeleeWeapon_ZeusHammerBladelink.label>Персона молот Зевса</NTR_MeleeWeapon_ZeusHammerBladelink.label>
+  <NTR_MeleeWeapon_Zeushammer.label>молот Зевса</NTR_MeleeWeapon_Zeushammer.label>
+  <NTR_MemoryCellEmpty.label>Ячейка памяти (пустая) x2</NTR_MemoryCellEmpty.label>
+  <NTR_MemoryCellNegative.label>Ячейка памяти (отрицательная) x1</NTR_MemoryCellNegative.label>
+  <NTR_MemoryCellPositive.label>Ячейка памяти (положительная) x1</NTR_MemoryCellPositive.label>
+  <NTR_MemoryProjector.label>Проектор памяти x1</NTR_MemoryProjector.label>
+  <NTR_MetalbloodSerum.label>Металлическая сыворотка крови x5</NTR_MetalbloodSerum.label>
+  <NTR_MindNumbSerum.label>Сыворотка отупения ума x5</NTR_MindNumbSerum.label>
+  <NTR_Minnow.label>создать малек x10</NTR_Minnow.label>
+  <NTR_Modular_C95BP_Pistol.label>Безгильзовый автоматический пистолет x1</NTR_Modular_C95BP_Pistol.label>
+  <NTR_Modular_C95_Pistol.label>Бескорпусный пистолет x1</NTR_Modular_C95_Pistol.label>
+  <NTR_Modular_LMG.label>Безгильзовый легкий пулемет x1</NTR_Modular_LMG.label>
+  <NTR_Modular_PDW.label>безгильзовое защитное огнестрельное оружие x1</NTR_Modular_PDW.label>
+  <NTR_NBI.label>Имплантат нулевого прикуса</NTR_NBI.label>
+  <NTR_NTAnimals.label>нейротренер (Животные)</NTR_NTAnimals.label>
+  <NTR_NTArtistic.label>нейротренер (Художественное искусство)</NTR_NTArtistic.label>
+  <NTR_NTConstruction.label>нейротренер (Строительство)</NTR_NTConstruction.label>
+  <NTR_NTCooking.label>Тренер навыков (кулинария)</NTR_NTCooking.label>
+  <NTR_NTCrafting.label>Тренер навыков (Ремесло)</NTR_NTCrafting.label>
+  <NTR_NTIntellectual.label>Тренер навыков (интеллектуальный)</NTR_NTIntellectual.label>
+  <NTR_NTMedicine.label>Тренер навыков (медицина)</NTR_NTMedicine.label>
+  <NTR_NTMelee.label>Тренер навыков (рукопашный бой)</NTR_NTMelee.label>
+  <NTR_NTMining.label>нейротренер (Горное дело)</NTR_NTMining.label>
+  <NTR_NTPlants.label>нейротренер (Растения)</NTR_NTPlants.label>
+  <NTR_NTShooting.label>нейротренер (Стрельба)</NTR_NTShooting.label>
+  <NTR_NTSocial.label>нейротренер (Социальный)</NTR_NTSocial.label>
+  <NTR_NanoMeal.label>наноблюдо x10</NTR_NanoMeal.label>
+  <NTR_NanoMedicine.label>Наномедицина x10</NTR_NanoMedicine.label>
+  <NTR_NanoSerum.label>наносыворотка</NTR_NanoSerum.label>
+  <NTR_NanoWarhead.label>Нанобоеголовка x1</NTR_NanoWarhead.label>
+  <NTR_Nanoblaster.label>нанобластер</NTR_Nanoblaster.label>
+  <NTR_Nanobots.label>наноботы x10</NTR_Nanobots.label>
+  <NTR_NanobotsBatch.label>наноботы x200</NTR_NanobotsBatch.label>
+  <NTR_Nanolance.label>нанокопье</NTR_Nanolance.label>
+  <NTR_Nanomachinery.label>наномеханизмы x50</NTR_Nanomachinery.label>
+  <NTR_Nanominigun.label>наноминиган</NTR_Nanominigun.label>
+  <NTR_Nanorice.label>создать наноягода x100</NTR_Nanorice.label>
+  <NTR_Nanoshotgun.label>нанодробовик</NTR_Nanoshotgun.label>
+  <NTR_Nanosniper.label>наноснайперка</NTR_Nanosniper.label>
+  <NTR_Nanostick.label>нанопосох</NTR_Nanostick.label>
+  <NTR_NanostructuringChip.label>Наноструктурирующий чип x1</NTR_NanostructuringChip.label>
+  <NTR_Nanostunner.label>наноанестезирующий снайпер</NTR_Nanostunner.label>
+  <NTR_Nanosurge.label>нановсплеск</NTR_Nanosurge.label>
+  <NTR_Nanosword.label>Наномеч</NTR_Nanosword.label>
+  <NTR_NerveSpiker.label>Нервный спайкер</NTR_NerveSpiker.label>
+  <NTR_Neutroamine.label>Нейтроамин x10</NTR_Neutroamine.label>
+  <NTR_NightMilk.label>создать ночное молоко x50</NTR_NightMilk.label>
+  <NTR_NigiriFine.label>Нигири (изящная) x10</NTR_NigiriFine.label>
+  <NTR_NorimakiSimple.label>Норимаки (простой) x10</NTR_NorimakiSimple.label>
+  <NTR_Obsidian.label>Обсидиан x25</NTR_Obsidian.label>
+  <NTR_OmniTrainer.label>омнитренер</NTR_OmniTrainer.label>
+  <NTR_OrbitalBeam.label>Орбитальный прицел с силовым лучом x1</NTR_OrbitalBeam.label>
+  <NTR_OrbitalBombardment.label>Орбитальная бомбардировка целеуказателем x1</NTR_OrbitalBombardment.label>
+  <NTR_OshizushiGourmet.label>Осидзуши (гурман) x10</NTR_OshizushiGourmet.label>
+  <NTR_PKM.label>Пулемет Михаила x1</NTR_PKM.label>
+  <NTR_Pemmican.label>Пеммикан x100</NTR_Pemmican.label>
+  <NTR_Penoxycyline.label>Пеноксицилин x1</NTR_Penoxycyline.label>
+  <NTR_Penoxycyline_Batch.label>Пеноксицилин x4</NTR_Penoxycyline_Batch.label>
+  <NTR_Perch.label>Окунь x10</NTR_Perch.label>
+  <NTR_PersonaCore.label>ИИ-персона-ядро x1</NTR_PersonaCore.label>
+  <NTR_PhilosophersStone.label>Философский камень x1</NTR_PhilosophersStone.label>
+  <NTR_Picomachinery.label>создать пикомеханизмы x50</NTR_Picomachinery.label>
+  <NTR_Pila.label>Пила</NTR_Pila.label>
+  <NTR_Plasfiber.label>Плазволокно x20</NTR_Plasfiber.label>
+  <NTR_PlasfiberMass.label>Плазафибра x80</NTR_PlasfiberMass.label>
+  <NTR_Plasteel.label>Пласталь x100</NTR_Plasteel.label>
+  <NTR_PlasteelSkinReplacement.label>Замена пластиковой кожи x1</NTR_PlasteelSkinReplacement.label>
+  <NTR_PlasteelTeethReplacement.label>пласталь замена зубов x1</NTR_PlasteelTeethReplacement.label>
+  <NTR_Polyester.label>Полиэстер x50</NTR_Polyester.label>
+  <NTR_PolyesterMass.label>Полиэстер x200</NTR_PolyesterMass.label>
+  <NTR_PowerfocusChip.label>Чип силовой фокус x1</NTR_PowerfocusChip.label>
+  <NTR_ProcessorCore.label>Ядро процессора x1</NTR_ProcessorCore.label>
+  <NTR_PsychicAnimal.label>Пульсер психического животного x1</NTR_PsychicAnimal.label>
+  <NTR_PsychicSoother.label>Пульсер психического успокоения x1</NTR_PsychicSoother.label>
+  <NTR_PsychiteTea.label>Психитовый чай x1</NTR_PsychiteTea.label>
+  <NTR_PsychiteTea_Batch.label>Психитовый чай x4</NTR_PsychiteTea_Batch.label>
+  <NTR_PsykerImplant.label>имплант псайкера</NTR_PsykerImplant.label>
+  <NTR_Psylink.label>нейроформер пси-связи x1</NTR_Psylink.label>
+  <NTR_Psytrainer_Beckon.label>пситренер (Призыв)</NTR_Psytrainer_Beckon.label>
+  <NTR_Psytrainer_Berserk.label>пситренер (Берсерк)</NTR_Psytrainer_Berserk.label>
+  <NTR_Psytrainer_BerserkPulse.label>пситренер (Пульс берсерка)</NTR_Psytrainer_BerserkPulse.label>
+  <NTR_Psytrainer_BlindingPulse.label>пситренер (Слепящий импульс)</NTR_Psytrainer_BlindingPulse.label>
+  <NTR_Psytrainer_Bolt.label>пситренер (Болт)</NTR_Psytrainer_Bolt.label>
+  <NTR_Psytrainer_BulletShield.label>пситренер (Пулевой щит)</NTR_Psytrainer_BulletShield.label>
+  <NTR_Psytrainer_Burden.label>пситренер (Бремя)</NTR_Psytrainer_Burden.label>
+  <NTR_Psytrainer_ChaosSkip.label>пситренер (Пропуск хаоса)</NTR_Psytrainer_ChaosSkip.label>
+  <NTR_Psytrainer_Chunkskip.label>пситренер (Пропуск чанка)</NTR_Psytrainer_Chunkskip.label>
+  <NTR_Psytrainer_EntropyDump.label>пситренер (Свалка энтропии)</NTR_Psytrainer_EntropyDump.label>
+  <NTR_Psytrainer_Farskip.label>пситренер (дальний скачок)</NTR_Psytrainer_Farskip.label>
+  <NTR_Psytrainer_Flashstorm.label>пситренер (грозовой шторм)</NTR_Psytrainer_Flashstorm.label>
+  <NTR_Psytrainer_Focus.label>пситренер (фокус)</NTR_Psytrainer_Focus.label>
+  <NTR_Psytrainer_Invisibility.label>пситренер (Невидимость)</NTR_Psytrainer_Invisibility.label>
+  <NTR_Psytrainer_ManhunterPulse.label>пситренер (импульс людоеда)</NTR_Psytrainer_ManhunterPulse.label>
+  <NTR_Psytrainer_MassChaosSkip.label>создать пситренер (массовый скачок хаоса)</NTR_Psytrainer_MassChaosSkip.label>
+  <NTR_Psytrainer_Neuroquake.label>пситренер (нейроземлетрясение)</NTR_Psytrainer_Neuroquake.label>
+  <NTR_Psytrainer_Painblock.label>пситренер (блок боли)</NTR_Psytrainer_Painblock.label>
+  <NTR_Psytrainer_Ruin.label>пситренер (разрушение)</NTR_Psytrainer_Ruin.label>
+  <NTR_Psytrainer_ShadowStep.label>пситренер (теневой шаг)</NTR_Psytrainer_ShadowStep.label>
+  <NTR_Psytrainer_Skip.label>пситренер (Пропустить)</NTR_Psytrainer_Skip.label>
+  <NTR_Psytrainer_Smokepop.label>пситренер (дымовой хлопок)</NTR_Psytrainer_Smokepop.label>
+  <NTR_Psytrainer_SolarPinhole.label>пситренер (солнечная брешь)</NTR_Psytrainer_SolarPinhole.label>
+  <NTR_Psytrainer_Stormfall.label>пситренер (бурепад)</NTR_Psytrainer_Stormfall.label>
+  <NTR_Psytrainer_Stun.label>пситренер (Оглушение)</NTR_Psytrainer_Stun.label>
+  <NTR_Psytrainer_VertigoPulse.label>пситренер (импульс головокружения)</NTR_Psytrainer_VertigoPulse.label>
+  <NTR_Psytrainer_Wallraise.label>пситренер (возведение стены)</NTR_Psytrainer_Wallraise.label>
+  <NTR_Psytrainer_Waterskip.label>пситренер (водный скачок)</NTR_Psytrainer_Waterskip.label>
+  <NTR_Psytrainer_WordOfInspiration.label>пситренер (слово вдохновения)</NTR_Psytrainer_WordOfInspiration.label>
+  <NTR_Psytrainer_WordOfJoy.label>пситренер (слово радости)</NTR_Psytrainer_WordOfJoy.label>
+  <NTR_Psytrainer_WordOfLove.label>пситренер (слово любви)</NTR_Psytrainer_WordOfLove.label>
+  <NTR_Psytrainer_WordOfSerenity.label>пситренер (Слово безмятежности)</NTR_Psytrainer_WordOfSerenity.label>
+  <NTR_Psytrainer_WordOfTrust.label>пситренер (слово доверия)</NTR_Psytrainer_WordOfTrust.label>
+  <NTR_Pufferfish.label>Иглобрюх x10</NTR_Pufferfish.label>
+  <NTR_Queraxen.label>создать квераксен x10</NTR_Queraxen.label>
+  <NTR_QueraxenMass.label>создать квераксен x40</NTR_QueraxenMass.label>
+  <NTR_RC2_AgaveNectar.label>Нектар агавы x50</NTR_RC2_AgaveNectar.label>
+  <NTR_RC2_Ale.label>создать эль x10</NTR_RC2_Ale.label>
+  <NTR_RC2_AmbrosiaNectar.label>Нектар амброзии x10</NTR_RC2_AmbrosiaNectar.label>
+  <NTR_RC2_Arrack.label>создать арак x10</NTR_RC2_Arrack.label>
+  <NTR_RC2_BlueSky.label>создать синее небо x10</NTR_RC2_BlueSky.label>
+  <NTR_RC2_Brandy.label>Брэнди x10</NTR_RC2_Brandy.label>
+  <NTR_RC2_CannedFruit.label>Консервы фруктовые x50</NTR_RC2_CannedFruit.label>
+  <NTR_RC2_CannedMeal.label>Консервы x10</NTR_RC2_CannedMeal.label>
+  <NTR_RC2_CannedMeat.label>Мясные консервы x50</NTR_RC2_CannedMeat.label>
+  <NTR_RC2_CannedVegetables.label>Консервы Овощи x50</NTR_RC2_CannedVegetables.label>
+  <NTR_RC2_Cheese.label>Сыр x50</NTR_RC2_Cheese.label>
+  <NTR_RC2_Cider.label>Сидер x10</NTR_RC2_Cider.label>
+  <NTR_RC2_Coffee.label>Кофе x10</NTR_RC2_Coffee.label>
+  <NTR_RC2_Dreamstick.label>создать палочка грез x10</NTR_RC2_Dreamstick.label>
+  <NTR_RC2_DriedFruit.label>Сухофрукты x10</NTR_RC2_DriedFruit.label>
+  <NTR_RC2_DriedMeat.label>Сушёное мясо x10</NTR_RC2_DriedMeat.label>
+  <NTR_RC2_Eggnog.label>Эгг-ног x10</NTR_RC2_Eggnog.label>
+  <NTR_RC2_EnergyDrink.label>Энергетический напиток x10</NTR_RC2_EnergyDrink.label>
+  <NTR_RC2_Everclear.label>создать крепкий спирт x10</NTR_RC2_Everclear.label>
+  <NTR_RC2_ExtravagantMeal.label>Экстравагантное блюдо x10</NTR_RC2_ExtravagantMeal.label>
+  <NTR_RC2_Flour.label>Мука x50</NTR_RC2_Flour.label>
+  <NTR_RC2_Floxacine.label>Флоксацин x10</NTR_RC2_Floxacine.label>
+  <NTR_RC2_FruitPreserves.label>Фруктовые консервы x50</NTR_RC2_FruitPreserves.label>
+  <NTR_RC2_FruitSoda.label>Фруктовая газировка x10</NTR_RC2_FruitSoda.label>
+  <NTR_RC2_FruitWine.label>Фруктовое вино x10</NTR_RC2_FruitWine.label>
+  <NTR_RC2_Gin.label>создать джин x10</NTR_RC2_Gin.label>
+  <NTR_RC2_GreenTea.label>Зеленый чай x10</NTR_RC2_GreenTea.label>
+  <NTR_RC2_Grog.label>создать грог x10</NTR_RC2_Grog.label>
+  <NTR_RC2_Hardtack.label>создать сухари x10</NTR_RC2_Hardtack.label>
+  <NTR_RC2_Honey.label>Мед x50</NTR_RC2_Honey.label>
+  <NTR_RC2_Kumis.label>создать кумыс x10</NTR_RC2_Kumis.label>
+  <NTR_RC2_Mead.label>создать медовуха x10</NTR_RC2_Mead.label>
+  <NTR_RC2_MealCandy.label>создать конфеты x10</NTR_RC2_MealCandy.label>
+  <NTR_RC2_MealChocolateIceCream.label>Шоколадное мороженое x10</NTR_RC2_MealChocolateIceCream.label>
+  <NTR_RC2_MealCrisps.label>Криспсы x10</NTR_RC2_MealCrisps.label>
+  <NTR_RC2_MealCrustyPeanuts.label>Хрустящий арахис x10</NTR_RC2_MealCrustyPeanuts.label>
+  <NTR_RC2_MealCupcake.label>Кекс x10</NTR_RC2_MealCupcake.label>
+  <NTR_RC2_MealIceCream.label>Мороженое x10</NTR_RC2_MealIceCream.label>
+  <NTR_RC2_MealJuice.label>Фруктовый сок x10</NTR_RC2_MealJuice.label>
+  <NTR_RC2_MealPastry.label>Кондитерские изделия x10</NTR_RC2_MealPastry.label>
+  <NTR_RC2_Methadone.label>Метадон x10</NTR_RC2_Methadone.label>
+  <NTR_RC2_MilkCurd.label>Молоко Творог x50</NTR_RC2_MilkCurd.label>
+  <NTR_RC2_Moonshine.label>Самогон x10</NTR_RC2_Moonshine.label>
+  <NTR_RC2_PickleBrine.label>Рассол x50</NTR_RC2_PickleBrine.label>
+  <NTR_RC2_PickledVegetables.label>Маринированные овощи x10</NTR_RC2_PickledVegetables.label>
+  <NTR_RC2_Pizza.label>Пицца x10</NTR_RC2_Pizza.label>
+  <NTR_RC2_PreparedFruit.label>Готовые фрукты x50</NTR_RC2_PreparedFruit.label>
+  <NTR_RC2_RawApples.label>Сырые яблоки x50</NTR_RC2_RawApples.label>
+  <NTR_RC2_RawAsparagus.label>Сырая спаржа x50</NTR_RC2_RawAsparagus.label>
+  <NTR_RC2_RawBanana.label>Сырые бананы x50</NTR_RC2_RawBanana.label>
+  <NTR_RC2_RawBarley.label>Сырой ячмень x50</NTR_RC2_RawBarley.label>
+  <NTR_RC2_RawBeets.label>Сырая свекла x50</NTR_RC2_RawBeets.label>
+  <NTR_RC2_RawBreadfruit.label>Сырые плоды хлебного дерева x50</NTR_RC2_RawBreadfruit.label>
+  <NTR_RC2_RawCabbages.label>Сырая капуста x50</NTR_RC2_RawCabbages.label>
+  <NTR_RC2_RawCactusFruit.label>Сырые плоды кактуса x50</NTR_RC2_RawCactusFruit.label>
+  <NTR_RC2_RawCarrots.label>Сырая морковь x50</NTR_RC2_RawCarrots.label>
+  <NTR_RC2_RawCherries.label>Сырые вишни x50</NTR_RC2_RawCherries.label>
+  <NTR_RC2_RawChickpeas.label>Сырой нут x50</NTR_RC2_RawChickpeas.label>
+  <NTR_RC2_RawCocoaBeans.label>Сырые какао-бобы x50</NTR_RC2_RawCocoaBeans.label>
+  <NTR_RC2_RawCoconut.label>Сырые кокосы x50</NTR_RC2_RawCoconut.label>
+  <NTR_RC2_RawCoffeeBeans.label>Сырые кофейные зерна x50</NTR_RC2_RawCoffeeBeans.label>
+  <NTR_RC2_RawCucumbers.label>Сырые огурцы x50</NTR_RC2_RawCucumbers.label>
+  <NTR_RC2_RawDurians.label>Сырые дурианы x50</NTR_RC2_RawDurians.label>
+  <NTR_RC2_RawEggplants.label>Сырые баклажаны x50</NTR_RC2_RawEggplants.label>
+  <NTR_RC2_RawFigs.label>Сырой инжир x50</NTR_RC2_RawFigs.label>
+  <NTR_RC2_RawGrapes.label>Сырой виноград x50</NTR_RC2_RawGrapes.label>
+  <NTR_RC2_RawJuniperBerries.label>Сырые ягоды можжевельника x50</NTR_RC2_RawJuniperBerries.label>
+  <NTR_RC2_RawMelons.label>Сырые дыни x50</NTR_RC2_RawMelons.label>
+  <NTR_RC2_RawOats.label>Сырой овес x50</NTR_RC2_RawOats.label>
+  <NTR_RC2_RawOnion.label>Сырой лук x50</NTR_RC2_RawOnion.label>
+  <NTR_RC2_RawOrange.label>Сырые апельсины x50</NTR_RC2_RawOrange.label>
+  <NTR_RC2_RawPeaches.label>Сырые персики x50</NTR_RC2_RawPeaches.label>
+  <NTR_RC2_RawPecans.label>Сырые орехи пекан x50</NTR_RC2_RawPecans.label>
+  <NTR_RC2_RawPeppers.label>Сырой перец x50</NTR_RC2_RawPeppers.label>
+  <NTR_RC2_RawPineapples.label>Сырые ананасы x50</NTR_RC2_RawPineapples.label>
+  <NTR_RC2_RawPlums.label>Сливы сырые x50</NTR_RC2_RawPlums.label>
+  <NTR_RC2_RawPomegranates.label>Сырые гранаты x50</NTR_RC2_RawPomegranates.label>
+  <NTR_RC2_RawPumpkins.label>Сырые тыквы x50</NTR_RC2_RawPumpkins.label>
+  <NTR_RC2_RawQuinoa.label>Сырая киноа x50</NTR_RC2_RawQuinoa.label>
+  <NTR_RC2_RawSnapPeas.label>Сырой горох x50</NTR_RC2_RawSnapPeas.label>
+  <NTR_RC2_RawSorghum.label>Сырое сорго x50</NTR_RC2_RawSorghum.label>
+  <NTR_RC2_RawSoybean.label>Сырые соевые бобы x50</NTR_RC2_RawSoybean.label>
+  <NTR_RC2_RawSugarBeets.label>Сырая сахарная свекла x50</NTR_RC2_RawSugarBeets.label>
+  <NTR_RC2_RawSugarcane.label>Сырой сахарный тростник x50</NTR_RC2_RawSugarcane.label>
+  <NTR_RC2_RawTeaLeaves.label>Сырые чайные листья x50</NTR_RC2_RawTeaLeaves.label>
+  <NTR_RC2_RawTomato.label>Сырые помидоры x50</NTR_RC2_RawTomato.label>
+  <NTR_RC2_RawTruffles.label>Сырые трюфели x50</NTR_RC2_RawTruffles.label>
+  <NTR_RC2_RawWheat.label>Сырая пшеница x50</NTR_RC2_RawWheat.label>
+  <NTR_RC2_RawYams.label>Сырой ямс x50</NTR_RC2_RawYams.label>
+  <NTR_RC2_Rubaboo.label>создать рубабу x10</NTR_RC2_Rubaboo.label>
+  <NTR_RC2_Rum.label>Ром x10</NTR_RC2_Rum.label>
+  <NTR_RC2_Sake.label>Саке x10</NTR_RC2_Sake.label>
+  <NTR_RC2_Shrooms.label>Волшебные грибы x10</NTR_RC2_Shrooms.label>
+  <NTR_RC2_Skag.label>создать скаг x10</NTR_RC2_Skag.label>
+  <NTR_RC2_Stout.label>создать стаут x10</NTR_RC2_Stout.label>
+  <NTR_RC2_Sugar.label>Сахар x50</NTR_RC2_Sugar.label>
+  <NTR_RC2_Sunshine.label>создать солнечный напиток x10</NTR_RC2_Sunshine.label>
+  <NTR_RC2_Syrup.label>Сироп x50</NTR_RC2_Syrup.label>
+  <NTR_RC2_Tango.label>создать танго x10</NTR_RC2_Tango.label>
+  <NTR_RC2_Tequila.label>создать текила x10</NTR_RC2_Tequila.label>
+  <NTR_RC2_ThickPottage.label>Толстая похлебка x10</NTR_RC2_ThickPottage.label>
+  <NTR_RC2_ThinPottage.label>Tтонкая похлебка x10</NTR_RC2_ThinPottage.label>
+  <NTR_RC2_Tofu.label>Тофу x50</NTR_RC2_Tofu.label>
+  <NTR_RC2_TrimmedMeat.label>Обрезанное мясо x50</NTR_RC2_TrimmedMeat.label>
+  <NTR_RC2_VegetableJuice.label>Овощной сок x10</NTR_RC2_VegetableJuice.label>
+  <NTR_RC2_Viko.label>создать вико x10</NTR_RC2_Viko.label>
+  <NTR_RC2_Vodka.label>Водка x10</NTR_RC2_Vodka.label>
+  <NTR_RC2_Whiskey.label>Виски x10</NTR_RC2_Whiskey.label>
+  <NTR_RC2_Wine.label>Вино x10</NTR_RC2_Wine.label>
+  <NTR_RC2_Zope.label>создать зоуп x10</NTR_RC2_Zope.label>
+  <NTR_RH2_Ration_Caviar.label>создать икра x50</NTR_RH2_Ration_Caviar.label>
+  <NTR_RHApparel_DeathstrokeArmor_Arkham.label>броня Детстроука</NTR_RHApparel_DeathstrokeArmor_Arkham.label>
+  <NTR_RHApparel_DeathstrokeHelmet_Arkham.label>Дефстроук шлем</NTR_RHApparel_DeathstrokeHelmet_Arkham.label>
+  <NTR_RH_Nerotonin8B.label>неротонин-8B x10</NTR_RH_Nerotonin8B.label>
+  <NTR_RailCannon.label>X.R.E.S Прототип рельсовой пушки x1</NTR_RailCannon.label>
+  <NTR_RailSniperRifle.label>создать антиматериальная рельсовая винтовка x1</NTR_RailSniperRifle.label>
+  <NTR_RailgunRilf.label>Автоматическая железнодорожная винтовка x1</NTR_RailgunRilf.label>
+  <NTR_RawAgave.label>Плод агавы x50</NTR_RawAgave.label>
+  <NTR_RawBerries.label>ягоды x50</NTR_RawBerries.label>
+  <NTR_RawCorn.label>Кукуруза x50</NTR_RawCorn.label>
+  <NTR_RawFungus.label>Сырой гриб x50</NTR_RawFungus.label>
+  <NTR_RawPotatoes.label>Картофель x50</NTR_RawPotatoes.label>
+  <NTR_RawRice.label>Рис x50</NTR_RawRice.label>
+  <NTR_RestlessImplant.label>Имплантат беспокойства</NTR_RestlessImplant.label>
+  <NTR_Ruby.label>рубин x100</NTR_Ruby.label>
+  <NTR_SFI.label>имплант сверхплодовитости</NTR_SFI.label>
+  <NTR_Salt.label>Соль x10</NTR_Salt.label>
+  <NTR_Sandstone.label>Блоки песчаника x100</NTR_Sandstone.label>
+  <NTR_Sapphire.label>создать сапфир x100</NTR_Sapphire.label>
+  <NTR_SerumHealer.label>Механическая сыворотка Целителя x1</NTR_SerumHealer.label>
+  <NTR_SerumResurrector.label>Механическая сыворотка Воскресителя x1</NTR_SerumResurrector.label>
+  <NTR_Shard.label>Осколок x20</NTR_Shard.label>
+  <NTR_ShardAnimalPulser.label>Осколочный пульсатор для животных x1</NTR_ShardAnimalPulser.label>
+  <NTR_Shell_Deadlife.label>Мертвая оболочка x10</NTR_Shell_Deadlife.label>
+  <NTR_ShieldCore.label>создать ядро щита</NTR_ShieldCore.label>
+  <NTR_Shimmertalk.label>создать мерцеречь x5</NTR_Shimmertalk.label>
+  <NTR_ShuttleEngine.label>Шаттловый двигатель x1</NTR_ShuttleEngine.label>
+  <NTR_ShuttleFuelPodsx50.label>Урановая топливная капсула x50</NTR_ShuttleFuelPodsx50.label>
+  <NTR_SignalChip.label>Сигнальный чип x1</NTR_SignalChip.label>
+  <NTR_Silsteel.label>создать силсталь x50</NTR_Silsteel.label>
+  <NTR_Silver.label>Серебро x200</NTR_Silver.label>
+  <NTR_SimpleBake.label>Простая выпечка x10</NTR_SimpleBake.label>
+  <NTR_SimpleDessert.label>Простой десерт x10</NTR_SimpleDessert.label>
+  <NTR_SimpleGrill.label>Простой гриль x10</NTR_SimpleGrill.label>
+  <NTR_SimpleMeal.label>Простая еда x10</NTR_SimpleMeal.label>
+  <NTR_SimpleSoup.label>Простой суп x10</NTR_SimpleSoup.label>
+  <NTR_SimpleStew.label>Простое тушеное мясо x10</NTR_SimpleStew.label>
+  <NTR_SiteIntel.label>создать разведданные объекта x1</NTR_SiteIntel.label>
+  <NTR_SkySteel.label>создать небесная сталь x50</NTR_SkySteel.label>
+  <NTR_Slate.label>Сланцевые блоки x100</NTR_Slate.label>
+  <NTR_SmokeShell.label>Дымовой снаряд x10</NTR_SmokeShell.label>
+  <NTR_SmokeleafButter.label>Сливочное масло дымного листа x10</NTR_SmokeleafButter.label>
+  <NTR_SmokeleafJoint.label>косяк дымолиста x1</NTR_SmokeleafJoint.label>
+  <NTR_SmokeleafJoint_Batch.label>косяк дымолиста x4</NTR_SmokeleafJoint_Batch.label>
+  <NTR_SoSEntanglementManifold.label>Манифолд запутанности</NTR_SoSEntanglementManifold.label>
+  <NTR_Soybeans.label>Соевые бобы x10</NTR_Soybeans.label>
+  <NTR_Spices.label>Специи x10</NTR_Spices.label>
+  <NTR_Sprat.label>Килька x10</NTR_Sprat.label>
+  <NTR_Stamponent.label>создать стам-компонент x1</NTR_Stamponent.label>
+  <NTR_StamponentPack.label>создать стам-компонент x4</NTR_StamponentPack.label>
+  <NTR_Steel.label>Сталь x100</NTR_Steel.label>
+  <NTR_Stoic.label>Стоический имплантат</NTR_Stoic.label>
+  <NTR_StugnaATGM.label>Ракетная установка Стугна x1</NTR_StugnaATGM.label>
+  <NTR_SubcoreHigh.label>Высокое подядро x5</NTR_SubcoreHigh.label>
+  <NTR_SubcoreRegular.label>Стандартное ядро ​​x5</NTR_SubcoreRegular.label>
+  <NTR_SubersonaCore.label>создать техноустойчивое субперсональное ядро x1</NTR_SubersonaCore.label>
+  <NTR_SublinkBasic.label>Дополнительный канал управления (стандартный) x1</NTR_SublinkBasic.label>
+  <NTR_SublinkHigh.label>Подканал управления (высокий уровень) x1</NTR_SublinkHigh.label>
+  <NTR_Sugar.label>Сахар x10</NTR_Sugar.label>
+  <NTR_Sunset_AlloySkeletonGland_cy.label>Скелет из сплава железа</NTR_Sunset_AlloySkeletonGland_cy.label>
+  <NTR_Sunset_CAB12Rifle_cy.label>CAB-12 лазерная винтовка</NTR_Sunset_CAB12Rifle_cy.label>
+  <NTR_Sunset_CAJ-74SniperRifle_cy.label>CAJ-74 лазерная снайперская винтовка</NTR_Sunset_CAJ-74SniperRifle_cy.label>
+  <NTR_Sunset_CALX4TwinLaserCannon_cy.label>CAL-X4 Сдвоенная лазерная пушка</NTR_Sunset_CALX4TwinLaserCannon_cy.label>
+  <NTR_Sunset_CALX9ChainBlastCannon_cy.label>CAL-X9 Цепная пушка</NTR_Sunset_CALX9ChainBlastCannon_cy.label>
+  <NTR_Sunset_CombatSustainer_cy.label>Боевой маршевый двигатель</NTR_Sunset_CombatSustainer_cy.label>
+  <NTR_Sunset_DSKJLLaserGUN_cy.label>DSKJL лазерная пушка</NTR_Sunset_DSKJLLaserGUN_cy.label>
+  <NTR_Sunset_DSKJSLaserSMG_cy.label>DSKJS лазер ПП</NTR_Sunset_DSKJSLaserSMG_cy.label>
+  <NTR_Sunset_GWLZ33particleRifle_cy.label>GWLZ-33, винтовка</NTR_Sunset_GWLZ33particleRifle_cy.label>
+  <NTR_Sunset_GWLZ54particleSMG_cy.label>GWLZ-54, частица ПП</NTR_Sunset_GWLZ54particleSMG_cy.label>
+  <NTR_Sunset_GWP115PlasmaCannon_cy.label>GWP-115, плазменная пушка</NTR_Sunset_GWP115PlasmaCannon_cy.label>
+  <NTR_Sunset_GWX22Shotgun_cy.label>GWX-22 дробовик</NTR_Sunset_GWX22Shotgun_cy.label>
+  <NTR_Sunset_GWZ75AR_cy.label>GWZ-75 штурмовая винтовка</NTR_Sunset_GWZ75AR_cy.label>
+  <NTR_Sunset_GWZJ12HeavyMG_cy.label>GWZJ-12, тяжелый пулемет</NTR_Sunset_GWZJ12HeavyMG_cy.label>
+  <NTR_Sunset_LXB55Carbine_cy.label>LXB-55 карабин</NTR_Sunset_LXB55Carbine_cy.label>
+  <NTR_Sunset_LXC9SMG_cy.label>создать LXC-9 ПП</NTR_Sunset_LXC9SMG_cy.label>
+  <NTR_Sunset_LXJ12SniperRifle_cy.label>LXJ-12 снайперская винтовка</NTR_Sunset_LXJ12SniperRifle_cy.label>
+  <NTR_Sunset_LXJY55SniperSubsonic_cy.label>LXJY-55 дозвуковая винтовка</NTR_Sunset_LXJY55SniperSubsonic_cy.label>
+  <NTR_Sunset_LXQJ55MG_cy.label>LXQJ-55 Ручной пулемет</NTR_Sunset_LXQJ55MG_cy.label>
+  <NTR_Sunset_LXS58Pistol_cy.label>LXS-58 пистолет</NTR_Sunset_LXS58Pistol_cy.label>
+  <NTR_Sunset_LXZ55AR_cy.label>LXZ-55 Автомат</NTR_Sunset_LXZ55AR_cy.label>
+  <NTR_Sunset_MicroReactor_cy.label>Микрореактор</NTR_Sunset_MicroReactor_cy.label>
+  <NTR_Sunset_NanofluidSkinGland_cy.label>Наножидкостная кожная железа</NTR_Sunset_NanofluidSkinGland_cy.label>
+  <NTR_Sunset_SCMAlloy_cy.label>SCM сплав x100</NTR_Sunset_SCMAlloy_cy.label>
+  <NTR_Sunset_SCMCrystalCore_Crystal_cy.label>SCM кристаллическое ядро x100</NTR_Sunset_SCMCrystalCore_Crystal_cy.label>
+  <NTR_Sunset_SCMCrystalCore_Red_cy.label>SCM ядро из красного кристалла x100</NTR_Sunset_SCMCrystalCore_Red_cy.label>
+  <NTR_Sunset_SCMFragment_Crystal_cy.label>SCM фрагмент кристалла x100</NTR_Sunset_SCMFragment_Crystal_cy.label>
+  <NTR_Sunset_SCMFragment_RedCalcite_cy.label>SCM фрагмент красного кальцита x100</NTR_Sunset_SCMFragment_RedCalcite_cy.label>
+  <NTR_Sunset_SCMGel_cy.label>SCM гель x100</NTR_Sunset_SCMGel_cy.label>
+  <NTR_Sunset_SCMpolymer_cy.label>SCM полимер x100</NTR_Sunset_SCMpolymer_cy.label>
+  <NTR_Sunset_SubcutaneousNanobotPump.label>Подкожный нанобот насос</NTR_Sunset_SubcutaneousNanobotPump.label>
+  <NTR_Sunset_SunsetPowerArm_cy.label>Силовой рычаг заката</NTR_Sunset_SunsetPowerArm_cy.label>
+  <NTR_Sunset_TempAdaptationDevice_cy.label>Устройство адаптации к температуре</NTR_Sunset_TempAdaptationDevice_cy.label>
+  <NTR_Sunset_ToxinFilteringOrgan_cy.label>Орган фильтрации токсинов</NTR_Sunset_ToxinFilteringOrgan_cy.label>
+  <NTR_Sunset_YHD85MissileLauncher_cy.label>YHD-85 Ракетная установка воздушного взрыва</NTR_Sunset_YHD85MissileLauncher_cy.label>
+  <NTR_Sunset_YHJ105MissileLauncher_cy.label>YHJ-105 Ракетная установка кумулятивная</NTR_Sunset_YHJ105MissileLauncher_cy.label>
+  <NTR_Sunset_YHZD45MissileLauncher_cy.label>YHZD-45 Кассетная ракета пусковая установка</NTR_Sunset_YHZD45MissileLauncher_cy.label>
+  <NTR_SuperSteel.label>Суперстальной сплав x50</NTR_SuperSteel.label>
+  <NTR_SuperSteelThread.label>Суперстальная резьба x50</NTR_SuperSteelThread.label>
+  <NTR_SuperThermalBlade.label>Супертермоклинок x1</NTR_SuperThermalBlade.label>
+  <NTR_SurvivalPack.label>Упакованная еда для выживания x10</NTR_SurvivalPack.label>
+  <NTR_Swordfish.label>Рыба-меч x10</NTR_Swordfish.label>
+  <NTR_Synthmeat.label>синтмясо x10</NTR_Synthmeat.label>
+  <NTR_Synthread.label>синтетическая ткань x100</NTR_Synthread.label>
+  <NTR_TantastenAlloy.label>Tантастеновый сплав x20</NTR_TantastenAlloy.label>
+  <NTR_TantastenAlloyMass.label>Tантастеновый сплав x80</NTR_TantastenAlloyMass.label>
+  <NTR_TelepadIntegrator.label>телепад интегратор x1</NTR_TelepadIntegrator.label>
+  <NTR_TemakiLavish.label>тэмаки (роскошный) x10</NTR_TemakiLavish.label>
+  <NTR_TimedBomb.label>Бомба замедленного действия x1</NTR_TimedBomb.label>
+  <NTR_TimedBombPack.label>Бомба замедленного действия x4</NTR_TimedBombPack.label>
+  <NTR_TornadoGenerador.label>TГенератор торнадо x1</NTR_TornadoGenerador.label>
+  <NTR_ToxShell.label>Токс Шелл x10</NTR_ToxShell.label>
+  <NTR_Tristapram.label>тристапрам x10</NTR_Tristapram.label>
+  <NTR_Trout.label>Форель x10</NTR_Trout.label>
+  <NTR_Tungsteel.label>TВольфрама x20</NTR_Tungsteel.label>
+  <NTR_TungsteelMass.label>TВольфрама x80</NTR_TungsteelMass.label>
+  <NTR_USH_DiseaseSampler.label>Пробоотборник болезней x5</NTR_USH_DiseaseSampler.label>
+  <NTR_USH_FleshBreakerBarrel.label>Ствол разрушителя плоти</NTR_USH_FleshBreakerBarrel.label>
+  <NTR_USH_FleshBreakerGrenadeLauncher.label>Гранатомет разрушителя плоти</NTR_USH_FleshBreakerGrenadeLauncher.label>
+  <NTR_USH_FleshBreakerShell.label>Оболочка для разрушения плоти x5</NTR_USH_FleshBreakerShell.label>
+  <NTR_USH_FluAntiserum.label>грипп, антисыворотка x5</NTR_USH_FluAntiserum.label>
+  <NTR_USH_FluBarrel.label>грипп, ствол</NTR_USH_FluBarrel.label>
+  <NTR_USH_FluGrenadeLauncher.label>грипп, гранатомет</NTR_USH_FluGrenadeLauncher.label>
+  <NTR_USH_FluPathogen.label>грипп, патоген x5</NTR_USH_FluPathogen.label>
+  <NTR_USH_FluSample.label>грипп, образец x5</NTR_USH_FluSample.label>
+  <NTR_USH_FluShell.label>Оболочка гриппа x5</NTR_USH_FluShell.label>
+  <NTR_USH_FluVaccine.label>Вакцина против гриппа x5</NTR_USH_FluVaccine.label>
+  <NTR_USH_InfectionAntiserum.label>Антисыворотка против инфекции x5</NTR_USH_InfectionAntiserum.label>
+  <NTR_USH_InfectionPathogen.label>возбудитель инфекции x5</NTR_USH_InfectionPathogen.label>
+  <NTR_USH_InfectionSample.label>Образец инфекции x5</NTR_USH_InfectionSample.label>
+  <NTR_USH_InfectionVaccine.label>Инфекционная вакцина x5</NTR_USH_InfectionVaccine.label>
+  <NTR_USH_IronLung.label>Железные легкие</NTR_USH_IronLung.label>
+  <NTR_USH_MalariaAntiserum.label>Антив сыворотка против малярии x5</NTR_USH_MalariaAntiserum.label>
+  <NTR_USH_MalariaBarrel.label>Бочка от малярии</NTR_USH_MalariaBarrel.label>
+  <NTR_USH_MalariaGrenadeLauncher.label>Гранатомет от малярии</NTR_USH_MalariaGrenadeLauncher.label>
+  <NTR_USH_MalariaPathogen.label>Возбудитель малярии x5</NTR_USH_MalariaPathogen.label>
+  <NTR_USH_MalariaReproductionPills.label>Таблетки для воспроизводства малярии x5</NTR_USH_MalariaReproductionPills.label>
+  <NTR_USH_MalariaSample.label>Образец малярии x5</NTR_USH_MalariaSample.label>
+  <NTR_USH_MalariaShell.label>Оболочка от малярии x5</NTR_USH_MalariaShell.label>
+  <NTR_USH_MalariaVaccine.label>Вакцина от малярии x5</NTR_USH_MalariaVaccine.label>
+  <NTR_USH_PlagueAntiserum.label>Антивыворотка от чумы x5</NTR_USH_PlagueAntiserum.label>
+  <NTR_USH_PlagueBarrel.label>Чумная бочка</NTR_USH_PlagueBarrel.label>
+  <NTR_USH_PlagueGrenadeLauncher.label>Чумной гранатомет</NTR_USH_PlagueGrenadeLauncher.label>
+  <NTR_USH_PlaguePathogen.label>возбудитель чумы x5</NTR_USH_PlaguePathogen.label>
+  <NTR_USH_PlagueSample.label>Образец чумы x5</NTR_USH_PlagueSample.label>
+  <NTR_USH_PlagueShell.label>Чумный панцирь x5</NTR_USH_PlagueShell.label>
+  <NTR_USH_PlagueVaccine.label>Вакцина от чумы x5</NTR_USH_PlagueVaccine.label>
+  <NTR_USH_RespiratorMask.label>Респираторная маска</NTR_USH_RespiratorMask.label>
+  <NTR_USH_ScariaAntiserum.label>Антисыворотка от скарии x5</NTR_USH_ScariaAntiserum.label>
+  <NTR_USH_ScariaBarrel.label>Скария, бочка</NTR_USH_ScariaBarrel.label>
+  <NTR_USH_ScariaGrenadeLauncher.label>Скариевая граната пусковая установка</NTR_USH_ScariaGrenadeLauncher.label>
+  <NTR_USH_ScariaPathogen.label>Скариозный возбудитель x5</NTR_USH_ScariaPathogen.label>
+  <NTR_USH_ScariaSample.label>Скариозный образец x5</NTR_USH_ScariaSample.label>
+  <NTR_USH_ScariaShell.label>Скариозная оболочка x5</NTR_USH_ScariaShell.label>
+  <NTR_USH_ScariaVaccine.label>Вакцина от скариоза x5</NTR_USH_ScariaVaccine.label>
+  <NTR_USH_SleepingSicknessAntiserum.label>Антисыворотка от сонной болезни x5</NTR_USH_SleepingSicknessAntiserum.label>
+  <NTR_USH_SleepingSicknessBarrel.label>Ствол сонной болезни</NTR_USH_SleepingSicknessBarrel.label>
+  <NTR_USH_SleepingSicknessGrenadeLauncher.label>Гранатомет сонной болезни</NTR_USH_SleepingSicknessGrenadeLauncher.label>
+  <NTR_USH_SleepingSicknessPathogen.label>Возбудитель сонной болезни x5</NTR_USH_SleepingSicknessPathogen.label>
+  <NTR_USH_SleepingSicknessReproductionPills.label>Таблетки для размножения сонной болезни x5</NTR_USH_SleepingSicknessReproductionPills.label>
+  <NTR_USH_SleepingSicknessSample.label>Образец сонной болезни x5</NTR_USH_SleepingSicknessSample.label>
+  <NTR_USH_SleepingSicknessShell.label>Оболочка от сонной болезни x5</NTR_USH_SleepingSicknessShell.label>
+  <NTR_USH_SleepingSicknessVaccine.label>Вакцина от сонной болезни x5</NTR_USH_SleepingSicknessVaccine.label>
+  <NTR_UncookedFineSoup.label>Неприготовленный изысканный суп x10</NTR_UncookedFineSoup.label>
+  <NTR_UncookedFineStew.label>Неприготовленное изысканное рагу x10</NTR_UncookedFineStew.label>
+  <NTR_UncookedGourmetSoup.label>Неприготовленный изысканный суп x10</NTR_UncookedGourmetSoup.label>
+  <NTR_UncookedLavishSoup.label>Неприготовленный обильный суп x10</NTR_UncookedLavishSoup.label>
+  <NTR_UncookedLavishStew.label>Неприготовленное роскошное тушеное мясо x10</NTR_UncookedLavishStew.label>
+  <NTR_UncookedSimpleSoup.label>Простой сырой суп x10</NTR_UncookedSimpleSoup.label>
+  <NTR_UncookedSimpleStew.label>Простое сырое рагу x10</NTR_UncookedSimpleStew.label>
+  <NTR_UpgradeArmor.label>Обновление линзы (прокалывание) x1</NTR_UpgradeArmor.label>
+  <NTR_UpgradeDamage.label>Обновленная линза (мощная) x1</NTR_UpgradeDamage.label>
+  <NTR_UpgradeRange.label>Обновленная линза (зрительная) x1</NTR_UpgradeRange.label>
+  <NTR_UpgradeSpeed.label>Обновленная линза (быстросъемная) x1</NTR_UpgradeSpeed.label>
+  <NTR_UpgradeStability.label>Обновление линзы (стабильность) x1</NTR_UpgradeStability.label>
+  <NTR_UramakiFine.label>урамаки (тонкий) x10</NTR_UramakiFine.label>
+  <NTR_Uranium.label>уран x100</NTR_Uranium.label>
+  <NTR_VOID_DF_Amber_Implant.label>янтарный имплантат</NTR_VOID_DF_Amber_Implant.label>
+  <NTR_VOID_DF_Calamity_Implant.label>имплантат бедствия</NTR_VOID_DF_Calamity_Implant.label>
+  <NTR_VOID_DF_CatEye_Implant.label>имплантат «кошачий глаз»</NTR_VOID_DF_CatEye_Implant.label>
+  <NTR_VOID_DF_Celerity_Implant.label>имплантат «Стремительность»</NTR_VOID_DF_Celerity_Implant.label>
+  <NTR_VOID_DF_Data_Implant.label>имплантат данных</NTR_VOID_DF_Data_Implant.label>
+  <NTR_VOID_DF_Dawn_Implant.label>имплантат рассвета</NTR_VOID_DF_Dawn_Implant.label>
+  <NTR_VOID_DF_Destruction_Implant.label>имплантат разрушения</NTR_VOID_DF_Destruction_Implant.label>
+  <NTR_VOID_DF_Devils_Implant.label>имплантат дьявола</NTR_VOID_DF_Devils_Implant.label>
+  <NTR_VOID_DF_Genius_Implant.label>гениальный имплантат</NTR_VOID_DF_Genius_Implant.label>
+  <NTR_VOID_DF_Ghastly_Implant.label>ужасный имплантат</NTR_VOID_DF_Ghastly_Implant.label>
+  <NTR_VOID_DF_Ghost_Implant.label>призрачный имплантат</NTR_VOID_DF_Ghost_Implant.label>
+  <NTR_VOID_DF_GoldenRabbit_Implant.label>имплантат «золотой кролик»</NTR_VOID_DF_GoldenRabbit_Implant.label>
+  <NTR_VOID_DF_Haste_Implant.label>имплантат ускорения</NTR_VOID_DF_Haste_Implant.label>
+  <NTR_VOID_DF_Havoc_Implant.label>имплантат хаоса</NTR_VOID_DF_Havoc_Implant.label>
+  <NTR_VOID_DF_Lethality_Implant.label>имплантат летальности</NTR_VOID_DF_Lethality_Implant.label>
+  <NTR_VOID_DF_MOTL_Implant.label>имплантат МОТЛ</NTR_VOID_DF_MOTL_Implant.label>
+  <NTR_VOID_DF_Mastery_Implant.label>имплантат мастерства</NTR_VOID_DF_Mastery_Implant.label>
+  <NTR_VOID_DF_Mortality_Implant.label>имплантат смертности</NTR_VOID_DF_Mortality_Implant.label>
+  <NTR_VOID_DF_Prosperity_Implant.label>имплантат процветания</NTR_VOID_DF_Prosperity_Implant.label>
+  <NTR_VOID_DF_Scrutiny_Implant.label>имплантат для проверки</NTR_VOID_DF_Scrutiny_Implant.label>
+  <NTR_VOID_DF_Trinity_Implant.label>имплантат триединства</NTR_VOID_DF_Trinity_Implant.label>
+  <NTR_VOID_DF_UltraBoost_Implant.label>ультра-имплантат</NTR_VOID_DF_UltraBoost_Implant.label>
+  <NTR_VOID_DF_Versatility_Implant.label>универсальный имплантат</NTR_VOID_DF_Versatility_Implant.label>
+  <NTR_VOID_DF_Voidtech_Implant.label>имплантат В.О.И.Д.</NTR_VOID_DF_Voidtech_Implant.label>
+  <NTR_VOID_DF_Volatile_Implant.label>летучий имплантат</NTR_VOID_DF_Volatile_Implant.label>
+  <NTR_VOID_DF_XDusk_Implant.label>x-сумеречный имплантат</NTR_VOID_DF_XDusk_Implant.label>
+  <NTR_VOID_DF_XHyper_Implant.label>x-гиперимплантат</NTR_VOID_DF_XHyper_Implant.label>
+  <NTR_VOID_DF_XIronskin_Implant.label>x-имплантат железной кожи</NTR_VOID_DF_XIronskin_Implant.label>
+  <NTR_VOID_DF_XPerception_Implant.label>x-имплантат восприятия</NTR_VOID_DF_XPerception_Implant.label>
+  <NTR_VOID_DF_XViolence_Implant.label>x-имплантат насилия</NTR_VOID_DF_XViolence_Implant.label>
+  <NTR_VOID_RH2_Nerotonin2b_Implant.label>неротонин-2b сыворотка</NTR_VOID_RH2_Nerotonin2b_Implant.label>
+  <NTR_VOID_RH2_Nerotonin4b_Implant.label>неротонин-4b сыворотка</NTR_VOID_RH2_Nerotonin4b_Implant.label>
+  <NTR_VOID_RH2_NerotoninV_Implant.label>неротонин-V сыворотка</NTR_VOID_RH2_NerotoninV_Implant.label>
+  <NTR_VOID_RH2_VOIDArchotechArm.label>пустотех рука</NTR_VOID_RH2_VOIDArchotechArm.label>
+  <NTR_VOID_RH2_VOIDArchotechEye.label>пустотех глаз</NTR_VOID_RH2_VOIDArchotechEye.label>
+  <NTR_VOID_RH2_VOIDArchotechLeg.label>пустотех нога</NTR_VOID_RH2_VOIDArchotechLeg.label>
+  <NTR_VOID_RHApparel_DFCloak_Hood.label>капюшон</NTR_VOID_RHApparel_DFCloak_Hood.label>
+  <NTR_VOID_RHApparel_DFCloak_Poncho.label>создать плащ</NTR_VOID_RHApparel_DFCloak_Poncho.label>
+  <NTR_VOID_RHApparel_DuskReactive_Helmet.label>Сумеречный шлем</NTR_VOID_RHApparel_DuskReactive_Helmet.label>
+  <NTR_VOID_RHApparel_VOIDReactive_Helmet.label>В.О.И.Д. шлем</NTR_VOID_RHApparel_VOIDReactive_Helmet.label>
+  <NTR_VOID_RHApparel_VOIDReactive_PowerArmor.label>В.О.И.Д. реактивный</NTR_VOID_RHApparel_VOIDReactive_PowerArmor.label>
+  <NTR_VOID_RHApparel_VOID_BusinessSuit.label>костюм пустотех</NTR_VOID_RHApparel_VOID_BusinessSuit.label>
+  <NTR_VOID_RHApparel_VOID_SpeedSkin.label>Скин пустотех</NTR_VOID_RHApparel_VOID_SpeedSkin.label>
+  <NTR_VOID_RHApparel_VengeanceGuard_PowerArmor.label>создать страж мести</NTR_VOID_RHApparel_VengeanceGuard_PowerArmor.label>
+  <NTR_VOID_RH_AestheticShaper.label>имплантат суперсоблазнитель</NTR_VOID_RH_AestheticShaper.label>
+  <NTR_VOID_RH_VOIDAestheticNose.label>пустотех нос</NTR_VOID_RH_VOIDAestheticNose.label>
+  <NTR_VOID_RH_VOIDBionicEar.label>пустотех ухо</NTR_VOID_RH_VOIDBionicEar.label>
+  <NTR_VOID_RH_VOIDBionicHeart.label>пустотех сердце</NTR_VOID_RH_VOIDBionicHeart.label>
+  <NTR_VOID_RH_VOIDBionicKidney.label>пустотех почка</NTR_VOID_RH_VOIDBionicKidney.label>
+  <NTR_VOID_RH_VOIDBionicLiver.label>пустотех печень</NTR_VOID_RH_VOIDBionicLiver.label>
+  <NTR_VOID_RH_VOIDBionicLung.label>пустотех легкие</NTR_VOID_RH_VOIDBionicLung.label>
+  <NTR_VOID_RH_VOIDBionicSpine.label>пустотех позвоночник</NTR_VOID_RH_VOIDBionicSpine.label>
+  <NTR_VOID_RH_VOIDBionicStomach.label>пустотех желудок</NTR_VOID_RH_VOIDBionicStomach.label>
+  <NTR_VOID_RH_VOIDCircadianHalfCycler.label>пустотех полуциклер</NTR_VOID_RH_VOIDCircadianHalfCycler.label>
+  <NTR_VOID_RNGun_CorpseBlaster_Shotgun.label>трупный бластер</NTR_VOID_RNGun_CorpseBlaster_Shotgun.label>
+  <NTR_VOID_RNGun_CorpseDestroyer_GPMG.label>разрушитель трупов</NTR_VOID_RNGun_CorpseDestroyer_GPMG.label>
+  <NTR_VOID_RNGun_DFGAUSSRifle_AMR.label>гауссова винтовка</NTR_VOID_RNGun_DFGAUSSRifle_AMR.label>
+  <NTR_VOID_RNGun_DuskCarbine_DMR.label>сумеречный карабин</NTR_VOID_RNGun_DuskCarbine_DMR.label>
+  <NTR_VOID_RNGun_DuskEnforcer_Revolver.label>сумеречный силовик</NTR_VOID_RNGun_DuskEnforcer_Revolver.label>
+  <NTR_VOID_RNGun_DuskMAG_HMG.label>создать сумерки маг</NTR_VOID_RNGun_DuskMAG_HMG.label>
+  <NTR_VOID_RNGun_DuskStriker_Shotgun.label>сумеречный нападающий</NTR_VOID_RNGun_DuskStriker_Shotgun.label>
+  <NTR_VOID_RNGun_GAU19_HMG.label>создать GAU-19</NTR_VOID_RNGun_GAU19_HMG.label>
+  <NTR_VOID_RNGun_Longshot_PP10AMR.label>создать дальний выстрел PP-10</NTR_VOID_RNGun_Longshot_PP10AMR.label>
+  <NTR_VOID_RNGun_WraithCannon_HMG.label>создать пушка-призрак</NTR_VOID_RNGun_WraithCannon_HMG.label>
+  <NTR_VOID_RNMelee_DFAmputator_Blade.label>ампутатор</NTR_VOID_RNMelee_DFAmputator_Blade.label>
+  <NTR_VOID_RNMelee_DFDual_Blade.label>двойное лезвие</NTR_VOID_RNMelee_DFDual_Blade.label>
+  <NTR_VOID_RNMelee_DFDuskBlade_Sword.label>сумеречная бритва</NTR_VOID_RNMelee_DFDuskBlade_Sword.label>
+  <NTR_VOID_RNMelee_DFGrinder_Chainsaw.label>шлифовальная машина</NTR_VOID_RNMelee_DFGrinder_Chainsaw.label>
+  <NTR_VOID_VOIDBrain_Implant.label>пустотех ИИ имплантат</NTR_VOID_VOIDBrain_Implant.label>
+  <NTR_VOID_Void_SecronomControlChip.label>N-4 контроль имплант</NTR_VOID_Void_SecronomControlChip.label>
+  <NTR_VOV_Vagar_Quantron.label>Квантрон Вагара</NTR_VOV_Vagar_Quantron.label>
+  <NTR_VV_AlfalfaHay.label>Люцерновое сено x10</NTR_VV_AlfalfaHay.label>
+  <NTR_VV_AmaranthGrain.label>Зерно амаранта x10</NTR_VV_AmaranthGrain.label>
+  <NTR_VV_Apricots.label>Абрикосы x10</NTR_VV_Apricots.label>
+  <NTR_VV_Artichoke.label>Артишок x10</NTR_VV_Artichoke.label>
+  <NTR_VV_Asparagus.label>Спаржа x10</NTR_VV_Asparagus.label>
+  <NTR_VV_BlackBeans.label>Черная фасоль x10</NTR_VV_BlackBeans.label>
+  <NTR_VV_Blackberries.label>Ежевика x10</NTR_VV_Blackberries.label>
+  <NTR_VV_Blackcurrants.label>Черная смородина x10</NTR_VV_Blackcurrants.label>
+  <NTR_VV_BroccoliFlorets.label>Соцветия брокколи x10</NTR_VV_BroccoliFlorets.label>
+  <NTR_VV_CalendulaBlossoms.label>Цветки календулы x10</NTR_VV_CalendulaBlossoms.label>
+  <NTR_VV_CashewNuts.label>Орехи кешью x10</NTR_VV_CashewNuts.label>
+  <NTR_VV_ChamomileBlossoms.label>Цветки ромашки x10</NTR_VV_ChamomileBlossoms.label>
+  <NTR_VV_Chestnuts.label>Каштаны x10</NTR_VV_Chestnuts.label>
+  <NTR_VV_CloverHay.label>Клеверное сено x10</NTR_VV_CloverHay.label>
+  <NTR_VV_DragonFruits.label>Драконьи фрукты x10</NTR_VV_DragonFruits.label>
+  <NTR_VV_Durians.label>Дурианцы x10</NTR_VV_Durians.label>
+  <NTR_VV_EchinaceaBlossoms.label>Цветки эхинацеи x10</NTR_VV_EchinaceaBlossoms.label>
+  <NTR_VV_GinkgoLeaves.label>Листья гинкго x10</NTR_VV_GinkgoLeaves.label>
+  <NTR_VV_GinsengRoots.label>Корни женьшеня x10</NTR_VV_GinsengRoots.label>
+  <NTR_VV_Grapefruits.label>Грейпфруты x10</NTR_VV_Grapefruits.label>
+  <NTR_VV_HawthornBerries.label>Ягоды боярышника x10</NTR_VV_HawthornBerries.label>
+  <NTR_VV_Hazelnuts.label>Фундук x10</NTR_VV_Hazelnuts.label>
+  <NTR_VV_JabuticabaBerries.label>Ягоды ябутикабы x10</NTR_VV_JabuticabaBerries.label>
+  <NTR_VV_LavenderBlossoms.label>LЦветки лаванды x10</NTR_VV_LavenderBlossoms.label>
+  <NTR_VV_Leeks.label>Lеки x10</NTR_VV_Leeks.label>
+  <NTR_VV_LemonBalmLeaves.label>LЛистья мелиссы x10</NTR_VV_LemonBalmLeaves.label>
+  <NTR_VV_Limes.label>LЛайм x10</NTR_VV_Limes.label>
+  <NTR_VV_LindenBlossoms.label>LЦветки липы x10</NTR_VV_LindenBlossoms.label>
+  <NTR_VV_MapleSyrup.label>Кленовый сироп x10</NTR_VV_MapleSyrup.label>
+  <NTR_VV_MarshmallowRoots.label>Корни алтея x10</NTR_VV_MarshmallowRoots.label>
+  <NTR_VV_Medlars.label>Мушмула x10</NTR_VV_Medlars.label>
+  <NTR_VV_MilletGrain.label>Зерно проса x10</NTR_VV_MilletGrain.label>
+  <NTR_VV_Mulberries.label>Шелковица x10</NTR_VV_Mulberries.label>
+  <NTR_VV_NettleLeaves.label>Листья крапивы x10</NTR_VV_NettleLeaves.label>
+  <NTR_VV_Papayas.label>Папайя x10</NTR_VV_Papayas.label>
+  <NTR_VV_Parsnips.label>Пастернак x10</NTR_VV_Parsnips.label>
+  <NTR_VV_Pecans.label>Пеканы x10</NTR_VV_Pecans.label>
+  <NTR_VV_Persimmons.label>Хурма x10</NTR_VV_Persimmons.label>
+  <NTR_VV_PineNuts.label>СоснаОрехи x10</NTR_VV_PineNuts.label>
+  <NTR_VV_Pomegranates.label>Гранат x10</NTR_VV_Pomegranates.label>
+  <NTR_VV_Quinces.label>Айва x10</NTR_VV_Quinces.label>
+  <NTR_VV_QuinoaSeeds.label>Семена киноа x10</NTR_VV_QuinoaSeeds.label>
+  <NTR_VV_RedCabbages.label>Красная капуста x10</NTR_VV_RedCabbages.label>
+  <NTR_VV_Rosehips.label>Шиповник x10</NTR_VV_Rosehips.label>
+  <NTR_VV_SourCherrys.label>Вишня x10</NTR_VV_SourCherrys.label>
+  <NTR_VV_SpinachLeaves.label>Листья шпината x10</NTR_VV_SpinachLeaves.label>
+  <NTR_VV_StJohnsWortBlossoms.label>St. Цветение зверобоя x10</NTR_VV_StJohnsWortBlossoms.label>
+  <NTR_VV_TeffGrain.label>теф зерно x10</NTR_VV_TeffGrain.label>
+  <NTR_VV_ThymeLeaves.label>TЛистья тимьяна x10</NTR_VV_ThymeLeaves.label>
+  <NTR_VV_TimothyHay.label>Тимофеевка Хэй x10</NTR_VV_TimothyHay.label>
+  <NTR_VV_ValerianRoots.label>Корни валерианы x10</NTR_VV_ValerianRoots.label>
+  <NTR_VV_Walnuts.label>Грецкие орехи x10</NTR_VV_Walnuts.label>
+  <NTR_VV_WhiteTurnips.label>Белая репа x10</NTR_VV_WhiteTurnips.label>
+  <NTR_VV_YarrowBlossoms.label>Цветки тысячелистника x10</NTR_VV_YarrowBlossoms.label>
+  <NTR_VWEC_Gun_GaussLance.label>гауссово копье</NTR_VWEC_Gun_GaussLance.label>
+  <NTR_VWEC_Gun_GaussMagnum.label>гаусс магнум</NTR_VWEC_Gun_GaussMagnum.label>
+  <NTR_VWEC_Gun_GaussRifle.label>винтовка гаусса</NTR_VWEC_Gun_GaussRifle.label>
+  <NTR_VWEL_Gun_LaserMinigun.label>лазерный миниган</NTR_VWEL_Gun_LaserMinigun.label>
+  <NTR_VWEL_Gun_LaserPistol.label>лазерный пистолет</NTR_VWEL_Gun_LaserPistol.label>
+  <NTR_VWEL_Gun_LaserRifle.label>лазерная винтовка</NTR_VWEL_Gun_LaserRifle.label>
+  <NTR_VWEL_Gun_LaserSMG.label>лазерная пп</NTR_VWEL_Gun_LaserSMG.label>
+  <NTR_VWEL_Gun_LaserShotgun.label>лазерный дробовик</NTR_VWEL_Gun_LaserShotgun.label>
+  <NTR_VWEL_Gun_LaserSniperRifle.label>лазерная снайперская винтовка винтовка</NTR_VWEL_Gun_LaserSniperRifle.label>
+  <NTR_VWEL_Gun_SalvagedLaserPistol.label>спасенный лазерный пистолет</NTR_VWEL_Gun_SalvagedLaserPistol.label>
+  <NTR_VWEL_Gun_SalvagedLaserRifle.label>спасенный лазерный ружье</NTR_VWEL_Gun_SalvagedLaserRifle.label>
+  <NTR_VWEL_Gun_SalvagedLaserShotgun.label>спасенный лазерный дробовик</NTR_VWEL_Gun_SalvagedLaserShotgun.label>
+  <NTR_VWEL_Gun_SalvagedLaserSniperRifle.label>спасенный лазерный снайпер винтовка</NTR_VWEL_Gun_SalvagedLaserSniperRifle.label>
+  <NTR_VWEL_Gun_TeslaGun.label>пистолет Тесла</NTR_VWEL_Gun_TeslaGun.label>
+  <NTR_VWEL_LaserSword.label>лазерный меч</NTR_VWEL_LaserSword.label>
+  <NTR_VWENL_Grenade_TearGas.label>граната со слезоточивым газом</NTR_VWENL_Grenade_TearGas.label>
+  <NTR_VWENL_Gun_DartGun.label>дротик</NTR_VWENL_Gun_DartGun.label>
+  <NTR_VWENL_Gun_RubberBulletPistol.label>несмертельный пистолет</NTR_VWENL_Gun_RubberBulletPistol.label>
+  <NTR_VWENL_Gun_Taser.label>тазёр</NTR_VWENL_Gun_Taser.label>
+  <NTR_VWENL_Gun_TearGasLauncher.label>пусковая установка для слезоточивого газа</NTR_VWENL_Gun_TearGasLauncher.label>
+  <NTR_VWENL_Melee_StunBaton.label>электрошоковая дубинка</NTR_VWENL_Melee_StunBaton.label>
+  <NTR_VWE_Bow_Compound.label>блочный лук</NTR_VWE_Bow_Compound.label>
+  <NTR_VWE_Bow_Crossbow.label>арбалет</NTR_VWE_Bow_Crossbow.label>
+  <NTR_VWE_Bow_Long.label>длинный лук</NTR_VWE_Bow_Long.label>
+  <NTR_VWE_CombatHandgun.label>боевой пистолет</NTR_VWE_CombatHandgun.label>
+  <NTR_VWE_Grenade_Flash.label>световая граната</NTR_VWE_Grenade_Flash.label>
+  <NTR_VWE_Grenade_Smoke.label>дымовая граната</NTR_VWE_Grenade_Smoke.label>
+  <NTR_VWE_Gun_AntiMaterialRifle.label>антиматериальная винтовка</NTR_VWE_Gun_AntiMaterialRifle.label>
+  <NTR_VWE_Gun_BattleRifle.label>боевая винтовка</NTR_VWE_Gun_BattleRifle.label>
+  <NTR_VWE_Gun_Carbine.label>карабин</NTR_VWE_Gun_Carbine.label>
+  <NTR_VWE_Gun_ChargeLMG.label>заряд ручной пулемет</NTR_VWE_Gun_ChargeLMG.label>
+  <NTR_VWE_Gun_ChargeMinigun.label>заряд минипушка</NTR_VWE_Gun_ChargeMinigun.label>
+  <NTR_VWE_Gun_ChargePistol.label>зарядный пистолет</NTR_VWE_Gun_ChargePistol.label>
+  <NTR_VWE_Gun_ChargeRocketLauncher.label>зарядная ракетная установка</NTR_VWE_Gun_ChargeRocketLauncher.label>
+  <NTR_VWE_Gun_ChargeSMG.label>заряд пп</NTR_VWE_Gun_ChargeSMG.label>
+  <NTR_VWE_Gun_ChargeShotgun.label>зарядное дробовик</NTR_VWE_Gun_ChargeShotgun.label>
+  <NTR_VWE_Gun_ChargeSniperRifle.label>зарядная снайперская винтовка</NTR_VWE_Gun_ChargeSniperRifle.label>
+  <NTR_VWE_Gun_Flamethrower.label>огнемет</NTR_VWE_Gun_Flamethrower.label>
+  <NTR_VWE_Gun_GrenadeLauncher.label>гранатомет</NTR_VWE_Gun_GrenadeLauncher.label>
+  <NTR_VWE_Gun_HMG.label>создать крупнокалиберный пулемет</NTR_VWE_Gun_HMG.label>
+  <NTR_VWE_Gun_HandCannon.label>рука пушка</NTR_VWE_Gun_HandCannon.label>
+  <NTR_VWE_Gun_LeverActionRifle.label>рычажный механизм винтовка</NTR_VWE_Gun_LeverActionRifle.label>
+  <NTR_VWE_Gun_LightSMG.label>создать легкий пп</NTR_VWE_Gun_LightSMG.label>
+  <NTR_VWE_Gun_MarksmanRifle.label>марксман винтовка</NTR_VWE_Gun_MarksmanRifle.label>
+  <NTR_VWE_Gun_RocketLauncher.label>ракетная установка</NTR_VWE_Gun_RocketLauncher.label>
+  <NTR_VWE_Gun_SMG.label>создать пп</NTR_VWE_Gun_SMG.label>
+  <NTR_VWE_Gun_SemiAutomaticRifle.label>полуавтоматическая винтовка</NTR_VWE_Gun_SemiAutomaticRifle.label>
+  <NTR_VWE_Gun_ServiceRifle.label>служебная винтовка</NTR_VWE_Gun_ServiceRifle.label>
+  <NTR_VWE_Melee_Axe.label>создать топор</NTR_VWE_Melee_Axe.label>
+  <NTR_VWE_Melee_Baton.label>дубинка</NTR_VWE_Melee_Baton.label>
+  <NTR_VWE_Melee_BattleAxe.label>боевой топор</NTR_VWE_Melee_BattleAxe.label>
+  <NTR_VWE_Melee_CombatKnife.label>боевой нож</NTR_VWE_Melee_CombatKnife.label>
+  <NTR_VWE_Melee_Halberd.label>алебарда</NTR_VWE_Melee_Halberd.label>
+  <NTR_VWE_Melee_Hammer.label>боевой молот</NTR_VWE_Melee_Hammer.label>
+  <NTR_VWE_Melee_Shovel.label>боевая лопата</NTR_VWE_Melee_Shovel.label>
+  <NTR_VWE_SawedOffShotgun.label>обрез</NTR_VWE_SawedOffShotgun.label>
+  <NTR_VWE_Throwing_Knives.label>метательные ножи</NTR_VWE_Throwing_Knives.label>
+  <NTR_VWE_Throwing_Rocks.label>метание камней</NTR_VWE_Throwing_Rocks.label>
+  <NTR_Vacstone.label>вакуумные каменные блоки x100</NTR_Vacstone.label>
+  <NTR_VariableSword.label>Переменный меч x1</NTR_VariableSword.label>
+  <NTR_VegFineMeal.label>Вегетарианская деликатесная еда x10</NTR_VegFineMeal.label>
+  <NTR_VegLavishMeal.label>Вегетарианская обильная еда x10</NTR_VegLavishMeal.label>
+  <NTR_VladimirovMachineGun.label>Владимиров крупнокалиберный пулемет x1</NTR_VladimirovMachineGun.label>
+  <NTR_VoidsightSerum.label>Сыворотка Бездны x5</NTR_VoidsightSerum.label>
+  <NTR_VykhlopRifle.label>Винтовка Выхлопа x1</NTR_VykhlopRifle.label>
+  <NTR_WakeUp.label>создать Пробудин x1</NTR_WakeUp.label>
+  <NTR_WakeUp_Batch.label>создать Пробудин x4</NTR_WakeUp_Batch.label>
+  <NTR_Warhead.label>Антигрейновая боеголовка</NTR_Warhead.label>
+  <NTR_Wasabi.label>Васаби x10</NTR_Wasabi.label>
+  <NTR_Weapon_GrenadeEMP.label>ЭМИ-гранаты</NTR_Weapon_GrenadeEMP.label>
+  <NTR_Weapon_GrenadeFrag.label>Осколочные гранаты</NTR_Weapon_GrenadeFrag.label>
+  <NTR_Weapon_GrenadeMolotov.label>Коктейли Молотова</NTR_Weapon_GrenadeMolotov.label>
+  <NTR_Weapon_GrenadeTox.label>Токсические гранаты</NTR_Weapon_GrenadeTox.label>
+  <NTR_WetwareComputer.label>мокрое ПО компьютер x1</NTR_WetwareComputer.label>
+  <NTR_Wood.label>Дерево x100</NTR_Wood.label>
+  <NTR_Yayo.label>йейо x1</NTR_Yayo.label>
+  <NTR_Yayo_Batch.label>йейо x4</NTR_Yayo_Batch.label>
+  <NTR_YekaterinRifle.label>Винтовка Екатерины x1</NTR_YekaterinRifle.label>
+  <NTR_ZlobinRevolver.label>ZРевольвер x1</NTR_ZlobinRevolver.label>
+  <NTR_ZlobinRifle.label>ZВинтовка Лобина x1</NTR_ZlobinRifle.label>
+  <NTR_battleClaw.label>Боевой коготь x1</NTR_battleClaw.label>
+  <NanoSmelt_Lite.description>Преобразует выбранные предметы в нанороботов 5 с помощью упрощенного процесса наноплавления.</NanoSmelt_Lite.description>
+  <NanoSmelt_Lite.jobString>Нано-плавка предмет.</NanoSmelt_Lite.jobString>
+  <NanoSmelt_Lite.label>переплавляет материалы в наноботов</NanoSmelt_Lite.label>
+  <RemoveNT_BeautyImplant.description>Извлечь имплант красоты</RemoveNT_BeautyImplant.description>
+  <RemoveNT_BeautyImplant.jobString>Извлекает имплант красоты.</RemoveNT_BeautyImplant.jobString>
+  <RemoveNT_BeautyImplant.label>извлечь имплант красоты</RemoveNT_BeautyImplant.label>
+  <RemoveNT_FeelGoodImplant.description>Извлечение имплантата хорошего настроения.</RemoveNT_FeelGoodImplant.description>
+  <RemoveNT_FeelGoodImplant.jobString>Извлечение имплантата хорошего настроения.</RemoveNT_FeelGoodImplant.jobString>
+  <RemoveNT_FeelGoodImplant.label>извлечь имплант хорошего настроения</RemoveNT_FeelGoodImplant.label>
+  <RemoveNT_HermesImplant.description>Извлекает имплантат Гермеса</RemoveNT_HermesImplant.description>
+  <RemoveNT_HermesImplant.jobString>Извлекает имплантат Гермеса.</RemoveNT_HermesImplant.jobString>
+  <RemoveNT_HermesImplant.label>извлечь имплант Гермеса</RemoveNT_HermesImplant.label>
+  <RemoveNT_MechOverlord.description>Извлечение имплантата повелителя механоидов</RemoveNT_MechOverlord.description>
+  <RemoveNT_MechOverlord.jobString>Извлечение имплантата повелителя механоидов.</RemoveNT_MechOverlord.jobString>
+  <RemoveNT_MechOverlord.label>извлечение имплантата повелителя механоидов</RemoveNT_MechOverlord.label>
+  <RemoveNT_NanoSerum.description>Извлекает наносыворотку</RemoveNT_NanoSerum.description>
+  <RemoveNT_NanoSerum.jobString>Извлекает наносыворотку.</RemoveNT_NanoSerum.jobString>
+  <RemoveNT_NanoSerum.label>извлечь наносыворотку</RemoveNT_NanoSerum.label>
+  <RemoveNullBiteImplant.description>Извлечение имплантата нулевого укуса</RemoveNullBiteImplant.description>
+  <RemoveNullBiteImplant.jobString>Извлечение имплантата нулевого укуса.</RemoveNullBiteImplant.jobString>
+  <RemoveNullBiteImplant.label>извлечь имплант нулевого укуса</RemoveNullBiteImplant.label>
+  <RemovePsykerImplant.description>Извлекает имплант псайкера.</RemovePsykerImplant.description>
+  <RemovePsykerImplant.jobString>Извлекает имплант псайкера.</RemovePsykerImplant.jobString>
+  <RemovePsykerImplant.label>извлечь имплант псайкера</RemovePsykerImplant.label>
+  <RemoveRestlessImplant.description>Извлекает имплант «Беспокойный»</RemoveRestlessImplant.description>
+  <RemoveRestlessImplant.jobString>Извлекает имплант «Беспокойный».</RemoveRestlessImplant.jobString>
+  <RemoveRestlessImplant.label>извлечь имплант беспокойства</RemoveRestlessImplant.label>
+  <RemoveStoicImplant.description>Извлекает стоический имплантат</RemoveStoicImplant.description>
+  <RemoveStoicImplant.jobString>Извлекает стоический имплантат.</RemoveStoicImplant.jobString>
+  <RemoveStoicImplant.label>извлечь имплант стоика</RemoveStoicImplant.label>
+  <Remove_SFI.description>Извлекает имплантат сверхплодородности</Remove_SFI.description>
+  <Remove_SFI.jobString>Извлечение имплантата сверхплодородности</Remove_SFI.jobString>
+  <Remove_SFI.label>извлечь имплантат суперфертильности</Remove_SFI.label>
+
+</LanguageData>

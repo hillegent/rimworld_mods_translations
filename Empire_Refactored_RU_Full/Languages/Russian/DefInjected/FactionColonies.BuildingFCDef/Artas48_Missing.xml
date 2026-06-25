@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AmmunitionMines.desc>От кремня для стрел до материалов для пуль и пороха — эти шахты занимают место, которое можно было бы использовать для добычи других ресурсов.</AmmunitionMines.desc>
+  <AnimalBeacon.desc>Архотек-башня, излучающая сигнал, который приманивает дальних животных и успокаивает ближайших.</AnimalBeacon.desc>
+  <AsteroidMagnet.desc>Людям это может не нравиться, но трудно спорить с количеством ресурсов, которое получаешь, когда просто вытягиваешь нужные металлы с неба.</AsteroidMagnet.desc>
+  <CloningLab.desc>Зачем разводить или ловить животных, если их можно просто выращивать в чанах?</CloningLab.desc>
+  <ClothingPrinters.desc>Уберите человеческий фактор целиком! Засыпьте сырьё и смотрите, как каждый предмет одежды печатается цельным бесшовным изделием!</ClothingPrinters.desc>
+  <Construction.desc>Здесь строится здание...</Construction.desc>
+  <DrugDen.desc>Удивительно, какие открытия делают люди в состоянии крайнего опьянения. Иногда эти открытия даже полезны!</DrugDen.desc>
+  <Empty.desc>Нажмите здесь, чтобы построить здание.</Empty.desc>
+  <Farmland.desc>Участок земли для выращивания съедобных растений.</Farmland.desc>
+  <FlintStorage.desc>Хранилище кремня.</FlintStorage.desc>
+  <FoodReconstruction.desc>Никто не любит питательную пасту, но с ароматизаторами и косметическими правками она может выглядеть и ощущаться на вкус как угодно!</FoodReconstruction.desc>
+  <FurHunterCamp.desc>Лагерь для охотников за мехом.</FurHunterCamp.desc>
+  <HamsterWheel.desc>Это немного, но лучше, чем ничего!</HamsterWheel.desc>
+  <IMED.desc>Место для хранения и обслуживания больших уродливых машин, которые пережёвывают камень так, будто это картон.</IMED.desc>
+  <JunkFoodFactory.desc>Быстро, дёшево и вредно. Местные будут жаловаться на качество, но станут слишком нездоровыми, чтобы что-то с этим сделать.</JunkFoodFactory.desc>
+  <LightConverter.desc>Большая ванометрически питаемая архотек-машина, способная превращать свет почти во что угодно неживое. Требует постоянного военного присутствия для защиты от рейдеров.</LightConverter.desc>
+  <LocalZoo.desc>Место, где люди могут разглядывать самых разных животных, проходя через поселение ради развлечения и прибыли!</LocalZoo.desc>
+  <MechSalvage.desc>С правильными инструментами можно не просто крошить мёртвых механоидов, а извлекать их технологии и использовать против них.</MechSalvage.desc>
+  <Mills.desc>Мельницы! Водяные или ветряные — они полезны для множества дел!</Mills.desc>
+  <OrbitalSpaceLaser.desc>Что-то вроде ядерной бомбы, только многоразовое и работающее от солнца.</OrbitalSpaceLaser.desc>
+  <RedlightDistrict.desc>Место, где торговцы и простолюдины могут провести ночь с сомнительными людьми.</RedlightDistrict.desc>
+  <ServantHousing.desc>Слуги — приятное удобство, а больше жилья для них значит, что можно нанять ещё больше!</ServantHousing.desc>
+  <SlavePit.desc>Яма, где спят рабы.</SlavePit.desc>
+  <Smithy.desc>Крепкая кузня и ещё более крепкая наковальня. Идеально для ковки металла в оружие и инструменты.</Smithy.desc>
+  <SubliminalMessageCenter.desc>Вплетает подсознательные послания в местные трансляции поселения.</SubliminalMessageCenter.desc>
+  <SyntheticWoodFactory.desc>Новинка! Космическая эпоха! Не хуже настоящего дерева и точно не винил, честное слово!</SyntheticWoodFactory.desc>
+  <TanningWorkshop.desc>Мастерская для превращения шкур животных в кожу.</TanningWorkshop.desc>
+  <TextileFactory.desc>Шить одежду намного проще, когда большую часть работы делают машины!</TextileFactory.desc>
+  <TransdimensionalMarket.desc>Одно дело — торговать по всей галактике. Другое — построить пылающий обсидиановый монолит для торговли с жителями адского измерения.</TransdimensionalMarket.desc>
+  <TrappedAI.desc>Архотек-ИИ, запертый в закрытой сети. Он совершенно безопасен, если только кто-нибудь его не выпустит.</TrappedAI.desc>
+  <TreeFarm.desc>Хватит обдирать леса до пней — выращивайте свои собственные деревья!</TreeFarm.desc>
+  <UndergroundMine.desc>Копайте вглубь планеты в поисках по-настоящему ценных материалов. Не забудьте поставить подпорки!</UndergroundMine.desc>
+  <UnionOffices.desc>Центральное здание для работы местных профсоюзов. Удивительно, насколько счастливее и трудолюбивее становятся люди, когда с ними хорошо обращаются.</UnionOffices.desc>
+  <WorkerBots.desc>Поставьте роботов выполнять более рутинные задачи вокруг поселения, чтобы людей можно было занять другим.</WorkerBots.desc>
+  <adultEntertainmentCentre.desc>Место, где местные жители могут потратить монету и приятно провести время.</adultEntertainmentCentre.desc>
+  <adventurersGuild.desc>Место, где странствующие искатели приключений могут встретиться и провести ночь.</adventurersGuild.desc>
+  <alchemist.desc>Превратить сталь в золото? Мы найдём способ!</alchemist.desc>
+  <ancientAcademy.desc>Открывает тайны вселенной, которые могут быть правдой, а могут и не быть — но не одновременно!</ancientAcademy.desc>
+  <animalTestingFacility.desc>Лаборатория, где продукцию испытывают на животных. Неэтично, но полезно.</animalTestingFacility.desc>
+  <apartmentHousing.desc>Большой жилой блок для размещения местных рабочих.</apartmentHousing.desc>
+  <apothecary.desc>Делает эликсиры от всех недугов! (Результаты могут отличаться.)</apothecary.desc>
+  <apparelSweatshop.desc>Место, где работают и рабы, и колонисты!</apparelSweatshop.desc>
+  <archotechGenerator.desc>Таинственный генератор, который даже обслуживающие его люди не способны понять, но всё же раздобыли.</archotechGenerator.desc>
+  <artilleryOutpost.desc>Когда это здание построено, в меню армии можно вызвать артиллерийский удар за плату.</artilleryOutpost.desc>
+  <asteroidMiningPlatform.desc>Автоматические горные дроны добывают ресурсы с ближайших астероидов и космического мусора. Гораздо эффективнее планетарной добычи.</asteroidMiningPlatform.desc>
+  <automatedDefenseSystems.desc>Андроиды патрулируют улицы, защищая колонистов от внешних и внутренних угроз.</automatedDefenseSystems.desc>
+  <bailiff.desc>Не принимает оправданий за просрочку ренты.</bailiff.desc>
+  <barracks.desc>Здание для размещения местных войск.</barracks.desc>
+  <batteryPowerStation.desc>Электростанция для хранения излишков выработанной энергии.</batteryPowerStation.desc>
+  <bionicsManufacturingPlant.desc>Фабрика, посвящённая разработке новых бионических протезов.</bionicsManufacturingPlant.desc>
+  <brewer.desc>Варит лучшие этанолы и побочные продукты этанола. Пожалуйста, употребляйте ответственно.</brewer.desc>
+  <carpenter.desc>Делает прекрасную мебель, чтобы предотвратить самые вопиющие военные преступления.</carpenter.desc>
+  <cerealFarmland.desc>Земля для выращивания зерновых культур, способных прокормить больше одной деревни.</cerealFarmland.desc>
+  <cleanEnergyLab.desc>Исследовательская лаборатория, разрабатывающая более эффективные и чистые источники энергии.</cleanEnergyLab.desc>
+  <deforestationCamp.desc>Лагерь, где местные леса лишают всех ресурсов и жизни внутри.</deforestationCamp.desc>
+  <fabricationModules.desc>Производственные отсеки невесомости выпускают оружие и одежду с минимальными отходами.</fabricationModules.desc>
+  <firearmsFactory.desc>Фабрика, выпускающая огнестрельное оружие массовыми партиями.</firearmsFactory.desc>
+  <fletcher.desc>Мастер стрел — лучшего боеприпаса неолита!</fletcher.desc>
+  <forcedWorkCamps.desc>Заставьте заключённых работать и увеличьте производство!</forcedWorkCamps.desc>
+  <furrier.desc>Делает товары из меха и шкур. Не обращайте внимания на странный запах.</furrier.desc>
+  <glitterworldResearchFacility.desc>В этом здании исследователи с инструментами высшего класса ищут ответы на вопросы вселенной.</glitterworldResearchFacility.desc>
+  <grainMill.desc>Мельница, перемалывающая зерно большими жерновами.</grainMill.desc>
+  <granary.desc>Надёжное место для хранения зерна подальше от назойливых крыс.</granary.desc>
+  <habitatRings.desc>Кольца центробежной гравитации размещают рабочих в комфортных условиях имитированной гравитации.</habitatRings.desc>
+  <herbalMedicineFarm.desc>Небольшая ферма для выращивания лекарственных трав.</herbalMedicineFarm.desc>
+  <huntersHut.desc>Охотится в окрестных лесах ради еды. Исчезающие виды особенно вкусны!</huntersHut.desc>
+  <indoorHydroponics.desc>Еда производится в помещении, защищённом от суровости внешнего мира.</indoorHydroponics.desc>
+  <inhouseMercCompany.desc>Казармы собственной наёмнической компании. Она обеспечивает безопасность поселения.</inhouseMercCompany.desc>
+  <intergalacticMarket.desc>Сюда прилетают корабли, выгружают товары, пополняют груз и возвращаются домой.</intergalacticMarket.desc>
+  <jailhouse.desc>Место для содержания преступного сброда.</jailhouse.desc>
+  <lavaLab.desc>Исследовательский центр, посвящённый вулканологии и её возможным практическим применениям.</lavaLab.desc>
+  <lavaPlant.desc>Использует легкодоступную геотермальную энергию вулканически активных областей для выработки энергии.</lavaPlant.desc>
+  <loggingCamp.desc>Лагерь лесозаготовителей. С лесопилкой и всем необходимым!</loggingCamp.desc>
+  <migrantHousing.desc>Местное жильё для временного размещения путешествующих мигрантов.</migrantHousing.desc>
+  <militia.desc>Готовы сражаться за свои семьи, пусть и не слишком эффективно.</militia.desc>
+  <mushfarmer.desc>Поля, приспособленные к местной экосистеме для выращивания грибов на еду и лекарства.</mushfarmer.desc>
+  <mushfarmer.label>Грибные фермы</mushfarmer.label>
+  <navalAcademy.desc>Готовит элитных офицеров для командования флотом. Значительно повышает боеготовность и сокращает перезарядку развертывания.</navalAcademy.desc>
+  <orbitalAcademy.desc>Передовое исследовательское учреждение, расширяющее границы науки в микрогравитации.</orbitalAcademy.desc>
+  <orbitalCommsArray.desc>Ретранслятор дальней связи улучшает дипломатическую координацию и подавляет недовольство пропагандой.</orbitalCommsArray.desc>
+  <orbitalDefenseArray.desc>Тяжёлая оружейная платформа, обеспечивающая подавляющую оборонительную мощь против орбитальных угроз.</orbitalDefenseArray.desc>
+  <orbitalFuelDepot.desc>Хранит и перерабатывает топливо для космических кораблей. Необходим для поддержания орбитальных операций и космических перелётов.</orbitalFuelDepot.desc>
+  <orbitalHydroponicsBay.desc>Беспочвенные камеры выращивания производят еду при искусственном освещении. Необходимы для самодостаточности станции.</orbitalHydroponicsBay.desc>
+  <orbitalLaboratory.desc>Лаборатории микрогравитации позволяют проводить эксперименты, невозможные на планете, развивая медицину и исследования.</orbitalLaboratory.desc>
+  <orbitalLuxurySuites.desc>Премиальные каюты с кроватями искусственной гравитации и дорогими удобствами, импортированными с миров блеска.</orbitalLuxurySuites.desc>
+  <orbitalShipyard.desc>Полноценный сухой док для постройки и ремонта космических кораблей. Ускоряет всё строительство станции.</orbitalShipyard.desc>
+  <orbitalSurfaceOps.desc>Координирует добычу ресурсов на поверхности с орбиты — удалённо управляет стадами и горными работами.</orbitalSurfaceOps.desc>
+  <orbitalTradeHub.desc>Торговый узел, координирующий межзвёздные торговые маршруты и максимизирующий прибыль.</orbitalTradeHub.desc>
+  <orbitalTreeFarm.desc>Герметичные дендрарии выращивают быстрорастущую древесину в атмосферах с повышенным CO2.</orbitalTreeFarm.desc>
+  <perpetualMotionGenerator.desc>Невозможный с точки зрения законов физики генератор, производящий дополнительную энергию на принципе вечного двигателя.</perpetualMotionGenerator.desc>
+  <plagueCamp.desc>Карантинный лагерь для больных и умирающих.</plagueCamp.desc>
+  <pointDefenseBattery.desc>Турели ближнего перехвата защищают станцию от входящих снарядов и абордажных групп.</pointDefenseBattery.desc>
+  <publicMarket.desc>Открытый рынок для обмена товарами.</publicMarket.desc>
+  <quarry.desc>Развороченная земля, используемая для добычи ценной руды.</quarry.desc>
+  <researchLabs.desc>Учёные проводят здесь дни за исследованиями.</researchLabs.desc>
+  <rimazonWarehouse.desc>Склад, полный товаров, подготовленных к отправке.</rimazonWarehouse.desc>
+  <salvageGuild.desc>Гильдия обученных разборщиков, которые обыскивают руины разрушенных и заброшенных поселений, возвращая оружие, одежду и иногда исследовательские заметки.</salvageGuild.desc>
+  <salvageGuild.label>Гильдия разборщиков</salvageGuild.label>
+  <shuttlePort.desc>Небольшой аэропорт, обеспечивающий инфраструктуру для быстрой отправки товаров по планете. Позволяет отправлять три шаттла за каждый налоговый цикл.</shuttlePort.desc>
+  <slaveMarket.desc>Нужна бесплатная рабочая сила?</slaveMarket.desc>
+  <slavePlantation.desc>Рабы работают здесь на полях.</slavePlantation.desc>
+  <soilFixer.desc>Восстанавливает плодородие повреждённой и истощённой почвы Шрамоземья.</soilFixer.desc>
+  <solarCollectionArray.desc>Массивные солнечные панели без атмосферных помех собирают энергию прямо от звезды. Питают станцию и дают избыток энергии.</solarCollectionArray.desc>
+  <solarPlant.desc>Солнечная электростанция для дополнительной выработки энергии.</solarPlant.desc>
+  <spaceDistillery.desc>Ферментация в микрогравитации производит уникальные соединения химтоплива и экзотические товары.</spaceDistillery.desc>
+  <stoneMason.desc>Днём — ремесленник по камню, ночью — владыка мира.</stoneMason.desc>
+  <tradingPost.desc>Небольшой форпост, который часто посещают странствующие торговцы.</tradingPost.desc>
+  <trainingYard.desc>Место для тренировки ваших солдат.</trainingYard.desc>
+  <wildernessGuild.desc>Гильдия, посвящённая укрощению дикой природы.</wildernessGuild.desc>
+  <woodcutter.desc>Местный дровосек, использующий каменные инструменты для валки деревьев и обработки древесины.</woodcutter.desc>
+  <woodcutter.label>Дровосек</woodcutter.label>
+  <woodgatherer.desc>Сборщик и фуражир, специализирующийся на свободной древесине: упавших ветках и плавнике.</woodgatherer.desc>
+  <woodgatherer.label>Сборщик древесины</woodgatherer.label>
+  <workforceQuarters.desc>Функциональные общежития с иллюминаторами на звёзды. Размещают дополнительных рабочих станции.</workforceQuarters.desc>
+
+</LanguageData>
