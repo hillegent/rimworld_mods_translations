@@ -14,7 +14,27 @@ TmFub2NoZXN0    0J3QsNC90L7RgdGD0L3QtNGD0Lo=
 
 Этот файл нужен игре. Его руками редактировать не надо.
 
-## Самый простой способ
+## Самый простой способ: двойной клик
+
+В корне репозитория есть три файла:
+
+```text
+1_Decode_HardcodedStrings.cmd
+2_Encode_HardcodedStrings.cmd
+3_Validate_HardcodedStrings.cmd
+```
+
+Порядок работы:
+
+1. Дважды кликни `1_Decode_HardcodedStrings.cmd`.
+2. Открой нужный `HardcodedStrings.edit.json` в VS Code.
+3. Правь только поле `translation`.
+4. Дважды кликни `2_Encode_HardcodedStrings.cmd`.
+5. Дважды кликни `3_Validate_HardcodedStrings.cmd`.
+
+Если окно пишет `All checks passed`, всё готово.
+
+## Способ через VS Code tasks
 
 1. Открой репозиторий в VS Code.
 2. Нажми `Terminal -> Run Task...`.
@@ -57,7 +77,7 @@ Hardcoded strings: Validate
 
 Если ошибок нет, файл готов для коммита.
 
-## Команды вручную
+## Команды вручную через терминал
 
 Из корня репозитория:
 

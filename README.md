@@ -21,3 +21,11 @@
 Если нужно править `HardcodedStrings.tsv`, не редактируйте base64 руками. Для этого есть простой инструмент и VS Code tasks:
 
 [Инструкция по HardcodedStrings](Tools/README_HardcodedStrings.md)
+
+Самый простой вариант: запустить по очереди файлы в корне репозитория:
+
+```text
+1_Decode_HardcodedStrings.cmd
+2_Encode_HardcodedStrings.cmd
+3_Validate_HardcodedStrings.cmd
+```
