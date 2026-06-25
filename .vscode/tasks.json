@@ -1,0 +1,61 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Hardcoded strings: List files",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}\\Tools\\HardcodedStringsTool.ps1",
+        "list"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "Hardcoded strings: Decode TSV to editable JSON",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}\\Tools\\HardcodedStringsTool.ps1",
+        "decode"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "Hardcoded strings: Encode editable JSON to TSV",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}\\Tools\\HardcodedStringsTool.ps1",
+        "encode"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "Hardcoded strings: Validate",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}\\Tools\\HardcodedStringsTool.ps1",
+        "validate"
+      ],
+      "problemMatcher": []
+    }
+  ]
+}

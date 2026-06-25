@@ -15,3 +15,9 @@
 | `Worksites_Expanded_RU_Full` | Worksites Expanded - полный русский перевод | Worksites Expanded, Steam ID `3687071198` |
 
 Автор переводов: Artas48.
+
+## Редактирование хардкода
+
+Если нужно править `HardcodedStrings.tsv`, не редактируйте base64 руками. Для этого есть простой инструмент и VS Code tasks:
+
+[Инструкция по HardcodedStrings](Tools/README_HardcodedStrings.md)

@@ -1,0 +1,446 @@
+{
+    "help":  "Правьте только поле translation. Поле original нужно оставлять как есть, иначе игра не найдет исходную C# строку.",
+    "source":  "HardcodedStrings.tsv",
+    "entries":  [
+                    {
+                        "original":  "Nanochest",
+                        "translation":  "Наносундук"
+                    },
+                    {
+                        "original":  "Mech Booster",
+                        "translation":  "Бустер механоидов"
+                    },
+                    {
+                        "original":  "Obelisk (Gen)",
+                        "translation":  "Обелиск (осн.)"
+                    },
+                    {
+                        "original":  "Obelisk (Tgt)",
+                        "translation":  "Обелиск (цели)"
+                    },
+                    {
+                        "original":  "Obelisk (Adv)",
+                        "translation":  "Обелиск (доп.)"
+                    },
+                    {
+                        "original":  "Misc",
+                        "translation":  "Прочее"
+                    },
+                    {
+                        "original":  "Settings",
+                        "translation":  "Настройки"
+                    },
+                    {
+                        "original":  "Reset Defaults",
+                        "translation":  "Сбросить"
+                    },
+                    {
+                        "original":  "All settings reset to defaults.",
+                        "translation":  "Все настройки сброшены по умолчанию."
+                    },
+                    {
+                        "original":  "Apply Changes (Update Defs)",
+                        "translation":  "Применить изменения"
+                    },
+                    {
+                        "original":  "Settings Applied to Defs!",
+                        "translation":  "Настройки применены к дефам!"
+                    },
+                    {
+                        "original":  "Nanochest Storage",
+                        "translation":  "Хранилище наносундука"
+                    },
+                    {
+                        "original":  "Max Items per Cell (1-9999):",
+                        "translation":  "Макс. предметов в клетке (1-9999):"
+                    },
+                    {
+                        "original":  "If it doesn\u0027t work right away, try saving and loading your game.",
+                        "translation":  "Если не сработает сразу, сохраните и загрузите игру."
+                    },
+                    {
+                        "original":  "Mech Booster Settings",
+                        "translation":  "Настройки бустера механоидов"
+                    },
+                    {
+                        "original":  "Range (Max 79.8):",
+                        "translation":  "Радиус (макс. 79.8):"
+                    },
+                    {
+                        "original":  "Scan Interval (Ticks):",
+                        "translation":  "Интервал сканирования (тики):"
+                    },
+                    {
+                        "original":  "Linger Ticks:",
+                        "translation":  "Время удержания (тики):"
+                    },
+                    {
+                        "original":  "Affect Non-Hostile Allies",
+                        "translation":  "Затрагивать не враждебных союзников"
+                    },
+                    {
+                        "original":  "The Obelisk (Base Stats)",
+                        "translation":  "Обелиск (базовые параметры)"
+                    },
+                    {
+                        "original":  "Radius (Max 79.8):",
+                        "translation":  "Радиус (макс. 79.8):"
+                    },
+                    {
+                        "original":  "Pulse Interval (Ticks):",
+                        "translation":  "Интервал импульса (тики):"
+                    },
+                    {
+                        "original":  "Enable Visual Mote Effect",
+                        "translation":  "Включить визуальный эффект"
+                    },
+                    {
+                        "original":  "Show Inspect Summary",
+                        "translation":  "Показывать сводку при осмотре"
+                    },
+                    {
+                        "original":  "Heal Amounts per Pulse",
+                        "translation":  "Объем лечения за импульс"
+                    },
+                    {
+                        "original":  "Building HP:",
+                        "translation":  "HP построек:"
+                    },
+                    {
+                        "original":  "Item/Apparel HP:",
+                        "translation":  "HP предметов/одежды:"
+                    },
+                    {
+                        "original":  "Pawn HP (Distributed):",
+                        "translation":  "HP пешек (распределяется):"
+                    },
+                    {
+                        "original":  "Targets - Who gets healed/repaired?",
+                        "translation":  "Цели - кого лечить/чинить?"
+                    },
+                    {
+                        "original":  "\u003cb\u003ePawns (Creatures/Mechs)\u003c/b\u003e",
+                        "translation":  "\u003cb\u003eПешки (существа/механоиды)\u003c/b\u003e"
+                    },
+                    {
+                        "original":  "Colonists",
+                        "translation":  "Колонисты"
+                    },
+                    {
+                        "original":  "Animals",
+                        "translation":  "Животные"
+                    },
+                    {
+                        "original":  "Allies",
+                        "translation":  "Союзники"
+                    },
+                    {
+                        "original":  "Hostiles",
+                        "translation":  "Враги"
+                    },
+                    {
+                        "original":  "Mechanoids",
+                        "translation":  "Механоиды"
+                    },
+                    {
+                        "original":  "Prisoners",
+                        "translation":  "Пленники"
+                    },
+                    {
+                        "original":  "\u003cb\u003eBuildings\u003c/b\u003e",
+                        "translation":  "\u003cb\u003eПостройки\u003c/b\u003e"
+                    },
+                    {
+                        "original":  "Repair Buildings (Master Switch)",
+                        "translation":  "Чинить постройки (главный переключатель)"
+                    },
+                    {
+                        "original":  "Colonist Building",
+                        "translation":  "Постройки колонии"
+                    },
+                    {
+                        "original":  "Allied Building",
+                        "translation":  "Постройки союзников"
+                    },
+                    {
+                        "original":  "Neutral Building",
+                        "translation":  "Нейтральные постройки"
+                    },
+                    {
+                        "original":  "Hostile Building",
+                        "translation":  "Вражеские постройки"
+                    },
+                    {
+                        "original":  "Ruins (No Faction)",
+                        "translation":  "Руины (без фракции)"
+                    },
+                    {
+                        "original":  "Mineables (Ores)",
+                        "translation":  "Добываемое (руды)"
+                    },
+                    {
+                        "original":  "Natural Rocks (Walls)",
+                        "translation":  "Природный камень (стены)"
+                    },
+                    {
+                        "original":  "\u003cb\u003eItems\u003c/b\u003e",
+                        "translation":  "\u003cb\u003eПредметы\u003c/b\u003e"
+                    },
+                    {
+                        "original":  "Repair Items on Ground",
+                        "translation":  "Чинить предметы на земле"
+                    },
+                    {
+                        "original":  "Advanced Logic",
+                        "translation":  "Расширенная логика"
+                    },
+                    {
+                        "original":  "Heal Pawns (Master Switch)",
+                        "translation":  "Лечить пешек (главный переключатель)"
+                    },
+                    {
+                        "original":  "Heal Permanent (Scars)",
+                        "translation":  "Лечить постоянные травмы (шрамы)"
+                    },
+                    {
+                        "original":  "Remove Scar if Severity Low",
+                        "translation":  "Убирать шрам при низкой тяжести"
+                    },
+                    {
+                        "original":  "Remove Thresh:",
+                        "translation":  "Порог удаления:"
+                    },
+                    {
+                        "original":  "Heal Diseases",
+                        "translation":  "Лечить болезни"
+                    },
+                    {
+                        "original":  "Severity reduction:",
+                        "translation":  "Снижение тяжести:"
+                    },
+                    {
+                        "original":  "Cure if Severity Low",
+                        "translation":  "Вылечить при низкой тяжести"
+                    },
+                    {
+                        "original":  "Cure Thresh:",
+                        "translation":  "Порог лечения:"
+                    },
+                    {
+                        "original":  "Reduce Anesthetic",
+                        "translation":  "Снижать анестезию"
+                    },
+                    {
+                        "original":  "Anesth. red.:",
+                        "translation":  "Снижение анест.:"
+                    },
+                    {
+                        "original":  "\u003cb\u003eRegenerate Missing Parts\u003c/b\u003e",
+                        "translation":  "\u003cb\u003eВосстановление отсутствующих частей\u003c/b\u003e"
+                    },
+                    {
+                        "original":  "Internal Organs",
+                        "translation":  "Внутренние органы"
+                    },
+                    {
+                        "original":  "External Limbs",
+                        "translation":  "Внешние конечности"
+                    },
+                    {
+                        "original":  "Parts per Pulse:",
+                        "translation":  "Частей за импульс:"
+                    },
+                    {
+                        "original":  "\u003cb\u003eWorn Apparel\u003c/b\u003e",
+                        "translation":  "\u003cb\u003eНадетая одежда\u003c/b\u003e"
+                    },
+                    {
+                        "original":  "Repair Worn Apparel",
+                        "translation":  "Чинить надетую одежду"
+                    },
+                    {
+                        "original":  "HP per pulse:",
+                        "translation":  "HP за импульс:"
+                    },
+                    {
+                        "original":  "\u003cb\u003eEnvironment\u003c/b\u003e",
+                        "translation":  "\u003cb\u003eОкружение\u003c/b\u003e"
+                    },
+                    {
+                        "original":  "Clean Filth",
+                        "translation":  "Убирать грязь"
+                    },
+                    {
+                        "original":  "Stacks per Pulse:",
+                        "translation":  "Стаков за импульс:"
+                    },
+                    {
+                        "original":  "Extinguish Fires",
+                        "translation":  "Тушить пожары"
+                    },
+                    {
+                        "original":  "Size reduction:",
+                        "translation":  "Снижение размера:"
+                    },
+                    {
+                        "original":  "Extinguish Thresh:",
+                        "translation":  "Порог тушения:"
+                    },
+                    {
+                        "original":  "Max Fires/Pulse:",
+                        "translation":  "Макс. пожаров/импульс:"
+                    },
+                    {
+                        "original":  "Misc Settings",
+                        "translation":  "Прочие настройки"
+                    },
+                    {
+                        "original":  "Nanobots Market Value:",
+                        "translation":  "Рыночная стоимость наноботов:"
+                    },
+                    {
+                        "original":  "Choose between 1 and 100000. Recommend around 40 to 60. If the value is too low enemies/bases will spawn with nanotech stuff, if it\u0027s too high might break the wealth system in your game. Choose carefully.",
+                        "translation":  "Выберите от 1 до 100000. Рекомендуется около 40-60. Если значение слишком низкое, враги и базы будут появляться с нанотехнологическими вещами; если слишком высокое, может сломаться система богатства. Выбирайте осторожно."
+                    },
+                    {
+                        "original":  "Nano Turret",
+                        "translation":  "Нанотурель"
+                    },
+                    {
+                        "original":  "Turret Range:",
+                        "translation":  "Дальность турели:"
+                    },
+                    {
+                        "original":  "Some changes might require restart/reload if Apply fails.",
+                        "translation":  "Некоторые изменения могут потребовать перезапуска или перезагрузки, если применение не сработает."
+                    },
+                    {
+                        "original":  "Invalid target.",
+                        "translation":  "Недопустимая цель."
+                    },
+                    {
+                        "original":  "Only humanlikes can use this.",
+                        "translation":  "Использовать могут только гуманоиды."
+                    },
+                    {
+                        "original":  "No skills to train.",
+                        "translation":  "Нет навыков для обучения."
+                    },
+                    {
+                        "original":  "Cannot use.",
+                        "translation":  "Нельзя использовать."
+                    },
+                    {
+                        "original":  "No skills were affected.",
+                        "translation":  "Навыки не были затронуты."
+                    },
+                    {
+                        "original":  "Omni-trainer applied to {((Entity)user).LabelShortCap} ({num} skills affected).",
+                        "translation":  "Омнитренер применен к {((Entity)user).LabelShortCap} (затронуто навыков: {num})."
+                    },
+                    {
+                        "original":  "Omni-trainer applied to ",
+                        "translation":  "Омнитренер применен к "
+                    },
+                    {
+                        "original":  " skills affected).",
+                        "translation":  " навыков затронуто)."
+                    },
+                    {
+                        "original":  "Implant not configured (hediff).",
+                        "translation":  "Имплант не настроен (hediff)."
+                    },
+                    {
+                        "original":  " already has ",
+                        "translation":  " уже имеет "
+                    },
+                    {
+                        "original":  "No valid body part to install on.",
+                        "translation":  "Нет подходящей части тела для установки."
+                    },
+                    {
+                        "original":  "Cannot restore missing ",
+                        "translation":  "Не удалось восстановить отсутствующую часть: "
+                    },
+                    {
+                        "original":  " installed on ",
+                        "translation":  " установлен на "
+                    },
+                    {
+                        "original":  "Emits a restorative nano-field (radius {Props.radius}). Pulses every {(float)Props.tickInterval / 60f:0.#}s.",
+                        "translation":  "Излучает восстанавливающее нанополе (радиус {Props.radius}). Импульс каждые {(float)Props.tickInterval / 60f:0.#} с."
+                    },
+                    {
+                        "original":  "Emits a restorative nano-field (radius ",
+                        "translation":  "Излучает восстанавливающее нанополе (радиус "
+                    },
+                    {
+                        "original":  "). Pulses every ",
+                        "translation":  "). Импульс каждые "
+                    },
+                    {
+                        "original":  "s.",
+                        "translation":  " с."
+                    },
+                    {
+                        "original":  " Heals injuries",
+                        "translation":  " Лечит травмы"
+                    },
+                    {
+                        "original":  " (incl. scars)",
+                        "translation":  " (включая шрамы)"
+                    },
+                    {
+                        "original":  ", cures diseases",
+                        "translation":  ", лечит болезни"
+                    },
+                    {
+                        "original":  ", eases anesthesia",
+                        "translation":  ", снижает анестезию"
+                    },
+                    {
+                        "original":  ". Repairs structures/items",
+                        "translation":  ". Чинит постройки/предметы"
+                    },
+                    {
+                        "original":  " (incl. worn apparel)",
+                        "translation":  " (включая надетую одежду)"
+                    },
+                    {
+                        "original":  ". Cleans filth",
+                        "translation":  ". Убирает грязь"
+                    },
+                    {
+                        "original":  ". Extinguishes fires",
+                        "translation":  ". Тушит пожары"
+                    },
+                    {
+                        "original":  ". Regenerates missing ",
+                        "translation":  ". Восстанавливает отсутствующие "
+                    },
+                    {
+                        "original":  "organs",
+                        "translation":  "органы"
+                    },
+                    {
+                        "original":  "limbs",
+                        "translation":  "конечности"
+                    },
+                    {
+                        "original":  "Recharge",
+                        "translation":  "Зарядить"
+                    },
+                    {
+                        "original":  "Nano charge rate: +{Props.energyPerSecond:0.#}/s",
+                        "translation":  "Скорость нанозарядки: +{Props.energyPerSecond:0.#}/с"
+                    },
+                    {
+                        "original":  " (charging job only)",
+                        "translation":  " (только задание зарядки)"
+                    },
+                    {
+                        "original":  " (any mech on pad)",
+                        "translation":  " (любой механоид на площадке)"
+                    }
+                ]
+}
