@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <FCCodexBattleEffHeader>Сырая эффективность по технологическому уровню (до сглаживания):</FCCodexBattleEffHeader>
+  <FCCodexBattleEffRow>{0}: {1}x</FCCodexBattleEffRow>
+  <FCCodexBiomeKeyInfo>Ключевая информация</FCCodexBiomeKeyInfo>
+  <FCCodexBiomeNoSettlements>В этом биоме нельзя основать поселения.</FCCodexBiomeNoSettlements>
+  <FCCodexBiomeResourceColumn>Ресурс</FCCodexBiomeResourceColumn>
+  <FCCodexBiomeResourceProduction>Производство ресурсов</FCCodexBiomeResourceProduction>
+  <FCCodexBiomeSettleable>Можно заселить: {0}</FCCodexBiomeSettleable>
+  <FCCodexBiomeSettlementTypes>Доступные типы поселений</FCCodexBiomeSettlementTypes>
+  <FCCodexBiomeStatModifiers>Модификаторы характеристик</FCCodexBiomeStatModifiers>
+  <FCCodexExploitHeader>Текущие блокировки развертывания:</FCCodexExploitHeader>
+  <FCCodexExploitNoSettlements>Поселений пока нет.</FCCodexExploitNoSettlements>
+  <FCCodexExploitNoneLocked>Нет. Сейчас все поселения могут развертываться.</FCCodexExploitNoneLocked>
+  <FCCodexExploitThresholds>Наступательные развертывания блокируются, когда счастье поселения падает ниже {0}, лояльность ниже {1} или беспорядки поднимаются выше {2}.</FCCodexExploitThresholds>
+  <FCCodexLayerSurface>поверхность</FCCodexLayerSurface>
+  <FCCodexNonIncomeHeader>Текущие запасы империи:</FCCodexNonIncomeHeader>
+  <FCCodexNonIncomeNoPools>Ваши поселения еще не внесли ресурсы ни в один запас. Они появятся здесь после первого сбора налогов.</FCCodexNonIncomeNoPools>
+  <FCCodexNonIncomePowerOutput>Выработка энергии: {0} Вт</FCCodexNonIncomePowerOutput>
+  <FCCodexNonIncomeResearchPool>Запас исследований: {0} очков</FCCodexNonIncomeResearchPool>
+  <FCCodexPolicyEdicts>Активные указы:</FCCodexPolicyEdicts>
+  <FCCodexPolicyNone>(нет)</FCCodexPolicyNone>
+  <FCCodexPolicyPolicies>Активные политики:</FCCodexPolicyPolicies>
+  <FCCodexPolicyTraits>Черты фракции:</FCCodexPolicyTraits>
+  <FCCodexRaidAvgMilLevel>Средний военный уровень: {0}</FCCodexRaidAvgMilLevel>
+  <FCCodexRaidEarlyCapActive>Раннее ограничение: рейды ограничены примерно уровнем {0} (осталось дней: {1}).</FCCodexRaidEarlyCapActive>
+  <FCCodexRaidEarlyCapInactive>Раннее ограничение больше не действует. Рейды приходят с полной силой фракции.</FCCodexRaidEarlyCapInactive>
+  <FCCodexRaidNoSettlements>Нет поселений - рейдов пока нет.</FCCodexRaidNoSettlements>
+  <FCCodexRaidNotStarted>Рейды еще не начались (начнутся примерно через {0} дн.).</FCCodexRaidNotStarted>
+  <FCCodexRaidTargetBand>Предпочтительный уровень атакующих: {0}-{1}</FCCodexRaidTargetBand>
+  <FCCodexSelectBiome>Выберите биом слева, чтобы посмотреть подробности.</FCCodexSelectBiome>
+  <FCCodexSocialDeployLocked>(наступательные развертывания заблокированы: мораль слишком низкая)</FCCodexSocialDeployLocked>
+  <FCCodexSocialHappiness>Счастье: {0}</FCCodexSocialHappiness>
+  <FCCodexSocialHeader>Социальные показатели поселений</FCCodexSocialHeader>
+  <FCCodexSocialLoyalty>Лояльность: {0}</FCCodexSocialLoyalty>
+  <FCCodexSocialNoSettlements>Поселений пока нет. Основайте поселение, чтобы увидеть здесь его социальные показатели.</FCCodexSocialNoSettlements>
+  <FCCodexSocialProsperity>Процветание: {0}</FCCodexSocialProsperity>
+  <FCCodexSocialUnrest>Беспорядки: {0}</FCCodexSocialUnrest>
+  <FCCodexTabBiomes>Биомы</FCCodexTabBiomes>
+  <FCCodexTechCurrent>Текущий технологический уровень империи: {0}</FCCodexTechCurrent>
+  <FCCodexTechMirrorOn>Технологический уровень привязан к уровню вашей фракции (настройка зеркалирования включена).</FCCodexTechMirrorOn>
+  <FCCodexTechNext>Это исследование откроет следующий уровень: {0}</FCCodexTechNext>
+</LanguageData>

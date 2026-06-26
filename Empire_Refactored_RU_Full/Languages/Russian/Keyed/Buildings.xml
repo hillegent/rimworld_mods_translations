@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 
-  <!-- Строительство зданий -->
+
   <FCConstructBuilding>Построить здание</FCConstructBuilding>
   <FCConstruct>Построить</FCConstruct>
   <FCBuild>Возвести</FCBuild>
@@ -11,7 +11,7 @@
   <Empire_BuildingWindow_ConstructionDesc>В данный момент строится: {0}</Empire_BuildingWindow_ConstructionDesc>
   <FCBuildTime>Время постройки: {0}</FCBuildTime>
 
-  <!-- Ограничения на строительство -->
+
   <FCBuildingSurfaceOnly>Это здание можно построить только в наземных поселениях</FCBuildingSurfaceOnly>
   <FCBuildingOrbitalOnly>Это здание можно построить только на орбитальных платформах</FCBuildingOrbitalOnly>
   <FCBuildingInvalidSettlement>{0} нельзя построить в {1}</FCBuildingInvalidSettlement>
@@ -19,26 +19,26 @@
   <FCBuildingBeingBuiltAlreadyType>Здание такого типа уже строится</FCBuildingBeingBuiltAlreadyType>
   <FCBuildingAlreadyConstructed>Там уже строится здание</FCBuildingAlreadyConstructed>
 
-  <!-- Снос зданий -->
+
   <FCDestroy>Уничтожить</FCDestroy>
   <FCDemolish>Снести</FCDemolish>
   <FCDemolishConfirmation>Вы уверены, что хотите снести {0}? Это будет стоить {1} серебра.</FCDemolishConfirmation>
   <FCBuildingDemolished>{0} был снесен</FCBuildingDemolished>
   <FCChangeBuildingButton>Изменить здание</FCChangeBuildingButton>
 
-  <!-- Фильтры зданий -->
+
   <FCBuildingFilterAll>Все</FCBuildingFilterAll>
   <FCBuildingFilterHappiness>Счастье</FCBuildingFilterHappiness>
   <FCBuildingFilterBasetax>Базовый налог</FCBuildingFilterBasetax>
   <FCBuildingFilterWorkers>Рабочие</FCBuildingFilterWorkers>
   <FCBuildingFilterMilitary>Военные</FCBuildingFilterMilitary>
 
-  <!-- Местоположение столицы -->
-  <FCCapitalEstablished>Столица империи основана в {0}! Это место будет использоваться как центр вашей империи.</FCCapitalEstablished>
-  <FCCapitalSeatDisabled>Местоположение столицы отключено. Империя будет использовать запасное место для столицы, если оно доступно.</FCCapitalSeatDisabled>
-  <FCCapitalLost>Столица империи потеряна! Вам следует основать новое местоположение столицы.</FCCapitalLost>
 
-  <!-- Окно зданий -->
+  <FCCapitalEstablished>Столица {1} основана в {0}! Это место будет использоваться как центр вашего {2}.</FCCapitalEstablished>
+  <FCCapitalSeatDisabled>Резиденция столицы отключена. {0} будет использовать резервное место для столицы, если оно доступно.</FCCapitalSeatDisabled>
+  <FCCapitalLost>Столица {0} потеряна! Вам следует основать новую резиденцию столицы.</FCCapitalLost>
+
+
   <Empire_BuildingWindow_Header>Здания — {0}</Empire_BuildingWindow_Header>
   <Empire_BuildingWindow_EmptySlot>Пустой слот для здания</Empire_BuildingWindow_EmptySlot>
   <Empire_BuildingWindow_CurrentBuilding>Текущее здание</Empire_BuildingWindow_CurrentBuilding>
@@ -51,14 +51,26 @@
   <Empire_BuildingWindow_CannotDemolishRequired>Невозможно снести: требуется для {0}</Empire_BuildingWindow_CannotDemolishRequired>
   <Empire_BuildingWindow_SlotUpgrades>Улучшения</Empire_BuildingWindow_SlotUpgrades>
   <FCBuildingUpgrades>Улучшения зданий</FCBuildingUpgrades>
-  <!--[Core] <FCBuildings>Здания</FCBuildings>-->
+
   <FCFacilities>Сооружения</FCFacilities>
   <FCSearchBuildings>Поиск зданий...</FCSearchBuildings>
 
-  <!-- Заблокированные здания -->
+
   <Empire_BuildingWindow_ShowLocked>Показывать заблокированные здания</Empire_BuildingWindow_ShowLocked>
   <Empire_BuildingWindow_TechLocked>Заблокировано — Требуется технология {0} (исследование: {1})</Empire_BuildingWindow_TechLocked>
   <Empire_BuildingWindow_LockedButton>Заблокировано</Empire_BuildingWindow_LockedButton>
   <Empire_BuildingWindow_TechLockedTooltip>Для постройки этого здания требуется исследовать {0}.</Empire_BuildingWindow_TechLockedTooltip>
 
+  <FCCapitalSpotGizmoDescActive>Сейчас это резиденция столицы {0}. Нажмите, чтобы отключить.</FCCapitalSpotGizmoDescActive>
+  <FCCapitalSpotGizmoDescInactive>Нажмите, чтобы сделать это место резиденцией столицы {0}. Эта точка будет использоваться для расчета времени пути и выбора цели событий.</FCCapitalSpotGizmoDescInactive>
+  <FCCapitalSpotGizmoLabel>Назначить столицей {0}</FCCapitalSpotGizmoLabel>
+  <FCCapitalSpotInspectActive>Действующая столица {0}</FCCapitalSpotInspectActive>
+  <FCCapitalSpotInspectInactive>Резиденция столицы (неактивна)</FCCapitalSpotInspectInactive>
+  <FCTaxSpotDisabledMessage>Место доставки налогов отключено. Налоги будут доставляться на резервную налоговую карту, если она задана.</FCTaxSpotDisabledMessage>
+  <FCTaxSpotEnabledMessage>Место доставки налогов задано! Все налоги и товары теперь будут доставляться сюда.</FCTaxSpotEnabledMessage>
+  <FCTaxSpotGizmoDescActive>Это место сейчас является активной точкой доставки налогов. Нажмите, чтобы отключить.</FCTaxSpotGizmoDescActive>
+  <FCTaxSpotGizmoDescInactive>Нажмите, чтобы сделать это место активной точкой доставки налогов для {0}.</FCTaxSpotGizmoDescInactive>
+  <FCTaxSpotGizmoLabel>Назначить место доставки налогов</FCTaxSpotGizmoLabel>
+  <FCTaxSpotInspectActive>Активное место доставки налогов</FCTaxSpotInspectActive>
+  <FCTaxSpotInspectInactive>Место налогов (доставка отключена)</FCTaxSpotInspectInactive>
 </LanguageData>

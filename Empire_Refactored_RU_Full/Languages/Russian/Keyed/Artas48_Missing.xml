@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 
   <ERF_RU_Brightness>Яркость</ERF_RU_Brightness>
@@ -37,19 +37,19 @@
   <FCBuildingInvalidTileMutator>{0} нельзя построить на этой местности</FCBuildingInvalidTileMutator>
   <FCBuildingRemovedByTypeTransition>{0} удалено из-за смены типа поселения в {1}.</FCBuildingRemovedByTypeTransition>
   <FCBuildings>Здания</FCBuildings>
-  <FCCapitalRelocatedDesc>Резиденция столицы вашей Империи обновлена и теперь находится в новом месте.</FCCapitalRelocatedDesc>
-  <FCCapitalRelocatedLabel>Столица Империи перенесена</FCCapitalRelocatedLabel>
+  <FCCapitalRelocatedDesc>Резиденция столицы {0} обновлена и теперь находится в новом месте.</FCCapitalRelocatedDesc>
+  <FCCapitalRelocatedLabel>Столица {0} перенесена</FCCapitalRelocatedLabel>
   <FCCaravanExotic>Экзотические товары</FCCaravanExotic>
   <FCCaravanExoticLocked>Требуется 4-й уровень фракции или политика «Меркантильность».</FCCaravanExoticLocked>
   <FCCaravanExoticTooltip>Редкие и дорогие товары: артефакты, импланты и экзотические материалы.</FCCaravanExoticTooltip>
   <FCCaravanNoneError>Должен быть включён хотя бы один тип каравана.</FCCaravanNoneError>
   <FCCaravanResourceTechLocked>Караваны {0} недоступны при вашем текущем технологическом уровне.</FCCaravanResourceTechLocked>
-  <FCCaravanResourceTooltip>Караван, специализирующийся на товарах ресурса {0}, собранных из общего производства империи.</FCCaravanResourceTooltip>
+  <FCCaravanResourceTooltip>Караван, специализирующийся на товарах ресурса {0}, собранных из производства {1}.</FCCaravanResourceTooltip>
   <FCCaravanSlaver>Работорговец</FCCaravanSlaver>
   <FCCaravanSlaverBlocked>Заблокировано политикой пацифизма или эгалитаризма.</FCCaravanSlaverBlocked>
   <FCCaravanSlaverTooltip>Торгует рабами и нелегальными товарами.</FCCaravanSlaverTooltip>
   <FCCaravanTypes>Типы караванов</FCCaravanTypes>
-  <FCCaravanTypesDesc>Выберите, какие типы торговых караванов будет отправлять ваша империя.</FCCaravanTypesDesc>
+  <FCCaravanTypesDesc>Выберите, какие типы торговых караванов будет отправлять {0}.</FCCaravanTypesDesc>
   <FCCodexBattleDampExample>Пример: исходная эффективность {0}× → сглажена до {1}×</FCCodexBattleDampExample>
   <FCCodexBattleDamping>Сглаживание эффективности: {0}</FCCodexBattleDamping>
   <FCCodexBattleDefAdv>Преимущество защитника: {0}× (бонус силы {1}%)</FCCodexBattleDefAdv>
@@ -139,7 +139,7 @@
   <FCCodexSelectEntry>Выберите запись слева, чтобы посмотреть подробности.</FCCodexSelectEntry>
   <FCCodexSelectResource>Выберите ресурс слева, чтобы посмотреть подробности.</FCCodexSelectResource>
   <FCCodexSelectSettlement>Выберите тип поселения слева, чтобы посмотреть подробности.</FCCodexSelectSettlement>
-  <FCCodexSettlementAllBiomes>Все биомы</FCCodexSettlementAllBiomes>
+  <FCCodexSettlementAllBiomes>Все биомы {0}</FCCodexSettlementAllBiomes>
   <FCCodexSettlementAllowedBiomes>Только разрешены: {0}</FCCodexSettlementAllowedBiomes>
   <FCCodexSettlementBiomes>Ограничения биомов</FCCodexSettlementBiomes>
   <FCCodexSettlementBlockedBiomes>Запрещены: {0}</FCCodexSettlementBlockedBiomes>
@@ -206,9 +206,9 @@
 После прохождения одного дня основное значение переключится на среднее за период — именно оно будет выплачено при сборе налогов.</FCPeriodAverageTooltipNone>
   <FCReformCaravanBattleStillActive>Бой не закончится, пока все враги не погибнут или не покинут карту.</FCReformCaravanBattleStillActive>
   <FCReset>Сбросить</FCReset>
-  <FCRoadSegmentsBuilt>Поселения вашей Империи построили новые сегменты {0}, соединяющие ваши территории.</FCRoadSegmentsBuilt>
+  <FCRoadSegmentsBuilt>Поселения {0} построили новые участки {1}, соединяющие ваши территории.</FCRoadSegmentsBuilt>
   <FCSettingEdgesPerRoadTick>Рёбер за тик дорог</FCSettingEdgesPerRoadTick>
-  <FCSettingEventOptionDelay>Защита от случайного нажатия вариантов события: {0} с</FCSettingEventOptionDelay>
+  <FCSettingEventOptionDelay>Защита от случайного нажатия вариантов события</FCSettingEventOptionDelay>
   <FCSettingFlushRoadCache>Очистить кэш путей дорог</FCSettingFlushRoadCache>
   <FCSettingRoadBuilderDesc>Строитель дорог автоматически соединяет поселения вашей Империи дорогами по алгоритму минимального остовного дерева, который пересчитывается при следующих событиях:
  - каждый раз, когда поселение основано или потеряно

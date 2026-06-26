@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 
-  <!-- Действия атаки/рейда/захвата -->
+
   <FCAttackSettlement>Атаковать поселение</FCAttackSettlement>
   <FCCaptureSettlement>Захватить поселение</FCCaptureSettlement>
   <FCEnslavePopulation>Поработить население</FCEnslavePopulation>
@@ -10,7 +10,7 @@
   <FCRaidFloatMenuOption>Попытаться ограбить, используя военные силы {0} (Уровень {1}).</FCRaidFloatMenuOption>
   <FCEnslaveFloatMenuOption>Попытаться поработить, используя военные силы {0} (Уровень {1}).</FCEnslaveFloatMenuOption>
 
-  <!-- Уведомления об атаках -->
+
   <FCSettlementAboutToBeAttacked>{0} вот-вот будет атакован фракцией {1}</FCSettlementAboutToBeAttacked>
   <settlementAttackEstimate>Предполагаемая мощь врага: {0}\nТекущая мощь обороны: {1}</settlementAttackEstimate>
   <FCSettlementInDanger>Поселение в опасности</FCSettlementInDanger>
@@ -21,7 +21,7 @@
   <FCSettlementNotBeingAttacked>Поселение не атаковано</FCSettlementNotBeingAttacked>
   <FCTargetAlreadyBeingAttacked>Цель уже атакуется</FCTargetAlreadyBeingAttacked>
 
-  <!-- Уведомления об отправке военных -->
+
   <FCMilitarySent>Военные отправлены</FCMilitarySent>
   <FCMilitarySentToDefend>Военные силы {0} были отправлены защищать {1}</FCMilitarySentToDefend>
   <FCMilitaryAlreadyAssigned>Военная сила уже назначена.</FCMilitaryAlreadyAssigned>
@@ -33,7 +33,7 @@
   <FCMilitaryCooldown>Военные силы {0} снова готовы к использованию</FCMilitaryCooldown>
   <FCNoFactionForMilitary>Нельзя создать военные силы без фракции!</FCNoFactionForMilitary>
 
-  <!-- Результаты рейда/захвата -->
+
   <FCRaidLoot>Награбленное</FCRaidLoot>
   <FCRaidEnemySettlementSuccess>Рейд на {0} успешно завершен</FCRaidEnemySettlementSuccess>
   <FCRaidFailure>Провал рейда</FCRaidFailure>
@@ -43,7 +43,7 @@
   <FCOverwhelmingVictory>Подавляющая победа</FCOverwhelmingVictory>
   <FCOverwhelmingVictoryDesc>Благодаря подавляющей победе ваших военных сил, они все еще доступны для развертывания.</FCOverwhelmingVictoryDesc>
 
-  <!-- Оборона -->
+
   <FCDefenseSuccessful>Оборона успешна</FCDefenseSuccessful>
   <FCDefenseSuccessfulFull>Оборона {0} была успешной!</FCDefenseSuccessfulFull>
   <FCDefenseFailure>Провал обороны</FCDefenseFailure>
@@ -53,8 +53,8 @@
   <FCDefendColony>Защищать</FCDefendColony>
   <FCDefendColonyDesc>Защитить ваше поселение вручную</FCDefendColonyDesc>
   <FCDefendSettlement>Назначить обороняющую силу</FCDefendSettlement>
-  <FCSettlementDefendingInformation>Поселение защищает: {0} - Мощь {1}</FCSettlementDefendingInformation>
-  <FCResetToHomeSettlement>Сбросить на оборону домашнего поселения - Мощь {0}</FCResetToHomeSettlement>
+  <FCSettlementDefendingInformation>Поселение защищает: {0} - сила {1} - победа: {2}%</FCSettlementDefendingInformation>
+  <FCResetToHomeSettlement>Сбросить к обороне домашнего поселения - сила {0} - победа: {1}%</FCResetToHomeSettlement>
   <FCChangeDefendingForce>Изменить обороняющую силу</FCChangeDefendingForce>
   <FCMilitaryAlreadyDefendingSettlement>Эта военная сила уже защищает цель</FCMilitaryAlreadyDefendingSettlement>
   <FCDefendingMilitaryReset>Защищающая военная сила сброшена как сила обороны поселения</FCDefendingMilitaryReset>
@@ -66,7 +66,7 @@
   <FCHybridBattleEnabledNoManualFight>Включен гибридный режим боя. Отправьте караван в это поселение до атаки, чтобы сражаться вручную.</FCHybridBattleEnabledNoManualFight>
   <FCSettlementAttackHybridHint>Отправьте караван в это поселение до начала атаки, чтобы сражаться вручную.</FCSettlementAttackHybridHint>
 
-  <!-- Ущерб от рейда -->
+
   <FCDefenseFailurePenaltiesHeader>Полученные штрафы:</FCDefenseFailurePenaltiesHeader>
   <FCDefenseFailureProsperityLoss>Процветание: -{0}</FCDefenseFailureProsperityLoss>
   <FCDefenseFailureHappinessLoss>Счастье: -{0}</FCDefenseFailureHappinessLoss>
@@ -78,14 +78,14 @@
   <FCScorchedEarthCollateralHeader>Оборона {0} была успешной, но доктрина выжженной земли нанесла сопутствующий ущерб:</FCScorchedEarthCollateralHeader>
   <FCInjuredCaravanMembersReturning>{0} раненых членов каравана транспортируются домой. Предполагаемое прибытие: через {1} дней.</FCInjuredCaravanMembersReturning>
 
-  <!-- Завершение битвы -->
+
   <FCEndingAttack>Завершение атаки...</FCEndingAttack>
   <FCErrorEndingAttack>Ошибка завершения атаки</FCErrorEndingAttack>
   <FCErrorEndingAttackDescription>Возникла проблема при завершении атаки. Скорее всего, карта не была удалена правильно.
 		Пожалуйста, сообщите об этом, если ваши отправленные на защиту колонисты не вернутся или ваши военные силы не выйдут из перезарядки.
 	</FCErrorEndingAttackDescription>
 
-  <!-- Развертывание -->
+
   <FCSendToSettlement>Отправить в поселение</FCSendToSettlement>
   <FCNotEnoughSilverToDeploySquad>У вас недостаточно серебра для повторного развертывания этого отряда!</FCNotEnoughSilverToDeploySquad>
   <FCXDaysToRedeploy>{0} дней осталось до обновления возможности повторного развертывания отрядов</FCXDaysToRedeploy>
@@ -101,10 +101,10 @@
   <FCSelectedPosOutOfBounds>Выбранная позиция находится за пределами этой карты!</FCSelectedPosOutOfBounds>
   <FCSelectedPosTooCloseToEdge>Выбранная позиция слишком близко к краю карты!</FCSelectedPosTooCloseToEdge>
   <FCDeploymentSuccessLabel>Военные развернуты</FCDeploymentSuccessLabel>
-  <FCDeploymentSuccessDesc>Военные силы {0} были развернуты в {1}</FCDeploymentSuccessDesc>
+  <FCDeploymentSuccessDesc>Отряд {0} из {1} был развернут в {2}.\n\nРазвертывание стоило {3} серебра. Счет на эту сумму выставлен и должен быть оплачен в течение {4} дн.</FCDeploymentSuccessDesc>
   <FCMilitaryPawnsLeavingTimeOut>Отряд покидает карту, так как его доступное время истекло!</FCMilitaryPawnsLeavingTimeOut>
 
-  <!-- Команды битвы -->
+
   <FCCommandAttack>Атаковать</FCCommandAttack>
   <FCAttackSuccess>{0} атакуют врага.</FCAttackSuccess>
   <FCCommandMove>Переместиться</FCCommandMove>
@@ -112,12 +112,12 @@
   <FCCommandLeave>Покинуть</FCCommandLeave>
   <FCLeaveSuccess>{0} покидают карту. {1} мертвых.</FCLeaveSuccess>
 
-  <!-- Огневая поддержка -->
+
   <FCFireSupportSelectPosition>Выбрать позицию для артиллерии</FCFireSupportSelectPosition>
   <FCFireSupportNameWillBeFiredOnPosition>По {0} скоро будет нанесен удар по отмеченной позиции!</FCFireSupportNameWillBeFiredOnPosition>
   <FCFireSupportNoSilver>У вас недостаточно серебра для оплаты удара!</FCFireSupportNoSilver>
 
-  <!-- Развертывание -->
+
   <FCDeploySecondarySquad>Развернуть дополнительный отряд - ${0} серебра</FCDeploySecondarySquad>
   <FCNotEnoughSilverFireSupport>У вас недостаточно серебра для использования этого варианта огневой поддержки!</FCNotEnoughSilverFireSupport>
   <FCFireSupportCooldown>Этот вариант огневой поддержки перезаряжается еще {0}</FCFireSupportCooldown>
@@ -126,7 +126,7 @@
   <FCNoFireSupportsMade>В данный момент нет доступных средств огневой поддержки. Создайте их</FCNoFireSupportsMade>
   <FCAssaultBeginning>Штурм начинается!</FCAssaultBeginning>
 
-  <!-- Военная таблица -->
+
   <FCMilitary>Военные</FCMilitary>
   <FCMilitaryLevel>Воен. уровень</FCMilitaryLevel>
   <FCMilitaryTableMilitaryBudget>Военный бюджет</FCMilitaryTableMilitaryBudget>
@@ -141,7 +141,7 @@
   <FCUnsupportedMilJobError>Выбранное задание для этого пункта меню не имеет зарегистрированных ключей перевода в AddButtonsToNonEmpireObjects.MilJobOptionStringsDic</FCUnsupportedMilJobError>
   <FCDebugRemoveAllCommand>[Отладка] Удалить все</FCDebugRemoveAllCommand>
 
-  <!-- UI карточки военных -->
+
   <FCMilSquadPrefix>Отряд</FCMilSquadPrefix>
   <FCMilFireSupportCooldownShort>Огневая поддержка</FCMilFireSupportCooldownShort>
   <FCMilitarySettlementCount>{0} поселений</FCMilitarySettlementCount>
@@ -164,6 +164,270 @@
   <FCMilBtnFireSupportTip>Вызвать артиллерийскую огневую поддержку</FCMilBtnFireSupportTip>
   <FCMilBtnAutoDefendTip>Автоматически отправлять силы этого поселения для защиты других атакованных поселений</FCMilBtnAutoDefendTip>
   <FCMilAutoDefendDisabled>Военный уровень этого поселения слишком низок для автоматической защиты. Улучшите поселение, чтобы повысить его военный уровень.</FCMilAutoDefendDisabled>
-  <FCMilBadge>Атк {0} / Защ {1}  •  ${2}</FCMilBadge>
+  <FCMilBadge>Защ {0}  •  Макс. разверт.: ${1}</FCMilBadge>
 
+  <FCAssignSquadPickerCurrentSlot>Текущий обитатель слота: {0}</FCAssignSquadPickerCurrentSlot>
+  <FCAssignSquadPickerMaxDeploy>Макс. стоимость развертывания отряда: ${0}</FCAssignSquadPickerMaxDeploy>
+  <FCAssignSquadPickerSlotEmpty>Слот пуст</FCAssignSquadPickerSlotEmpty>
+  <FCAssignSquadPickerStationed>Размещено: {0} / {1}</FCAssignSquadPickerStationed>
+  <FCAssignSquadPickerTitle>Назначить отряд в {0}</FCAssignSquadPickerTitle>
+  <FCAutoBattleCommenced>Бой начался в {0}</FCAutoBattleCommenced>
+  <FCAutoBattleCommencedDesc>Защитники {0} вступили в бой с силами {1}. Поселение остается занятым военной операцией до завершения боя.</FCAutoBattleCommencedDesc>
+  <FCBattleArchiveColDate>Дата</FCBattleArchiveColDate>
+  <FCBattleArchiveColKind>Тип</FCBattleArchiveColKind>
+  <FCBattleArchiveColOurForce>Наша сила</FCBattleArchiveColOurForce>
+  <FCBattleArchiveColOutcome>Исход</FCBattleArchiveColOutcome>
+  <FCBattleArchiveColTarget>Вражеская фракция</FCBattleArchiveColTarget>
+  <FCBattleArchiveCount>Отчетов: {0}</FCBattleArchiveCount>
+  <FCBattleArchiveEmpty>Боевые отчеты пока не записаны.</FCBattleArchiveEmpty>
+  <FCBattleArchiveForceSuffix> (Сила: {0})</FCBattleArchiveForceSuffix>
+  <FCBattleArchiveMaxEntriesLabel>Макс. боевых отчетов в архиве</FCBattleArchiveMaxEntriesLabel>
+  <FCBattleArchiveMaxEntriesTip>Сколько самых последних боевых отчетов хранить. Старые отчеты удаляются при достижении лимита. Письма, ссылающиеся на удаленный отчет, при нажатии показывают сообщение "больше недоступно".</FCBattleArchiveMaxEntriesTip>
+  <FCBattleArchiveOutcomeCrushingDefeat>Сокрушительное поражение</FCBattleArchiveOutcomeCrushingDefeat>
+  <FCBattleArchiveOutcomeDefeat>Поражение</FCBattleArchiveOutcomeDefeat>
+  <FCBattleArchiveOutcomeOverwhelmingVictory>Полная победа</FCBattleArchiveOutcomeOverwhelmingVictory>
+  <FCBattleArchiveOutcomeVictory>Победа</FCBattleArchiveOutcomeVictory>
+  <FCBattleArchiveSettingsHeader>Архив боев</FCBattleArchiveSettingsHeader>
+  <FCBattleArchiveUnlimited>Безлимитные боевые отчеты</FCBattleArchiveUnlimited>
+  <FCBattleArchiveUnlimitedTip>Хранить все боевые отчеты без ограничения архива. Старые отчеты никогда не удаляются. При долгом прохождении это может увеличить файл сохранения.</FCBattleArchiveUnlimitedTip>
+  <FCBattleColAttacker>Атакующий</FCBattleColAttacker>
+  <FCBattleColDefender>Защитник</FCBattleColDefender>
+  <FCBattleColForce>Сила</FCBattleColForce>
+  <FCBattleColRollFinal>Итог</FCBattleColRollFinal>
+  <FCBattleColRollRaw>Сырой</FCBattleColRollRaw>
+  <FCBattleColRound>Раунд</FCBattleColRound>
+  <FCBattleEfficiencyLine>Эффективность: x{0}</FCBattleEfficiencyLine>
+  <FCBattleForceLine>Сила: {0} / {1}</FCBattleForceLine>
+  <FCBattleNextRoundIn>Следующий раунд через {0} с</FCBattleNextRoundIn>
+  <FCBattlePhaseEngaged>Бой идет</FCBattlePhaseEngaged>
+  <FCBattlePhasePreparing>Подготовка к бою</FCBattlePhasePreparing>
+  <FCBattlePhaseResolved>Бой завершен</FCBattlePhaseResolved>
+  <FCBattlePhaseRolling>Раунд {0} рассчитан</FCBattlePhaseRolling>
+  <FCBattleProgressGizmoDesc>Открыть окно текущего хода боя за это поселение.</FCBattleProgressGizmoDesc>
+  <FCBattleProgressGizmoLabel>Идет бой</FCBattleProgressGizmoLabel>
+  <FCBattleProgressNoBattle>Бой не идет.</FCBattleProgressNoBattle>
+  <FCBattleProgressWindowTitle>Бой за {0}</FCBattleProgressWindowTitle>
+  <FCBattleReportButton>Посмотреть боевой отчет</FCBattleReportButton>
+  <FCBattleReportButtonNumbered>Посмотреть боевой отчет (атака {0})</FCBattleReportButtonNumbered>
+  <FCBattleReportEvicted>Этот боевой отчет был удален из архива.</FCBattleReportEvicted>
+  <FCBattleReportNoRoundDetail>Ручной бой; подробности по раундам не записаны.</FCBattleReportNoRoundDetail>
+  <FCBattleSideAttacker>Атакующий</FCBattleSideAttacker>
+  <FCBattleSideDefender>Защитник</FCBattleSideDefender>
+  <FCCannotDismissBusyMerc>Нельзя уволить {0}: отряд занят</FCCannotDismissBusyMerc>
+  <FCCannotDismissBusySquad>"{0}" занят и сейчас не может быть распущен.</FCCannotDismissBusySquad>
+  <FCCannotReassignBusySquad>"{0}" занят и сейчас не может быть переназначен.</FCCannotReassignBusySquad>
+  <FCCannotUnassignBusySquad>"{0}" занят и сейчас не может быть снят с назначения.</FCCannotUnassignBusySquad>
+  <FCCaptureBlockedFallbackToRaid>Военные силы {0} подавили защитников {1}, но не смогли окончательно нейтрализовать поселение. Отряд забрал доступные припасы и возвращается домой.</FCCaptureBlockedFallbackToRaid>
+  <FCCrushingDefeat>Сокрушительное поражение</FCCrushingDefeat>
+  <FCCrushingDefeatDesc>Ваши военные силы были разбиты, не нанеся ни одной потери. Отряд понес разрушительные потери, и ему понадобится много времени на восстановление.</FCCrushingDefeatDesc>
+  <FCDefenderPickerCurrentDefender>Сейчас защищает: {0} (сила {1})</FCDefenderPickerCurrentDefender>
+  <FCDefenderPickerCurrentExternal>Сейчас защищает: {0} (внешний, сила {1})</FCDefenderPickerCurrentExternal>
+  <FCDefenderPickerExternal>Внешние защитники</FCDefenderPickerExternal>
+  <FCDefenderPickerIncoming>Наступающий атакующий: уровень {0}, эффективность x{1}, сила ~{2}</FCDefenderPickerIncoming>
+  <FCDefenderPickerTiles>клеток</FCDefenderPickerTiles>
+  <FCDefenderPickerTitle>Выберите защитника для {0}</FCDefenderPickerTitle>
+  <FCDefenseAttackPenaltiesEntry>{0} - полученные штрафы:</FCDefenseAttackPenaltiesEntry>
+  <FCDefenseAttackRepelledEntry>  - {0}: атака отбита.</FCDefenseAttackRepelledEntry>
+  <FCDefenseMultiAttackHeader>{0} выдержало {1} отдельных атак в этом бою:</FCDefenseMultiAttackHeader>
+  <FCDeployCost>Стоимость развертывания: ${0}</FCDeployCost>
+  <FCDeploymentSuccessDescNoBill>Отряд {0} из {1} был развернут в {2}.</FCDeploymentSuccessDescNoBill>
+  <FCDialogHireSquadAffordableOnly>Только доступные</FCDialogHireSquadAffordableOnly>
+  <FCDialogHireSquadSilver>Серебро: ${0}</FCDialogHireSquadSilver>
+  <FCDialogPawnLoadoutApply>Сохранить</FCDialogPawnLoadoutApply>
+  <FCDialogPawnLoadoutClose>Закрыть</FCDialogPawnLoadoutClose>
+  <FCDialogPawnLoadoutDivergedSubtitle>Личное снаряжение (связь с шаблоном разорвана)</FCDialogPawnLoadoutDivergedSubtitle>
+  <FCDialogPawnLoadoutInheritedSubtitle>Наследуется от шаблона юнита: {0}</FCDialogPawnLoadoutInheritedSubtitle>
+  <FCDialogPawnLoadoutPickFromPool>Выбрать из шаблона юнита...</FCDialogPawnLoadoutPickFromPool>
+  <FCDialogPawnLoadoutResetToPool>Сбросить к шаблону юнита</FCDialogPawnLoadoutResetToPool>
+  <FCDialogPawnLoadoutTitle>Редактировать пешку: {0}</FCDialogPawnLoadoutTitle>
+  <FCDialogPawnLoadoutTitleEmpty>Редактировать пустой слот</FCDialogPawnLoadoutTitleEmpty>
+  <FCDialogSquadAssignmentAllBusyTip>Все отряды в этом поселении заняты.</FCDialogSquadAssignmentAllBusyTip>
+  <FCDialogSquadAssignmentBudgetLabel>Макс. бюджет развертывания: ${0}</FCDialogSquadAssignmentBudgetLabel>
+  <FCDialogSquadAssignmentCostExceededTip>Стоимость развертывания отряда ${0} превышает максимум этого поселения: ${1}.</FCDialogSquadAssignmentCostExceededTip>
+  <FCDialogSquadAssignmentCostHeader>Стоимость развертывания: ${0}</FCDialogSquadAssignmentCostHeader>
+  <FCDialogSquadAssignmentDisplaceLabel>Заменить {0}</FCDialogSquadAssignmentDisplaceLabel>
+  <FCDialogSquadAssignmentHeader>Переназначить "{0}"</FCDialogSquadAssignmentHeader>
+  <FCDialogSquadAssignmentUnassign>Снять назначение (вернуть в пул)</FCDialogSquadAssignmentUnassign>
+  <FCHireSquadButton>Нанять (${0})</FCHireSquadButton>
+  <FCHireSquadButtonTip>Нанять этот отряд как свежий наемный юнит. Стоимость: {0} серебра.</FCHireSquadButtonTip>
+  <FCHireSquadsCount>Отрядов: {0}</FCHireSquadsCount>
+  <FCHireSquadsEmpty>Нанятых отрядов нет.</FCHireSquadsEmpty>
+  <FCHireSquadsHeader>Пул отрядов</FCHireSquadsHeader>
+  <FCHireSquadsPoolButton>Нанять отряды</FCHireSquadsPoolButton>
+  <FCHireSquadsPoolEdit>Править</FCHireSquadsPoolEdit>
+  <FCHireSquadsPoolEditTip>Открыть этот шаблон в конструкторе отрядов.</FCHireSquadsPoolEditTip>
+  <FCHireSquadsPoolEmpty>Нет созданных шаблонов отрядов. Сначала создайте отряд.</FCHireSquadsPoolEmpty>
+  <FCHireSquadsPoolHeader>Найм отрядов</FCHireSquadsPoolHeader>
+  <FCHireSquadsPoolHeaderAssign>Нанять и назначить в {0}</FCHireSquadsPoolHeaderAssign>
+  <FCHireSquadsPoolNoneAffordable>Нет доступных по цене шаблонов отрядов.</FCHireSquadsPoolNoneAffordable>
+  <FCHireSquadsPoolOverDeploy>Стоимость развертывания ${0} превышает максимум развертывания отряда для {1}: ${2}.</FCHireSquadsPoolOverDeploy>
+  <FCHireSquadsPoolSettlementFull>{0} достигло предела отрядов.</FCHireSquadsPoolSettlementFull>
+  <FCHireSquadsPoolUnits>Юниты: {0}</FCHireSquadsPoolUnits>
+  <FCMercDismiss>Уволить</FCMercDismiss>
+  <FCMercDismissConfirm>Уволить {0}?</FCMercDismissConfirm>
+  <FCMercDismissTip>Уволить этого наемника и очистить слот, чтобы его можно было заполнить заново.</FCMercDismissTip>
+  <FCMercDismissed>Наемник уволен.</FCMercDismissed>
+  <FCMilBtnDeployTipWithCost>Развернуть назначенный отряд в точку на карте. Создаст счет на {0} серебра со сроком {1} дн.</FCMilBtnDeployTipWithCost>
+  <FCMilBtnInspectTip>Осмотреть наемников этого отряда</FCMilBtnInspectTip>
+  <FCMilPowerSource>Источник силы: {0}</FCMilPowerSource>
+  <FCMilPowerSourceNoSquad>Источник силы: нет отряда</FCMilPowerSourceNoSquad>
+  <FCMilPowerSourceNoneAvailable>Источник силы: нет доступного отряда</FCMilPowerSourceNoneAvailable>
+  <FCMilPowerTipAllBusy>Ни один отряд, размещенный в этом поселении, сейчас недоступен. Пока один из них не освободится, это поселение будет защищаться с половинной силой.</FCMilPowerTipAllBusy>
+  <FCMilPowerTipGhost>Защищается с половинной силой, потому что нет назначенного отряда.</FCMilPowerTipGhost>
+  <FCMilPowerTipNoMilitary>У этого типа поселения нет военной вместимости.</FCMilPowerTipNoMilitary>
+  <FCMilPowerTipSquad>Сила от {0}</FCMilPowerTipSquad>
+  <FCMilPowerTipSquadShort>Источник силы: размещенный отряд</FCMilPowerTipSquadShort>
+  <FCMilPowerTipUnderAttack>Это поселение под атакой.</FCMilPowerTipUnderAttack>
+  <FCMilSlotUnderfundedTip>Этот отряд недофинансирован для {0}. Стоимость развертывания ${1} превышает максимум поселения ${2}. Он не может участвовать в военных операциях, пока стоимость не уложится в лимит.</FCMilSlotUnderfundedTip>
+  <FCMilStatusTraveling>Возвращается домой</FCMilStatusTraveling>
+  <FCMilitaryTabBattleReports>Боевые отчеты</FCMilitaryTabBattleReports>
+  <FCMilitaryTabBySettlement>Поселения</FCMilitaryTabBySettlement>
+  <FCMilitaryTabBySquad>Отряды</FCMilitaryTabBySquad>
+  <FCMilitaryTableBaseLevel>Базовый уровень</FCMilitaryTableBaseLevel>
+  <FCMilitaryTableChangeSquad>Сменить</FCMilitaryTableChangeSquad>
+  <FCMilitaryTableInspect>Осмотреть</FCMilitaryTableInspect>
+  <FCMilitaryTableLevelCap>Предел уровня</FCMilitaryTableLevelCap>
+  <FCMilitaryTableNoMilitary>Нет армии</FCMilitaryTableNoMilitary>
+  <FCMilitaryTableSlotEmpty>(пусто)</FCMilitaryTableSlotEmpty>
+  <FCMilitaryTableSlotPrefix>Слот {0}:</FCMilitaryTableSlotPrefix>
+  <FCMilitaryTableSquadsCounter>Отряды: {0} / {1}</FCMilitaryTableSquadsCounter>
+  <FCNewWaveArrived>Новая волна в {0}</FCNewWaveArrived>
+  <FCNewWaveArrivedDesc>Новая волна атакующих из {1} прибыла в {0}! Подкрепления могут быть уже в пути.</FCNewWaveArrivedDesc>
+  <FCNoUnitAvailable>Нет доступных юнитов</FCNoUnitAvailable>
+  <FCOff>Выкл.</FCOff>
+  <FCOn>Вкл.</FCOn>
+  <FCOverwhelmingVictoryRewardLine>Вести о победе достигли {0}, дав +{1} к счастью и +{2} к лояльности.</FCOverwhelmingVictoryRewardLine>
+  <FCSetSquadCurrent>(текущий)</FCSetSquadCurrent>
+  <FCSettlementMilHeader>Отряды: {0} / {1}  •  Макс. размер отряда: {2}</FCSettlementMilHeader>
+  <FCSettlementMilHireAndAssign>Нанять отряд и назначить сюда</FCSettlementMilHireAndAssign>
+  <FCSettlementMilSquadEntry>{0} (автооборона: {1})</FCSettlementMilSquadEntry>
+  <FCSquadActDismiss>Распустить</FCSquadActDismiss>
+  <FCSquadActDismissConfirm>Распустить "{0}"?</FCSquadActDismissConfirm>
+  <FCSquadActDismissSquad>Распустить отряд</FCSquadActDismissSquad>
+  <FCSquadActReassign>Переназначить</FCSquadActReassign>
+  <FCSquadActUpgrade>Улучшить</FCSquadActUpgrade>
+  <FCSquadAssigned>Отряд "{0}" назначен в {1}.</FCSquadAssigned>
+  <FCSquadCannotModifyBusyTip>Отряд нельзя изменить, пока он занят.</FCSquadCannotModifyBusyTip>
+  <FCSquadCannotUpgradeBusy>Отряд занят и сейчас не может быть улучшен.</FCSquadCannotUpgradeBusy>
+  <FCSquadCapReached>{0} уже достигло вместимости отрядов ({1}/{2}).</FCSquadCapReached>
+  <FCSquadColActions>Действия</FCSquadColActions>
+  <FCSquadColBillet>Поселение</FCSquadColBillet>
+  <FCSquadColCost>Стоимость</FCSquadColCost>
+  <FCSquadColDeploymentCost>Стоимость разверт.</FCSquadColDeploymentCost>
+  <FCSquadColEfficiency>Эфф.</FCSquadColEfficiency>
+  <FCSquadColName>Отряд</FCSquadColName>
+  <FCSquadColPower>Сила</FCSquadColPower>
+  <FCSquadColTemplate>Шаблон</FCSquadColTemplate>
+  <FCSquadColTravel>Путь</FCSquadColTravel>
+  <FCSquadColUpgrade>Улучшение</FCSquadColUpgrade>
+  <FCSquadColWinChance>Шанс победы</FCSquadColWinChance>
+  <FCSquadCooldown>Отряд {0} реорганизуется в {1} после последней миссии.</FCSquadCooldown>
+  <FCSquadDeployLockedHappiness>{0} слишком несчастно для развертывания отрядов или рейдов (счастье ниже {1}%). Сначала повысьте счастье.</FCSquadDeployLockedHappiness>
+  <FCSquadDeployLockedLoyalty>{0} слишком нелояльно для развертывания отрядов или рейдов (лояльность ниже {1}%). Сначала повысьте лояльность.</FCSquadDeployLockedLoyalty>
+  <FCSquadDeployLockedUnrest>{0} слишком неспокойно для развертывания отрядов или рейдов (беспорядки выше {1}%). Сначала снизьте беспорядки.</FCSquadDeployLockedUnrest>
+  <FCSquadDismissed>Отряд "{0}" распущен.</FCSquadDismissed>
+  <FCSquadFillSlotsInsufficient>Недостаточно серебра (${0} требуется), чтобы заполнить пустые слоты.</FCSquadFillSlotsInsufficient>
+  <FCSquadHireInsufficientSilver>У вас недостаточно серебра ({0} требуется), чтобы нанять этот отряд.</FCSquadHireInsufficientSilver>
+  <FCSquadHired>Отряд "{0}" нанят за ${1} серебра.</FCSquadHired>
+  <FCSquadInspectionAddUnit>Добавить юнит</FCSquadInspectionAddUnit>
+  <FCSquadInspectionAddUnitBusy>Нельзя добавить юнит, пока отряд занят.</FCSquadInspectionAddUnitBusy>
+  <FCSquadInspectionAddUnitFull>В отряде нет пустых слотов. Сначала увольте юнита.</FCSquadInspectionAddUnitFull>
+  <FCSquadInspectionAddUnitNoBlueprints>Нет сохраненных чертежей юнитов. Сначала создайте один в окне шаблонов юнитов.</FCSquadInspectionAddUnitNoBlueprints>
+  <FCSquadInspectionAddUnitOption>{0} (${1})</FCSquadInspectionAddUnitOption>
+  <FCSquadInspectionAddUnitTip>Нанять нового юнита из сохраненных чертежей юнитов. Сбрасывает связь отряда с шаблоном.</FCSquadInspectionAddUnitTip>
+  <FCSquadInspectionClearTemplate>Очистить шаблон</FCSquadInspectionClearTemplate>
+  <FCSquadInspectionContextSettlementCaption>Домашнее поселение</FCSquadInspectionContextSettlementCaption>
+  <FCSquadInspectionContextSettlementUnassigned>Не назначено</FCSquadInspectionContextSettlementUnassigned>
+  <FCSquadInspectionContextTemplateCaption>Шаблон</FCSquadInspectionContextTemplateCaption>
+  <FCSquadInspectionContextTemplateNone>(нет)</FCSquadInspectionContextTemplateNone>
+  <FCSquadInspectionDivergedTip>У этой пешки личное снаряжение, отличающееся от шаблона юнита. Сбросьте его в редакторе, чтобы восстановить наследование.</FCSquadInspectionDivergedTip>
+  <FCSquadInspectionEditLoadout>Править снаряжение</FCSquadInspectionEditLoadout>
+  <FCSquadInspectionEmptyPawn>(пусто)</FCSquadInspectionEmptyPawn>
+  <FCSquadInspectionFillEmptyNone>Нет пустых слотов</FCSquadInspectionFillEmptyNone>
+  <FCSquadInspectionFillEmptySlots>Заполнить пустые слоты: {0} (${1})</FCSquadInspectionFillEmptySlots>
+  <FCSquadInspectionLoadoutLabel>Снаряжение: {0}</FCSquadInspectionLoadoutLabel>
+  <FCSquadInspectionNoSquad>(отряд не выбран)</FCSquadInspectionNoSquad>
+  <FCSquadInspectionPerSlotFill>Заполнить (${0})</FCSquadInspectionPerSlotFill>
+  <FCSquadInspectionPerSlotRemove>Удалить</FCSquadInspectionPerSlotRemove>
+  <FCSquadInspectionPerSlotRemoveTip>Удалить этот пустой слот из отряда.</FCSquadInspectionPerSlotRemoveTip>
+  <FCSquadInspectionPerSlotUpgrade>Улучшить ${0}</FCSquadInspectionPerSlotUpgrade>
+  <FCSquadInspectionPersonalLoadoutDefaultName>Особое снаряжение</FCSquadInspectionPersonalLoadoutDefaultName>
+  <FCSquadInspectionPickTemplate>Выбрать шаблон</FCSquadInspectionPickTemplate>
+  <FCSquadInspectionPowerLine>Сила: {0} ({1}/{2} слотов)</FCSquadInspectionPowerLine>
+  <FCSquadInspectionRenamePawnTip>Переименовать пешку</FCSquadInspectionRenamePawnTip>
+  <FCSquadInspectionRenameSquadTip>Переименовать отряд</FCSquadInspectionRenameSquadTip>
+  <FCSquadInspectionSettlement>Поселение: {0}</FCSquadInspectionSettlement>
+  <FCSquadInspectionSlotLabel>Слот {0}</FCSquadInspectionSlotLabel>
+  <FCSquadInspectionStatsDeployCaption>Стоимость развертывания</FCSquadInspectionStatsDeployCaption>
+  <FCSquadInspectionStatsDeployLine>${0}</FCSquadInspectionStatsDeployLine>
+  <FCSquadInspectionStatsPowerCaption>Сила</FCSquadInspectionStatsPowerCaption>
+  <FCSquadInspectionStatsPowerLine>{0}</FCSquadInspectionStatsPowerLine>
+  <FCSquadInspectionStatsSlotsCaption>Слоты</FCSquadInspectionStatsSlotsCaption>
+  <FCSquadInspectionStatsSlotsLine>{0} / {1}</FCSquadInspectionStatsSlotsLine>
+  <FCSquadInspectionStatsValueCaption>Текущая стоимость</FCSquadInspectionStatsValueCaption>
+  <FCSquadInspectionStatsValueLine>${0}</FCSquadInspectionStatsValueLine>
+  <FCSquadInspectionStatusDead>Мертв</FCSquadInspectionStatusDead>
+  <FCSquadInspectionStatusDowned>Сбит с ног</FCSquadInspectionStatusDowned>
+  <FCSquadInspectionStatusEmpty>ПУСТО</FCSquadInspectionStatusEmpty>
+  <FCSquadInspectionStatusInjured>Ранен ({0})</FCSquadInspectionStatusInjured>
+  <FCSquadInspectionStatusLabel>Статус: {0}</FCSquadInspectionStatusLabel>
+  <FCSquadInspectionStatusOk>??</FCSquadInspectionStatusOk>
+  <FCSquadInspectionTemplate>Шаблон: {0}</FCSquadInspectionTemplate>
+  <FCSquadInspectionTemplateNone>Шаблон: (нет)</FCSquadInspectionTemplateNone>
+  <FCSquadInspectionTitle>Отряд: {0}</FCSquadInspectionTitle>
+  <FCSquadInspectionUpgradeAll>Улучшить всех (${0})</FCSquadInspectionUpgradeAll>
+  <FCSquadInspectionUpgradeAllNoTemplate>Улучшить всех (нет шаблона)</FCSquadInspectionUpgradeAllNoTemplate>
+  <FCSquadInspectionUpgradeAllTooltip>Улучшить существующих наемников: +${0}
+Нанять новых: +${1}
+Итого: ${2}</FCSquadInspectionUpgradeAllTooltip>
+  <FCSquadInspectionUpgradeAllUpToDate>Улучшить всех (актуально)</FCSquadInspectionUpgradeAllUpToDate>
+  <FCSquadMenuDismiss>Распустить</FCSquadMenuDismiss>
+  <FCSquadMenuInspect>Осмотреть...</FCSquadMenuInspect>
+  <FCSquadMenuReassign>Переназначить...</FCSquadMenuReassign>
+  <FCSquadMenuToggleAutoDefend>Автооборона: {0}</FCSquadMenuToggleAutoDefend>
+  <FCSquadMenuUpgrade>Улучшить ({0} серебра)</FCSquadMenuUpgrade>
+  <FCSquadPickerAvailableOnly>Только доступные</FCSquadPickerAvailableOnly>
+  <FCSquadPickerEstimatedDefender>Оценочный военный уровень: {0} (боевая эффективность x{1})</FCSquadPickerEstimatedDefender>
+  <FCSquadPickerOperation>Операция</FCSquadPickerOperation>
+  <FCSquadPickerRewards>Награды</FCSquadPickerRewards>
+  <FCSquadPickerSelectSquad>Выбрать отряд</FCSquadPickerSelectSquad>
+  <FCSquadPickerSort>Сортировка: {0}</FCSquadPickerSort>
+  <FCSquadPickerTarget>Цель</FCSquadPickerTarget>
+  <FCSquadPickerTitle>Атаковать поселение</FCSquadPickerTitle>
+  <FCSquadPickerUnassignSlot>Снять назначение - освободить слот</FCSquadPickerUnassignSlot>
+  <FCSquadSizeExceeded>В этом отряде больше наемников ({1}), чем разрешенный максимум для {0} ({2}).</FCSquadSizeExceeded>
+  <FCSquadStatusBusyOp>Занят: {0} ({1})</FCSquadStatusBusyOp>
+  <FCSquadStatusEmptySlots>Пустые слоты: {0}</FCSquadStatusEmptySlots>
+  <FCSquadStatusHealing>Лечение {0}</FCSquadStatusHealing>
+  <FCSquadStatusInjured>Ранено: {0}</FCSquadStatusInjured>
+  <FCSquadStatusMoraleLocked>Мораль поселения слишком низкая</FCSquadStatusMoraleLocked>
+  <FCSquadStatusReady>Готов</FCSquadStatusReady>
+  <FCSquadStatusTraveling>В пути {0}</FCSquadStatusTraveling>
+  <FCSquadStatusUnassigned>Не назначен</FCSquadStatusUnassigned>
+  <FCSquadSwapBusyReject>Нельзя поменять: {0} занят.</FCSquadSwapBusyReject>
+  <FCSquadTraveling>Отряд {0} возвращается в {1} после последней миссии.</FCSquadTraveling>
+  <FCSquadUnderfunded>{0} недофинансирован в {1}: стоимость развертывания ${2} превышает максимум ${3}. Он не сможет развернуться, пока вы не удешевите его, не уволите дорогих наемников или не улучшите {1}.</FCSquadUnderfunded>
+  <FCSquadUpgradeFirePersonalizedConfirm>Улучшение этого отряда до шаблона уволит одну или несколько пешек с персональным снаряжением, потому что их раса или ксенотип больше не соответствуют ни одному слоту шаблона. Их особое снаряжение будет потеряно. Продолжить?</FCSquadUpgradeFirePersonalizedConfirm>
+  <FCSquadUpgradeInsufficientSilver>У вас недостаточно серебра ({0} требуется), чтобы улучшить этот отряд.</FCSquadUpgradeInsufficientSilver>
+  <FCSquadValueExceeded>Бюджет {0} не покрывает этот отряд. Стоимость развертывания ${1} превышает максимум ${2}.</FCSquadValueExceeded>
+  <FCSquadsHeaderCount>Отряды: {0} / {1}</FCSquadsHeaderCount>
+  <FCSubPawnBadgeAnimal>{0} животное</FCSubPawnBadgeAnimal>
+  <FCSubPawnBadgeAnimals>{0} животных</FCSubPawnBadgeAnimals>
+  <FCSubPawnBadgeMech>{0} мех</FCSubPawnBadgeMech>
+  <FCSubPawnBadgeMechs>{0} мехов</FCSubPawnBadgeMechs>
+  <FCSubPawnBadgeMount>{0} ездовое</FCSubPawnBadgeMount>
+  <FCSubPawnBadgeMounts>{0} ездовых</FCSubPawnBadgeMounts>
+  <FCSubPawnReplace>Заменить (${0})</FCSubPawnReplace>
+  <FCSubPawnReplaceOwnerMissingTip>Владелец-наемник должен присутствовать, прежде чем этого компаньона можно будет заменить. Сначала заполните слот наемника.</FCSubPawnReplaceOwnerMissingTip>
+  <FCSubPawnStatusMissing>Отсутствует</FCSubPawnStatusMissing>
+  <FCSubPawnSummaryDowned>сбито с ног: {0}</FCSubPawnSummaryDowned>
+  <FCSubPawnSummaryInjured>ранено: {0}</FCSubPawnSummaryInjured>
+  <FCSubPawnSummaryMissing>отсутствует: {0}</FCSubPawnSummaryMissing>
+  <FCSubPawnWordDowned>сбит с ног</FCSubPawnWordDowned>
+  <FCSubPawnWordInjured>ранен</FCSubPawnWordInjured>
+  <FCSubPawnWordMissing>отсутствует</FCSubPawnWordMissing>
+  <FCTraitDesc_maxSquadSize>Изменяет максимальное число наемников в отряде, назначенном сюда. Базовый размер - 30.</FCTraitDesc_maxSquadSize>
+  <FCTraitDesc_squadCapPerSettlement>Увеличивает число отрядов, которые может принять каждое поселение. Базовый предел - 1.</FCTraitDesc_squadCapPerSettlement>
+  <FCTravelingSquadLabel>Отряд в пути</FCTravelingSquadLabel>
+  <FCUnnamedSquad>Безымянный отряд</FCUnnamedSquad>
 </LanguageData>

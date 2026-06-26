@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 
-  <!-- Кастомизация фракции -->
+
   <fcPrimaryColor>Основной</fcPrimaryColor>
   <fcSecondaryColor>Вторичный</fcSecondaryColor>
   <fcChoosePrimaryColor>Выбрать основной цвет</fcChoosePrimaryColor>
@@ -29,7 +29,7 @@
   <FCBastion>Оплот</FCBastion>
   <FCFoundedOn>Основана {0}</FCFoundedOn>
 
-  <!-- Статистика фракции -->
+
   <FCFactionHappiness>Счастье фракции</FCFactionHappiness>
   <FCFactionLoyalty>Лояльность фракции</FCFactionLoyalty>
   <FCFactionUnrest>Нестабильность фракции</FCFactionUnrest>
@@ -39,13 +39,13 @@
   <FCFactionUnrestDesc>Показатель общей нестабильности фракции. Чем выше нестабильность, тем вероятнее возникновение опасных событий внутри вашей фракции. Если она станет слишком высокой, может вспыхнуть мятеж по всей фракции.</FCFactionUnrestDesc>
   <FCFactionProsperityDesc>Показатель общего процветания фракции. Процветание города напрямую связано с производством ресурсов. 50% процветания = 50% производства. Если процветание повреждено, оно будет медленно восстанавливаться со временем.</FCFactionProsperityDesc>
 
-  <!-- Уровни фракции -->
+
   <FCLevel>Уровень фракции: {0}</FCLevel>
   <FCFactionLevelUp>Повышение уровня фракции</FCFactionLevelUp>
   <FCFactionLevelUpDesc>Ваша фракция {0} повысила уровень до {1}!</FCFactionLevelUpDesc>
   <FCReachedMaxLevel>достигнут максимальный уровень</FCReachedMaxLevel>
 
-  <!-- Политики -->
+
   <FCPolicies-Traits>Политики/Черты</FCPolicies-Traits>
   <FCFactionPoliciesAndTraits>Политики и черты фракции</FCFactionPoliciesAndTraits>
   <FCTaxLaw>Налоговое право</FCTaxLaw>
@@ -64,7 +64,7 @@
   <FCHasBeenEnactedAt>была введена в</FCHasBeenEnactedAt>
   <FCEnactedInYourFaction>была введена в вашей фракции</FCEnactedInYourFaction>
 
-  <!-- Черты -->
+
   <FCFactionTraits>Черты фракции</FCFactionTraits>
   <FCAddTrait>Добавить черту</FCAddTrait>
   <FCTraitSelection>Выбор черты</FCTraitSelection>
@@ -91,7 +91,7 @@
   <FCConfirmTrait>Вы уверены, что хотите выбрать {0}? Вы не сможете отменить это решение</FCConfirmTrait>
   <FCSelectYourTraits>Начальные черты вашей фракции не выбраны. Перейдите на вкладку настройки фракции, чтобы выбрать их!</FCSelectYourTraits>
 
-  <!-- Эдикты -->
+
   <FCEdicts>Эдикты</FCEdicts>
   <FCEdict>Эдикт</FCEdict>
   <FCEdictsDesc>Включение общефракционных эдиктов. По одному эдикту в каждой категории может быть активно одновременно. Активные эдикты требуют постоянной платы серебром.</FCEdictsDesc>
@@ -119,7 +119,7 @@
   <FCEdictRevokedDependency>{0} был автоматически отменен, поскольку его необходимое условие {1} было удалено.</FCEdictRevokedDependency>
   <FCPolicyRequires>Требуется: {0}</FCPolicyRequires>
 
-  <!-- Исследования -->
+
   <FCResearching>Исследование</FCResearching>
   <FCResearchExpended>{0} очков исследований было использовано для изучения {1}. У вас осталось {2} очков.</FCResearchExpended>
   <FCResearchPointsExpended>Использовано очков исследований</FCResearchPointsExpended>
@@ -136,7 +136,7 @@
   <FCElectricity>Электричество</FCElectricity>
   <FCSmithing>Кузнечное дело</FCSmithing>
 
-  <!-- Отношения -->
+
   <FCRelationImproved>Отношения улучшены!</FCRelationImproved>
   <FCRelationImprovedText>Ваше общение с {0} привело к улучшению отношений на {1}!</FCRelationImprovedText>
   <FCRelationNotImproved>Провал переговоров</FCRelationNotImproved>
@@ -145,9 +145,15 @@
   <FCIncreaseRelations>Попытаться улучшить отношения</FCIncreaseRelations>
   <FCCannotImproveRelationsWithType>Вы не можете улучшать отношения с фракциями этого типа</FCCannotImproveRelationsWithType>
 
-  <!-- Столица -->
+
   <FCCouldNotFindMapOfCapital>Не удалось найти карту столицы</FCCouldNotFindMapOfCapital>
-  <FCCapitalAlreadyEstablished>Столица империи уже установлена в {0}. Сначала отключите там место столицы, если хотите ее переместить.</FCCapitalAlreadyEstablished>
+  <FCCapitalAlreadyEstablished>Столица {1} уже основана в {0}. Сначала отключите там резиденцию столицы, если хотите ее переместить.</FCCapitalAlreadyEstablished>
   <FCUnableToSetCapitalHere>Невозможно установить столицу фракции на этой карте. Пожалуйста, перейдите на карту столицы и используйте кнопку «Установить столицу» или постройте Место столицы.</FCUnableToSetCapitalHere>
 
+  <FCClearPolicies>Очистить политики ({0} серебра)</FCClearPolicies>
+  <FCClearPoliciesConfirm>Потратить {0} серебра, чтобы очистить текущие основные политики и выбрать новые?</FCClearPoliciesConfirm>
+  <FCClearPoliciesInsufficientSilver>Недостаточно серебра для очистки политик (нужно {0}).</FCClearPoliciesInsufficientSilver>
+  <FCClearPoliciesTooltip>Сбросить текущие основные политики и выбрать новые. Стоимость зависит от размера и процветания {0}.</FCClearPoliciesTooltip>
+  <FCEmpire>Империя</FCEmpire>
+  <FCFactionTitleDesc>Тип вашего государства - империя, королевство, республика, коммуна и т. д.</FCFactionTitleDesc>
 </LanguageData>

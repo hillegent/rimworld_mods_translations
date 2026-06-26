@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 
-  <!-- Настройки мода -->
+
   <FCSettingsModName>Empire Refactored</FCSettingsModName>
 
   <FCSettingSilverPerResource>Количество серебра за ресурс</FCSettingSilverPerResource>
@@ -44,7 +44,7 @@
   <FCSettingResetButton>Сбросить настройки</FCSettingResetButton>
   <FCOpenPatchNotes>Открыть окно примечаний к обновлению</FCOpenPatchNotes>
 
-  <!-- Настройки сложности -->
+
   <FCSettingEmpireDifficulty>Сложность империи</FCSettingEmpireDifficulty>
   <FCDifficultyPeaceful>Мирная</FCDifficultyPeaceful>
   <FCDifficultyCommunityBuilder>Строитель сообщества</FCDifficultyCommunityBuilder>
@@ -63,7 +63,7 @@
 
   <FCModVersion>Версия мода Empire: {0}</FCModVersion>
 
-  <!-- Предупреждения -->
+
   <FCResetCapitalLocationWarning>Пожалуйста, сбросьте местоположение вашей столицы. Если вы продолжаете видеть это после сброса, пожалуйста, сообщите об этом.</FCResetCapitalLocationWarning>
   <FCTaxMapNotSetWarning>Ваша карта для сбора налогов не установлена. Пожалуйста, установите ее через меню фракции.</FCTaxMapNotSetWarning>
   <FCAutoResolveDisabledWarning>Активен ручной или гибридный режим битвы. Если возникают ошибки генерации карты, переключитесь обратно на авто-разрешение.</FCAutoResolveDisabledWarning>
@@ -72,4 +72,108 @@
   <FCTaxDeliveryNotSetWarning>Не установлено место доставки налогов. Либо установите карту доставки налогов, либо включите доставку налогов на место сбора.</FCTaxDeliveryNotSetWarning>
   <FCCapitalNotSetWarning>Столица империи не установлена. Либо используйте «Установить столицу» в меню Империи, либо постройте и активируйте Место столицы.</FCCapitalNotSetWarning>
 
+  <FCEmpireMercHealRateStatExplanation>Наемник империи при базовом восстановлении</FCEmpireMercHealRateStatExplanation>
+  <FCSettingAntiExploit>Антиэксплойт (снаряжение наемников)</FCSettingAntiExploit>
+  <FCSettingAntiExploitTip>Если включено (по умолчанию), оружие и одежда наемников биокодируются под владельца, а человекоподобные наемники получают имплант кислотного растворителя смерти, который уничтожает их надетое снаряжение при гибели. Так нельзя фармить бесплатное снаряжение со своих отрядов.</FCSettingAntiExploitTip>
+  <FCSettingApplyAutoResolveInjuries>Применять ранения и смерти из авторасчетных боев</FCSettingApplyAutoResolveInjuries>
+  <FCSettingApplyAutoResolveInjuriesTip>Если включено, абстрактные потери сил в авторасчетном бою превращаются в реальные ранения (и возможные смерти) у участвующих пешек-наемников. Если выключено, авторасчет никогда не трогает пешек отряда.</FCSettingApplyAutoResolveInjuriesTip>
+  <FCSettingAutoResolveCasualtiesHeader>Потери при авторасчете</FCSettingAutoResolveCasualtiesHeader>
+  <FCSettingAutoResolveDeathThreshold>Порог смертей при авторасчете</FCSettingAutoResolveDeathThreshold>
+  <FCSettingAutoResolveDeathThresholdTip>Если уровень потерь отряда ниже этого порога, никто из отряда не погибнет. При 75% (по умолчанию) смерти будут только у отрядов, потерявших 75% силы или больше.</FCSettingAutoResolveDeathThresholdTip>
+  <FCSettingAutoResolveMaxDeathFraction>Максимальная доля смертей при авторасчете</FCSettingAutoResolveMaxDeathFraction>
+  <FCSettingAutoResolveMaxDeathFractionTip>Максимальная доля потерь, превращающихся в смерти. При 50% (по умолчанию) примерно 50% раненых пешек отряда погибнут.</FCSettingAutoResolveMaxDeathFractionTip>
+  <FCSettingBlockEventsDuringChain>Блокировать новые события во время активной цепочки</FCSettingBlockEventsDuringChain>
+  <FCSettingBlockEventsDuringChainDesc>Пока многоэтапная цепочка событий еще разрешается, не запускать новое случайное событие, даже если интервал между событиями это позволяет. Переопределяет настройку частоты.</FCSettingBlockEventsDuringChainDesc>
+  <FCSettingBuildingConstructTime>Множитель времени строительства зданий</FCSettingBuildingConstructTime>
+  <FCSettingCrushingDefeatPenaltyMultiplier>Множитель штрафа за сокрушительное поражение</FCSettingCrushingDefeatPenaltyMultiplier>
+  <FCSettingCrushingDefeatPenaltyMultiplierTip>Умножает штрафы поселения (процветание, счастье, лояльность, шанс разрушения зданий), когда поселение терпит сокрушительное поражение: оборону, в которой ваши силы не нанесли ни одной потери.</FCSettingCrushingDefeatPenaltyMultiplierTip>
+  <FCSettingDefenseMapBaseSize>Базовый размер карты обороны</FCSettingDefenseMapBaseSize>
+  <FCSettingDefenseMapBaseSizeTip>Базовая длина стороны (в клетках) карт боя при ручной обороне поселений. Итоговый размер = база + (уровень поселения * шаг за уровень), с ограничением между минимумом и максимумом ниже.</FCSettingDefenseMapBaseSizeTip>
+  <FCSettingDefenseMapMaxSize>Максимальный размер карты обороны</FCSettingDefenseMapMaxSize>
+  <FCSettingDefenseMapMaxSizeTip>Жесткий верхний предел (в клетках) длины стороны карты обороны.</FCSettingDefenseMapMaxSizeTip>
+  <FCSettingDefenseMapMinSize>Минимальный размер карты обороны</FCSettingDefenseMapMinSize>
+  <FCSettingDefenseMapMinSizeTip>Жесткий нижний предел (в клетках) длины стороны карты обороны, независимо от настроек базы/шага.</FCSettingDefenseMapMinSizeTip>
+  <FCSettingDefenseMapPerLevelStep>Размер карты обороны за уровень</FCSettingDefenseMapPerLevelStep>
+  <FCSettingDefenseMapPerLevelStepTip>На сколько клеток растет карта обороны за каждый уровень поселения выше базового размера.</FCSettingDefenseMapPerLevelStepTip>
+  <FCSettingDeploymentBillLifespan>Срок действия счета за развертывание</FCSettingDeploymentBillLifespan>
+  <FCSettingDeploymentBillLifespanTip>Число дней, в течение которых счет за развертывание можно оплатить до истечения срока и получения поселением штрафа за поздний или неоплаченный счет. Не зависит от налогового цикла.</FCSettingDeploymentBillLifespanTip>
+  <FCSettingDisableEventsWithOptions>Отключить события с вариантами</FCSettingDisableEventsWithOptions>
+  <FCSettingEdgesPerRoadTickTip>Сколько ребер дорожного графа обрабатывать за тик при вычислении в основном потоке. Установите 0 для безлимита (быстрее всего, но может вызывать подвисания).</FCSettingEdgesPerRoadTickTip>
+  <FCSettingEventSilverCostMultiplier>Множитель стоимости вариантов событий в серебре</FCSettingEventSilverCostMultiplier>
+  <FCSettingGeneValueFactorUnlimited>Безлимитный фактор генов</FCSettingGeneValueFactorUnlimited>
+  <FCSettingGeneValueFactorUnlimitedTip>Если включено (по умолчанию), фактор стоимости ксенотипа не имеет верхней границы. Отключите, чтобы ограничить итоговый фактор заданным максимумом.</FCSettingGeneValueFactorUnlimitedTip>
+  <FCSettingGeneValueHeader>Оценка генов</FCSettingGeneValueHeader>
+  <FCSettingGeneValueHelpText>Веса, определяющие, насколько гены ксенотипа увеличивают стоимость шаблона наемника. Итоговый фактор стоимости равен 1 + (сумма взвешенных вкладов каждого гена).</FCSettingGeneValueHelpText>
+  <FCSettingGeneValueMaxFactor>Максимальный фактор генов</FCSettingGeneValueMaxFactor>
+  <FCSettingGeneValueMaxFactorTip>Жесткий потолок фактора стоимости ксенотипа, когда безлимитная настройка отключена. Множитель стоимости, применяемый к базовой стоимости ксенотипа шаблона юнита, никогда не превысит это значение.</FCSettingGeneValueMaxFactorTip>
+  <FCSettingGeneValueWeightArc>Архиты</FCSettingGeneValueWeightArc>
+  <FCSettingGeneValueWeightArcTip>Вес за каждый архите, требуемый геном.</FCSettingGeneValueWeightArcTip>
+  <FCSettingGeneValueWeightDmgResist>Сопротивление урону</FCSettingGeneValueWeightDmgResist>
+  <FCSettingGeneValueWeightDmgResistTip>Вес факторов типа урона у гена. Сопротивление повышает цену, и наоборот.</FCSettingGeneValueWeightDmgResistTip>
+  <FCSettingGeneValueWeightEffects>Эффекты характеристик и способностей</FCSettingGeneValueWeightEffects>
+  <FCSettingGeneValueWeightEffectsTip>Вес категорийных факторов характеристик, смещений характеристик, модификаторов способностей и склонностей навыков гена. Боевые категории учитываются сильнее всего; социальные и неизвестные категории не учитываются.</FCSettingGeneValueWeightEffectsTip>
+  <FCSettingGeneValueWeightMet>Метаболическая стоимость</FCSettingGeneValueWeightMet>
+  <FCSettingGeneValueWeightMetTip>Вес за каждый пункт отрицательного метаболизма гена.</FCSettingGeneValueWeightMetTip>
+  <FCSettingGeneValueWeightMvf>Фактор рыночной стоимости</FCSettingGeneValueWeightMvf>
+  <FCSettingGeneValueWeightMvfTip>Вес отклонения marketValueFactor гена: значения &gt; 1 (например, бессмертие, огненный плевок) повышают цену; значения &lt; 1 снижают ее.</FCSettingGeneValueWeightMvfTip>
+  <FCSettingGeneValueWeightPain>Модификатор боли</FCSettingGeneValueWeightPain>
+  <FCSettingGeneValueWeightPainTip>Вес изменения фактора боли у гена. Снижение боли повышает цену, и наоборот.</FCSettingGeneValueWeightPainTip>
+  <FCSettingMaxAnimalSubpawns>Максимум животных-компаньонов</FCSettingMaxAnimalSubpawns>
+  <FCSettingMaxAnimalSubpawnsGiddyUpTip>Максимум животных-компаньонов, которых может иметь один дизайн наемника. Добавление сверх лимита блокируется; снижение настройки не удаляет животных из существующих дизайнов. С Giddy Up 2 отдельное ездовое животное наемника не учитывается в этом лимите.</FCSettingMaxAnimalSubpawnsGiddyUpTip>
+  <FCSettingMaxAnimalSubpawnsTip>Максимум животных-компаньонов, которых может иметь один дизайн наемника. Добавление сверх лимита блокируется; снижение настройки не удаляет животных из существующих дизайнов.</FCSettingMaxAnimalSubpawnsTip>
+  <FCSettingMaxConcurrentBattleMaps>Максимум одновременных карт боя</FCSettingMaxConcurrentBattleMaps>
+  <FCSettingMaxConcurrentBattleMapsTip>Максимальное число карт ручной обороны, которые могут быть открыты одновременно во всех поселениях. Установите 0 для безлимита. Бои сверх этого лимита будут рассчитаны автоматически.</FCSettingMaxConcurrentBattleMapsTip>
+  <FCSettingMaxSquadSize>Максимальный размер отряда</FCSettingMaxSquadSize>
+  <FCSettingMaxSquadSizeTip>Жесткий предел наемников в отряде. Существующие шаблоны сохраняют свое число слотов при изменении настройки; новое значение используют только новые шаблоны и новые наймы. Бонусы от поселений (здания/политики) по-прежнему складываются сверху.</FCSettingMaxSquadSizeTip>
+  <FCSettingMechCostMult>Множитель стоимости мехов юнита</FCSettingMechCostMult>
+  <FCSettingMechCostMultTip>Множитель стоимости в серебре, добавляемой к дизайну юнита-механитора за каждого назначенного меха. При 1.0 (по умолчанию) каждый мех стоит примерно свою рыночную цену.</FCSettingMechCostMultTip>
+  <FCSettingMechRepairRate>Скорость ремонта мехов</FCSettingMechRepairRate>
+  <FCSettingMechRepairRateTip>Очки прочности, восстанавливаемые за каждый часовой тик лечения у связанных мехов вне карты. Мехи используют отдельный путь ремонта от наемников и животных. При 0 мехи не ремонтируются автоматически и должны заменяться за плату после достаточного урона.</FCSettingMechRepairRateTip>
+  <FCSettingMechlinkCost>Стоимость мехлинка юнита</FCSettingMechlinkCost>
+  <FCSettingMechlinkCostTip>Фиксированная стоимость в серебре, добавляемая к дизайну юнита за превращение его в механитора (сам мехлинк), сверх стоимости мехов. По умолчанию 1000 - примерно стоимость мехлинка.</FCSettingMechlinkCostTip>
+  <FCSettingOverwhelmingVictoryRewardMultiplier>Множитель награды за полную победу</FCSettingOverwhelmingVictoryRewardMultiplier>
+  <FCSettingOverwhelmingVictoryRewardMultiplierTip>Умножает бонус к счастью/лояльности, выдаваемый домашнему поселению победившего отряда после полной победы: боя, выигранного без единой потери. Установите 0, чтобы отключить награду (тематическое письмо все равно появится).</FCSettingOverwhelmingVictoryRewardMultiplierTip>
+  <FCSettingPsycastCostMult>Общий множитель стоимости</FCSettingPsycastCostMult>
+  <FCSettingPsycastCostMultTip>Множитель, применяемый ко всем стоимостям за очки, связанным с пси-способностями. Установите 0, чтобы сделать все бесплатным.</FCSettingPsycastCostMultTip>
+  <FCSettingPsylinkCostMult>Множитель стоимости пси-связи юнита</FCSettingPsylinkCostMult>
+  <FCSettingPsylinkCostMultTip>Множитель стоимости в серебре, добавляемой к дизайну юнита за каждый уровень пси-связи. При 1.0 (по умолчанию) каждый уровень стоит примерно как один нейроформер пси-связи.</FCSettingPsylinkCostMultTip>
+  <FCSettingResetSection>Сбросить раздел к значениям по умолчанию</FCSettingResetSection>
+  <FCSettingResetSectionTag>Сбросить раздел {0} к значениям по умолчанию</FCSettingResetSectionTag>
+  <FCSettingRespectLethalDamageThreshold>Учитывать порог смертельного урона</FCSettingRespectLethalDamageThreshold>
+  <FCSettingRespectLethalDamageThresholdTip>Если включено (по умолчанию), ранения из авторасчета ограничиваются так, чтобы суммарная тяжесть ранений оставалась ниже порога смертельного урона RimWorld и путь ранений не мог случайно убить пешку. Отключайте при модах, которые удаляют или смягчают эту проверку.</FCSettingRespectLethalDamageThresholdTip>
+  <FCSettingRestrictDefenseMapLoot>Ограничить добычу на карте обороны</FCSettingRestrictDefenseMapLoot>
+  <FCSettingRestrictDefenseMapLootTip>Если включено (по умолчанию), собственные предметы поселения запрещены и заблокированы на картах ручной обороны, так что их нельзя свободно забрать. Вы по-прежнему сохраняете своих пешек и их снаряжение, возвращаете павших подкреплений и можете забрать трофеи с погибших атакующих.</FCSettingRestrictDefenseMapLootTip>
+  <FCSettingSettlementUpgradeTime>Множитель времени улучшения поселения</FCSettingSettlementUpgradeTime>
+  <FCSettingSquadDeploymentCostPercentage>Стоимость развертывания отряда</FCSettingSquadDeploymentCostPercentage>
+  <FCSettingSquadDeploymentCostPercentageTip>Процент текущей стоимости снаряжения отряда, выставляемый счетом в серебре при каждом его развертывании (отправке на карту игрока или в наступательную операцию). Оборонительные операции бесплатны.
+
+Стоимость становится счетом для домашнего поселения отряда; срок оплаты истекает после настройки срока действия.
+
+0% отключает стоимость.</FCSettingSquadDeploymentCostPercentageTip>
+  <FCSettingSquadHireCostMultiplier>Множитель стоимости найма отряда</FCSettingSquadHireCostMultiplier>
+  <FCSettingSquadHireCostMultiplierTip>Множитель, применяемый к полной стоимости снаряжения шаблона при найме свежего отряда игроком. 1.0 = полная цена; 0.0 = бесплатно; большие значения делают найм дороже.</FCSettingSquadHireCostMultiplierTip>
+  <FCSettingSquadRestockCostPercentage>Стоимость пополнения отряда</FCSettingSquadRestockCostPercentage>
+  <FCSettingSquadRestockCostPercentageTip>Процент рыночной стоимости переносимого инвентаря (боеприпасы, лекарства, наркотики), который выживший наемник фактически израсходовал в ручном бою и который выставляется счетом в серебре за пополнение. Предметы автоматически пополняются до снаряжения отряда независимо от этого.
+
+Только ручные бои расходуют инвентарь; авторасчетные бои не создают счета за пополнение. Стоимость становится счетом для домашнего поселения отряда; срок оплаты истекает после срока действия счета за развертывание.
+
+0% отключает стоимость.</FCSettingSquadRestockCostPercentageTip>
+  <FCSettingSquadUpgradeCostMultiplier>Множитель стоимости улучшения отряда</FCSettingSquadUpgradeCostMultiplier>
+  <FCSettingSquadUpgradeCostMultiplierTip>Множитель, применяемый к разнице в стоимости между текущим снаряжением нанятого отряда и его исходным шаблоном, когда игрок улучшает отряд до соответствия шаблону.</FCSettingSquadUpgradeCostMultiplierTip>
+  <FCSettingSquadsHeader>Отряды</FCSettingSquadsHeader>
+  <FCSettingTimerTip>Масштабирует длительность этого таймера.</FCSettingTimerTip>
+  <FCSettingTimersHeader>Таймеры</FCSettingTimersHeader>
+  <FCSettingVPEBasePsycastCost>Базовая стоимость пси-способности</FCSettingVPEBasePsycastCost>
+  <FCSettingVPEBasePsycastCostTip>Фиксированная стоимость в серебре за каждую выбранную пси-способность до добавления стоимости за уровень ниже.</FCSettingVPEBasePsycastCostTip>
+  <FCSettingVPEFocusCost>Стоимость фокуса медитации</FCSettingVPEFocusCost>
+  <FCSettingVPEFocusCostTip>Стоимость в серебре за каждый открытый тип фокуса медитации.</FCSettingVPEFocusCostTip>
+  <FCSettingVPEPerLevelCost>Стоимость пси-способности за уровень</FCSettingVPEPerLevelCost>
+  <FCSettingVPEPerLevelCostTip>Дополнительная стоимость в серебре за каждый ранг (уровень) пси-способности. Пси-способность 3-го ранга стоит базовую стоимость плюс три раза эту сумму.</FCSettingVPEPerLevelCostTip>
+  <FCSettingVPEStatPointCost>Стоимость очка характеристики</FCSettingVPEStatPointCost>
+  <FCSettingVPEStatPointCostTip>Стоимость в серебре за каждое потраченное очко характеристики пси-кастера.</FCSettingVPEStatPointCostTip>
+  <FCSettingsCompatNone>Нет активных поддерживаемых патчей совместимости.</FCSettingsCompatNone>
+  <FCSettingsCompatVPE>Vanilla Psycasts Expanded</FCSettingsCompatVPE>
+  <FCSettingsCompatVPEDesc>При активном VPE сами уровни пси-связи бесплатны. Вместо этого каждое очко, потраченное в редакторе пси-способностей (пси-способности, фокусы медитации, улучшения характеристик), добавляется к стоимости юнита. Настройте эти стоимости за очко здесь.</FCSettingsCompatVPEDesc>
+  <FCSettingsTabCompat>Совместимость</FCSettingsTabCompat>
+  <FCUnlimited>Безлимит</FCUnlimited>
 </LanguageData>

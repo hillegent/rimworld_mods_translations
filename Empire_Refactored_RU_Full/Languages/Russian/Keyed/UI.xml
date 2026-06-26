@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 
-  <!-- Общие метки -->
+
   <FCName>Название</FCName>
   <FCSet>Установить</FCSet>
   <FCDeploy>Развернуть</FCDeploy>
@@ -23,7 +23,7 @@
   <FCAddedInFuture>Будет добавлено в будущем</FCAddedInFuture>
   <FCItem>Предмет</FCItem>
 
-  <!-- Метки вкладок -->
+
   <FCColonies>Колонии</FCColonies>
   <FCBills>Счета</FCBills>
   <FCEvents>События</FCEvents>
@@ -33,7 +33,7 @@
   <FCTravelTime>Время в пути</FCTravelTime>
   <FCConstructionTime>Время строительства</FCConstructionTime>
 
-  <!-- Кнопки -->
+
   <FCButtonNotAvailable>Эта кнопка пока недоступна</FCButtonNotAvailable>
   <FCConfirmChanges>Подтвердить изменения</FCConfirmChanges>
   <FCConfirm>Подтвердить</FCConfirm>
@@ -49,7 +49,7 @@
   <FCSetMap>Установить карту</FCSetMap>
   <FCActionAvailable>Действие доступно</FCActionAvailable>
 
-  <!-- Общие действия -->
+
   <FCAutoResolve>Авто-разрешение</FCAutoResolve>
   <FCAutoResolving>Авто-разрешение: {0}</FCAutoResolving>
   <FCBillsAutoResolving>Счета теперь разрешаются автоматически!</FCBillsAutoResolving>
@@ -65,14 +65,20 @@
   <FCBuildingLockedMax>Достигнуто максимальное количество слотов для зданий для этого типа поселения.</FCBuildingLockedMax>
   <FCCapital>Столица</FCCapital>
 
-  <!-- Меню по нажатию -->
+
   <FCFloatMenuSearchable>Введите для поиска:</FCFloatMenuSearchable>
   <FCSMFForceOpen>Принудительно открыть</FCSMFForceOpen>
 
-  <!-- Ошибки -->
+
   <FCGenericError>Если вы это читаете, что-то пошло не так.</FCGenericError>
   <FCNotEnoughSilverOption>У вас недостаточно серебра на карте для оплаты этой опции</FCNotEnoughSilverOption>
   <FCOptionRequiresPolicy>Требуется: {0}</FCOptionRequiresPolicy>
   <FCOptionRequiresPolicyAny>Требуется одно из: {0}</FCOptionRequiresPolicyAny>
 
+  <FCAllowLatePayments>Разрешить просроченные платежи</FCAllowLatePayments>
+  <FCBillsLatePaymentsAllowed>Просроченные счета будут автоматически оплачены, но вызовут штрафы за позднюю оплату.</FCBillsLatePaymentsAllowed>
+  <FCBillsLatePaymentsDisallowed>Просроченные счета не будут оплачены и вызовут штрафы за неоплаченные счета.</FCBillsLatePaymentsDisallowed>
+  <FCOptionRequiresMeme>Требуется мем: {0}</FCOptionRequiresMeme>
+  <FCOptionRequiresMemeAny>Требуется один из этих мемов: {0}</FCOptionRequiresMemeAny>
+  <FCPrisoners>Пленные</FCPrisoners>
 </LanguageData>

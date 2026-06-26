@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 
-  <!-- Управление отрядами -->
+
   <FCMilitaryTableSquad>Назначенный отряд</FCMilitaryTableSquad>
   <FCMilitaryTableSetSquad>Назначить отряд</FCMilitaryTableSetSquad>
   <FCMilitaryTableDeploySquad>Развернуть отряд</FCMilitaryTableDeploySquad>
@@ -17,7 +17,7 @@
   <FCSelectedDeployedSquad>{0} - {1}</FCSelectedDeployedSquad>
   <FCNoSquadsAvailable>Нет доступных отрядов</FCNoSquadsAvailable>
 
-  <!-- Настройка юнитов -->
+
   <FCExportUnit>Экспортированный юнит</FCExportUnit>
   <FCExportSquad>Экспортированный отряд</FCExportSquad>
   <FCCantBeModified>{0} нельзя изменить: {1}</FCCantBeModified>
@@ -29,7 +29,7 @@
   <FCClearUnitSlot>Очистить слот юнита</FCClearUnitSlot>
   <FCDegraded>Деградирован</FCDegraded>
 
-  <!-- Слоты экипировки -->
+
   <fcLabelHead>Голова</fcLabelHead>
   <fcLabelShirt>Рубашка</fcLabelShirt>
   <fcLabelChest>Грудь</fcLabelChest>
@@ -41,7 +41,7 @@
   <fcLabelAmmo>Боеприпасы</fcLabelAmmo>
   <fcAmmoAny>Любые</fcAmmoAny>
 
-  <!-- Кнопки юнитов -->
+
   <FCRenameUnit>Переименовать юнит</FCRenameUnit>
   <FCConfirmDeleteUnit>Вы уверены, что хотите удалить "{0}"?</FCConfirmDeleteUnit>
   <FCResetUnitToDefaultButton>Сбросить к стандартному</FCResetUnitToDefaultButton>
@@ -52,7 +52,7 @@
   <FCChangeUnitXenoButton>Сменить ксенотип</FCChangeUnitXenoButton>
   <FCExportUnitButton>Экспортировать юнит</FCExportUnitButton>
 
-  <!-- Экипировка юнитов -->
+
   <fcChooseApparelColor>Выбрать цвет одежды</fcChooseApparelColor>
   <fcSetAllColors>Установить все цвета</fcSetAllColors>
   <fcClearColors>Очистить цвета</fcClearColors>
@@ -69,7 +69,7 @@
   <fcPickerSelectItem>Сначала выберите предмет</fcPickerSelectItem>
   <fcPickerSelectStuff>Выберите материал для этого предмета</fcPickerSelectStuff>
 
-  <!-- Ошибки расы/типа персонажа -->
+
   <FCChangeUnitRaceNoRaces>Нет доступных рас</FCChangeUnitRaceNoRaces>
   <fcNoAnimalsAvailable>Нет доступных животных</fcNoAnimalsAvailable>
   <FCChangeUnitXenoNoXenos>Нет доступных ксенотипов</FCChangeUnitXenoNoXenos>
@@ -77,7 +77,7 @@
   <FCNoPawnKindDefOfTypeOfRaceError>Не удалось найти {0} PawnKindDef ни для одного технологического уровня с расой {1}. Они не могут быть созданы!</FCNoPawnKindDefOfTypeOfRaceError>
   <FCMissingPawnKindDefsCriticalError>Выбранным вами расам не хватает критически важных PawnKindDef! Ваша фракция может создавать людей для заполнения пробелов.</FCMissingPawnKindDefsCriticalError>
 
-  <!-- Конструирование отрядов -->
+
   <FCCreateNewSquad>Создать новый отряд</FCCreateNewSquad>
   <FCImportSquad>Импортировать отряд</FCImportSquad>
   <FCRenameSquad>Переименовать отряд</FCRenameSquad>
@@ -101,7 +101,7 @@
   <fcResetSquadPawnsTip>Заново создать всех наемников в этом отряде. Уничтожает существующих персонажей и создает новых с другими личностями. Доступно только для отрядов, назначенных поселению.</fcResetSquadPawnsTip>
   <FCCreateNewUnit>Создать новый юнит</FCCreateNewUnit>
 
-  <!-- Конструирование огневой поддержки -->
+
   <FCCreateNewFireSupport>Создать новую огневую поддержку</FCCreateNewFireSupport>
   <FCDeleteSupport>Удалить поддержку</FCDeleteSupport>
   <FCAddNewProjectile>Добавить новый снаряд</FCAddNewProjectile>
@@ -119,24 +119,24 @@
   <FCInsertProjectileAbove>Вставить снаряд над слотом</FCInsertProjectileAbove>
   <FCDuplicate>Дублировать</FCDuplicate>
 
-  <!-- Кнопки навигации -->
+
   <FCNavUnits>Юниты</FCNavUnits>
   <FCNavSquads>Отряды</FCNavSquads>
   <FCNavFireSupport>Огневая поддержка</FCNavFireSupport>
   <FCEditUnitTooltip>Редактировать экипировку этого юнита</FCEditUnitTooltip>
 
-  <!-- Типы юнитов -->
+
   <FCPawns>Персонажи</FCPawns>
   <FCTrader>Торговец</FCTrader>
   <FCFighter>Боец</FCFighter>
   <FCNonMercenary>Не наемник</FCNonMercenary>
 
-  <!-- Импорт/Экспорт -->
+
   <FCImport>Импорт</FCImport>
   <FCImported>Импортирован {0}</FCImported>
   <FCDeleted>Удален {0}</FCDeleted>
 
-  <!-- Заключенные -->
+
   <FCPrisonersMenu>Заключенные</FCPrisonersMenu>
   <FCWorkload>нагрузка</FCWorkload>
   <FCHeavy>тяжелая</FCHeavy>
@@ -155,9 +155,83 @@
   <FCNoPrisoners>Нет заключенных в этом поселении.</FCNoPrisoners>
   <FCPrisonerWindowTitle>Заключенные — {0}</FCPrisonerWindowTitle>
 
-  <!-- Наемники -->
+
   <FCRequestMercenary>Запросить наемника</FCRequestMercenary>
   <FCActionMercenaryRefreshed>Действие «Запросить наемника» снова доступно для использования</FCActionMercenaryRefreshed>
   <FCActionMercenaryOnCooldown>Вы не можете использовать это действие еще {0}</FCActionMercenaryOnCooldown>
 
+  <FCAddPrisonersToSettlement>Добавить пленных в {0}</FCAddPrisonersToSettlement>
+  <FCAge>возраст</FCAge>
+  <FCBulkSetWorkload>Массово задать нагрузку</FCBulkSetWorkload>
+  <FCBulkSetWorkloadShort>Массово</FCBulkSetWorkloadShort>
+  <FCDebugHeavy>отладочная тяжелая</FCDebugHeavy>
+  <FCDebugHeavyExplanation>ТОЛЬКО ДЛЯ ОТЛАДКИ. +2 к мягкому пределу рабочих, +2 к жесткому пределу рабочих. Снижает здоровье на 100 в день.</FCDebugHeavyExplanation>
+  <FCDebugLight>отладочная легкая</FCDebugLight>
+  <FCDebugLightExplanation>ТОЛЬКО ДЛЯ ОТЛАДКИ. +1 к мягкому пределу рабочих, +1 к жесткому пределу рабочих. Снижает здоровье на 50 в день.</FCDebugLightExplanation>
+  <FCFromFaction>Фракция</FCFromFaction>
+  <FCNoPrisonersFaction>Пленных нет.</FCNoPrisonersFaction>
+  <FCNoPrisonersInCaravan>В этом караване нет пленных.</FCNoPrisonersInCaravan>
+  <FCOf>??</FCOf>
+  <FCPawnArrivalDefault>{0} пешек добавлено в {1}</FCPawnArrivalDefault>
+  <FCPawnsAddedToSettlement>{0} пленных добавлено в {1}</FCPawnsAddedToSettlement>
+  <FCPrisonerDownedNoWork>Сбит с ног: нет работы</FCPrisonerDownedNoWork>
+  <FCPrisonerHealthChangePerDay>{0}/день</FCPrisonerHealthChangePerDay>
+  <FCSetDefaultWorkload>Нагрузка по умолчанию</FCSetDefaultWorkload>
+  <FCSetDefaultWorkloadShort>По умолчанию</FCSetDefaultWorkloadShort>
+  <FCSquadDesignDeployCost>Стоимость развертывания: ${0}</FCSquadDesignDeployCost>
+  <FCTransferPrisonerGizmoDesc>Выберите пленного из этого каравана, чтобы передать его поселению.</FCTransferPrisonerGizmoDesc>
+  <FCTransferPrisonerOption>Передать {0}</FCTransferPrisonerOption>
+  <FCTransferPrisonerToSettlement>Передать пленного поселению</FCTransferPrisonerToSettlement>
+  <FCUseFactionDefault>Использовать значение фракции по умолчанию</FCUseFactionDefault>
+  <fcAddAnimal>+ Добавить животное</fcAddAnimal>
+  <fcAddImplant>+ Добавить имплант</fcAddImplant>
+  <fcAddInventoryItem>+ Добавить предмет</fcAddInventoryItem>
+  <fcAddMech>+ Добавить меха</fcAddMech>
+  <fcAnimalCapReached>У этого юнита уже максимальное число животных-компаньонов: {0}.</fcAnimalCapReached>
+  <fcAnimalCount>Животные: {0} / {1}</fcAnimalCount>
+  <fcApplyPsycasts>Применить</fcApplyPsycasts>
+  <fcCancelPsycasts>Отмена</fcCancelPsycasts>
+  <fcClearPsycasts>Очистить</fcClearPsycasts>
+  <fcEditPsycasts>Редактировать пси-способности</fcEditPsycasts>
+  <fcGenderAny>Любой</fcGenderAny>
+  <fcGenderFemale>Женский</fcGenderFemale>
+  <fcGenderMale>Мужской</fcGenderMale>
+  <fcInstallSelfImplant>Установить {0}</fcInstallSelfImplant>
+  <fcInventoryCount>Количество:</fcInventoryCount>
+  <fcInventoryMass>{0} / {1} ??</fcInventoryMass>
+  <fcInventoryOverweight>Это превысит предел переносимого веса юнита.</fcInventoryOverweight>
+  <fcInventoryWeaponSuffix>(оружие)</fcInventoryWeaponSuffix>
+  <fcLabelMount>Ездовое животное</fcLabelMount>
+  <fcMakeMechanitor>Сделать этот юнит механитором</fcMakeMechanitor>
+  <fcMechBandwidth>Пропускная способность: {0} / {1}</fcMechBandwidth>
+  <fcMechBandwidthExceeded>Это превысит пропускную способность механитора.</fcMechBandwidthExceeded>
+  <fcMechGroup>Группа {0}</fcMechGroup>
+  <fcMechNotResearched>Вы еще не исследовали, как строить {0}.</fcMechNotResearched>
+  <fcMechWorkMode>Режим работы</fcMechWorkMode>
+  <fcMechsHint>Включите "Сделать этот юнит механитором", чтобы дать ему мехлинк и назначить управляемых мехов. Мехи будут развертываться вместе с юнитом в бою.</fcMechsHint>
+  <fcMechsNoBiotech>Для механиторов требуется DLC Biotech.</fcMechsNoBiotech>
+  <fcNoAnimalsAssigned>Животные-компаньоны не назначены</fcNoAnimalsAssigned>
+  <fcNoMechsAvailable>Нет исследованных мехов</fcNoMechsAvailable>
+  <fcNoMountsAvailable>Нет доступных ездовых животных</fcNoMountsAvailable>
+  <fcPickImplant>Выбрать имплант</fcPickImplant>
+  <fcPickInventoryItem>Выбрать предмет инвентаря</fcPickInventoryItem>
+  <fcPickMech>Выбрать меха</fcPickMech>
+  <fcPickMount>Выбрать ездовое животное</fcPickMount>
+  <fcPsycastPointsSummary>Очки: {0} / {1}</fcPsycastPointsSummary>
+  <fcPsycastsNeedPsylink>Поднимите уровень пси-связи юнита выше 0, чтобы выбрать пси-способности.</fcPsycastsNeedPsylink>
+  <fcPsycastsNoSystem>Система пси-способностей недоступна. Установите Royalty или Vanilla Psycasts Expanded, чтобы назначать пси-способности.</fcPsycastsNoSystem>
+  <fcPsycastsRandomNote>Пси-способности выдаются случайно на этом уровне пси-связи при найме юнита.</fcPsycastsRandomNote>
+  <fcPsylinkLevel>Уровень пси-связи</fcPsylinkLevel>
+  <fcTabAnimals>Животные</fcTabAnimals>
+  <fcTabApparel>Одежда</fcTabApparel>
+  <fcTabImplants>Импланты</fcTabImplants>
+  <fcTabInventory>Инвентарь</fcTabInventory>
+  <fcTabMechs>Мехи</fcTabMechs>
+  <fcTabPsycasts>Пси-способности</fcTabPsycasts>
+  <fcUnitGender>Пол</fcUnitGender>
+  <fcVPEEditorHint>Тратьте очки на пути и пси-способности, фокусы медитации или характеристики пси-кастера. Выбор сохраняется в дизайне юнита и применяется ко всем наемникам, созданным на его основе.</fcVPEEditorHint>
+  <fcVPEEditorTitle>Пси-способности</fcVPEEditorTitle>
+  <fcVPEEditorUnavailable>Не удалось подготовить предварительного пси-кастера для этого юнита.</fcVPEEditorUnavailable>
+  <fcVPEPointsAvailable>Доступные очки: {0} / {1}</fcVPEPointsAvailable>
+  <fcVPEStatPointsSpent>Потрачено очков характеристик: {0}</fcVPEStatPointsSpent>
 </LanguageData>

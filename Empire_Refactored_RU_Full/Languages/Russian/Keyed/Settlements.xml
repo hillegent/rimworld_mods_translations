@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 
-  <!-- Создание поселения -->
+
   <FCSettleANewColony>Основать новую колонию</FCSettleANewColony>
   <FCCreateNewColony>Создать новую колонию</FCCreateNewColony>
   <FCSelectTile>Выберите тайл для создания колонии</FCSelectTile>
@@ -28,7 +28,7 @@
   <FCSetCapital>Установить столицу</FCSetCapital>
   <FCSetAsFactionCapital>{0} был установлен как столица фракции</FCSetAsFactionCapital>
 
-  <!-- Улучшение поселения -->
+
   <FCAlreadyUpgradeSettlement>Это поселение уже улучшается!</FCAlreadyUpgradeSettlement>
   <FCStartUpgradeSettlement>Поселение теперь улучшается...</FCStartUpgradeSettlement>
   <FCUpgradeSettlement>Улучшить поселение</FCUpgradeSettlement>
@@ -45,7 +45,7 @@
   <FCUpgradeBadgeInProgress>Улучшение: осталось {0}</FCUpgradeBadgeInProgress>
   <FCUpgradeBadgeAvailable>Нажмите для улучшения (стоимость: {0} серебра)</FCUpgradeBadgeAvailable>
 
-  <!-- Окно поселения -->
+
   <FCGoToLocation>Перейти к месту</FCGoToLocation>
   <FCLocated>Расположен в</FCLocated>
   <FCLandOf>землях</FCLandOf>
@@ -53,7 +53,7 @@
   <FCOpenSettlementWindowDefaultDesc>Открывает окно колонии поселения</FCOpenSettlementWindowDefaultDesc>
   <FCBuildRoads>Строить дороги</FCBuildRoads>
 
-  <!-- Статистика поселения -->
+
   <FCSettlementMilitaryLevel>Военный уровень поселения</FCSettlementMilitaryLevel>
   <FCSettlementHappiness>Счастье поселения</FCSettlementHappiness>
   <FCSettlementLoyalty>Лояльность поселения</FCSettlementLoyalty>
@@ -72,7 +72,7 @@
   <FCSettlementStatGain>Прирост {1} на {0} в день</FCSettlementStatGain>
   <FCSettlementStatLoss>Потеря {1} на {0} в день</FCSettlementStatLoss>
 
-  <!-- Описания статистики поселения -->
+
   <FCSettlementMilitaryLevelDesc>Военный уровень напрямую влияет на способность поселения защищать себя и атаковать внешние угрозы.</FCSettlementMilitaryLevelDesc>
   <FCSettlementHappinessDesc>Показатель общего счастья поселения.
 
@@ -87,7 +87,7 @@
 
 Процветание города напрямую связано с производством ресурсов (например, 50% процветания = 50% производства). Процветание дрейфует к цели, определяемой счастьем, лояльностью и нестабильностью поселения.</FCSettlementProsperityDesc>
 
-  <!-- Таблица поселений -->
+
   <FCSettlementManager>Управление поселениями</FCSettlementManager>
   <FCSettlementTableName>Название</FCSettlementTableName>
   <FCSettlementTableLevel>Уровень</FCSettlementTableLevel>
@@ -105,26 +105,26 @@
   <FCColonyLevel>Уровень колонии</FCColonyLevel>
   <FCHamlet>деревушка</FCHamlet>
 
-  <!-- Удаление поселения -->
+
   <FCDeleteSettlement>Удалить поселение</FCDeleteSettlement>
   <FCDeleteSettlementConfirm>Удалить поселение {0}?</FCDeleteSettlementConfirm>
   <FCAreYouSureRemove>Вы уверены?</FCAreYouSureRemove>
   <FCSettlementRemoved>Поселение {0} было удалено.</FCSettlementRemoved>
 
-  <!-- Настройка поселения -->
+
   <FCCustomizeSettlement>Настроить поселение</FCCustomizeSettlement>
   <FCSettlementFullName>Полное название:</FCSettlementFullName>
   <FCSettlementShortName>Краткое название:</FCSettlementShortName>
   <FCUnsupportedSettlementFaction>У фракции этого поселения нет названия, или что-то пошло ужасно не так.</FCUnsupportedSettlementFaction>
 
-  <!-- Особые действия поселения -->
+
   <FCSpecialActions>Особые действия</FCSpecialActions>
   <FCBuyLoyalty>Купить лояльность</FCBuyLoyalty>
   <FCSendSilverToColony>Отправить серебро в колонию</FCSendSilverToColony>
   <FCSendingXSilver>Отправка {0} серебра</FCSendingXSilver>
   <FCSettlementGainsXLoyalty>Поселение получит {0} лояльности</FCSettlementGainsXLoyalty>
 
-  <!-- Статус строительства -->
+
   <FCNumUnderConstruction>Активных строек: {0}</FCNumUnderConstruction>
   <FCActiveConstruction>Активные стройки</FCActiveConstruction>
   <FCCloseConstructionBox>Закрыть список строек</FCCloseConstructionBox>
@@ -132,7 +132,7 @@
   <FCSettlementupgrading>Улучшение поселения</FCSettlementupgrading>
   <FCCompletiontimer>Завершится через: {0}</FCCompletiontimer>
 
-  <!-- Описания биомов -->
+
   <FCDescSeaIce>Бескрайние ледяные просторы, не нарушаемые ничем, кроме мелкой и редкой дикой природы. Никакая еда не растет, кроме как в отапливаемых помещениях. Здесь выживают только самые стойкие формы жизни.</FCDescSeaIce>
   <FCDescIceSheet>Безрадостная, бесконечная мерзлота покрывает землю, прерываемая лишь каменными выступами и руинами. Единственный источник пищи — выносливая дикая природа, которая называет это место своим домом.</FCDescIceSheet>
   <FCDescTundra>Приграничные земли вмещают разнообразную флору и фауну, которая существует на покрытом мхом ландшафте. Когда приходит лето, земля расцветает, пусть и ненадолго.</FCDescTundra>
@@ -148,14 +148,14 @@
   <FCDescUnknown>Мало что широко известно об окружающих землях, но колония умудряется выживать и процветать в текущих условиях.</FCDescUnknown>
   <FCDescOrbitalSpace>Обширная пустота космоса простирается во всех направлениях, нарушаемая лишь далеким мерцанием звезд и случайными пролетающими астероидами. Солнечные панели сверкают в вечном солнечном свете, а системы жизнеобеспечения тихо гудят в искусственной среде. Станция парит в пустоте, маяк цивилизации в космической глуши.</FCDescOrbitalSpace>
 
-  <!-- Описания уровней города -->
+
   <FCTownLevel1>Само поселение представляет собой небольшую группу зданий, сгруппированных вокруг центральной структуры.</FCTownLevel1>
   <FCTownLevel2>В поселении преобладают несколько больших структур, но оно все еще довольно маленькое. Ряд мешков с песком и баррикад опоясывают его снаружи.</FCTownLevel2>
   <FCTownLevel3>Поселение имеет большое количество строений — в основном ориентированных на производство, — а также специальные складские помещения, и занятые рабочие снуют между ними. Скромная стена защищает поселение.</FCTownLevel3>
   <FCTownLevel4>Поселение довольно большое и хорошо организованное, с несколькими промышленными зданиями, сгруппированными вместе для максимальной эффективности. Толстая стена и внутренние укрепления защищают колонию от атак.</FCTownLevel4>
   <FCTownLevel5>Четко обозначенные здания отмечают промышленное сердце этого оживленного маяка цивилизации, а также различные другие коммунальные службы. Множество стен окружают колонию, с многочисленными внутренними укреплениями в тщательно спланированных узких местах.</FCTownLevel5>
 
-  <!-- Местоположения орбитальных поселений -->
+
   <FCOrbitalLocation1>На орбите в глубоком космосе</FCOrbitalLocation1>
   <FCOrbitalLocation2>Расположена на низкой орбите</FCOrbitalLocation2>
   <FCOrbitalLocation3>Парит в пустоте космоса</FCOrbitalLocation3>
@@ -164,7 +164,7 @@
   <FCOrbitalLocation6>Парит над поверхностью</FCOrbitalLocation6>
   <FCOrbitalLocation7>Развернута в орбитальном пространстве</FCOrbitalLocation7>
 
-  <!-- Ключевые слова для названий орбитальных поселений -->
+
   <FCOrbitalKeyword1>Космическая станция</FCOrbitalKeyword1>
   <FCOrbitalKeyword2>Станция</FCOrbitalKeyword2>
   <FCOrbitalKeyword3>Спутник</FCOrbitalKeyword3>
@@ -176,7 +176,22 @@
   <FCOrbitalKeyword9>Станция в пустоте</FCOrbitalKeyword9>
   <FCOrbitalKeyword10>Астральная платформа</FCOrbitalKeyword10>
 
-  <!-- Ограничения по окружению для зданий -->
+
   <FCBuildingInvalidEnvironment>Это здание не может быть построено в биоме этого поселения!</FCBuildingInvalidEnvironment>
 
+  <FCDecayingPenaltyDaysLeft>Осталось дней: {0}</FCDecayingPenaltyDaysLeft>
+  <FCPenaltyCaravanDeath>Караван {0} атакован</FCPenaltyCaravanDeath>
+  <FCPenaltyCaravanWipe>Караван {0} вырезан</FCPenaltyCaravanWipe>
+  <FCPenaltyCaravanWipeMessage>Жители {0} в ярости из-за того, что один из их торговых караванов был уничтожен под вашей защитой.</FCPenaltyCaravanWipeMessage>
+  <FCPenaltyPawnDeath>Житель {0} убит</FCPenaltyPawnDeath>
+  <FCSettlementMilBaseLevel>Базовый уровень</FCSettlementMilBaseLevel>
+  <FCSettlementMilCapSettlementLevel>Уровень поселения</FCSettlementMilCapSettlementLevel>
+  <FCSettlementMilDefensiveLine>Оборонительный уровень: {0}  (x{1} преимущество защитника)</FCSettlementMilDefensiveLine>
+  <FCSettlementMilLevelCap>Предел уровня</FCSettlementMilLevelCap>
+  <FCSettlementMilLevelExplain>Наступательный или оборонительный военный уровень поселения - это значение, которое фактически используется в боях; оно выводится из отряда или, если отряда нет, из половины предела уровня.
+
+Предел уровня определяет, насколько сильный отряд может выставить это поселение.
+
+Все бонусы к военному уровню повышают предел, а не эффективный уровень.</FCSettlementMilLevelExplain>
+  <FCSettlementMilOffensiveLine>Наступательный уровень: {0}  (x{1} эффективность)</FCSettlementMilOffensiveLine>
 </LanguageData>

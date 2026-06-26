@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 
-  <!-- Счета -->
-  <FCNotEnoughSilverForBill>У вас недостаточно серебра для оплаты просроченного счета от</FCNotEnoughSilverForBill>
+
+  <FCNotEnoughSilverForBill>У вас недостаточно серебра для оплаты неоплаченного счета от {0}.</FCNotEnoughSilverForBill>
   <FCConfiscatedTithes>Взамен они конфисковали вашу десятину</FCConfiscatedTithes>
   <FCOutstandingBills>Неоплаченные счета</FCOutstandingBills>
   <FCDueDate>Срок оплаты</FCDueDate>
@@ -22,7 +22,7 @@
   <FCLateBillAutoPaidLabel>Просроченные счета автоматически оплачены</FCLateBillAutoPaidLabel>
   <FCLateBillAutoPaidDesc>{0} просроченный(е) счет(а) были автоматически оплачены из ваших запасов серебра.\n\nЗатронутые поселения:\n{1}\n\nВаша небрежность в оплате вызвала небольшое недовольство и нестабильность в затронутых поселениях.</FCLateBillAutoPaidDesc>
 
-  <!-- Налоги -->
+
   <FCSettlementTax>Налог на поселение</FCSettlementTax>
   <FCWeekOf>неделя</FCWeekOf>
   <FCTaxesBilled>Налоги выставлены</FCTaxesBilled>
@@ -38,7 +38,7 @@
 
   <FCInnovativeMessage>Инновация {0} предоставила вам {1} очков исследований.</FCInnovativeMessage>
 
-  <!-- Налоговые отчеты -->
+
   <FCTaxReports>Налоговые отчеты</FCTaxReports>
   <FCFactionTaxReports>Налоговые отчеты фракции</FCFactionTaxReports>
   <FCSettlementTaxCollection>Сбор налогов с поселений</FCSettlementTaxCollection>
@@ -47,7 +47,7 @@
   <FCTimeTillTax>Время до налога</FCTimeTillTax>
   <FCTotalFactionProduction>Общее производство ресурса по всей фракции</FCTotalFactionProduction>
 
-  <!-- Налоговая льгота -->
+
   <FCGiveTaxBreak>Предоставить налоговую льготу</FCGiveTaxBreak>
   <FCConfirmTaxBreak>Снизить базовый налог на 30% на 10 дней, но получать дополнительно +2 к счастью и процветанию ежедневно?</FCConfirmTaxBreak>
   <FCAlreadyGivingTaxBreak>Вы уже предоставляете этому поселению налоговую льготу на следующие {0} дней.</FCAlreadyGivingTaxBreak>
@@ -55,14 +55,14 @@
   <FCIndustriousPop>Ваше поселение {0} принесло дополнительные {1} процентов налогов благодаря трудолюбию!</FCIndustriousPop>
   <FCIdustriousTaxBoost>Трудолюбивые налоги</FCIdustriousTaxBoost>
 
-  <!-- Режим уведомлений о налогах -->
+
   <FCTaxNotificationModeButton>Уведомления о прибытии налогов: </FCTaxNotificationModeButton>
   <FCTaxNotifyAll>Все (Письмо + Сообщение)</FCTaxNotifyAll>
   <FCTaxNotifyLetterOnly>Только письмо (синее уведомление)</FCTaxNotifyLetterOnly>
   <FCTaxNotifyMessageOnly>Только сообщение (текст вверху экрана)</FCTaxNotifyMessageOnly>
   <FCTaxNotifyNone>Нет (скрыть все)</FCTaxNotifyNone>
 
-  <!-- Режимы доставки -->
+
   <FCSelectTaxDeliveryModeButton>Принудительный режим доставки налогов: </FCSelectTaxDeliveryModeButton>
   <FCTaxDeliveryModeDefaultDesc>Нет. Доставка зависит от технологий и построек поселения</FCTaxDeliveryModeDefaultDesc>
   <FCTaxDeliveryModeTaxSpotDesc>Место сбора. Доставка появляется на месте сбора налогов</FCTaxDeliveryModeTaxSpotDesc>
@@ -71,7 +71,7 @@
   <FCTaxDeliveryModeShuttleDesc>Шаттл. Доставка всегда прибывает на шаттле</FCTaxDeliveryModeShuttleDesc>
   <FCTaxDeliveryModeShuttleUnavailableDesc>Шаттл. Недоступно из-за отсутствия королевского титула</FCTaxDeliveryModeShuttleUnavailableDesc>
 
-  <!-- События доставки -->
+
   <FCDeliveryPawnsHiding>Доставляющие поселенцы бросают свои вещи и прячутся на вашем месте сбора налогов! Они вступят в бой, только если враг приблизится!</FCDeliveryPawnsHiding>
   <FCDeliveryPawnsLeavingMap>Доставляющие поселенцы покидают карту.</FCDeliveryPawnsLeavingMap>
   <FCDeliveryPawnsLeavingMapNoPath>Доставляющие поселенцы покидают карту, так как не могут добраться до места сбора налогов.</FCDeliveryPawnsLeavingMapNoPath>
@@ -79,7 +79,7 @@
   <FCSettlementDeliveringLoot>Ваше поселение доставляет вам следующую добычу: </FCSettlementDeliveringLoot>
   <FCDeliveryHeldUpArriving>Доставка, которая была вынуждена ждать, прибыла!</FCDeliveryHeldUpArriving>
 
-  <!-- Десятина -->
+
   <FCTitheList>Список десятины</FCTitheList>
   <FCStackCount>Количество стаков</FCStackCount>
   <FCTotalValue>Общая стоимость</FCTotalValue>
@@ -92,14 +92,14 @@
   <FCTitheDisableAll>Отключить все</FCTitheDisableAll>
   <FCTitheSingleOption>{0} - Стоимость - {1} | Разрешено: {2}</FCTitheSingleOption>
 
-  <!-- Окно случайного выбора предметов десятины -->
+
   <FCTitheEnabledCount>{0} / {1} включено</FCTitheEnabledCount>
   <FCTitheShowAll>Все</FCTitheShowAll>
   <FCTitheShowEnabled>Включенные</FCTitheShowEnabled>
   <FCTitheShowDisabled>Отключенные</FCTitheShowDisabled>
   <FCTitheShowFilter>Показать: {0}</FCTitheShowFilter>
 
-  <!-- Случайная десятина -->
+
   <FCRandomTithesEnabled>Случайная десятина</FCRandomTithesEnabled>
   <FCRandomTitheSelectionHeader>Выбор случайных предметов десятины</FCRandomTitheSelectionHeader>
   <FCRandomTitheBudget>Бюджет случайной десятины</FCRandomTitheBudget>
@@ -130,7 +130,7 @@
   <FCTitheBudgetNoWorkers>Назначьте рабочих на этот ресурс для создания бюджета десятины.</FCTitheBudgetNoWorkers>
   <FCTitheBudgetInsufficient>Максимальный бюджет десятины недостаточно высок.</FCTitheBudgetInsufficient>
 
-  <!-- Окно добавления предмета десятины -->
+
   <FCAddTitheItemHeader>Добавить предмет десятины</FCAddTitheItemHeader>
   <FCItemSelection>Выбор предмета</FCItemSelection>
   <FCAddItem>Добавить предмет</FCAddItem>
@@ -151,7 +151,7 @@
   <FCTitheSortPriceLow>Цена: Низкая</FCTitheSortPriceLow>
   <FCTitheSortPriceHigh>Цена: Высокая</FCTitheSortPriceHigh>
 
-  <!-- Производство -->
+
   <FCBaseProductionStats>Базовая статистика производства</FCBaseProductionStats>
   <FCProduction>Производство</FCProduction>
   <FCProductionEfficiency>Эффективность производства</FCProductionEfficiency>
@@ -162,14 +162,14 @@
   <FCTotalProdTooltip>Текущая скорость: {0}\nСреднее за период: {1} ({2} из {3} дней в выборке)</FCTotalProdTooltip>
   <FCResourcePools>Пулы ресурсов</FCResourcePools>
 
-  <!-- Типы ресурсов -->
+
   <FCFood>Еда</FCFood>
   <FCWeapons>Оружие</FCWeapons>
   <FCAnimals>Животные</FCAnimals>
   <FCLogging>Лесозаготовка</FCLogging>
   <FCMining>Добыча</FCMining>
 
-  <!-- Рабочие -->
+
   <FCWorkers>Рабочие</FCWorkers>
   <FCFreeWorkers>Свободные рабочие</FCFreeWorkers>
   <FCAssignedWorkers>Назначенные рабочие</FCAssignedWorkers>
@@ -179,7 +179,7 @@
   <FCAssignedOvermaxWorkersTooltip>Каждый дополнительный сверхлимитный рабочий увеличивает стоимость всех рабочих на 5.</FCAssignedOvermaxWorkersTooltip>
   <FCCostPerWorker>Стоимость за рабочего</FCCostPerWorker>
 
-  <!-- Доход -->
+
   <FCSilver>Серебро</FCSilver>
   <FCCashSymbol>$</FCCashSymbol>
   <FCInitialCost>Начальная стоимость</FCInitialCost>
@@ -203,16 +203,30 @@
   <FCNetIncomeBreakdownAvg>Средний чистый доход за период: {0} ({1} из {2} дней в выборке)</FCNetIncomeBreakdownAvg>
   <FCItemcost>{0}{1}</FCItemcost>
 
-  <!-- Выходная мощность -->
-  <FCSetAsEmpirePowerOutput>Установить как источник энергии империи</FCSetAsEmpirePowerOutput>
+
+  <FCSetAsEmpirePowerOutput>Назначить выходом энергии {0}</FCSetAsEmpirePowerOutput>
   <FCSetAsOutput>Установить источник энергии</FCSetAsOutput>
   <FCSetAsOutputSuccess>Трансформатор установлен как источник энергии для ваших поселений!</FCSetAsOutputSuccess>
 
-  <!-- Снижение стоимости поселения -->
+
   <FCActionSettlementFeeReduction>Стоимость вашего следующего поселения будет снижена наполовину из-за экспансионистской черты вашей фракции</FCActionSettlementFeeReduction>
 
-  <!-- Полученные товары -->
+
   <FCGoodsReceived>Полученные товары</FCGoodsReceived>
   <FCGoodsReceivedFollowing>Вы получили следующие товары в результате события {0}:</FCGoodsReceivedFollowing>
 
+  <FCAssignedOvermaxWorkersBreakdownTooltip>Модификаторы, влияющие на сверхлимитную вместимость рабочих:</FCAssignedOvermaxWorkersBreakdownTooltip>
+  <FCAssignedWorkersTooltip>Модификаторы, влияющие на вместимость рабочих:</FCAssignedWorkersTooltip>
+  <FCAvailableSilver>Доступное серебро</FCAvailableSilver>
+  <FCBillKindSquadDeployment>Развертывание отряда</FCBillKindSquadDeployment>
+  <FCBillKindSquadRestock>Пополнение отряда</FCBillKindSquadRestock>
+  <FCBillKindTax>Налог</FCBillKindTax>
+  <FCExtraWorkersSoftcapTooltipSub>За каждый уровень поселения:</FCExtraWorkersSoftcapTooltipSub>
+  <FCNoActiveModifiers>Нет активных модификаторов.</FCNoActiveModifiers>
+  <FCNonIncomeResourcesDesc>Эти ресурсы не приносят доход серебром. Их сырой доход добавляется в отдельный запас, а не превращается в серебро или десятину. Подробнее см. в кодексе.</FCNonIncomeResourcesDesc>
+  <FCNonIncomeResourcesHeader>Ресурсы без дохода</FCNonIncomeResourcesHeader>
+  <FCRestockBillLetterLabel>Отряд пополнен</FCRestockBillLetterLabel>
+  <FCRestockBillNotification>{0} пополнен после боя. {1} серебра выставлено счетом поселению {2} за пополнение припасов и ремонт снаряжения.</FCRestockBillNotification>
+  <FCTitheValueMultiplierTooltip>{0} {1}: множитель стоимости десятины = {2}</FCTitheValueMultiplierTooltip>
+  <FCWorkersFromPrisoners>Пленные</FCWorkersFromPrisoners>
 </LanguageData>

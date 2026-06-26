@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 
-  <!-- Окно событий -->
+
   <FCCurrentOngoingEvents>Текущие события</FCCurrentOngoingEvents>
   <FCTimeRemaining>Оставшееся время</FCTimeRemaining>
   <FCNewLand>Новые земли</FCNewLand>
@@ -17,7 +17,7 @@
   <FCEffectPreviewDurationRange>({0}-{1} дней)</FCEffectPreviewDurationRange>
   <FCMultipleSettlements>Несколько ({0})</FCMultipleSettlements>
 
-  <!-- Окно вариантов событий -->
+
   <FCEventAffecting>Влияет на:</FCEventAffecting>
   <FCEventOptionFree>Бесплатно</FCEventOptionFree>
   <FCEventSuccessGuaranteed>Успех: Гарантирован</FCEventSuccessGuaranteed>
@@ -27,21 +27,21 @@
   <FCEffectPreviewReward>награда стоимостью ~{0} серебра</FCEffectPreviewReward>
   <FCEffectPreviewDuration>({0} дней)</FCEffectPreviewDuration>
 
-  <!-- События строительства -->
+
   <FCBuildingEventDesc>{0} строится в {1}. Предполагаемое завершение: {2}.</FCBuildingEventDesc>
   <FCBuildingEventCompletedMsg>{0} построен в {1}!</FCBuildingEventCompletedMsg>
 
-  <!-- События с персонажами -->
+
   <FCDeathOfFactionPawn>Ваша некомпетентность привела к смерти одного из поселенцев ваших поселений! Нестабильность в ваших подчиненных поселениях возросла.</FCDeathOfFactionPawn>
   <FCCaptureOfFactionPawn>Захват одного из поселенцев вашего поселения вызвал сильную нестабильность в ваших подчиненных поселениях!</FCCaptureOfFactionPawn>
   <FCPrisonerHasDiedLetter>Заключенный умер</FCPrisonerHasDiedLetter>
   <FCPrisonerHasDied>{0} в {1} умер от переутомления</FCPrisonerHasDied>
 
-  <!-- События с наемниками -->
+
   <FCMercenaryJoined>Наемник присоединился</FCMercenaryJoined>
   <FCMercenaryJoinedText>Наемник по имени {0} из вашей фракции присоединился к вашей колонии!</FCMercenaryJoinedText>
 
-  <!-- События шаттлов/транспорта -->
+
   <FCTransportingInjuredShuttle>Шаттл транспортирует раненых колонистов обратно к вам после успешной обороны поселения</FCTransportingInjuredShuttle>
   <FCTransportingInjuredDropPod>Дроп-поды транспортируют раненых колонистов обратно к вам после успешной обороны поселения</FCTransportingInjuredDropPod>
   <FCTransportingInjuredCaravan>Караван транспортирует раненых колонистов обратно к вам после успешной обороны поселения</FCTransportingInjuredCaravan>
@@ -53,7 +53,7 @@
   <FCCaravanDangerTooHigh>Караван ждет, пока ваша карта очистится от опасности, чтобы доставить груз.</FCCaravanDangerTooHigh>
   <FCCaravanDangerTooHighWithItems>Караван ждет, пока ваша карта очистится от опасности, чтобы доставить груз. Они несут: {0}.</FCCaravanDangerTooHighWithItems>
 
-  <!-- Шаттловый порт -->
+
   <FCShuttlePortCallShuttleLabel>Запросить шаттл</FCShuttlePortCallShuttleLabel>
   <FCShuttlePortCallShuttleDesc>Попросить ваше поселение прислать шаттл, который может перевезти караван:\n Осталось использований: {0} (Стоимость: {1})</FCShuttlePortCallShuttleDesc>
   <FCTargetAnythingWithColonists>Выберите цель со свободными колонистами для отправки шаттла</FCTargetAnythingWithColonists>
@@ -69,4 +69,17 @@
 
   <FCRandomEventLetterLabel>Случайное событие</FCRandomEventLetterLabel>
 
+  <FCEventAllSettlements>Все поселения</FCEventAllSettlements>
+  <FCEventNumSettlements>Поселений: {0}</FCEventNumSettlements>
+  <FCOptionCostBase>База: {0}</FCOptionCostBase>
+  <FCOptionCostIncome>+ {0}% дохода {2}: {1}</FCOptionCostIncome>
+  <FCOptionCostMultiplier>x {0} (глобальная настройка стоимости)</FCOptionCostMultiplier>
+  <FCOptionCostPerSettlement>x {0} затронутых поселений: {1}</FCOptionCostPerSettlement>
+  <FCOptionCostResource>+ масштабирование {0} (произведено {1}): {2}</FCOptionCostResource>
+  <FCOptionCostTotal>Итого: {0}</FCOptionCostTotal>
+  <FCOption_Followup_Certain>(Запустит последующее событие)</FCOption_Followup_Certain>
+  <FCOption_Followup_Possible>(Может запустить последующее событие)</FCOption_Followup_Possible>
+  <FCPrisonerDeathGoodwillHeader>Изменения доброжелательности:</FCPrisonerDeathGoodwillHeader>
+  <FCPrisonersHaveDiedBody>{0} пленных в {1} умерли от переработки:</FCPrisonersHaveDiedBody>
+  <FCPrisonersHaveDiedLetter>Пленные умерли</FCPrisonersHaveDiedLetter>
 </LanguageData>
