@@ -196,8 +196,8 @@
         <li>clothType-&gt;Портной</li>
         <li>clothType-&gt;Ткацкий дом</li>
         <li>clothType-&gt;Модная мастерская</li>
-        <li>clothType-&gt;Outfitter</li>
-        <li>fabricType-&gt;Silk</li>
+        <li>clothType-&gt;Ателье</li>
+        <li>fabricType-&gt;Шелковая</li>
         <li>fabricType-&gt;Кожа</li>
         <li>fabricType-&gt;Девилстранд</li>
         <li>detected-&gt;Обнаружено место раскопок</li>
@@ -265,7 +265,7 @@
         <li>questName(isFirstQuest==false)-&gt;[adjective] [partType] Завод</li>
         <li>questName(isFirstQuest==false)-&gt;[compType] из [enemyFaction_name]</li>
         <li>adjective-&gt;Промышленная инициатива</li>
-        <li>adjective-&gt;Precision</li>
+        <li>adjective-&gt;Прецизионный</li>
         <li>adjective-&gt;Расширенный</li>
         <li>adjective-&gt;Скрытый</li>
         <li>adjective-&gt;Удаленный</li>
@@ -276,7 +276,7 @@
         <li>compType-&gt;Электроника</li>
         <li>compType-&gt;Техническая мастерская</li>
         <li>compType-&gt;Производственное предприятие</li>
-        <li>compType-&gt;Circuit Foundry</li>
+        <li>compType-&gt;Цех микросхем</li>
         <li>partType-&gt;Компонент</li>
         <li>partType-&gt;Схема</li>
         <li>partType-&gt;Электроника</li>
@@ -423,7 +423,7 @@
         <li>questName(isFirstQuest==false)-&gt;[adjective] [gunType]</li>
         <li>questName(isFirstQuest==false)-&gt;[gunType] [detected]</li>
         <li>questName(isFirstQuest==false)-&gt;[enemyFaction_name] [gunType]</li>
-        <li>questName(isFirstQuest==false)-&gt;[adjective] Arms [camp]</li>
+        <li>questName(isFirstQuest==false)-&gt;[adjective] оружейный [camp]</li>
         <li>questName(isFirstQuest==false)-&gt;[gunType] из [enemyFaction_name]</li>
         <li>adjective-&gt;Укрепленный</li>
         <li>adjective-&gt;Скрытый</li>
@@ -436,7 +436,7 @@
         <li>gunType-&gt;Оружейная</li>
         <li>gunType-&gt;Оружейная фабрика</li>
         <li>gunType-&gt;Склад оружия</li>
-        <li>gunType-&gt;Forge</li>
+        <li>gunType-&gt;Кузница</li>
         <li>gunType-&gt;Арсенал</li>
         <li>camp-&gt;Депо</li>
         <li>camp-&gt;Тайник</li>
@@ -506,10 +506,10 @@
         <li>adjective-&gt;Отброшено</li>
         <li>adjective-&gt;Удаленный</li>
         <li>adjective-&gt;Изолировано</li>
-        <li>adjective-&gt;Fringe</li>
+        <li>adjective-&gt;Окраинный</li>
         <li>adjective-&gt;Скрытый</li>
-        <li>adjective-&gt;Frontier</li>
-        <li>adjective-&gt;Wilderness</li>
+        <li>adjective-&gt;Пограничный</li>
+        <li>adjective-&gt;Дикий</li>
         <li>homeType-&gt;Усадьба</li>
         <li>homeType-&gt;Кабина</li>
         <li>homeType-&gt;Лачуга</li>
@@ -655,14 +655,14 @@
         <li>questName(isFirstQuest==false)-&gt;[adjective] Горнодобывающая промышленность [camp]</li>
         <li>questName(isFirstQuest==false)-&gt;[adjective] Горнодобывающая промышленность [camp]</li>
         <li>questName(isFirstQuest==false)-&gt;Горнодобывающая промышленность [camp] [detected]</li>
-        <li>questName(isFirstQuest==false)-&gt;[enemyFaction_name] Mining [camp]</li>
+        <li>questName(isFirstQuest==false)-&gt;[enemyFaction_name] шахтерский [camp]</li>
         <li>questName(isFirstQuest==false)-&gt;[adjective] [oreType] Шахта</li>
         <li>adjective-&gt;Удаленный</li>
         <li>adjective-&gt;Скрытый</li>
         <li>adjective-&gt;Укрепленный</li>
         <li>adjective-&gt;Отдаленное</li>
         <li>adjective-&gt;Защитил</li>
-        <li>adjective-&gt;Deep</li>
+        <li>adjective-&gt;Глубокий</li>
         <li>adjective-&gt;Богатый</li>
         <li>camp-&gt;Аванпост</li>
         <li>camp-&gt;Лагерь</li>
@@ -753,7 +753,7 @@
         <li>platformType-&gt;Орбитальная среда обитания</li>
         <li>platformType-&gt;Аркология</li>
         <li>hubType-&gt;Путевая станция</li>
-        <li>hubType-&gt;Freeport</li>
+        <li>hubType-&gt;Вольный порт</li>
         <li>hubType-&gt;Реле</li>
         <li>hubType-&gt;Причал</li>
         <li>detected-&gt;Обнаружен</li>
@@ -829,7 +829,7 @@
         <li>adjective-&gt;Временное решение</li>
         <li>adjective-&gt;Удаленный</li>
         <li>adjective-&gt;Спрятано</li>
-        <li>vehType-&gt;Chop Shop</li>
+        <li>vehType-&gt;Авторазборка</li>
         <li>vehType-&gt;Гараж</li>
         <li>vehType-&gt;Свалка</li>
         <li>vehType-&gt;Моторный парк</li>

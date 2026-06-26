@@ -8905,6 +8905,14 @@
                     {
                         "original":  "A zero-G shootout built on Near Orbit\u0027s combat rules (CP3301 pp.13-14, 25-26). The station\u0027s microgravity transfer core, the weightless hub at the spin axis where every berth and shuttle is staged, is held by a rival crew that controls who docks. Clear them out and berth control passes to the fixer\u0027s client, so the rival loses its slot for a season. The catch is the fight itself: Newton\u0027s Third Law shoves a shooter back off every recoiling shot (a REF + Zero-Gee Combat save or spin away), heavy and rifle rounds punch straight through the thin SP hull and let the air out, and a Groundsider can freeze the first time the floor falls away. Knives and low-recoil space arms are the disciplined kill, and the heavy guns can vent the whole core.",
                         "translation":  "Перестрелка в невесомости, построенная на боевых правилах Околоорбитального боя (CP3301, стр. 13-14, 25-26). Переносное ядро ​​станции в условиях микрогравитации, невесомый центр на оси вращения, где расположены все причалы и шаттлы, удерживается конкурирующей командой, которая контролирует, кто пришвартовывается. Уничтожьте их, и контроль причала перейдет к клиенту фиксера, а соперник на сезон потеряет свое место. Загвоздка заключается в самом бою: Третий закон Ньютона отталкивает стрелка назад при каждом выстреле отдачи (спасение REF + Zero-Gee Combat или отворот), тяжелые и винтовочные патроны пробивают тонкий корпус SP и выпускают воздух, а Groundsider может замерзнуть при первом падении пола. Ножи и космическое оружие с малой отдачей — дисциплинированное убийство, а тяжелые орудия могут выпустить все ядро."
+                    },
+                    {
+                        "original":  "\n\nWARNING: This outpost is on high alert!",
+                        "translation":  "\n\nВНИМАНИЕ: аванпост находится в состоянии повышенной тревоги!"
+                    },
+                    {
+                        "original":  " (HIGH ALERT)",
+                        "translation":  " (ПОВЫШЕННАЯ ТРЕВОГА)"
                     }
                 ]
 }
