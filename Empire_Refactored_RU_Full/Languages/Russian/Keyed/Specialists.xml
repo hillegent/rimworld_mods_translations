@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FCS_SettingsCategory>Empire: специалисты и губернаторы</FCS_SettingsCategory>
+  <FCS_SettingDebugLog>Включить отладочное логирование</FCS_SettingDebugLog>
+  <FCS_SettingResetAll>Сбросить все по умолчанию</FCS_SettingResetAll>
+  <FCS_Header_SkillFloor>Требования к навыкам</FCS_Header_SkillFloor>
+  <FCS_Header_Capacity>Лимит специалистов</FCS_Header_Capacity>
+  <FCS_Header_Healing>Лечение</FCS_Header_Healing>
+  <FCS_Header_Workers>Рабочие</FCS_Header_Workers>
+  <FCS_Header_Upkeep>Содержание</FCS_Header_Upkeep>
+  <FCS_Header_XP>Опыт</FCS_Header_XP>
+  <FCS_Header_SkillScaling>Масштабирование навыков</FCS_Header_SkillScaling>
+  <FCS_Header_Death>Шансы смерти</FCS_Header_Death>
+  <FCS_Header_SupplyChain>Интеграция с Routes &amp; Resources</FCS_Header_SupplyChain>
+  <FCS_SettingSkillFloorSpecialist>Мин. уровень навыка специалиста: </FCS_SettingSkillFloorSpecialist>
+  <FCS_SettingSkillFloorDefense>Мин. уровень навыка обороны: </FCS_SettingSkillFloorDefense>
+  <FCS_SettingSkillFloorGovernor>Мин. уровень навыка губернатора: </FCS_SettingSkillFloorGovernor>
+  <FCS_SettingSpecBaseMax>Базовый лимит специалистов</FCS_SettingSpecBaseMax>
+  <FCS_SettingSpecPerLevels>Уровней поселения за +1 к лимиту специалистов</FCS_SettingSpecPerLevels>
+  <FCS_SettingResidentsPerWorker>Жителей за каждого бонусного рабочего</FCS_SettingResidentsPerWorker>
+  <FCS_SettingScalingFactor>Множитель масштабирования</FCS_SettingScalingFactor>
+  <FCS_TooltipUpkeepSection>Зарплата персонала, выплачивается каждый платежный период.\n\nСпециалист = база роли + (оценка навыков × масштаб роли × множитель масштабирования).\nГубернатор = база фокуса + (оценка навыков × масштаб фокуса × множитель масштабирования), затем × 2 (или ×3 с политикой меритократии).\n\nУ каждой роли специалиста и фокуса губернатора есть собственная база и рост за навыки. Множитель ниже настраивает, насколько сильно навыки повышают зарплату (1 = по умолчанию).</FCS_TooltipUpkeepSection>
+  <FCS_SettingHealRateSpec>Скорость лечения за уровень Медицины (специалист): </FCS_SettingHealRateSpec>
+  <FCS_SettingHealRateGov>Скорость лечения за уровень Медицины (губернатор)</FCS_SettingHealRateGov>
+  <FCS_SettingXpPerDay>Опыт в день за навык</FCS_SettingXpPerDay>
+  <FCS_TooltipXpPerDay>Ежедневный опыт, выдаваемый релевантным навыкам каждого пешки.\n\nСпециалист получает опыт только в навыках своей роли; губернатор - только в навыках своего фокуса (с учетом веса каждого навыка). Губернаторы также всегда получают опыт Общения.</FCS_TooltipXpPerDay>
+  <FCS_SettingSkillTaperBand1>Масштаб уровней 1-10 (1 = полностью)</FCS_SettingSkillTaperBand1>
+  <FCS_SettingSkillTaperBand2>Масштаб уровней 11-20 (1 = полностью)</FCS_SettingSkillTaperBand2>
+  <FCS_SettingSkillTaperBand3>Масштаб уровней 21+ (моды без лимита)</FCS_SettingSkillTaperBand3>
+  <FCS_SettingCivilianDeathChance>Гражданский специалист: </FCS_SettingCivilianDeathChance>
+  <FCS_SettingGovernorDeathChance>Губернатор: </FCS_SettingGovernorDeathChance>
+  <FCS_SettingDefenseDeathChance>Специалист обороны: </FCS_SettingDefenseDeathChance>
+  <FCS_SettingResidentDeathChance>Житель: </FCS_SettingResidentDeathChance>
+  <FCS_SettingDeathReduction>Снижение за защитника: </FCS_SettingDeathReduction>
+  <FCS_SettingFoodPerSpec>Еда на специалиста/губернатора</FCS_SettingFoodPerSpec>
+  <FCS_SettingFoodPerResident>Еда на жителя</FCS_SettingFoodPerResident>
+  <FCS_SettingMedPerSpec>Медицина на специалиста/губернатора</FCS_SettingMedPerSpec>
+  <FCS_SettingFoodPenalty>Штраф еды за единицу</FCS_SettingFoodPenalty>
+  <FCS_SettingMedPenalty>Штраф медицины за единицу</FCS_SettingMedPenalty>
+  <FCS_RoleResident>Житель</FCS_RoleResident>
+  <FCS_RoleSpecialist>Специалист</FCS_RoleSpecialist>
+  <FCS_RoleDefense>Оборона</FCS_RoleDefense>
+  <FCS_RoleGovernor>Губернатор</FCS_RoleGovernor>
+  <FCS_AssignTitle>Назначить пешек в {0}</FCS_AssignTitle>
+  <FCS_RoleOccupied>{0} (занято)</FCS_RoleOccupied>
+  <FCS_RoleCapReached>{0} (лимит достигнут)</FCS_RoleCapReached>
+  <FCS_ConfirmCount>Подтвердить ({0})</FCS_ConfirmCount>
+  <FCS_GizmoAssignLabel>Назначить в поселение</FCS_GizmoAssignLabel>
+  <FCS_GizmoAssignDesc>Назначить пешек из этого каравана работать в {0}.</FCS_GizmoAssignDesc>
+  <FCS_ArrivalResident>Добавить жителей в {0}</FCS_ArrivalResident>
+  <FCS_ArrivalSpecialist>Добавить специалистов в {0}</FCS_ArrivalSpecialist>
+  <FCS_ArrivalGovernor>Добавить губернатора в {0}</FCS_ArrivalGovernor>
+  <FCS_ArrivalSpecialistFull>лимит специалистов заполнен</FCS_ArrivalSpecialistFull>
+  <FCS_ArrivalGovernorTaken>губернатор уже назначен</FCS_ArrivalGovernorTaken>
+  <FCS_ArrivalResidentDone>{0} жителей добавлено в {1}</FCS_ArrivalResidentDone>
+  <FCS_ArrivalSpecialistDone>{0} специалистов добавлено в {1}</FCS_ArrivalSpecialistDone>
+  <FCS_ArrivalGovernorDone>{0} назначен губернатором {1}</FCS_ArrivalGovernorDone>
+  <FCS_ArrivalGovernorAndResidents>{0} назначен губернатором {1}, {2} добавлены как жители</FCS_ArrivalGovernorAndResidents>
+  <FCS_ArrivalSpecialistAndResidents>{0} специалистов и {1} жителей добавлено в {2}</FCS_ArrivalSpecialistAndResidents>
+  <FCS_TabName>Специалисты</FCS_TabName>
+  <FCS_GovernorHeader>Губернатор</FCS_GovernorHeader>
+  <FCS_NoGovernor>Губернатор не назначен</FCS_NoGovernor>
+  <FCS_FocusNone>Нет</FCS_FocusNone>
+  <FCS_FocusSlotLabel>Ф{0}: {1}</FCS_FocusSlotLabel>
+  <FCS_FocusNoFocus>Нет фокуса</FCS_FocusNoFocus>
+  <FCS_FocusSingleLabel>{0}</FCS_FocusSingleLabel>
+  <FCS_FocusSkillLevel>{0} ({1} {2})</FCS_FocusSkillLevel>
+  <FCS_UpkeepDisplay>Содержание: {0} сер./период</FCS_UpkeepDisplay>
+  <FCS_SpecDefHeader>Специалисты ({0})  |  Оборона ({1})  | Всего ({2}/{3})</FCS_SpecDefHeader>
+  <FCS_SpecHeader>Специалисты ({0}/{1})</FCS_SpecHeader>
+  <FCS_CannotAssignSpecialistRole>Нельзя назначить {0} на роль {1} в {2}: уже назначен максимум специалистов ({3}).</FCS_CannotAssignSpecialistRole>
+  <FCS_BtnRole>Роль</FCS_BtnRole>
+  <FCS_BtnRecall>Вернуть</FCS_BtnRecall>
+  <FCS_ResidentHeader>Жители ({0})</FCS_ResidentHeader>
+  <FCS_WorkerBonusSuffix>  -&gt;  +{0} рабочих</FCS_WorkerBonusSuffix>
+  <FCS_RoleReplaces>{0} (заменяет {1})</FCS_RoleReplaces>
+  <FCS_ContribMilLevel>+{0} воен. ур.</FCS_ContribMilLevel>
+  <FCS_ContribProduction>+{0} {1}</FCS_ContribProduction>
+  <FCS_StatWorkerBonus>+{0} рабочих ({1} жителей)</FCS_StatWorkerBonus>
+  <FCS_StatEffectLine>+{0} - {1}: {2}</FCS_StatEffectLine>
+  <FCS_HealRateLine>+{0} к скорости лечения - Медицина: {1}</FCS_HealRateLine>
+  <FCS_ResSpecialists>Специалисты ({0})</FCS_ResSpecialists>
+  <FCS_ResGovernor>Губернатор ({0} Общение {1}{2})</FCS_ResGovernor>
+  <FCS_ResFocusTag>, фокус</FCS_ResFocusTag>
+  <FCS_SubGovernor>Губернатор</FCS_SubGovernor>
+  <FCS_SubSpecialists>Специалисты</FCS_SubSpecialists>
+  <FCS_SubResidents>Жители</FCS_SubResidents>
+  <FCS_NoSpecialists>Специалисты не назначены</FCS_NoSpecialists>
+  <FCS_NoResidents>Жители не назначены</FCS_NoResidents>
+  <FCS_IdentityAge>Возраст {0}</FCS_IdentityAge>
+  <FCS_GovSocial>Общение: {0}</FCS_GovSocial>
+  <FCS_GovMultSummary>Лучший эффект: ×{0} {1}</FCS_GovMultSummary>
+  <FCS_GovXpRate>+{0} опыта/день</FCS_GovXpRate>
+  <FCS_NoGovernorHint>Отправьте колониста караваном, чтобы назначить его.</FCS_NoGovernorHint>
+  <FCS_GovFocusHeader>ФОКУС</FCS_GovFocusHeader>
+  <FCS_GovFocusMult>Множитель фокуса: {0}x</FCS_GovFocusMult>
+  <FCS_GovMeritocraticTag>(Меритократия)</FCS_GovMeritocraticTag>
+  <FCS_GovSocialFactor>Фактор Общения: {0}x</FCS_GovSocialFactor>
+  <FCS_GovFoodSat>Обеспечение едой: {0}%</FCS_GovFoodSat>
+  <FCS_GovResHeader>ВКЛАД В РЕСУРСЫ</FCS_GovResHeader>
+  <FCS_GovResTooltipHeader>Бонус производства {0}</FCS_GovResTooltipHeader>
+  <FCS_GovResTooltipSkill>  {0}: {1} × {2} = +{3}</FCS_GovResTooltipSkill>
+  <FCS_GovResTooltipSocial>Фактор Общения: × {0}</FCS_GovResTooltipSocial>
+  <FCS_GovResTooltipFocus>Бонус фокуса: × {0}</FCS_GovResTooltipFocus>
+  <FCS_GovResTooltipFood>Обеспечение едой: × {0}</FCS_GovResTooltipFood>
+  <FCS_GovResTooltipFinal>Итоговый множитель: +{0}%</FCS_GovResTooltipFinal>
+  <FCS_GovResTooltipBarNote>Полоса показывает относительную силу вклада.</FCS_GovResTooltipBarNote>
+  <FCS_GovResTooltipNoSkills>{0}: нет связанных навыков.\nНа этот ресурс бонусы губернатора не влияют.</FCS_GovResTooltipNoSkills>
+  <FCS_TooltipSocialFactor>Фактор Общения масштабирует производственный бонус губернатора.\n\nФормула: {0}\nНавык Общение: {1}\nРезультат: {2}x</FCS_TooltipSocialFactor>
+  <FCS_TooltipSkills>Самые высокие неотключенные навыки.\nНавыки, связанные с ресурсом, определяют производственные бонусы этой пешки.</FCS_TooltipSkills>
+  <FCS_TooltipFocus>Фокусирует бонус губернатора на этом ресурсе.\nРесурсы в фокусе получают губернаторский множитель ×{0}.</FCS_TooltipFocus>
+  <FCS_TooltipContribHeader>Бонус производства {0}:</FCS_TooltipContribHeader>
+  <FCS_TooltipContribLine>  {0} {1} × {2} = +{3}</FCS_TooltipContribLine>
+  <FCS_TooltipContribTotal>Всего: +{0}</FCS_TooltipContribTotal>
+  <FCS_TooltipContribBest>Лучший вклад: +{0} {1}</FCS_TooltipContribBest>
+  <FCS_TooltipDefenseBonus>Бонус военного уровня:\n  макс(Ближний бой {0}, Стрельба {1}) × 0.05 = +{2}</FCS_TooltipDefenseBonus>
+  <FCS_TooltipUpkeep>База: {0} сер. + (Навыки: {1} / {2}) × {3}\n= {4} сер./период{5}</FCS_TooltipUpkeep>
+  <FCS_TooltipUpkeepGovMult>\n× {0} (губернатор)</FCS_TooltipUpkeepGovMult>
+  <FCS_UpkeepSettlementLine>Специалисты</FCS_UpkeepSettlementLine>
+  <FCS_GovSkillScore>Оценка навыков: {0}</FCS_GovSkillScore>
+  <FCS_TooltipUpkeepGovFlat>База: {0} сер. + (оценка: {1} × {2} × {3}), × {4} (губернатор) = {5} сер./период</FCS_TooltipUpkeepGovFlat>
+  <FCS_GovResTooltipSkillScore>Оценка навыков: {0}</FCS_GovResTooltipSkillScore>
+  <FCS_TooltipFocusCurrent>Текущий фокус: {0}\nНажмите, чтобы изменить область специализации губернатора.</FCS_TooltipFocusCurrent>
+  <FCS_TooltipUpkeepSpec>База: {0} сер. + (оценка: {1} × {2} × {3}) = {4} сер./период</FCS_TooltipUpkeepSpec>
+  <FCS_ContribStatScore>{0}: оценка навыков {1}</FCS_ContribStatScore>
+  <FCS_PreviewNoBonus>Нет производственного бонуса</FCS_PreviewNoBonus>
+  <FCS_PreviewGovMult>×{0} {1}</FCS_PreviewGovMult>
+  <FCS_PickerRoleTitle>Назначить роль: {0}</FCS_PickerRoleTitle>
+  <FCS_PickerFocusTitle>Выбрать фокус губернатора</FCS_PickerFocusTitle>
+  <FCS_PickerResidentDesc>Обычный работник, который пополняет рабочую силу поселения, но не специализируется на конкретном ресурсе.</FCS_PickerResidentDesc>
+  <FCS_PickerResidentPreview>Бонус рабочих (без вклада в ресурсы)</FCS_PickerResidentPreview>
+  <FCS_PickerUpkeep>{0} сер./период</FCS_PickerUpkeep>
+  <FCS_PickerStatPreview>{0}: +{1}%</FCS_PickerStatPreview>
+  <FCS_PickerPerSettlementCap>{0}: максимум {1} на поселение</FCS_PickerPerSettlementCap>
+  <FCS_PickerAllResources>все ресурсы</FCS_PickerAllResources>
+  <FCS_PickerDeathReduction>шанс смерти (все пешки)</FCS_PickerDeathReduction>
+  <FCS_DeathChanceLine>Шанс смерти при поражении: {0}%</FCS_DeathChanceLine>
+  <FCS_DeathChanceTipBase>Базовый шанс при поражении: {0}%</FCS_DeathChanceTipBase>
+  <FCS_DeathChanceTipReduction>\n{0} (командир): -{1}%</FCS_DeathChanceTipReduction>
+  <FCS_DeathChanceTipFinal>\nИтог: {0}%</FCS_DeathChanceTipFinal>
+  <FCS_LetterGovernorKilled>Губернатор погиб</FCS_LetterGovernorKilled>
+  <FCS_LetterSpecialistKilled>Специалист погиб</FCS_LetterSpecialistKilled>
+  <FCS_LetterDeathAttack>{0} ({1}) погиб во время атаки на {2}.</FCS_LetterDeathAttack>
+  <FCS_LetterDeathDefending>{0} ({1}) погиб, защищая {2}.</FCS_LetterDeathDefending>
+  <FCS_LetterDeathGeneric>{0} ({1}) из {2} погиб.</FCS_LetterDeathGeneric>
+  <FCS_CodexYes>да</FCS_CodexYes>
+  <FCS_CodexNone>нет</FCS_CodexNone>
+  <FCS_CodexScore>оценка {0}</FCS_CodexScore>
+  <FCS_CodexOverviewHeader>Ваши колонисты по поселениям:</FCS_CodexOverviewHeader>
+  <FCS_CodexOverviewGovernor>Губернатор: {0}</FCS_CodexOverviewGovernor>
+  <FCS_CodexOverviewSpecialists>Специалисты: {0} / {1}</FCS_CodexOverviewSpecialists>
+  <FCS_CodexOverviewResidents>Жители: {0}</FCS_CodexOverviewResidents>
+  <FCS_CodexResidentsHeader>Каждые {0} жителей дают одного дополнительного рабочего.</FCS_CodexResidentsHeader>
+  <FCS_CodexResidentsLine>{0} жителей  -&gt;  +{1} рабочих</FCS_CodexResidentsLine>
+  <FCS_CodexSpecHeader>Специалисты по поселениям:</FCS_CodexSpecHeader>
+  <FCS_CodexSpecCount>{0} / {1} специалистов</FCS_CodexSpecCount>
+  <FCS_CodexGovHeader>Губернаторы по поселениям:</FCS_CodexGovHeader>
+  <FCS_CodexUpkeepHeader>Зарплаты персонала по поселениям:</FCS_CodexUpkeepHeader>
+  <FCS_CodexUpkeepSilver>Зарплата: {0} серебра / цикл</FCS_CodexUpkeepSilver>
+  <FCS_CodexUpkeepFood>Обеспечение едой: {0}%</FCS_CodexUpkeepFood>
+  <FCS_CodexUpkeepMed>Обеспечение медициной: {0}%</FCS_CodexUpkeepMed>
+  <FCS_CodexRiskHeader>Шанс смерти при втягивании в бой:</FCS_CodexRiskHeader>
+  <FCS_CodexRiskDefeat>При поражении:</FCS_CodexRiskDefeat>
+  <FCS_CodexRiskVictory>При победе:</FCS_CodexRiskVictory>
+  <FCS_CodexRiskTiers>Житель {0}%, специалист {1}%, губернатор {2}%</FCS_CodexRiskTiers>
+  <FCS_CodexRolesHeader>Доступные роли специалистов:</FCS_CodexRolesHeader>
+  <FCS_CodexFocusesHeader>Доступные фокусы губернатора:</FCS_CodexFocusesHeader>
+  <FCS_CodexBoosts>усиливает {0}</FCS_CodexBoosts>
+  <FCS_CodexAllProduction>все производство</FCS_CodexAllProduction>
+  <FCS_CodexRoleGeneral>общая поддержка поселения</FCS_CodexRoleGeneral>
+  <SP_PatchTitle>Примечания к обновлениям: специалисты и губернаторы</SP_PatchTitle>
+  <SP_OpenPatchNotes>Открыть примечания к обновлениям</SP_OpenPatchNotes>
+  <FCSRR_MedicineNeed>Медицина специалистов</FCSRR_MedicineNeed>
+  <FCSRR_FoodNeed>Еда специалистов</FCSRR_FoodNeed>
+  <FCSRR_happinesspenalty>настроение</FCSRR_happinesspenalty>
+</LanguageData>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FCVOE_DisableIntegration>Отключить всю интеграцию</FCVOE_DisableIntegration>
+  <FCVOE_DisableIntegrationDesc>Главный переключатель. Полностью отключает интеграцию между Empire Refactored и Vanilla Outposts Expanded.</FCVOE_DisableIntegrationDesc>
+  <FCVOE_OutpostDefended>{0} защищен</FCVOE_OutpostDefended>
+  <FCVOE_OutpostDefendedDesc>Ваш аванпост {0} успешно отбил вражеский рейд.</FCVOE_OutpostDefendedDesc>
+  <FCVOE_OutpostRaided>На {0} совершен рейд</FCVOE_OutpostRaided>
+  <FCVOE_OutpostRaidedDesc>Ваш аванпост {0} подвергся рейду! {1} колонистов ранено, часть припасов потеряна.</FCVOE_OutpostRaidedDesc>
+  <FCVOE_ChangeDefender>Сменить защитника</FCVOE_ChangeDefender>
+  <FCVOE_ChangeDefenderDesc>Выберите поселение Империи, которое будет защищать этот аванпост.</FCVOE_ChangeDefenderDesc>
+  <FCVOE_DefenderChanged>{0} теперь защищает {1}.</FCVOE_DefenderChanged>
+  <FCVOE_DefenseIdle>Ожидает</FCVOE_DefenseIdle>
+  <FCVOE_StatusDefending>Защищает {0}</FCVOE_StatusDefending>
+  <FCVOE_StatusRegrouping>Перегруппировка ({0})</FCVOE_StatusRegrouping>
+  <FCVOE_StatusDefensiveAura>Защитная аура</FCVOE_StatusDefensiveAura>
+  <FCVOE_MilitaryLevel>Военный уровень: {0} (защита: {1})</FCVOE_MilitaryLevel>
+  <FCVOE_CombatEfficiency>Боевая эффективность: {0}x</FCVOE_CombatEfficiency>
+  <FCVOE_InspectAuraActive>Защитная аура: +{0} к ближайшим поселениям</FCVOE_InspectAuraActive>
+  <FCVOE_AuraLevelValue>+{0} уровень</FCVOE_AuraLevelValue>
+  <FCVOE_ReinforcementsCooldown>Восстановление после развертывания: осталось {0}</FCVOE_ReinforcementsCooldown>
+  <FCVOE_DeliveryOutpostLabel>Место доставки налогов</FCVOE_DeliveryOutpostLabel>
+  <FCVOE_DeliveryOutpostDesc>Выберите, куда доставлять налоги этого поселения. Сейчас: {0}</FCVOE_DeliveryOutpostDesc>
+  <FCVOE_FinancingOutpostLabel>Источник финансирования</FCVOE_FinancingOutpostLabel>
+  <FCVOE_FinancingOutpostDesc>Выберите аванпост, который будет оплачивать расходы этого поселения. Сейчас: {0}</FCVOE_FinancingOutpostDesc>
+  <FCVOE_TaxDeliveredToOutpost>Налоги из {0} прибыли в {1}.</FCVOE_TaxDeliveredToOutpost>
+  <FCVOE_TaxDeliveredToOutpostDesc>Партия налогов из {0} доставлена в аванпост {1}.\n\nТовары:\n{2}</FCVOE_TaxDeliveredToOutpostDesc>
+  <FCVOE_TaxRedirected>Доставка налогов перенаправлена</FCVOE_TaxRedirected>
+  <FCVOE_TaxRedirectedDesc>Аванпост, назначенный для получения налогов из {0}, больше не существует. Груз перенаправлен в {1}.</FCVOE_TaxRedirectedDesc>
+  <FCVOE_InvalidDeliveryOutpost>{0} попыталось доставить налоги в недействительный аванпост. Пункт доставки сброшен.</FCVOE_InvalidDeliveryOutpost>
+  <FCVOE_FinancingPartiallyDepleted>Средства {0} исчерпаны. Оставшиеся {1} серебра будут взяты из вашей казны.</FCVOE_FinancingPartiallyDepleted>
+  <FCVOE_DeliveryEventDesc>Налоги из {0} доставляются в {1}.\n\nТовары:\n{2}</FCVOE_DeliveryEventDesc>
+  <FCVOE_PlayerTaxMap>Налоговая карта игрока</FCVOE_PlayerTaxMap>
+  <FCVOE_Title>Empire: аванпосты и поселения</FCVOE_Title>
+  <FCVOE_DebugLogging>Подробное логирование</FCVOE_DebugLogging>
+  <FCVOE_DebugLoggingDesc>Включить подробное логирование.</FCVOE_DebugLoggingDesc>
+  <FCVOE_EnableMilitary>Военная интеграция</FCVOE_EnableMilitary>
+  <FCVOE_EnableMilitaryDesc>Аванпосты могут подвергаться рейдам, оборонительные аванпосты автоматически защищают ближайшие поселения, а сами аванпосты появляются на военной вкладке.</FCVOE_EnableMilitaryDesc>
+  <FCVOE_EnableDefensiveAura>Пассивная защитная аура</FCVOE_EnableDefensiveAura>
+  <FCVOE_EnableDefensiveAuraDesc>Укомплектованные оборонительные аванпосты пассивно усиливают защиту ближайших поселений при рейдах, даже без отправки своих сил.</FCVOE_EnableDefensiveAuraDesc>
+  <FCVOE_EnableDefensiveAuraDivert>Перетягивать рейды к оборонительным аванпостам</FCVOE_EnableDefensiveAuraDivert>
+  <FCVOE_EnableDefensiveAuraDivertDesc>Поселения под прикрытием ближайшего оборонительного аванпоста реже становятся целью рейда, направляя внимание врагов к самим аванпостам.</FCVOE_EnableDefensiveAuraDivertDesc>
+  <FCVOE_EnableDelivery>Маршрутизация доставки налогов</FCVOE_EnableDelivery>
+  <FCVOE_EnableDeliveryDesc>Доставлять налоги поселений в аванпосты вместо налоговой карты игрока.</FCVOE_EnableDeliveryDesc>
+  <FCVOE_EnableFinancing>Финансирование из аванпостов</FCVOE_EnableFinancing>
+  <FCVOE_EnableFinancingDesc>Аванпосты могут оплачивать расходы поселений из своего запаса серебра.</FCVOE_EnableFinancingDesc>
+  <FCVOE_EnableResourceLink>Привязка ресурсов</FCVOE_EnableResourceLink>
+  <FCVOE_EnableResourceLinkDesc>Производственные аванпосты (добыча, фермы, охота, лесозаготовка, бурение, наука) можно привязать к ближайшему поселению, чтобы они усиливали соответствующее производство вместо отправки физических предметов.</FCVOE_EnableResourceLinkDesc>
+  <FCVOE_EnableEncampment>Восстановление в лагерях</FCVOE_EnableEncampment>
+  <FCVOE_EnableEncampmentDesc>Ближайшие лагеря ускоряют лечение наемников в ваших поселениях.</FCVOE_EnableEncampmentDesc>
+  <FCVOE_EnableOutpostConversion>Преобразование аванпостов</FCVOE_EnableOutpostConversion>
+  <FCVOE_EnableOutpostConversionDesc>Аванпосты можно преобразовывать в поселения Империи через гизмо. Городки могут стать поселением любого типа; производственные аванпосты могут стать соответствующим специализированным типом (например, лесозаготовительный аванпост становится лесным лагерем), если установлен сабмод с такими типами.</FCVOE_EnableOutpostConversionDesc>
+  <FCVOE_EnableRoads>Интеграция дорог</FCVOE_EnableRoads>
+  <FCVOE_EnableRoadsDesc>Строитель дорог Империи включает ваши аванпосты в дорожную сеть, прокладывая дороги к ним и между ними вместе с поселениями.</FCVOE_EnableRoadsDesc>
+  <FCVOE_EnableOutpostMainTab>Общая вкладка аванпостов</FCVOE_EnableOutpostMainTab>
+  <FCVOE_EnableOutpostMainTabDesc>Добавляет вкладку "Аванпосты" в окно Empire+, показывая все связи аванпостов и поселений в обе стороны.</FCVOE_EnableOutpostMainTabDesc>
+  <FCVOE_ConvertOutpostPawns>Включать работников аванпоста в поселение</FCVOE_ConvertOutpostPawns>
+  <FCVOE_ConvertOutpostPawnsDesc>При преобразовании аванпоста его работники присоединяются к новому поселению: как специалисты/жители с установленным Empire Refactored: Specialists &amp; Governors, иначе как производственные бонусы на основе навыков.</FCVOE_ConvertOutpostPawnsDesc>
+  <FCVOE_ReducedFoundingCostFactor>Стоимость преобразования (доля стоимости основания)</FCVOE_ReducedFoundingCostFactor>
+  <FCVOE_TownFlatAdditive>Плоская прибавка производства городка</FCVOE_TownFlatAdditive>
+  <FCVOE_EnableConversionDelay>Требовать время становления перед преобразованием</FCVOE_EnableConversionDelay>
+  <FCVOE_EnableConversionDelayDesc>Аванпост нельзя преобразовать в поселение, пока он не просуществует заданное число дней.</FCVOE_EnableConversionDelayDesc>
+  <FCVOE_ConversionDelayDays>Дней до преобразования аванпоста</FCVOE_ConversionDelayDays>
+  <FCVOE_RequireOutpost>Основывать поселения только через аванпосты</FCVOE_RequireOutpost>
+  <FCVOE_RequireOutpostDesc>Поселения Империи больше нельзя основывать напрямую. Вместо этого нужно создать аванпост и преобразовать его. На экране основания кнопка "Поселиться" станет "Отправить караван".</FCVOE_RequireOutpostDesc>
+  <FCVOE_OutpostBonusDesc>Бонус рабочей силы аванпоста</FCVOE_OutpostBonusDesc>
+  <FCVOE_ConvertToSettlement>Преобразовать в поселение</FCVOE_ConvertToSettlement>
+  <FCVOE_ConvertToSettlementDesc>Преобразовать этот аванпост в поселение Империи. Его работники присоединятся к поселению, а сам аванпост будет заменен.</FCVOE_ConvertToSettlementDesc>
+  <FCVOE_ConvertPickType>В какой тип поселения преобразовать аванпост?</FCVOE_ConvertPickType>
+  <FCVOE_ConvertReady>Можно преобразовать в поселение</FCVOE_ConvertReady>
+  <FCVOE_ConvertAvailableInDays>Можно преобразовать через {0} дн.</FCVOE_ConvertAvailableInDays>
+  <FCVOE_ConvertNoPawns>В этом аванпосте нет работников для создания поселения.</FCVOE_ConvertNoPawns>
+  <FCVOE_ConvertBusyPacking>Этот аванпост сейчас сворачивается.</FCVOE_ConvertBusyPacking>
+  <FCVOE_ConvertBusyAttacked>Этот аванпост под атакой.</FCVOE_ConvertBusyAttacked>
+  <FCVOE_ConvertBusyDefending>Силы этого аванпоста сейчас защищают {0}.</FCVOE_ConvertBusyDefending>
+  <FCVOE_ConvertInvalidType>Этот аванпост нельзя преобразовать в такой тип поселения.</FCVOE_ConvertInvalidType>
+  <FCVOE_OutpostIncorporated>{0} включен в состав</FCVOE_OutpostIncorporated>
+  <FCVOE_OutpostIncorporatedDesc>Аванпост {0} включен в состав вашего нового поселения {1}. {2} работников присоединились к поселению.</FCVOE_OutpostIncorporatedDesc>
+  <FCVOE_MustFoundViaOutpost>Поселения нужно основывать через создание и преобразование аванпоста.</FCVOE_MustFoundViaOutpost>
+  <FCVOE_SendCaravan>Отправить караван</FCVOE_SendCaravan>
+  <FCVOE_SendCaravanNoColony>Нужна колония, из которой можно сформировать караван.</FCVOE_SendCaravanNoColony>
+  <FCVOE_OutpostRequirementsTitle>Требуются аванпосты</FCVOE_OutpostRequirementsTitle>
+  <FCVOE_OutpostRequirementsDesc>Чтобы основать {0}, создайте и преобразуйте один из этих аванпостов:</FCVOE_OutpostRequirementsDesc>
+  <FCVOE_OutpostRequirementsNone>Ни один тип аванпоста не может стать этим типом поселения. Проверьте, установлен ли нужный сабмод.</FCVOE_OutpostRequirementsNone>
+  <FCVOE_ConversionCostTitle>Стоимость преобразования</FCVOE_ConversionCostTitle>
+  <FCVOE_ConversionCostNote>Оплачивается при преобразовании аванпоста в поселение, а не при основании аванпоста.</FCVOE_ConversionCostNote>
+  <FCVOE_ConversionCostHoverPrompt>Наведите на тип поселения, чтобы увидеть стоимость преобразования.</FCVOE_ConversionCostHoverPrompt>
+  <FCVOE_ConversionCostDistanceMult>Множитель расстояния: x{0}</FCVOE_ConversionCostDistanceMult>
+  <FCVOE_TabIntegration>Интеграция</FCVOE_TabIntegration>
+  <FCVOE_TabTowns>Городки</FCVOE_TabTowns>
+  <FCVOE_TownRequirementsHeader>Требования основания городка</FCVOE_TownRequirementsHeader>
+  <FCVOE_TownMinTotal>Минимум ближайших поселений и аванпостов</FCVOE_TownMinTotal>
+  <FCVOE_TownMinSettlements>Минимум ближайших поселений</FCVOE_TownMinSettlements>
+  <FCVOE_TownMinOutposts>Минимум ближайших аванпостов</FCVOE_TownMinOutposts>
+  <FCVOE_TownRange>Макс. дальность поиска поселений или аванпостов</FCVOE_TownRange>
+  <FCVOE_TownExcludeTowns>Не учитывать городки как аванпосты</FCVOE_TownExcludeTowns>
+  <FCVOE_TownExcludeTownsDesc>Если включено, другие городские аванпосты не засчитываются в требование по ближайшим аванпостам.</FCVOE_TownExcludeTownsDesc>
+  <FCVOE_TownNearbySettlements>Недостаточно ближайших поселений: нужно {0} в пределах {1} клеток</FCVOE_TownNearbySettlements>
+  <FCVOE_TownNearbyOutposts>Недостаточно ближайших аванпостов: нужно {0} в пределах {1} клеток</FCVOE_TownNearbyOutposts>
+  <FCVOE_TownNearbyTotal>Недостаточно ближайших поселений или аванпостов: нужно {0} в пределах {1} клеток</FCVOE_TownNearbyTotal>
+  <FCVOE_TownRequirements>Нужно как минимум {0} поселений или аванпостов в пределах {1} клеток, из них не меньше {2} поселений и {3} аванпостов.</FCVOE_TownRequirements>
+  <FCVOE_TownXenoPureLabel>Набор того же ксенотипа</FCVOE_TownXenoPureLabel>
+  <FCVOE_TownXenoPureDesc>Если включено, этот городок набирает только новых жителей с ксенотипом текущего вербующего жителя (или его расой для негуманоидов). В обмен набор происходит реже.</FCVOE_TownXenoPureDesc>
+  <FCVOE_TownXenoPureHeader>Набор того же ксенотипа</FCVOE_TownXenoPureHeader>
+  <FCVOE_TownXenoPureChanceDesc>Переключатель для отдельного городка (гизмо на карте мира). Пока в городке включен набор того же ксенотипа, шанс набора умножается на этот множитель.</FCVOE_TownXenoPureChanceDesc>
+  <FCVOE_TownXenoPureChance>Множитель шанса набора</FCVOE_TownXenoPureChance>
+  <FCVOE_ResourceLinkBonusDesc>Связь с аванпостом {0}</FCVOE_ResourceLinkBonusDesc>
+  <FCVOE_AlreadyLinked>уже привязан</FCVOE_AlreadyLinked>
+  <FCVOE_Linked>привязан</FCVOE_Linked>
+  <FCVOE_UnlinkAll>Отвязать все</FCVOE_UnlinkAll>
+  <FCVOE_NoOutpostsInRange>В радиусе нет аванпостов</FCVOE_NoOutpostsInRange>
+  <FCVOE_Tiles>клеток</FCVOE_Tiles>
+  <FCVOE_LinkedTo>Привязан к: {0}</FCVOE_LinkedTo>
+  <FCVOE_NotLinked>Не привязан к поселению</FCVOE_NotLinked>
+  <FCVOE_DefenseStatusAttacked>Статус: под атакой</FCVOE_DefenseStatusAttacked>
+  <FCVOE_DefenseStatusCooldown>Статус: восстановление (осталось {0})</FCVOE_DefenseStatusCooldown>
+  <FCVOE_DefenseStatusReady>Статус: готов</FCVOE_DefenseStatusReady>
+  <FCVOE_FinancingFor>Финансирует: {0}</FCVOE_FinancingFor>
+  <FCVOE_ReceivingTaxes>Получает налоги от: {0}</FCVOE_ReceivingTaxes>
+  <FCVOE_AdditivePerLevel>Добавочный бонус за уровень навыка</FCVOE_AdditivePerLevel>
+  <FCVOE_SkillFloor>Минимальный уровень навыка</FCVOE_SkillFloor>
+  <FCVOE_ResourceLinkRange>Макс. дальность привязки ресурсов (клетки)</FCVOE_ResourceLinkRange>
+  <FCVOE_PowerConversionMultiplier>Множитель преобразования энергетического аванпоста</FCVOE_PowerConversionMultiplier>
+  <FCVOE_DefensiveAuraRange>Дальность защитной ауры (клетки)</FCVOE_DefensiveAuraRange>
+  <FCVOE_DefensiveAuraLevelFactor>Пассивная защита (доля уровня гарнизона)</FCVOE_DefensiveAuraLevelFactor>
+  <FCVOE_DefensiveAuraSource>{0} ближайших оборонительных аванпостов</FCVOE_DefensiveAuraSource>
+  <FCVOE_OutpostsTab>Аванпосты</FCVOE_OutpostsTab>
+  <FCVOE_OutpostsMainTab>Аванпосты</FCVOE_OutpostsMainTab>
+  <FCVOE_MainTabByOutpost>По аванпостам</FCVOE_MainTabByOutpost>
+  <FCVOE_MainTabBySettlement>По поселениям</FCVOE_MainTabBySettlement>
+  <FCVOE_TabSectionResourceLinks>Связи ресурсов</FCVOE_TabSectionResourceLinks>
+  <FCVOE_TabSectionTaxDelivery>Доставка налогов</FCVOE_TabSectionTaxDelivery>
+  <FCVOE_TabSectionFinancing>Финансирование</FCVOE_TabSectionFinancing>
+  <FCVOE_TabSectionEncampment>Восстановление в лагерях</FCVOE_TabSectionEncampment>
+  <FCVOE_TabSectionDefensive>Защитная аура</FCVOE_TabSectionDefensive>
+  <FCVOE_TabLink>Привязать</FCVOE_TabLink>
+  <FCVOE_TabUnlink>Отвязать</FCVOE_TabUnlink>
+  <FCVOE_NoSettlementsInRange>В радиусе нет поселений</FCVOE_NoSettlementsInRange>
+  <FCVOE_TabChange>Изменить</FCVOE_TabChange>
+  <FCVOE_TabSet>Назначить</FCVOE_TabSet>
+  <FCVOE_TabClear>Очистить</FCVOE_TabClear>
+  <FCVOE_TabNoLinks>Нет</FCVOE_TabNoLinks>
+  <FCVOE_TabFeeds>усиливает {0}</FCVOE_TabFeeds>
+  <FCVOE_TabContribution>+{0}</FCVOE_TabContribution>
+  <FCVOE_TabLinkedElsewhere>привязан к другому</FCVOE_TabLinkedElsewhere>
+  <FCVOE_MainTabOutpostUnlinked>не привязан</FCVOE_MainTabOutpostUnlinked>
+  <FCVOE_MainTabNoOutposts>У вас еще нет аванпостов.</FCVOE_MainTabNoOutposts>
+  <FCVOE_MainTabNoSettlements>Вы еще не основали ни одного поселения.</FCVOE_MainTabNoSettlements>
+  <FCVOE_EncampmentRange>Дальность лагеря (клетки)</FCVOE_EncampmentRange>
+  <FCVOE_EncampmentHealRatePerLevel>Бонус лечения за уровень Медицины</FCVOE_EncampmentHealRatePerLevel>
+  <FCVOE_EncampmentHealRateDesc>{0} ближайших лагерей: +{1}% к скорости лечения наемников</FCVOE_EncampmentHealRateDesc>
+  <FCVOE_EncampmentHealRateSource>{0} ближайших лагерей</FCVOE_EncampmentHealRateSource>
+  <FCVOE_CodexFeatureDisabled>Эта функция отключена в настройках мода.</FCVOE_CodexFeatureDisabled>
+  <FCVOE_CodexNoSettlements>Вы еще не основали ни одного поселения.</FCVOE_CodexNoSettlements>
+  <FCVOE_CodexOverviewDisabled>Вся интеграция Empire и Vanilla Outposts Expanded сейчас отключена в настройках мода.</FCVOE_CodexOverviewDisabled>
+  <FCVOE_CodexOverviewFeatures>Активные интеграции:</FCVOE_CodexOverviewFeatures>
+  <FCVOE_CodexOverviewNoOutposts>Аванпосты еще не созданы.</FCVOE_CodexOverviewNoOutposts>
+  <FCVOE_CodexOverviewOutposts>Создано аванпостов: {0}</FCVOE_CodexOverviewOutposts>
+  <FCVOE_CodexOverviewOutpostLine>  {0}: {1}</FCVOE_CodexOverviewOutpostLine>
+  <FCVOE_CodexDefensiveHeader>Оборонительные аванпосты:</FCVOE_CodexDefensiveHeader>
+  <FCVOE_CodexDefensiveNone>У вас нет оборонительных аванпостов.</FCVOE_CodexDefensiveNone>
+  <FCVOE_CodexDefensiveLine>{0} - военный уровень {1}, дальность {2}</FCVOE_CodexDefensiveLine>
+  <FCVOE_CodexDefensiveAutoOn>Автозащита: вкл.</FCVOE_CodexDefensiveAutoOn>
+  <FCVOE_CodexDefensiveAutoOff>Автозащита: выкл.</FCVOE_CodexDefensiveAutoOff>
+  <FCVOE_CodexEncampmentHeader>Покрытие лагерями:</FCVOE_CodexEncampmentHeader>
+  <FCVOE_CodexEncampmentNone>Ни одно поселение не находится в радиусе лагеря.</FCVOE_CodexEncampmentNone>
+  <FCVOE_CodexDeliveryHeader>Текущая маршрутизация налогов:</FCVOE_CodexDeliveryHeader>
+  <FCVOE_CodexDeliveryNone>Все поселения доставляют налоги на вашу налоговую карту.</FCVOE_CodexDeliveryNone>
+  <FCVOE_CodexDeliveryLine>{0}: доставка в {1}</FCVOE_CodexDeliveryLine>
+  <FCVOE_CodexFinancingHeader>Текущее финансирование:</FCVOE_CodexFinancingHeader>
+  <FCVOE_CodexFinancingNone>Ни одно поселение не финансируется аванпостом.</FCVOE_CodexFinancingNone>
+  <FCVOE_CodexFinancingLine>{0}: финансируется из {1}</FCVOE_CodexFinancingLine>
+  <FCVOE_CodexScienceHeader>Текущие научные связи:</FCVOE_CodexScienceHeader>
+  <FCVOE_CodexScienceNone>Ни один научный аванпост не привязан к поселению.</FCVOE_CodexScienceNone>
+  <FCVOE_CodexScienceLine>{0}: привязан к {1} ({2} исследователей)</FCVOE_CodexScienceLine>
+  <FCVOE_CodexResourceLinkHeader>Текущие связи ресурсов:</FCVOE_CodexResourceLinkHeader>
+  <FCVOE_CodexResourceLinkNone>Ни один производственный аванпост не привязан к поселению.</FCVOE_CodexResourceLinkNone>
+  <FCVOE_CodexResourceLinkLine>{0} &lt;- {1} ({2}: +{3})</FCVOE_CodexResourceLinkLine>
+  <FCVOE_CodexConversionHeader>Аванпосты, которые можно преобразовать в поселения:</FCVOE_CodexConversionHeader>
+  <FCVOE_CodexConversionNone>У вас нет аванпостов, которые можно преобразовать в поселение.</FCVOE_CodexConversionNone>
+  <FCVOE_CodexConversionLine>{0} -&gt; {1} ({2})</FCVOE_CodexConversionLine>
+  <FCVOE_PatchTitle>Примечания к обновлениям: аванпосты и поселения</FCVOE_PatchTitle>
+  <FCVOE_OpenPatchNotes>Открыть примечания к обновлениям</FCVOE_OpenPatchNotes>
+</LanguageData>

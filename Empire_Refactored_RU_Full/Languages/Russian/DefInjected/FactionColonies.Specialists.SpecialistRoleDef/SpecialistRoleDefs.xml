@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Generalist.label>универсал</Generalist.label>
+  <Generalist.description>Мастер на все руки, который понемногу помогает каждому аспекту производства поселения.</Generalist.description>
+  <Farmer.label>фермер</Farmer.label>
+  <Farmer.description>Опытный земледелец, который ухаживает за культурами и повышает производство еды в поселении.</Farmer.description>
+  <Rancher.label>скотовод</Rancher.label>
+  <Rancher.description>Специалист по животным, разводящий скот и повышающий выпуск животной продукции поселения.</Rancher.description>
+  <Miner.label>шахтер</Miner.label>
+  <Miner.description>Опытный горняк, добывающий руду и камень и повышающий производство добычи в поселении.</Miner.description>
+  <Forester.label>лесник</Forester.label>
+  <Forester.description>Лесоруб, умеющий вести устойчивую заготовку древесины и повышающий производство лесозаготовки.</Forester.description>
+  <Weaponsmith.label>оружейник</Weaponsmith.label>
+  <Weaponsmith.description>Мастер-кузнец, который увеличивает производство оружия в поселении.</Weaponsmith.description>
+  <Tailor.label>портной</Tailor.label>
+  <Tailor.description>Текстильный ремесленник, создающий одежду и броню и повышающий выпуск экипировки поселения.</Tailor.description>
+  <Apothecary.label>аптекарь</Apothecary.label>
+  <Apothecary.description>Целитель и травник, производящий медицину и способный ухаживать за ранеными поселения.</Apothecary.description>
+  <Researcher.label>исследователь</Researcher.label>
+  <Researcher.description>Преданный ученый, который продвигает исследовательское производство поселения упорной работой.</Researcher.description>
+  <Engineer.label>инженер</Engineer.label>
+  <Engineer.description>Технический специалист, обслуживающий энергетическую инфраструктуру и улучшающий производство энергии.</Engineer.description>
+  <Chemist.label>химик</Chemist.label>
+  <Chemist.description>Химический специалист, очищающий топливные составы и повышающий выпуск химтоплива поселения.</Chemist.description>
+  <Physicist.label>физик</Physicist.label>
+  <Physicist.description>Теоретический физик, расширяющий границы исследований гравитационных технологий.</Physicist.description>
+  <Commander.label>командир</Commander.label>
+  <Commander.description>Военный лидер, который тренирует войска и повышает боевую эффективность сил поселения, а также снижает потери при атаках.</Commander.description>
+  <Quartermaster.label>квартирмейстер</Quartermaster.label>
+  <Quartermaster.description>Офицер снабжения, оптимизирующий цепочки поставок и повышающий серебряную ценность собираемой десятины.</Quartermaster.description>
+</LanguageData>

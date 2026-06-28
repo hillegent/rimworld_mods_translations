@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FCSspecialistCorps.label>Корпус специалистов</FCSspecialistCorps.label>
+  <FCSspecialistCorps.desc>Формальная программа специалистов, вкладывающаяся в обучение и вместимость. Поселения могут содержать больше специалистов, они быстрее учатся, а их вклад становится заметнее.</FCSspecialistCorps.desc>
+  <FCSspecialistCorps.positiveEffects.0>- +2 к максимуму специалистов на поселение</FCSspecialistCorps.positiveEffects.0>
+  <FCSspecialistCorps.positiveEffects.1>- +20% к добавочному производственному бонусу специалистов</FCSspecialistCorps.positiveEffects.1>
+  <FCSspecialistCorps.positiveEffects.2>- Специалисты получают опыт вдвое быстрее</FCSspecialistCorps.positiveEffects.2>
+  <FCSmeritocratic.label>Меритократия</FCSmeritocratic.label>
+  <FCSmeritocratic.desc>Общество, вознаграждающее компетентность. Умелые губернаторы намного эффективнее, но их высокий статус требует большего вознаграждения.</FCSmeritocratic.desc>
+  <FCSmeritocratic.positiveEffects.0>- Масштабирование навыка Общение губернатора расширено (x0.75-2.0 вместо x0.5-1.5)</FCSmeritocratic.positiveEffects.0>
+  <FCSmeritocratic.positiveEffects.1>- Бонус фокуса губернатора увеличен до x2.0 (с x1.5)</FCSmeritocratic.positiveEffects.1>
+  <FCSmeritocratic.positiveEffects.2>- Специалисты получают на 50% больше опыта</FCSmeritocratic.positiveEffects.2>
+  <FCSmeritocratic.negativeEffects.0>- Содержание губернатора увеличено до x3 (с x2)</FCSmeritocratic.negativeEffects.0>
+  <FCSprofessionalArmy.label>Профессиональная армия</FCSprofessionalArmy.label>
+  <FCSprofessionalArmy.desc>Специалисты обороны - обученные кадровые солдаты. Их военный вклад удваивается, и они лучше защищают гражданских.</FCSprofessionalArmy.desc>
+  <FCSprofessionalArmy.positiveEffects.0>- Специалисты обороны дают 2x военного уровня</FCSprofessionalArmy.positiveEffects.0>
+  <FCSprofessionalArmy.positiveEffects.1>- Снижение смерти за защитника удвоено (4% вместо 2%)</FCSprofessionalArmy.positiveEffects.1>
+  <FCSpatrician.label>Патрициат</FCSpatrician.label>
+  <FCSpatrician.desc>Губернаторов обучают управлять разнообразными экономическими портфелями. Они могут полностью эффективно фокусироваться на двух ресурсах одновременно.</FCSpatrician.desc>
+  <FCSpatrician.positiveEffects.0>- Губернаторы могут назначить 2 ресурса фокуса (оба с полным бонусом x1.5)</FCSpatrician.positiveEffects.0>
+  <FCSgarrisonDoctrine.label>Гарнизонная доктрина</FCSgarrisonDoctrine.label>
+  <FCSgarrisonDoctrine.desc>Постоянная гарнизонная доктрина, которая бережет специалистов обороны и повышает мораль поселения видимой безопасностью.</FCSgarrisonDoctrine.desc>
+  <FCSgarrisonDoctrine.positiveEffects.0>- Шанс смерти специалиста обороны уменьшен вдвое (5% вместо 10%)</FCSgarrisonDoctrine.positiveEffects.0>
+  <FCSgarrisonDoctrine.positiveEffects.1>- Специалисты обороны повышают счастье поселения</FCSgarrisonDoctrine.positiveEffects.1>
+</LanguageData>

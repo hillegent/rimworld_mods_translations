@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FCVOE_0_1_0.label>Первая версия</FCVOE_0_1_0.label>
+  <FCVOE_0_1_0.description>Первая версия и инструменты. Мод все еще в разработке.</FCVOE_0_1_0.description>
+  <FCVOE_0_1_0.patchNoteLines.0>Первая версия и инструменты</FCVOE_0_1_0.patchNoteLines.0>
+  <FCVOE_0_2_0.label>Обновление навыков</FCVOE_0_2_0.label>
+  <FCVOE_0_2_0.description>Все расчеты на основе навыков переведены на те же формулы, что и в Specialists &amp; Governors. Также добавлен бонус скорости лечения наемников от лагерей возле поселений.</FCVOE_0_2_0.description>
+  <FCVOE_0_2_0.patchNoteLines.0>Расчеты на основе навыков теперь используют те же формулы, что и Specialists &amp; Governors</FCVOE_0_2_0.patchNoteLines.0>
+  <FCVOE_0_2_0.patchNoteLines.1>Лагеря теперь дают зависящий от Медицины бонус к скорости лечения наемников в ближайших поселениях</FCVOE_0_2_0.patchNoteLines.1>
+  <FCVOE_0_2_1.label>Обновления</FCVOE_0_2_1.label>
+  <FCVOE_0_2_1.description>Код обновлен с учетом изменений Empire Refactored и Specialists &amp; Governors.</FCVOE_0_2_1.description>
+  <FCVOE_0_2_1.patchNoteLines.0>Множество обновлений кода для совместимости с базовым модом и другими сабмодами</FCVOE_0_2_1.patchNoteLines.0>
+  <FCVOE_0_2_2.label>Обновление перенаправления налогов</FCVOE_0_2_2.label>
+  <FCVOE_0_2_2.description>Код перенаправления налогов обновлен после обновления базового мода.</FCVOE_0_2_2.description>
+  <FCVOE_0_2_2.patchNoteLines.0>Используется новый интерфейс ITaxDeliveryInterceptor из базового мода для перехвата и изменения налоговых событий</FCVOE_0_2_2.patchNoteLines.0>
+  <FCVOE_0_3_0.label>Обновление компонентов</FCVOE_0_3_0.label>
+  <FCVOE_0_3_0.description>Мод переработан, чтобы больше опираться на WorldObjectComps вместо центрального WorldComponent.</FCVOE_0_3_0.description>
+  <FCVOE_0_3_0.patchNoteLines.0>Монолитный WorldComponent разбит на несколько WorldObjectComps</FCVOE_0_3_0.patchNoteLines.0>
+  <FCVOE_0_3_1.label>Обновление переключателей</FCVOE_0_3_1.label>
+  <FCVOE_0_3_1.description>Каждую функцию интеграции сабмода теперь можно переключать отдельно.</FCVOE_0_3_1.description>
+  <FCVOE_0_3_1.patchNoteLines.0>Добавлены отдельные переключатели для каждой механики интеграции</FCVOE_0_3_1.patchNoteLines.0>
+  <FCVOE_0_3_2.label>Обновления API</FCVOE_0_3_2.label>
+  <FCVOE_0_3_2.description>Код обновлен для изменений API базового мода.</FCVOE_0_3_2.description>
+  <FCVOE_0_3_2.patchNoteLines.0>Разные изменения API, например *Registry -&gt; EmpireRegistry и FactionCache -&gt; FindFC</FCVOE_0_3_2.patchNoteLines.0>
+  <FCVOE_0_3_3.label>Обновление устаревшего кода</FCVOE_0_3_3.label>
+  <FCVOE_0_3_3.description>Меню выбора защитника заменено открытием окна выбора защитника из базового мода.</FCVOE_0_3_3.description>
+  <FCVOE_0_3_3.patchNoteLines.0>OutpostDefenderGizmo полностью удален и заменен вызовом Dialog_DefendSettlement</FCVOE_0_3_3.patchNoteLines.0>
+  <FCVOE_0_3_3.patchNoteLines.1>Устаревшая ссылка settlementFCDefending в FindAttackEvent() заменена на linkedOperation?.targetObject</FCVOE_0_3_3.patchNoteLines.1>
+  <FCVOE_0_3_4.label>Поселения вне поверхности</FCVOE_0_3_4.label>
+  <FCVOE_0_3_4.description>Разрешает основывать подходящие поселения Империи на неповерхностных слоях, даже когда включено ограничение "только на городках VOE". Иначе орбитальные поселения полностью блокировались.</FCVOE_0_3_4.description>
+  <FCVOE_0_3_4.patchNoteLines.0>Префикс IsValidTileForNewSettlement теперь применяется только к клеткам поверхностного слоя</FCVOE_0_3_4.patchNoteLines.0>
+  <FCVOE_0_3_5.label>Обновление PlanetTile</FCVOE_0_3_5.label>
+  <FCVOE_0_3_5.description>Мод обновлен на использование PlanetTile вместо int везде, где возможно. RimWorld позволяет привести PlanetTile к int, но при этом теряется информация о слое, что плохо для поселений Империи на разных слоях.</FCVOE_0_3_5.description>
+  <FCVOE_0_3_5.patchNoteLines.0>Мод обновлен на использование PlanetTile вместо int</FCVOE_0_3_5.patchNoteLines.0>
+  <FCVOE_0_3_6.label>Совместимость со строителем дорог</FCVOE_0_3_6.label>
+  <FCVOE_0_3_6.description>Добавлена совместимость со строителем дорог Empire. Если включено, аванпосты VOE входят в расчет дорожной сети, а дороги строятся между ними и поселениями Империи.</FCVOE_0_3_6.description>
+  <FCVOE_0_3_6.patchNoteLines.0>Добавлена поддержка совместимости со строителем дорог Empire</FCVOE_0_3_6.patchNoteLines.0>
+  <FCVOE_0_3_7.label>Обновления и информация</FCVOE_0_3_7.label>
+  <FCVOE_0_3_7.description>Удалены две подсистемы, устаревшие в базовом моде, и добавлены записи кодекса по механикам мода.</FCVOE_0_3_7.description>
+  <FCVOE_0_3_7.patchNoteLines.0>Удалено сокращение восстановления от лагерей (в базовом моде восстановление теперь в основном зависит от дистанции пути)</FCVOE_0_3_7.patchNoteLines.0>
+  <FCVOE_0_3_7.patchNoteLines.1>Удален вклад в масштабирование угрозы (базовый мод больше не использует масштабирование угрозы)</FCVOE_0_3_7.patchNoteLines.1>
+  <FCVOE_0_3_7.patchNoteLines.2>Добавлено множество записей кодекса</FCVOE_0_3_7.patchNoteLines.2>
+  <FCVOE_0_3_8.label>Исправления и настройки городков</FCVOE_0_3_8.label>
+  <FCVOE_0_3_8.description>Встроен мой старый мод "Vanilla Outposts Expanded: Settings for Towns". Включает исправление городков и расширенные настройки вместо захардкоженных констант "3 поселения в пределах 10 клеток".</FCVOE_0_3_8.description>
+  <FCVOE_0_3_8.patchNoteLines.0>Встроен "Vanilla Outposts Expanded: Settings for Towns"</FCVOE_0_3_8.patchNoteLines.0>
+  <FCVOE_0_3_9.label>Расширение преобразования аванпостов</FCVOE_0_3_9.label>
+  <FCVOE_0_3_9.description>Переработан механизм преобразования аванпост -&gt; поселение. Включает лучшую интеграцию UI и возможность превращать в поселения не только городки.</FCVOE_0_3_9.description>
+  <FCVOE_0_3_9.patchNoteLines.0>Механизм преобразования аванпост -&gt; поселение переработан для лучшей интеграции с UI и поддержки большего числа аванпостов, а не только городков</FCVOE_0_3_9.patchNoteLines.0>
+  <FCVOE_0_3_10.label>Больше науки!</FCVOE_0_3_10.label>
+  <FCVOE_0_3_10.description>Снято ограничение на исследовательские аванпосты.</FCVOE_0_3_10.description>
+  <FCVOE_0_3_10.patchNoteLines.0>Разрешено привязывать к поселению больше одного исследовательского аванпоста</FCVOE_0_3_10.patchNoteLines.0>
+  <FCVOE_0_3_11.label>Исправления и обновления</FCVOE_0_3_11.label>
+  <FCVOE_0_3_11.description>Несколько исправлений ошибок и настроек баланса.</FCVOE_0_3_11.description>
+  <FCVOE_0_3_11.patchNoteLines.0>Официальное переименование мода в "Empire Refactored: Outposts &amp; Settlements"</FCVOE_0_3_11.patchNoteLines.0>
+  <FCVOE_0_3_11.patchNoteLines.1>Городские аванпосты можно настроить на набор пешек только с ксенотипом или расой текущих жителей, но с пониженным шансом набора. Не совсем функция Empire, но если мы уже трогаем VOE, почему бы и нет?</FCVOE_0_3_11.patchNoteLines.1>
+  <FCVOE_0_3_11.patchNoteLines.2>Изменен расчет военного уровня: теперь он основан на логике, похожей на отряды в базовом моде, то есть уровень выводится из стоимости всех пешек в аванпосте</FCVOE_0_3_11.patchNoteLines.2>
+  <FCVOE_0_3_11.patchNoteLines.3>Расчеты военной эффективности оборонительного аванпоста упрощены (теперь линейные), с более высоким минимумом и немного меньшим максимумом</FCVOE_0_3_11.patchNoteLines.3>
+  <FCVOE_0_3_12.label>Небольшие исправления</FCVOE_0_3_12.label>
+  <FCVOE_0_3_12.description>Несколько небольших исправлений.</FCVOE_0_3_12.description>
+  <FCVOE_0_3_12.patchNoteLines.0>Оборонительные аванпосты теперь показывают боевую эффективность в инфобоксе карты мира</FCVOE_0_3_12.patchNoteLines.0>
+  <FCVOE_0_3_12.patchNoteLines.1>Исправлена проблема, из-за которой некоторые подсказки модификаторов окрашивались неправильно</FCVOE_0_3_12.patchNoteLines.1>
+  <FCVOE_0_3_12.patchNoteLines.2>Налоговые уведомления теперь учитывают настройку уведомлений базового мода (письмо или сообщение)</FCVOE_0_3_12.patchNoteLines.2>
+  <FCVOE_0_3_13.label>Новые функции, UI и исправления</FCVOE_0_3_13.label>
+  <FCVOE_0_3_13.description>Добавлено несколько новых функций и новый UI для более удобной работы с модом.</FCVOE_0_3_13.description>
+  <FCVOE_0_3_13.patchNoteLines.0>Функция "связь с научным аванпостом" расширена до общей системы привязки ресурсов, где некоторые аванпосты могут привязываться к поселению и отказываться от производства предметов, чтобы вместо этого давать поселению производство ресурсов Empire</FCVOE_0_3_13.patchNoteLines.0>
+  <FCVOE_0_3_13.patchNoteLines.1>Добавлена "защитная аура" для оборонительных аванпостов, активная только когда они не заняты автозащитой или другими задачами. Аура дает небольшой бонус военного уровня всем поселениям Империи в радиусе</FCVOE_0_3_13.patchNoteLines.1>
+  <FCVOE_0_3_13.patchNoteLines.2>Добавлен UI для связей поселений и аванпостов в окне поселения и на главной вкладке</FCVOE_0_3_13.patchNoteLines.2>
+  <FCVOE_0_3_13.patchNoteLines.3>Обновлены некоторые записи кодекса</FCVOE_0_3_13.patchNoteLines.3>
+  <FCVOE_0_3_14.label>Внутренние изменения</FCVOE_0_3_14.label>
+  <FCVOE_0_3_14.description>Несколько внутренних изменений, чтобы снизить шанс конфликтов строк перевода или defs с Vanilla Outposts Expanded.</FCVOE_0_3_14.description>
+  <FCVOE_0_3_14.patchNoteLines.0>VOE -&gt; FCVOE для всех строк перевода и defName</FCVOE_0_3_14.patchNoteLines.0>
+  <FCVOE_0_3_15.label>Небольшие обновления</FCVOE_0_3_15.label>
+  <FCVOE_0_3_15.description>Несколько небольших обновлений в последний момент.</FCVOE_0_3_15.description>
+  <FCVOE_0_3_15.patchNoteLines.0>Настройки мода обновлены: к слайдерам добавлены числовые поля, также используется зебра-полосатость</FCVOE_0_3_15.patchNoteLines.0>
+  <FCVOE_0_3_15.patchNoteLines.1>Исправления, чтобы все переключатели функций действительно корректно ограничивали свои функции</FCVOE_0_3_15.patchNoteLines.1>
+  <FCVOE_0_3_15.patchNoteLines.2>Изменено вспомогательное окно Found New Settlement, чтобы оно не накладывалось на окна других сабмодов Empire Refactored</FCVOE_0_3_15.patchNoteLines.2>
+  <FCVOE_0_3_16.label>Совместимость с Routes &amp; Resources</FCVOE_0_3_16.label>
+  <FCVOE_0_3_16.description>Добавлена совместимость с Routes &amp; Resources, когда включена опция "Основывать поселения только через аванпост".</FCVOE_0_3_16.description>
+  <FCVOE_0_3_16.patchNoteLines.0>Когда включен режим "Основывать поселения через аванпосты", окно стоимости ресурсов Routes &amp; Resources теперь показывает стоимость преобразования, а не основания. Эта информация также выводится на экране преобразования</FCVOE_0_3_16.patchNoteLines.0>
+  <FCVOE_1_0_0.label>Релиз</FCVOE_1_0_0.label>
+  <FCVOE_1_0_0.description>Просто повышение версии для релиза в Steam Workshop.</FCVOE_1_0_0.description>
+  <FCVOE_1_0_0.patchNoteLines.0>Релиз!</FCVOE_1_0_0.patchNoteLines.0>
+  <FCVOE_0_1_0.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_1_0.linkButtonToolTips.0>
+  <FCVOE_0_1_0.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_1_0.linkButtonToolTips.1>
+  <FCVOE_0_1_0.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_1_0.additionalNotes.0>
+  <FCVOE_0_2_0.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_2_0.linkButtonToolTips.0>
+  <FCVOE_0_2_0.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_2_0.linkButtonToolTips.1>
+  <FCVOE_0_2_0.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_2_0.additionalNotes.0>
+  <FCVOE_0_2_1.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_2_1.linkButtonToolTips.0>
+  <FCVOE_0_2_1.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_2_1.linkButtonToolTips.1>
+  <FCVOE_0_2_1.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_2_1.additionalNotes.0>
+  <FCVOE_0_2_2.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_2_2.linkButtonToolTips.0>
+  <FCVOE_0_2_2.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_2_2.linkButtonToolTips.1>
+  <FCVOE_0_2_2.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_2_2.additionalNotes.0>
+  <FCVOE_0_3_0.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_3_0.linkButtonToolTips.0>
+  <FCVOE_0_3_0.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_0.linkButtonToolTips.1>
+  <FCVOE_0_3_0.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_0.additionalNotes.0>
+  <FCVOE_0_3_1.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_3_1.linkButtonToolTips.0>
+  <FCVOE_0_3_1.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_1.linkButtonToolTips.1>
+  <FCVOE_0_3_1.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_1.additionalNotes.0>
+  <FCVOE_0_3_2.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_3_2.linkButtonToolTips.0>
+  <FCVOE_0_3_2.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_2.linkButtonToolTips.1>
+  <FCVOE_0_3_2.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_2.additionalNotes.0>
+  <FCVOE_0_3_3.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_3_3.linkButtonToolTips.0>
+  <FCVOE_0_3_3.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_3.linkButtonToolTips.1>
+  <FCVOE_0_3_3.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_3.additionalNotes.0>
+  <FCVOE_0_3_4.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_3_4.linkButtonToolTips.0>
+  <FCVOE_0_3_4.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_4.linkButtonToolTips.1>
+  <FCVOE_0_3_4.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_4.additionalNotes.0>
+  <FCVOE_0_3_5.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_3_5.linkButtonToolTips.0>
+  <FCVOE_0_3_5.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_5.linkButtonToolTips.1>
+  <FCVOE_0_3_5.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_5.additionalNotes.0>
+  <FCVOE_0_3_6.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_3_6.linkButtonToolTips.0>
+  <FCVOE_0_3_6.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_6.linkButtonToolTips.1>
+  <FCVOE_0_3_6.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_6.additionalNotes.0>
+  <FCVOE_0_3_7.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_3_7.linkButtonToolTips.0>
+  <FCVOE_0_3_7.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_7.linkButtonToolTips.1>
+  <FCVOE_0_3_7.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_7.additionalNotes.0>
+  <FCVOE_0_3_8.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_3_8.linkButtonToolTips.0>
+  <FCVOE_0_3_8.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_8.linkButtonToolTips.1>
+  <FCVOE_0_3_8.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_8.additionalNotes.0>
+  <FCVOE_0_3_9.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_3_9.linkButtonToolTips.0>
+  <FCVOE_0_3_9.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_9.linkButtonToolTips.1>
+  <FCVOE_0_3_9.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_9.additionalNotes.0>
+  <FCVOE_0_3_10.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_3_10.linkButtonToolTips.0>
+  <FCVOE_0_3_10.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_10.linkButtonToolTips.1>
+  <FCVOE_0_3_10.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_10.additionalNotes.0>
+  <FCVOE_0_3_11.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_3_11.linkButtonToolTips.0>
+  <FCVOE_0_3_11.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_11.linkButtonToolTips.1>
+  <FCVOE_0_3_11.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_11.additionalNotes.0>
+  <FCVOE_0_3_12.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_3_12.linkButtonToolTips.0>
+  <FCVOE_0_3_12.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_12.linkButtonToolTips.1>
+  <FCVOE_0_3_12.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_12.additionalNotes.0>
+  <FCVOE_0_3_13.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_3_13.linkButtonToolTips.0>
+  <FCVOE_0_3_13.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_13.linkButtonToolTips.1>
+  <FCVOE_0_3_13.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_13.additionalNotes.0>
+  <FCVOE_0_3_14.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_3_14.linkButtonToolTips.0>
+  <FCVOE_0_3_14.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_14.linkButtonToolTips.1>
+  <FCVOE_0_3_14.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_14.additionalNotes.0>
+  <FCVOE_0_3_15.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_3_15.linkButtonToolTips.0>
+  <FCVOE_0_3_15.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_15.linkButtonToolTips.1>
+  <FCVOE_0_3_15.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_15.additionalNotes.0>
+  <FCVOE_0_3_16.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_0_3_16.linkButtonToolTips.0>
+  <FCVOE_0_3_16.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_16.linkButtonToolTips.1>
+  <FCVOE_0_3_16.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_0_3_16.additionalNotes.0>
+  <FCVOE_1_0_0.linkButtonToolTips.0>Присоединиться к Discord Empire!</FCVOE_1_0_0.linkButtonToolTips.0>
+  <FCVOE_1_0_0.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</FCVOE_1_0_0.linkButtonToolTips.1>
+  <FCVOE_1_0_0.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</FCVOE_1_0_0.additionalNotes.0>
+</LanguageData>

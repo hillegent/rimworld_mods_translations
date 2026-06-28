@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Economic.label>экономическое развитие</Economic.label>
+  <Economic.description>Губернатор сосредотачивается на торговле и коммерции, повышая ценность десятины и широко усиливая производство сырья.</Economic.description>
+  <Military.label>военное дело</Military.label>
+  <Military.description>Губернатор ставит в приоритет боеготовность, повышая боевую эффективность и оборонительные возможности.</Military.description>
+  <Growth.label>рост поселения</Growth.label>
+  <Growth.description>Губернатор вкладывается в инфраструктуру и расширение, ускоряя прирост процветания и производство базовых ресурсов.</Growth.description>
+  <Administrative.label>администрирование</Administrative.label>
+  <Administrative.description>Губернатор поддерживает порядок и бюрократическую эффективность, снижая нестабильность и сохраняя довольство населения.</Administrative.description>
+  <Balanced.label>сбалансированное руководство</Balanced.label>
+  <Balanced.description>Губернатор действует взвешенно, давая небольшой, но стабильный бонус ко всему производству поселения.</Balanced.description>
+</LanguageData>

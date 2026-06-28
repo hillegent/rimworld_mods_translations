@@ -28,5 +28,7 @@
     <li>brrainz.harmony</li>
     <li>Matathias.Empire</li>
     <li>Matathias.Empire.AnimalHusbandry</li>
+    <li>Matathias.EmpireRefVOE</li>
+    <li>Matathias.Empire.Specialists</li>
   </loadAfter>
 </ModMetaData>

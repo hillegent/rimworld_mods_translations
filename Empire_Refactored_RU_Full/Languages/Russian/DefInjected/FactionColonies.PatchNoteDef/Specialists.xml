@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SP_0_1_0.label>Первая версия</SP_0_1_0.label>
+  <SP_0_1_0.description>Первая версия. Мод все еще в разработке.</SP_0_1_0.description>
+  <SP_0_1_0.patchNoteLines.0>Первая версия</SP_0_1_0.patchNoteLines.0>
+  <SP_0_1_1.label>Переработка меню настроек</SP_0_1_1.label>
+  <SP_0_1_1.description>Меню настроек переработано, чтобы оно было понятнее и менее загроможденным.</SP_0_1_1.description>
+  <SP_0_1_1.patchNoteLines.0>Обновлено окно настроек в ModEntry.cs</SP_0_1_1.patchNoteLines.0>
+  <SP_0_2_1.label>Обновление навыков</SP_0_2_1.label>
+  <SP_0_2_1.description>Добавлен настраиваемый минимум навыка и бонусы лечения наемников от Медицины.</SP_0_2_1.description>
+  <SP_0_2_1.patchNoteLines.0>Добавлен настраиваемый минимум навыка. Уровни навыков специалиста ниже этого минимума не дают бонусов</SP_0_2_1.patchNoteLines.0>
+  <SP_0_2_1.patchNoteLines.1>Навыки Медицины специалистов теперь увеличивают скорость лечения наемников</SP_0_2_1.patchNoteLines.1>
+  <SP_0_2_2.label>Небольшие правки страницы настроек</SP_0_2_2.label>
+  <SP_0_2_2.description>Небольшие изменения страницы настроек мода.</SP_0_2_2.description>
+  <SP_0_2_2.patchNoteLines.0>Небольшие правки страницы настроек мода</SP_0_2_2.patchNoteLines.0>
+  <SP_0_2_3.label>Изменение минимума навыка</SP_0_2_3.label>
+  <SP_0_2_3.description>Настройка минимума навыка разделена по типам специалистов.</SP_0_2_3.description>
+  <SP_0_2_3.patchNoteLines.0>Минимальный уровень навыка, при котором специалист дает бонус, теперь можно настроить отдельно для каждого типа специалиста</SP_0_2_3.patchNoteLines.0>
+  <SP_0_3_0.label>Крупная переработка</SP_0_3_0.label>
+  <SP_0_3_0.description>Серьезная переработка, чтобы роли задавались через defs.</SP_0_3_0.description>
+  <SP_0_3_0.patchNoteLines.0>Серьезная переработка. Все еще в работе</SP_0_3_0.patchNoteLines.0>
+  <SP_0_3_1.label>Обновления UI</SP_0_3_1.label>
+  <SP_0_3_1.description>Разные изменения и обновления элементов UI.</SP_0_3_1.description>
+  <SP_0_3_1.patchNoteLines.0>Разные изменения и обновления элементов UI, чтобы важная информация была заметнее.</SP_0_3_1.patchNoteLines.0>
+  <SP_0_3_2.label>Обновление UI и ролей</SP_0_3_2.label>
+  <SP_0_3_2.description>Специалисты обороны и командиры объединены, а на вкладку специалистов добавлены реальные шансы смерти.</SP_0_3_2.description>
+  <SP_0_3_2.patchNoteLines.0>Механики специалиста обороны объединены с ролью командира</SP_0_3_2.patchNoteLines.0>
+  <SP_0_3_2.patchNoteLines.1>На вкладку специалистов добавлены шансы смерти при поражении</SP_0_3_2.patchNoteLines.1>
+  <SP_0_3_3.label>Обновление UI</SP_0_3_3.label>
+  <SP_0_3_3.description>Полосы прокрутки переведены на ScrollUtil из базового мода.</SP_0_3_3.description>
+  <SP_0_3_3.patchNoteLines.0>Полосы прокрутки переведены на ScrollUtil из базового мода</SP_0_3_3.patchNoteLines.0>
+  <SP_0_3_4.label>Усиление командира</SP_0_3_4.label>
+  <SP_0_3_4.description>Роль командира усилена, чтобы она действительно хорошо предотвращала смерти.</SP_0_3_4.description>
+  <SP_0_3_4.patchNoteLines.0>Усиление командира: baseReductionPerSkillPoint 0.002 -&gt; 0.02, minimumDeathChance 0.01 -&gt; 0</SP_0_3_4.patchNoteLines.0>
+  <SP_0_3_5.label>Обновление назначения</SP_0_3_5.label>
+  <SP_0_3_5.description>Запрещает назначать заключенных и рабов жителями, специалистами или губернаторами.</SP_0_3_5.description>
+  <SP_0_3_5.patchNoteLines.0>В проверку допустимости назначения специалиста добавлены проверки IsPrisoner и IsSlave</SP_0_3_5.patchNoteLines.0>
+  <SP_0_3_6.label>Обновления базового мода</SP_0_3_6.label>
+  <SP_0_3_6.description>Часть внутреннего кода обновлена с учетом изменений Empire Refactored.</SP_0_3_6.description>
+  <SP_0_3_6.patchNoteLines.0>Учтены изменения API базового мода</SP_0_3_6.patchNoteLines.0>
+  <SP_0_3_7.label>Обновление кодекса</SP_0_3_7.label>
+  <SP_0_3_7.description>Добавлены записи кодекса Empire с объяснением механик Specialists &amp; Governors.</SP_0_3_7.description>
+  <SP_0_3_7.patchNoteLines.0>Добавлены записи кодекса по механикам мода</SP_0_3_7.patchNoteLines.0>
+  <SP_0_3_8.label>Настройка значений</SP_0_3_8.label>
+  <SP_0_3_8.description>Настроены бонусы специалистов, также добавлены слайдеры настроек, позволяющие игроку менять масштабирование бонусов по уровню навыков.</SP_0_3_8.description>
+  <SP_0_3_8.patchNoteLines.0>Настроены бонусы губернатора, командира и универсала</SP_0_3_8.patchNoteLines.0>
+  <SP_0_3_8.patchNoteLines.1>Добавлены слайдеры, позволяющие игроку менять масштабирование бонусов от уровня навыка</SP_0_3_8.patchNoteLines.1>
+  <SP_0_3_9.label>Исправления и обновления</SP_0_3_9.label>
+  <SP_0_3_9.description>Много исправлений, обновлений и одна небольшая функция.</SP_0_3_9.description>
+  <SP_0_3_9.patchNoteLines.0>Содержание губернатора теперь масштабируется от его навыков</SP_0_3_9.patchNoteLines.0>
+  <SP_0_3_9.patchNoteLines.1>Базовый лимит специалистов уменьшен (5 -&gt; 3)</SP_0_3_9.patchNoteLines.1>
+  <SP_0_3_9.patchNoteLines.2>Губернаторов, специалистов и жителей теперь можно легко отправлять напрямую транспортной капсулой</SP_0_3_9.patchNoteLines.2>
+  <SP_0_3_9.patchNoteLines.3>Исправление: пешки, отозванные из поселения, ошибочно удалялись из пула мировых пешек и исчезали в пустоте на следующем тике каравана</SP_0_3_9.patchNoteLines.3>
+  <SP_0_3_10.label>Небольшое обновление</SP_0_3_10.label>
+  <SP_0_3_10.description>Небольшое внутреннее изменение для учета обновления API базового мода. Пользовательских изменений нет.</SP_0_3_10.description>
+  <SP_0_3_10.patchNoteLines.0>Пользовательских изменений нет</SP_0_3_10.patchNoteLines.0>
+  <SP_1_0_0.label>Релиз</SP_1_0_0.label>
+  <SP_1_0_0.description>Повышение версии для релиза в Steam Workshop.</SP_1_0_0.description>
+  <SP_1_0_0.patchNoteLines.0>Релиз!</SP_1_0_0.patchNoteLines.0>
+  <SP_1_0_1.label>Обновление обработки смерти специалистов</SP_1_0_1.label>
+  <SP_1_0_1.description>Пара изменений в обработке смерти специалистов.</SP_1_0_1.description>
+  <SP_1_0_1.patchNoteLines.0>Игрок теперь всегда получает письмо, если специалист погиб, независимо от того, произошло это в бою или нет.</SP_1_0_1.patchNoteLines.0>
+  <SP_1_0_1.patchNoteLines.1>Бросок ГСЧ для смерти специалиста после боя выполняется только в боях автообороны</SP_1_0_1.patchNoteLines.1>
+  <SP_0_1_0.linkButtonToolTips.0>Присоединиться к Discord Empire!</SP_0_1_0.linkButtonToolTips.0>
+  <SP_0_1_0.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</SP_0_1_0.linkButtonToolTips.1>
+  <SP_0_1_0.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</SP_0_1_0.additionalNotes.0>
+  <SP_0_1_1.linkButtonToolTips.0>Присоединиться к Discord Empire!</SP_0_1_1.linkButtonToolTips.0>
+  <SP_0_1_1.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</SP_0_1_1.linkButtonToolTips.1>
+  <SP_0_1_1.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</SP_0_1_1.additionalNotes.0>
+  <SP_0_2_1.linkButtonToolTips.0>Присоединиться к Discord Empire!</SP_0_2_1.linkButtonToolTips.0>
+  <SP_0_2_1.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</SP_0_2_1.linkButtonToolTips.1>
+  <SP_0_2_1.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</SP_0_2_1.additionalNotes.0>
+  <SP_0_2_2.linkButtonToolTips.0>Присоединиться к Discord Empire!</SP_0_2_2.linkButtonToolTips.0>
+  <SP_0_2_2.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</SP_0_2_2.linkButtonToolTips.1>
+  <SP_0_2_2.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</SP_0_2_2.additionalNotes.0>
+  <SP_0_2_3.linkButtonToolTips.0>Присоединиться к Discord Empire!</SP_0_2_3.linkButtonToolTips.0>
+  <SP_0_2_3.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</SP_0_2_3.linkButtonToolTips.1>
+  <SP_0_2_3.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</SP_0_2_3.additionalNotes.0>
+  <SP_0_3_0.linkButtonToolTips.0>Присоединиться к Discord Empire!</SP_0_3_0.linkButtonToolTips.0>
+  <SP_0_3_0.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</SP_0_3_0.linkButtonToolTips.1>
+  <SP_0_3_0.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</SP_0_3_0.additionalNotes.0>
+  <SP_0_3_1.linkButtonToolTips.0>Присоединиться к Discord Empire!</SP_0_3_1.linkButtonToolTips.0>
+  <SP_0_3_1.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</SP_0_3_1.linkButtonToolTips.1>
+  <SP_0_3_1.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</SP_0_3_1.additionalNotes.0>
+  <SP_0_3_2.linkButtonToolTips.0>Присоединиться к Discord Empire!</SP_0_3_2.linkButtonToolTips.0>
+  <SP_0_3_2.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</SP_0_3_2.linkButtonToolTips.1>
+  <SP_0_3_2.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</SP_0_3_2.additionalNotes.0>
+  <SP_0_3_3.linkButtonToolTips.0>Присоединиться к Discord Empire!</SP_0_3_3.linkButtonToolTips.0>
+  <SP_0_3_3.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</SP_0_3_3.linkButtonToolTips.1>
+  <SP_0_3_3.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</SP_0_3_3.additionalNotes.0>
+  <SP_0_3_4.linkButtonToolTips.0>Присоединиться к Discord Empire!</SP_0_3_4.linkButtonToolTips.0>
+  <SP_0_3_4.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</SP_0_3_4.linkButtonToolTips.1>
+  <SP_0_3_4.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</SP_0_3_4.additionalNotes.0>
+  <SP_0_3_5.linkButtonToolTips.0>Присоединиться к Discord Empire!</SP_0_3_5.linkButtonToolTips.0>
+  <SP_0_3_5.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</SP_0_3_5.linkButtonToolTips.1>
+  <SP_0_3_5.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</SP_0_3_5.additionalNotes.0>
+  <SP_0_3_6.linkButtonToolTips.0>Присоединиться к Discord Empire!</SP_0_3_6.linkButtonToolTips.0>
+  <SP_0_3_6.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</SP_0_3_6.linkButtonToolTips.1>
+  <SP_0_3_6.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</SP_0_3_6.additionalNotes.0>
+  <SP_0_3_7.linkButtonToolTips.0>Присоединиться к Discord Empire!</SP_0_3_7.linkButtonToolTips.0>
+  <SP_0_3_7.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</SP_0_3_7.linkButtonToolTips.1>
+  <SP_0_3_7.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</SP_0_3_7.additionalNotes.0>
+  <SP_0_3_8.linkButtonToolTips.0>Присоединиться к Discord Empire!</SP_0_3_8.linkButtonToolTips.0>
+  <SP_0_3_8.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</SP_0_3_8.linkButtonToolTips.1>
+  <SP_0_3_8.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</SP_0_3_8.additionalNotes.0>
+  <SP_0_3_9.linkButtonToolTips.0>Присоединиться к Discord Empire!</SP_0_3_9.linkButtonToolTips.0>
+  <SP_0_3_9.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</SP_0_3_9.linkButtonToolTips.1>
+  <SP_0_3_9.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</SP_0_3_9.additionalNotes.0>
+  <SP_0_3_10.linkButtonToolTips.0>Присоединиться к Discord Empire!</SP_0_3_10.linkButtonToolTips.0>
+  <SP_0_3_10.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</SP_0_3_10.linkButtonToolTips.1>
+  <SP_0_3_10.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</SP_0_3_10.additionalNotes.0>
+  <SP_1_0_0.linkButtonToolTips.0>Присоединиться к Discord Empire!</SP_1_0_0.linkButtonToolTips.0>
+  <SP_1_0_0.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</SP_1_0_0.linkButtonToolTips.1>
+  <SP_1_0_0.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</SP_1_0_0.additionalNotes.0>
+  <SP_1_0_1.linkButtonToolTips.0>Присоединиться к Discord Empire!</SP_1_0_1.linkButtonToolTips.0>
+  <SP_1_0_1.linkButtonToolTips.1>Сообщайте о найденных проблемах на странице Github.</SP_1_0_1.linkButtonToolTips.1>
+  <SP_1_0_1.additionalNotes.0>Сообщайте о найденных проблемах на странице Github.</SP_1_0_1.additionalNotes.0>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FCS_TimeAssigned.label>время назначения в поселение</FCS_TimeAssigned.label>
+  <FCS_TimeAssigned.description>Общее время, которое эта пешка провела назначенной в поселение Империи в любой роли.</FCS_TimeAssigned.description>
+  <FCS_TimeAsResident.label>время как житель</FCS_TimeAsResident.label>
+  <FCS_TimeAsResident.description>Общее время, которое эта пешка провела жителем в поселении Империи.</FCS_TimeAsResident.description>
+  <FCS_TimeAsSpecialist.label>время как специалист</FCS_TimeAsSpecialist.label>
+  <FCS_TimeAsSpecialist.description>Общее время, которое эта пешка провела специалистом в поселении Империи.</FCS_TimeAsSpecialist.description>
+  <FCS_TimeAsGovernor.label>время как губернатор</FCS_TimeAsGovernor.label>
+  <FCS_TimeAsGovernor.description>Общее время, которое эта пешка провела губернатором поселения Империи.</FCS_TimeAsGovernor.description>
+</LanguageData>
