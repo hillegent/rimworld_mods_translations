@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_veteranSettlers_0.label>Поселенцы-ветераны</empireEvents_veteranSettlers_0.label>
+  <empireEvents_veteranSettlers_0.desc>Группа отставных солдат прибыла в одно из ваших поселений, пытаясь пустить корни после многих лет боев. Они опытны, дисциплинированы и готовы внести свой вклад — но в каком качестве? Их боевые навыки очевидны, но они могли бы послужить обществу и другими способами.</empireEvents_veteranSettlers_0.desc>
+  <empireEvents_veteranSettlers_1a.label>Зачислены ветераны</empireEvents_veteranSettlers_1a.label>
+  <empireEvents_veteranSettlers_1a.desc>Ветераны охотно присоединяются к гарнизону, принося с собой многолетний боевой опыт. Они быстро улучшают режимы тренировок и защитные протоколы. Военный потенциал поселения постоянно усиливается.</empireEvents_veteranSettlers_1a.desc>
+  <empireEvents_veteranSettlers_1b.label>Ветераны поселились</empireEvents_veteranSettlers_1b.label>
+  <empireEvents_veteranSettlers_1b.desc>Ветераны обменивают оружие на инструменты и начинают жить гражданской жизнью. Их военная дисциплина хорошо перерастает в продуктивный труд.</empireEvents_veteranSettlers_1b.desc>
+  <empireEvents_veteranSettlers_1c.label>Герои удостоены чести</empireEvents_veteranSettlers_1c.label>
+  <empireEvents_veteranSettlers_1c.desc>Церемония является трогательной данью уважения ветеранам службы. Граждан вдохновляют их истории о жертвах и долге. Ветераны уходят на пенсию довольные, и по поселку прокатывается волна патриотической гордости.</empireEvents_veteranSettlers_1c.desc>
+  <empireEvents_veteranSettlers_1d.label>Интегрированные офицеры</empireEvents_veteranSettlers_1d.label>
+  <empireEvents_veteranSettlers_1d.desc>Командный опыт ветеранов оказывается неоценимым. Интегрированные в офицерский корпус, они меняют тактику подразделений и улучшают координацию между отделениями. Военные силы поселения становятся больше и эффективнее.</empireEvents_veteranSettlers_1d.desc>
+</LanguageData>

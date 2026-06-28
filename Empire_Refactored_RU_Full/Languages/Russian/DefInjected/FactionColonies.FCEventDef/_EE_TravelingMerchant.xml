@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_merchant_0.label>Странствующий торговец</empireEvents_merchant_0.label>
+  <empireEvents_merchant_0.desc>Через вашу территорию проходит хорошо укомплектованный торговый караван. Они продают качественные товары и, кажется, открыты для сотрудничества. Как ваше поселение должно их получить?</empireEvents_merchant_0.desc>
+  <empireEvents_merchant_1a.label>Торговля Торговля</empireEvents_merchant_1a.label>
+  <empireEvents_merchant_1a.desc>Сделка заключена. В ваше поселение распространяются товары торговца: качественное оружие и снаряжение, которое хорошо послужит вашему народу.</empireEvents_merchant_1a.desc>
+  <empireEvents_merchant_1b.label>Торговец облагается налогом</empireEvents_merchant_1b.label>
+  <empireEvents_merchant_1b.desc>Купец неохотно сдает часть своего товара в качестве проездного налога. Ваше поселение получает немного одежды, но когда торговец поднимает цены на свои товары, чтобы компенсировать налог, люди недовольны.</empireEvents_merchant_1b.desc>
+  <empireEvents_merchant_1c.label>Торговая добрая воля</empireEvents_merchant_1c.label>
+  <empireEvents_merchant_1c.desc>Купец благодарен за провизию и безопасное сопровождение. Слух о гостеприимстве вашего поселения распространяется среди путешественников, поднимая настроение местным жителям.</empireEvents_merchant_1c.desc>
+  <empireEvents_merchant_1d.label>Торговое соглашение</empireEvents_merchant_1d.label>
+  <empireEvents_merchant_1d.desc>Ваши опытные трейдеры заключают долгосрочное торговое соглашение с сетью торговцев. Регулярные поставки будут проходить через вашу территорию, увеличивая доходы от десятины в обозримом будущем.</empireEvents_merchant_1d.desc>
+</LanguageData>

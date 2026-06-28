@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_prospectorsBoom_opt1.label>Регулируйте добычу. Упорядоченная добыча, справедливое распределение.</empireEvents_prospectorsBoom_opt1.label>
+  <empireEvents_prospectorsBoom_opt2.label>Пусть кто-нибудь копает. Первый пришел — первый обслужен — максимальная доходность.</empireEvents_prospectorsBoom_opt2.label>
+  <empireEvents_prospectorsBoom_opt3.label>Инвестируйте в соответствующую горнодобывающую инфраструктуру для получения долгосрочной выгоды.</empireEvents_prospectorsBoom_opt3.label>
+  <empireEvents_prospectorsBoom_opt_egalitarian.label>Создать общественный горнодобывающий кооператив. Прибыль принадлежит всем.</empireEvents_prospectorsBoom_opt_egalitarian.label>
+  <empireEvents_prospectorsBoom_opt_slaver.label>Рабочие-призывники на шахты. Нам нужен результат, а не комфорт.</empireEvents_prospectorsBoom_opt_slaver.label>
+</LanguageData>

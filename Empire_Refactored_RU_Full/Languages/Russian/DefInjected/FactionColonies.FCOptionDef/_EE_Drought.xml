@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_drought_opt1.label>Нормируйте запасы воды и ужесточите потребление. Мы вытерпим.</empireEvents_drought_opt1.label>
+  <empireEvents_drought_opt2.label>Нанимайте бригады для рытья глубоких колодцев. Внизу должна быть вода.</empireEvents_drought_opt2.label>
+  <empireEvents_drought_opt3.label>Импортируйте еду. Деньги решают все.</empireEvents_drought_opt3.label>
+  <empireEvents_drought_opt4.label>Забивайте скот ради еды. Стада все равно этого не выдержат.</empireEvents_drought_opt4.label>
+  <empireEvents_drought_opt_pacifist.label>Обращение к союзным фракциям за помощью. Дипломатия выдерживает там, где сила не может.</empireEvents_drought_opt_pacifist.label>
+  <empireEvents_drought_opt_slaver.label>Сократить норму расходных материалов. Наши продуктивные граждане едят первыми.</empireEvents_drought_opt_slaver.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_abandonedOutpost_opt1.label>Разобрать его на материалы. Все полезное отправить обратно в поселение.</empireEvents_abandonedOutpost_opt1.label>
+  <empireEvents_abandonedOutpost_opt2.label>Укрепите его как сторожевую башню. Хорошая оборонительная позиция.</empireEvents_abandonedOutpost_opt2.label>
+  <empireEvents_abandonedOutpost_opt3.label>Превратите его в мастерскую. Увеличение производственных мощностей всегда приветствуется.</empireEvents_abandonedOutpost_opt3.label>
+  <empireEvents_abandonedOutpost_opt4.label>Восстановите его как перевалочную станцию для путешественников и торговцев.</empireEvents_abandonedOutpost_opt4.label>
+  <empireEvents_abandonedOutpost_opt_pacifist.label>Превратите его в дом исцеления. Ухаживайте за путешественниками и больными.</empireEvents_abandonedOutpost_opt_pacifist.label>
+  <empireEvents_abandonedOutpost_opt_raiders.label>Разобрать его подчистую. Забрать все, что не прибито, а потом забрать и гвозди.</empireEvents_abandonedOutpost_opt_raiders.label>
+</LanguageData>

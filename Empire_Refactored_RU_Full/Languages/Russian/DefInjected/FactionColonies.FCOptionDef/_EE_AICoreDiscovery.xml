@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_aiCore_opt1.label>Активируйте его. Работающее ядро личности могло бы изменить наше поселение.</empireEvents_aiCore_opt1.label>
+  <empireEvents_aiCore_opt2.label>Не буди его. Изучите его архитектуру и узнайте все, что можно, не включая его.</empireEvents_aiCore_opt2.label>
+  <empireEvents_aiCore_opt3.label>Продайте его тому, кто предложит самую высокую цену. Серебро нам нужно больше, чем тайны.</empireEvents_aiCore_opt3.label>
+  <empireEvents_aiCore_opt4.label>Уничтожьте его. Ничего хорошего не будет в том, чтобы разбудить то, что было похоронено не просто так.</empireEvents_aiCore_opt4.label>
+  <empireEvents_aiCore_opt5.label>Активируйте его с помощью защиты. Наши приготовления должны склонить шансы в нашу пользу.</empireEvents_aiCore_opt5.label>
+  <empireEvents_aiCore_opt6.label>Продолжайте изучать его, находясь в состоянии покоя. Пассивные идеи достаточно ценны.</empireEvents_aiCore_opt6.label>
+  <empireEvents_aiCore_opt7.label>Примите партнерство. Мы доверяем его мнению.</empireEvents_aiCore_opt7.label>
+  <empireEvents_aiCore_opt8.label>Только консультативная роль. Оно может давать советы, но решения принимают люди.</empireEvents_aiCore_opt8.label>
+  <empireEvents_aiCore_opt9.label>Отключите питание. Разорвите все соединения и отключите их грубой силой.</empireEvents_aiCore_opt9.label>
+  <empireEvents_aiCore_opt10.label>Попробуйте общаться. Может быть, мы сможем его образумить или, по крайней мере, понять, чего он хочет.</empireEvents_aiCore_opt10.label>
+  <empireEvents_aiCore_opt11.label>Постройте вокруг него защитную оболочку. Отгородите его от наших систем, но сохраните для изучения.</empireEvents_aiCore_opt11.label>
+</LanguageData>

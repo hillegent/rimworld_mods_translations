@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_tribute_0.label>Требование дани</empireEvents_tribute_0.label>
+  <empireEvents_tribute_0.desc>Могущественная фракция отправила эмиссаров с требованием дани от {FACTION}. Они утверждают, что ваши поселения вторгаются на их территорию, и настаивают на выплате. Как вы реагируете на их требования?</empireEvents_tribute_0.desc>
+  <empireEvents_tribute_refuse.label>Дань отказалась</empireEvents_tribute_refuse.label>
+  <empireEvents_tribute_refuse.desc>Ваш дерзкий ответ сплачивает граждан, но требовательная фракция не примет «нет» в качестве ответа. Нападение неизбежно.</empireEvents_tribute_refuse.desc>
+  <empireEvents_tribute_attack.label>Ответная атака</empireEvents_tribute_attack.label>
+  <empireEvents_tribute_attack.desc>Фракция, от требований которой вы отказались, начинает атаку на ваши поселения.</empireEvents_tribute_attack.desc>
+  <empireEvents_tribute_counter_success.label>Торговое соглашение</empireEvents_tribute_counter_success.label>
+  <empireEvents_tribute_counter_success.desc>Ваше встречное предложение принято. Фракция соглашается торговать, а не требовать дань, и ваши поселения получают выгоду от нового соглашения.</empireEvents_tribute_counter_success.desc>
+  <empireEvents_tribute_counter_fail.label>Встречное предложение отклонено</empireEvents_tribute_counter_fail.label>
+  <empireEvents_tribute_counter_fail.desc>Ваше встречное предложение с презрением отклонено. Фракция готовится к войне.</empireEvents_tribute_counter_fail.desc>
+  <empireEvents_tribute_militaristic.label>Демонстрация силы</empireEvents_tribute_militaristic.label>
+  <empireEvents_tribute_militaristic.desc>Ваше военное поведение сплачивает граждан и обращает внимание на требовательную фракцию. Атака будет, но ваши силы готовы.</empireEvents_tribute_militaristic.desc>
+  <empireEvents_tribute_attack_militaristic.label>Ответная атака</empireEvents_tribute_attack_militaristic.label>
+  <empireEvents_tribute_attack_militaristic.desc>Фракция, чьи требования вы бросили вызов, начинает атаку на ваши поселения. Ваши мобилизованные силы готовы дать им отпор.</empireEvents_tribute_attack_militaristic.desc>
+  <empireEvents_tribute_militaristic_ready.label>Мобилизованные силы</empireEvents_tribute_militaristic_ready.label>
+  <empireEvents_tribute_militaristic_ready.desc>Ваша постоянная армия мобилизовалась, чтобы отразить приближающуюся атаку. Ваши силы останутся в боевой готовности, пока угроза не минует.</empireEvents_tribute_militaristic_ready.desc>
+  <empireEvents_tribute_feudal.label>Отказ государя</empireEvents_tribute_feudal.label>
+  <empireEvents_tribute_feudal.desc>Ваш достойный отказ вызывает лояльность среди граждан, которые ценят честь своего правителя. Но оскорбление не останется без ответа.</empireEvents_tribute_feudal.desc>
+</LanguageData>

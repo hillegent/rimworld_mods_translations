@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_chemfuelGeyser_0.label>Химфюэль Гейзер</empireEvents_chemfuelGeyser_0.label>
+  <empireEvents_chemfuelGeyser_0.desc>Рабочие, занимающиеся раскопками, обнаружили естественный источник химического топлива — находящееся под давлением подземное месторождение, которое непрерывным потоком выходит на поверхность. Это значительная находка. Необработанное топливо можно было бы использовать для производства, продавать с немедленной прибылью или использовать для обеспечения местных предприятий.</empireEvents_chemfuelGeyser_0.desc>
+  <empireEvents_chemfuelGeyser_1a.label>Гейзер постучал</empireEvents_chemfuelGeyser_1a.label>
+  <empireEvents_chemfuelGeyser_1a.desc>Инженеры закрывают гейзер и устанавливают коллекторные трубы, направляющие сырое химическое топливо непосредственно на ваш перерабатывающий завод. Стабильные поставки постоянно улучшают возможности поселения по производству топлива.</empireEvents_chemfuelGeyser_1a.desc>
+  <empireEvents_chemfuelGeyser_1b.label>Права на добычу проданы</empireEvents_chemfuelGeyser_1b.label>
+  <empireEvents_chemfuelGeyser_1b.desc>Внешние инвесторы охотно покупают права на добычу. Серебро поступает немедленно, хотя некоторые поселенцы ворчат по поводу того, что они отдают ценный долгосрочный ресурс ради краткосрочной выгоды.</empireEvents_chemfuelGeyser_1b.desc>
+  <empireEvents_chemfuelGeyser_1c.label>Создан склад топлива</empireEvents_chemfuelGeyser_1c.label>
+  <empireEvents_chemfuelGeyser_1c.desc>Гейзер предназначен как для сбора химического топлива, так и для выработки электроэнергии. Установка грубая, но эффективная — топливо и электричество текут свободно, хотя давление в гейзере со временем уменьшится.</empireEvents_chemfuelGeyser_1c.desc>
+  <empireEvents_chemfuelGeyser_1d.label>Соглашение о роялти</empireEvents_chemfuelGeyser_1d.label>
+  <empireEvents_chemfuelGeyser_1d.desc>Ваши торговые связи обеспечивают элегантное соглашение: ваше поселение сохраняет за собой права на производство, одновременно лицензируя ограниченный доступ для внешних сторон. Результатом является постоянная поставка топлива И выплата роялти.</empireEvents_chemfuelGeyser_1d.desc>
+</LanguageData>

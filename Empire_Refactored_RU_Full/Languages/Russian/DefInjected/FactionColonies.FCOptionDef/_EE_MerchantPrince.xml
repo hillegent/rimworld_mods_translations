@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_merchantPrince_opt_accept.label>Примите сделку. Серебро есть серебро, и он не хуже любого другого.</empireEvents_merchantPrince_opt_accept.label>
+  <empireEvents_merchantPrince_opt_negotiate.label>Встречное предложение. Если он хочет эксклюзивности, он платит за это премию.</empireEvents_merchantPrince_opt_negotiate.label>
+  <empireEvents_merchantPrince_opt_decline.label>Отклонить. Нам не нужны посторонние, контролирующие нашу торговлю.</empireEvents_merchantPrince_opt_decline.label>
+  <empireEvents_merchantPrince_opt_leverage.label>Наша торговая сеть дает нам рычаги воздействия. Мы будем иметь дело, но как равноправные партнеры.</empireEvents_merchantPrince_opt_leverage.label>
+  <empireEvents_merchantPrince_opt_confront.label>Столкнитесь с ним напрямую. Это закончится сейчас.</empireEvents_merchantPrince_opt_confront.label>
+  <empireEvents_merchantPrince_opt_investigate.label>Расследовать тайно. Давайте выясним, что именно он делал, прежде чем действовать.</empireEvents_merchantPrince_opt_investigate.label>
+  <empireEvents_merchantPrince_opt_ignore.label>Посмотрите в другую сторону. Серебро продолжает течь, и это главное.</empireEvents_merchantPrince_opt_ignore.label>
+  <empireEvents_merchantPrince_opt_expand.label>Расширьте партнерство, охватив большее количество поселений. Хорошее дело не должно быть ограничено.</empireEvents_merchantPrince_opt_expand.label>
+  <empireEvents_merchantPrince_opt_contain.label>Придерживайтесь договоренности об этом урегулировании. Не нужно распределять риски.</empireEvents_merchantPrince_opt_contain.label>
+  <empireEvents_merchantPrince_opt_takebribe.label>Возьмите серебро. У каждого есть цена, и она разумна.</empireEvents_merchantPrince_opt_takebribe.label>
+  <empireEvents_merchantPrince_opt_expel.label>Мусор. Захватите его товар и вышвырните из поселения.</empireEvents_merchantPrince_opt_expel.label>
+  <empireEvents_merchantPrince_opt_arrest.label>Арестуйте его и конфискуйте его имущество. Правосудие должно быть публичным и решающим.</empireEvents_merchantPrince_opt_arrest.label>
+  <empireEvents_merchantPrince_opt_blackmail.label>Шантажируйте его. Он теперь работает на нас — на наших условиях, с нашей долей.</empireEvents_merchantPrince_opt_blackmail.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_desertOasis_0.label>Найден оазис в пустыне</empireEvents_desertOasis_0.label>
+  <empireEvents_desertOasis_0.desc>Разведчики обнаружили рядом с вашим поселением скрытый источник воды; природный источник, бьющий сквозь скалу, окруженный неожиданной зеленью. В этом выжженном ландшафте вода – это сила. Как вы будете использовать это открытие?</empireEvents_desertOasis_0.desc>
+  <empireEvents_desertOasis_1a.label>Орошаемые сельскохозяйственные угодья</empireEvents_desertOasis_1a.label>
+  <empireEvents_desertOasis_1a.desc>Инженеры строят каналы и акведуки от оазиса до поселения. Впервые сельскохозяйственные культуры надежно растут на пустынной почве.</empireEvents_desertOasis_1a.desc>
+  <empireEvents_desertOasis_1b.label>Пустынная путевая станция</empireEvents_desertOasis_1b.label>
+  <empireEvents_desertOasis_1b.desc>Путевая станция, построенная вокруг оазиса, становится важной остановкой для караванов, пересекающих пустыню. Торговцы щедро платят за воду и жилье, а пробки привлекают новые лица, желающие поселиться.</empireEvents_desertOasis_1b.desc>
+  <empireEvents_desertOasis_1c.label>Скрытый родник</empireEvents_desertOasis_1c.label>
+  <empireEvents_desertOasis_1c.desc>Оазис остается тайной вашего поселения. Знание того, что поблизости есть надежный источник воды, даже в самую сильную засуху, дает поселенцам спокойную уверенность.</empireEvents_desertOasis_1c.desc>
+</LanguageData>

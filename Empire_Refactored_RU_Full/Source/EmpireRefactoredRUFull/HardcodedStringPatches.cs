@@ -134,6 +134,13 @@ namespace EmpireRefactoredRUFull
                 "FactionColonies.Specialists.Dialog_AssignSpecialists",
                 "FactionColonies.Specialists.FCSSettings",
                 "FactionColonies.Specialists.SpecialistsMod",
+                "FactionColonies.Events.EmpireEventsMod",
+                "FactionColonies.Events.EmpireEventsSettings",
+                "FactionColonies.Events.EventConditionChecker",
+                "FactionColonies.Events.ResourcePickerWindow",
+                "FactionColonies.Events.FCEventHandlerExtension_ResourcePicker",
+                "FactionColonies.Events.FCEventHandlerExtension_ResourceBoostCleanup",
+                "FactionColonies.Events.FCEventHandlerExtension_TriggerAttack",
             };
 
             foreach (string typeName in typeNames)

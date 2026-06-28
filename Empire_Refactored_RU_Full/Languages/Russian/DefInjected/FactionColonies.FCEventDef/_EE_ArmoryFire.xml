@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_armoryFire_0.label>Оружейный огонь</empireEvents_armoryFire_0.label>
+  <empireEvents_armoryFire_0.desc>В арсенале вашего поселения вспыхнул пожар. Склады оружия горят, кузнечное оборудование повреждено, а сильная жара делает тушение пожара опасным. Взрывы нагретых боеприпасов сотрясают здание. Как вы ответите?</empireEvents_armoryFire_0.desc>
+  <empireEvents_armoryFire_1a.label>Восстановление Оружейной</empireEvents_armoryFire_1a.label>
+  <empireEvents_armoryFire_1a.desc>Рабочие разбирают обугленные обломки и начинают долгий процесс восстановления арсенала с нуля. Производство оружия приостановлено до тех пор, пока не будут построены новые кузницы и не будут пополнены запасы сырья.</empireEvents_armoryFire_1a.desc>
+  <empireEvents_armoryFire_1b.label>Экстренные закупки</empireEvents_armoryFire_1b.label>
+  <empireEvents_armoryFire_1b.desc>Внешнее оружие закупается по завышенным ценам взамен утраченных запасов. Разрыв в производстве сокращается, хотя чрезвычайные расходы ощущаются.</empireEvents_armoryFire_1b.desc>
+  <empireEvents_armoryFire_1c.label>Обновленный дизайн Оружейной</empireEvents_armoryFire_1c.label>
+  <empireEvents_armoryFire_1c.desc>Вместо того, чтобы просто перестраивать, ваши инженеры проектируют новый арсенал с огнестойкими хранилищами, взрывоустойчивыми стенами и улучшенной вентиляцией. Во время расширенной реконструкции производство страдает, но конечным результатом является предприятие, намного превосходящее то, что сгорело. Производство оружия постоянно расширяется.</empireEvents_armoryFire_1c.desc>
+</LanguageData>

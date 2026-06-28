@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_orbitalDebris_opt1.label>Спасти все. Немедленно отправьте экипажи; мы не можем позволить этой возможности гнить.</empireEvents_orbitalDebris_opt1.label>
+  <empireEvents_orbitalDebris_opt2.label>Сначала обеспечьте безопасность территории. Обеззараживайте, а затем осторожно утилизируйте.</empireEvents_orbitalDebris_opt2.label>
+  <empireEvents_orbitalDebris_opt3.label>Забудьте о спасении. Пусть наши исследователи изучат обломки — знания стоят больше, чем металлолом.</empireEvents_orbitalDebris_opt3.label>
+  <empireEvents_orbitalDebris_opt4.label>Оставьте это в покое. Что бы там ни было, оно не стоит риска.</empireEvents_orbitalDebris_opt4.label>
+  <empireEvents_orbitalDebris_opt_raiders.label>Агрессивное спасение. Возьмите все, а о загрязнении побеспокойтесь позже.</empireEvents_orbitalDebris_opt_raiders.label>
+</LanguageData>

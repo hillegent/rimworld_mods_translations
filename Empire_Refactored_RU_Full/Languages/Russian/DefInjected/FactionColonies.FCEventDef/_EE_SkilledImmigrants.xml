@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_immigrants_0.label>Квалифицированные иммигранты</empireEvents_immigrants_0.label>
+  <empireEvents_immigrants_0.desc>В ваше поселение прибыла группа квалифицированных рабочих в поисках нового дома. Они привносят свой опыт в различных областях и готовы внести свой вклад. Как вы их получаете?</empireEvents_immigrants_0.desc>
+  <empireEvents_immigrants_production.label>Квалифицированные рабочие прибывают</empireEvents_immigrants_production.label>
+  <empireEvents_immigrants_production.desc>Иммигрантов приветствуют и назначают на производственные роли в зависимости от их навыков. Их опыт значительно повысит производительность.</empireEvents_immigrants_production.desc>
+  <empireEvents_immigrants_production_boost.label>Квалифицированные рабочие (производство)</empireEvents_immigrants_production_boost.label>
+  <empireEvents_immigrants_production_boost.desc>Квалифицированные иммигранты вносят свой вклад в производство поселка. Их опыт повышает производительность и добавляет дополнительных работников в кадровый резерв.</empireEvents_immigrants_production_boost.desc>
+  <empireEvents_immigrants_building.label>Увеличение строительства</empireEvents_immigrants_building.label>
+  <empireEvents_immigrants_building.desc>Квалифицированные рабочие привлечены к работе на строительных объектах. Их опыт ускоряет строительство по всему поселку.</empireEvents_immigrants_building.desc>
+  <empireEvents_immigrants_isolationist.label>Самодостаточная гордость</empireEvents_immigrants_isolationist.label>
+  <empireEvents_immigrants_isolationist.desc>Посторонних решительно отталкивают у ворот. Ваши граждане гордятся своей самостоятельностью; мы построили это поселение своими руками, и больше нам никто не нужен.</empireEvents_immigrants_isolationist.desc>
+  <empireEvents_immigrants_expansionist.label>Полная интеграция</empireEvents_immigrants_expansionist.label>
+  <empireEvents_immigrants_expansionist.desc>Иммигрантов встречают с распростертыми объятиями и они полностью интегрированы в поселение. Их разнообразные навыки приносят пользу работникам, а теплый прием поднимает настроение.</empireEvents_immigrants_expansionist.desc>
+</LanguageData>

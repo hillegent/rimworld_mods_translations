@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_refugees_opt1.label>Приветствуйте их всех. Наши поселения нуждаются в рабочей силе.</empireEvents_refugees_opt1.label>
+  <empireEvents_refugees_opt2.label>Принимайте только самых опытных из них.</empireEvents_refugees_opt2.label>
+  <empireEvents_refugees_opt3.label>Отверни их. Мы не можем себе позволить принимать незнакомцев.</empireEvents_refugees_opt3.label>
+  <empireEvents_refugees_opt4.label>Наши границы закрыты.</empireEvents_refugees_opt4.label>
+  <empireEvents_refugees_opt5.label>Новые граждане нашей растущей нации.</empireEvents_refugees_opt5.label>
+  <empireEvents_refugees_opt6.label>Они послужат нации... так или иначе.</empireEvents_refugees_opt6.label>
+</LanguageData>

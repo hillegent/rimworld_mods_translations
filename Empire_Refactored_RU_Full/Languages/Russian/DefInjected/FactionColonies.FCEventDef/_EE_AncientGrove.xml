@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_ancientGrove_0.label>Древняя Роща</empireEvents_ancientGrove_0.label>
+  <empireEvents_ancientGrove_0.desc>Разведчики обнаружили недалеко от вашего поселения великолепный первобытный лес — древние деревья необыкновенных размеров, стволы которых шире домов. Роща на протяжении столетий каким-то образом избегала вырубки, а ее древесина исключительного качества.</empireEvents_ancientGrove_0.desc>
+  <empireEvents_ancientGrove_1a.label>Роща собрана</empireEvents_ancientGrove_1a.label>
+  <empireEvents_ancientGrove_1a.desc>Лесозаготовительные бригады с энтузиазмом спускаются в древнюю рощу. Массивные стволы дают древесину исключительного качества и количества. Производство временно возрастает, но если рощу вырубить, она больше не вырастет.</empireEvents_ancientGrove_1a.desc>
+  <empireEvents_ancientGrove_1b.label>Устойчивое лесное хозяйство</empireEvents_ancientGrove_1b.label>
+  <empireEvents_ancientGrove_1b.desc>В роще налажена управляемая лесозаготовка. Выборочная заготовка сохраняет здоровье леса, обеспечивая при этом постоянный запас древесины премиум-класса.</empireEvents_ancientGrove_1b.desc>
+  <empireEvents_ancientGrove_1c.label>Роща сохранилась</empireEvents_ancientGrove_1c.label>
+  <empireEvents_ancientGrove_1c.desc>Древний лес объявлен охраняемым заповедником. Посещающие его рабочие рассказывают о глубоком умиротворении среди высоких деревьев, и роща становится любимой достопримечательностью. Граждане гордятся приверженностью своего сообщества делу сохранения природы.</empireEvents_ancientGrove_1c.desc>
+  <empireEvents_ancientGrove_1c_naturePrimacy.label>Священная роща</empireEvents_ancientGrove_1c_naturePrimacy.label>
+  <empireEvents_ancientGrove_1c_naturePrimacy.desc>Древний лес освящен как святая земля, здесь запрещено рубить топором и пилить одинаково. Паломники идут по его пути в благоговейном молчании, гордясь тем, что их {FACTION_TITLE} сохраняет верность живому миру. Роща будет стоять до тех пор, пока будет стоять ваша нация.</empireEvents_ancientGrove_1c_naturePrimacy.desc>
+  <empireEvents_ancientGrove_1a_supremacist.label>Гроув раздели</empireEvents_ancientGrove_1a_supremacist.label>
+  <empireEvents_ancientGrove_1a_supremacist.desc>Роща с беспощадной эффективностью вырыта до последнего пня. Урожайность древесины ошеломляет — намного превосходит тщательный сбор урожая — и демонстрирует ваше господство над этой землей на всеобщее обозрение. Некоторые из ваших людей встревожены скоростью и тотальностью разрушений, но склады переполнены.</empireEvents_ancientGrove_1a_supremacist.desc>
+  <empireEvents_ancientGrove_road.label>Лесозаготовительная дорога</empireEvents_ancientGrove_road.label>
+  <empireEvents_ancientGrove_road.desc>Через рощу проложена хорошо спроектированная дорога, тщательно проложенная так, чтобы минимизировать ущерб и обеспечить максимальный доступ. Улучшенная логистика делает добычу древесины более эффективной, а сама дорога служит линией снабжения, ускоряющей строительство в поселке.</empireEvents_ancientGrove_road.desc>
+</LanguageData>

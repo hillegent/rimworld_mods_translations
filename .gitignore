@@ -2,5 +2,6 @@
 **/About/PublishedFileId.txt
 **/Source/**/bin/
 **/Source/**/obj/
+Tools/.empire_more_events_translate_cache.json
 *.user
 *.suo

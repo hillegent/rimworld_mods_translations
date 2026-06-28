@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_archaeology_0.label>Археологическое открытие</empireEvents_archaeology_0.label>
+  <empireEvents_archaeology_0.desc>Шахтеры обнаружили под одним из ваших поселений нечто похожее на древние руины. Сразу за развалинами видны странные артефакты.
+
+На этом месте могут храниться ценные технологии... или ничего, кроме пыли и опасностей.</empireEvents_archaeology_0.desc>
+  <empireEvents_archaeology_1a_success.label>Обнаружены древние технологии</empireEvents_archaeology_1a_success.label>
+  <empireEvents_archaeology_1a_success.desc>Раскопки – это триумф.
+
+Глубоко в руинах ваши шахтеры обнаруживают неповрежденные технологические артефакты и подробные схемы. Исследователи ваших поселений в восторге от полученных результатов, а найденные материалы весьма ценны.</empireEvents_archaeology_1a_success.desc>
+  <empireEvents_archaeology_1a_fail.label>Обвал раскопок</empireEvents_archaeology_1a_fail.label>
+  <empireEvents_archaeology_1a_fail.desc>Раскопки упираются в нестабильный грунт, и часть туннеля обрушивается. Руины погребены глубже, чем раньше. Хуже того, добыча полезных ископаемых в этом районе нарушена из-за обвала.
+
+Ничего ценного обнаружено не было.</empireEvents_archaeology_1a_fail.desc>
+  <empireEvents_archaeology_1b.label>Незначительная находка</empireEvents_archaeology_1b.label>
+  <empireEvents_archaeology_1b.desc>Ваши шахтеры извлекают из входа немного руды и несколько любопытных артефактов, прежде чем запечатать его. Не улов всей жизни, но это что-то. Более глубокие руины остаются неисследованными.</empireEvents_archaeology_1b.desc>
+  <empireEvents_archaeology-excavate_progress_good.label>Археологическое открытие (Раскопки)</empireEvents_archaeology-excavate_progress_good.label>
+  <empireEvents_archaeology-excavate_progress_good.desc>Находку раскапывают...</empireEvents_archaeology-excavate_progress_good.desc>
+  <empireEvents_archaeology-excavate_progress_bad.label>Археологическое открытие (Раскопки)</empireEvents_archaeology-excavate_progress_bad.label>
+  <empireEvents_archaeology-excavate_progress_bad.desc>Находку раскапывают...</empireEvents_archaeology-excavate_progress_bad.desc>
+</LanguageData>

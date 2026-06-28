@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_growingPains_0.label>Боли роста</empireEvents_growingPains_0.label>
+  <empireEvents_growingPains_0.desc>{FACTION} растет быстрее, чем может выдержать его административная инфраструктура. Чиновники перегружены работой, что приводит к неэффективному сбору налогов и вялой военной координации. Как вы справляетесь с бюрократическим напряжением?</empireEvents_growingPains_0.desc>
+  <empireEvents_growingPains_admins.label>Административное расширение</empireEvents_growingPains_admins.label>
+  <empireEvents_growingPains_admins.desc>Нанимаются и назначаются новые администраторы. Проблемы роста ослабевают, когда опытные менеджеры берут на себя рабочую нагрузку.</empireEvents_growingPains_admins.desc>
+  <empireEvents_growingPains_decentral.label>Децентрализованное администрирование</empireEvents_growingPains_decentral.label>
+  <empireEvents_growingPains_decentral.desc>Местным лидерам предоставлены полномочия по повседневной деятельности. Сбор налогов улучшается, поскольку местные жители знают свои рынки, но без центрального командования страдает военная координация.</empireEvents_growingPains_decentral.desc>
+  <empireEvents_growingPains_tighten.label>Ужесточение контроля</empireEvents_growingPains_tighten.label>
+  <empireEvents_growingPains_tighten.desc>Центральная власть подавляет все административные функции. Сбор налогов остается эффективным, но жесткий контроль порождает недовольство среди граждан, которые чувствуют, что им управляют на микроуровне.</empireEvents_growingPains_tighten.desc>
+  <empireEvents_growingPains_authoritarian.label>Железная бюрократия</empireEvents_growingPains_authoritarian.label>
+  <empireEvents_growingPains_authoritarian.desc>Под вашим авторитарным мандатом бюрократия работает с безжалостной эффективностью. Налоговых штрафов нет, но жесткий подход порождает некоторые волнения.</empireEvents_growingPains_authoritarian.desc>
+  <empireEvents_growingPains_expansionist.label>Планируемый рост</empireEvents_growingPains_expansionist.label>
+  <empireEvents_growingPains_expansionist.desc>Планы расширения вашего {FACTION_TITLE} обеспечили такой уровень роста. Опытные администраторы из предыдущих поселений обучают новых, и переход проходит относительно гладко.</empireEvents_growingPains_expansionist.desc>
+</LanguageData>

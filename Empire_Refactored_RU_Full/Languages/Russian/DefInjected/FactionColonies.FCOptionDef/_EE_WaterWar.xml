@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_waterWar_opt_negotiate.label>Отправьте посланника для переговоров. Воды хватит всем, если мы будем разумны в этом вопросе.</empireEvents_waterWar_opt_negotiate.label>
+  <empireEvents_waterWar_opt_assert.label>Пост охранников у родника. Эта вода наша, и они это знают.</empireEvents_waterWar_opt_assert.label>
+  <empireEvents_waterWar_opt_alternative.label>Нанять старателей, чтобы найти собственный источник воды. Нам не нужен их родник.</empireEvents_waterWar_opt_alternative.label>
+  <empireEvents_waterWar_opt_backdown.label>Отведите наших людей обратно. Из-за этого не стоит умирать.</empireEvents_waterWar_opt_backdown.label>
+  <empireEvents_waterWar_opt_force.label>Пришлите ополчение. Если они хотят драки, они ее получат.</empireEvents_waterWar_opt_force.label>
+  <empireEvents_waterWar_opt_terms.label>Предложите щедрую плату за полные права на воду. Деньги говорят громче, чем оружие.</empireEvents_waterWar_opt_terms.label>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_deserters_0.label>Дезертиры предлагают услуги</empireEvents_deserters_0.label>
+  <empireEvents_deserters_0.desc>Группа солдат враждебной фракции дезертировала и прибыла к вашим границам. Они заявляют, что разочаровались в своих лидерах, и предлагают служить в вашей армии. Вы их принимаете?</empireEvents_deserters_0.desc>
+  <empireEvents_deserters_1a.label>Дезертиры интегрированы</empireEvents_deserters_1a.label>
+  <empireEvents_deserters_1a.desc>Дезертиры включены в ваши вооруженные силы. Их боевой опыт значительно укрепит защиту ваших поселений. Но можно ли им действительно доверять?</empireEvents_deserters_1a.desc>
+  <empireEvents_deserters_spy.label>Шпион среди дезертиров</empireEvents_deserters_spy.label>
+  <empireEvents_deserters_spy.desc>Это была ловушка. Один из дезертиров был шпионом, передавшим разведданные их первоначальной фракции. Они саботировали оборону и сеяли замешательство, прежде чем их поймали. Военная готовность ваших поселений серьезно пострадала.</empireEvents_deserters_spy.desc>
+  <empireEvents_deserters_1b.label>Дезертиры (под присмотром)</empireEvents_deserters_1b.label>
+  <empireEvents_deserters_1b.desc>Дезертиры служат под тщательным надзором. Их вклад ограничен ограничениями, но также ограничена и возможность саботажа.</empireEvents_deserters_1b.desc>
+  <empireEvents_deserters_1d.label>Дезертиры (военная подготовка)</empireEvents_deserters_1d.label>
+  <empireEvents_deserters_1d.desc>Дезертиры проходят строгую военную подготовку под пристальным наблюдением. Ваши офицеры быстро идентифицируют компетентных от подозрительных. Инвестиции в обучение устраняют потенциальные угрозы и одновременно производят способных солдат.</empireEvents_deserters_1d.desc>
+  <empireEvents_deserters_1e.label>Дезертиры в рабстве</empireEvents_deserters_1e.label>
+  <empireEvents_deserters_1e.desc>Дезертиров лишают оружия и заковывают в цепи. Какие бы разведданные они ни несли, не имеет значения — они проведут свои дни в шахтах и полях.</empireEvents_deserters_1e.desc>
+  <empireEvents_deserters_spy_followup.label>Шпион среди дезертиров</empireEvents_deserters_spy_followup.label>
+  <empireEvents_deserters_spy_followup.desc>Это была ловушка. Один из дезертиров был шпионом, передавшим разведданные их первоначальной фракции. Они саботировали оборону и сеяли замешательство, прежде чем их поймали. Военная готовность ваших поселений серьезно пострадала.</empireEvents_deserters_spy_followup.desc>
+</LanguageData>

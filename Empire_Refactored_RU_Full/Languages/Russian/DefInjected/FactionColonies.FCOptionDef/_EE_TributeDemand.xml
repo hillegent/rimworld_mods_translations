@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_tribute_opt1.label>Платите столько, сколько они просят. Это дешевле войны.</empireEvents_tribute_opt1.label>
+  <empireEvents_tribute_opt2.label>Мы никому не кланяемся. Откажитесь от их требований.</empireEvents_tribute_opt2.label>
+  <empireEvents_tribute_opt3.label>Вместо этого заключите торговое соглашение.</empireEvents_tribute_opt3.label>
+  <empireEvents_tribute_opt5.label>Наши армии научат их предъявлять требования.</empireEvents_tribute_opt5.label>
+  <empireEvents_tribute_opt6.label>Государь дани не платит.</empireEvents_tribute_opt6.label>
+</LanguageData>

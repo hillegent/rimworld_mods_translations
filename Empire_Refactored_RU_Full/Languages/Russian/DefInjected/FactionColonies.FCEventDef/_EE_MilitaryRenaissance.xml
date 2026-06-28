@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_militaryRenaissance_0.label>Военный Ренессанс</empireEvents_militaryRenaissance_0.label>
+  <empireEvents_militaryRenaissance_0.desc>По {FACTION} проносится волна боевого энтузиазма. Солдаты-ветераны делятся историями славы, вдохновляя молодых новобранцев тренироваться с беспрецедентным рвением, пока кузнецы работают сверхурочно, выковывая оружие и доспехи. Ваша армия никогда не была сильнее — но куда вы направляете эту энергию?</empireEvents_militaryRenaissance_0.desc>
+  <empireEvents_militaryRenaissance_channel.label>Военный всплеск</empireEvents_militaryRenaissance_channel.label>
+  <empireEvents_militaryRenaissance_channel.desc>Боевой энтузиазм направляется на целенаправленное усиление ваших сил. Солдаты тренируются усерднее, оборудование обслуживается бережно, а в рядах пронизывает ощутимое чувство преданности и целеустремленности.</empireEvents_militaryRenaissance_channel.desc>
+  <empireEvents_militaryRenaissance_wargames.label>Военные игры</empireEvents_militaryRenaissance_wargames.label>
+  <empireEvents_militaryRenaissance_wargames.desc>По всему {FACTION_TITLE} бушуют имитационные сражения, когда поселения натравливают свои гарнизоны друг на друга. Конкуренция жестокая, а подготовка бесценна, но слухи о ваших военных учениях достигают враждебных ушей. Соперники обращают внимание на вашу растущую силу.</empireEvents_militaryRenaissance_wargames.desc>
+  <empireEvents_militaryRenaissance_training.label>Военная академия</empireEvents_militaryRenaissance_training.label>
+  <empireEvents_militaryRenaissance_training.desc>Ваши инвестиции финансируют постоянные тренировочные площадки, полигоны и тренировочные поля по всему {FACTION_TITLE}. Непосредственные последствия скромны, поскольку ресурсы направляются на строительство, но долгосрочное улучшение военной готовности неоспоримо.</empireEvents_militaryRenaissance_training.desc>
+  <empireEvents_militaryRenaissance_civic.label>Программа гражданских работ</empireEvents_militaryRenaissance_civic.label>
+  <empireEvents_militaryRenaissance_civic.desc>Волна боевой энергии направляется на строительство, сельское хозяйство и инфраструктурные проекты. Солдаты меняют мечи на молоты, а их дисциплина и командная работа на удивление хорошо переносятся на гражданский труд. Производство растет по всем направлениям, и граждане приветствуют видимые инвестиции в свои сообщества.</empireEvents_militaryRenaissance_civic.desc>
+  <empireEvents_militaryRenaissance_tournament.label>Большой турнир</empireEvents_militaryRenaissance_tournament.label>
+  <empireEvents_militaryRenaissance_tournament.desc>Чемпионы со всего {FACTION_TITLE} собираются на зрелищный турнир. Толпы ревут от восторга, наблюдая за рыцарскими поединками и солдатами, соревнующимися в воинских подвигах. Это зрелище оттачивает боевые навыки и укрепляет преданность — воины сражаются сильнее за сюзерена, который уважает их доблесть.</empireEvents_militaryRenaissance_tournament.desc>
+  <empireEvents_militaryRenaissance_raids.label>Рейдовая кампания</empireEvents_militaryRenaissance_raids.label>
+  <empireEvents_militaryRenaissance_raids.desc>Военный энтузиазм направлен наружу, в кампанию агрессивных набегов. Солдаты, жаждущие славы, наносят удары по линиям снабжения, аванпостам и караванам противника. Грабежи впечатляют, а военный потенциал растет, но постоянные наступательные действия порождают культуру насилия, которая наносит ущерб дома.</empireEvents_militaryRenaissance_raids.desc>
+</LanguageData>

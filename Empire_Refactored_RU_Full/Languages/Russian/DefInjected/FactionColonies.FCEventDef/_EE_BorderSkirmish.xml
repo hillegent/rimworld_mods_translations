@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_skirmish_0.label>Пограничная стычка</empireEvents_skirmish_0.label>
+  <empireEvents_skirmish_0.desc>Разведчики сообщают о скоплении враждебных сил возле ваших приграничных поселений. Небольшие рейдовые группы уже были замечены, проверяющие вашу оборону. Ситуация может быстро обостриться. Как вы ответите?</empireEvents_skirmish_0.desc>
+  <empireEvents_skirmish_reinforce.label>Усиленная граница</empireEvents_skirmish_reinforce.label>
+  <empireEvents_skirmish_reinforce.desc>Подкрепления укрепляют вашу пограничную оборону. Военная готовность значительно возрастает по мере окопания войск.</empireEvents_skirmish_reinforce.desc>
+  <empireEvents_skirmish_patrol_success.label>Враги отступают</empireEvents_skirmish_patrol_success.label>
+  <empireEvents_skirmish_patrol_success.desc>Ваш патруль обнаруживает лагерь рейдеров и прогоняет их, прежде чем они успевают организовать полноценную атаку. Граница в безопасности — пока.</empireEvents_skirmish_patrol_success.desc>
+  <empireEvents_skirmish_patrol_fail.label>Патруль попал в засаду</empireEvents_skirmish_patrol_fail.label>
+  <empireEvents_skirmish_patrol_fail.desc>Ваш патруль попадает в засаду. Рейдеры более организованы, чем ожидалось, но вы, по крайней мере, знаете, что они приближаются.</empireEvents_skirmish_patrol_fail.desc>
+  <empireEvents_skirmish_nothing.label>Ложная тревога</empireEvents_skirmish_nothing.label>
+  <empireEvents_skirmish_nothing.desc>Враждебные силы расходятся самостоятельно. Возможно, они просто проходили мимо, или ваша защита их удержала. Кризис предотвращен.</empireEvents_skirmish_nothing.desc>
+  <empireEvents_skirmish_surprise.label>Внезапная атака</empireEvents_skirmish_surprise.label>
+  <empireEvents_skirmish_surprise.desc>Вы проигнорировали предупреждающие знаки, и теперь рейдеры наносят удар в полную силу, застигая ваши поселения врасплох.</empireEvents_skirmish_surprise.desc>
+  <empireEvents_skirmish_battle_reinforced.label>Пограничная битва</empireEvents_skirmish_battle_reinforced.label>
+  <empireEvents_skirmish_battle_reinforced.desc>Враждебные силы начинают атаку на ваши укрепленные позиции.</empireEvents_skirmish_battle_reinforced.desc>
+  <empireEvents_skirmish_patrol-fail.label>Патрулирование...</empireEvents_skirmish_patrol-fail.label>
+  <empireEvents_skirmish_patrol-fail.desc>Ваш патруль занят оценкой угрозы.</empireEvents_skirmish_patrol-fail.desc>
+  <empireEvents_skirmish_patrol-success.label>Патрулирование...</empireEvents_skirmish_patrol-success.label>
+  <empireEvents_skirmish_patrol-success.desc>Ваш патруль занят оценкой угрозы.</empireEvents_skirmish_patrol-success.desc>
+  <empireEvents_skirmish-wait_success.label>Ожидающий...</empireEvents_skirmish-wait_success.label>
+  <empireEvents_skirmish-wait_success.desc>Вы решили не преследовать угрозу. Если повезет, они не будут проблемой.</empireEvents_skirmish-wait_success.desc>
+  <empireEvents_skirmish-wait_fail.label>Ожидающий...</empireEvents_skirmish-wait_fail.label>
+  <empireEvents_skirmish-wait_fail.desc>Вы решили не преследовать угрозу. Если повезет, они не будут проблемой.</empireEvents_skirmish-wait_fail.desc>
+  <empireEvents_skirmish_fortified-none.label>Укрепленная оборона</empireEvents_skirmish_fortified-none.label>
+  <empireEvents_skirmish_fortified-none.desc>Ваши силы отступают на подготовленные оборонительные позиции. Если рейдеры нападут, они столкнутся с укрепившимися защитниками.</empireEvents_skirmish_fortified-none.desc>
+  <empireEvents_skirmish_fortified-fight.label>Укрепленная оборона</empireEvents_skirmish_fortified-fight.label>
+  <empireEvents_skirmish_fortified-fight.desc>Ваши силы отступают на подготовленные оборонительные позиции. Если рейдеры нападут, они столкнутся с укрепившимися защитниками.</empireEvents_skirmish_fortified-fight.desc>
+  <empireEvents_skirmish_preemptive-prepare.label>Поразительно...</empireEvents_skirmish_preemptive-prepare.label>
+  <empireEvents_skirmish_preemptive-prepare.desc>Ваши силы готовятся нанести превентивный удар по рейдерам.</empireEvents_skirmish_preemptive-prepare.desc>
+  <empireEvents_skirmish_preemptive-result.label>Превентивный удар</empireEvents_skirmish_preemptive-result.label>
+  <empireEvents_skirmish_preemptive-result.desc>Ваши силы наносят разрушительный упреждающий удар по плацдарму рейдеров. Угроза нейтрализуется еще до того, как она может материализоваться.</empireEvents_skirmish_preemptive-result.desc>
+  <empireEvents_skirmish_battle_reinforced-2.label>Пограничная битва</empireEvents_skirmish_battle_reinforced-2.label>
+  <empireEvents_skirmish_battle_reinforced-2.desc>Враждебные силы начинают атаку на ваши укрепленные позиции.</empireEvents_skirmish_battle_reinforced-2.desc>
+  <empireEvents_skirmish_patrol_fail-2.label>Пограничная битва</empireEvents_skirmish_patrol_fail-2.label>
+  <empireEvents_skirmish_patrol_fail-2.desc>Враждебные силы начинают наступление.</empireEvents_skirmish_patrol_fail-2.desc>
+  <empireEvents_skirmish_surprise-2.label>Пограничная битва</empireEvents_skirmish_surprise-2.label>
+  <empireEvents_skirmish_surprise-2.desc>Враждебные силы начинают наступление.</empireEvents_skirmish_surprise-2.desc>
+  <empireEvents_skirmish_fortified-fight-2.label>Укрепленная оборона</empireEvents_skirmish_fortified-fight-2.label>
+  <empireEvents_skirmish_fortified-fight-2.desc>Рейдеры решили продолжить атаку, несмотря на вашу защиту. Дураки никогда не увидят, что произойдет.</empireEvents_skirmish_fortified-fight-2.desc>
+  <empireEvents_skirmish_fortified-fight-3.label>Пограничная битва</empireEvents_skirmish_fortified-fight-3.label>
+  <empireEvents_skirmish_fortified-fight-3.desc>Враждебные силы начинают наступление.</empireEvents_skirmish_fortified-fight-3.desc>
+</LanguageData>

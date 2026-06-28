@@ -30,5 +30,6 @@
     <li>Matathias.Empire.AnimalHusbandry</li>
     <li>Matathias.EmpireRefVOE</li>
     <li>Matathias.Empire.Specialists</li>
+    <li>Matathias.Empire.Events</li>
   </loadAfter>
 </ModMetaData>

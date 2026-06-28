@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_economicBoom_0.label>Экономический бум</empireEvents_economicBoom_0.label>
+  <empireEvents_economicBoom_0.desc>Через ваш {FACTION_TITLE} протекает волна инвестиций и роста. Торговля процветает, открываются новые предприятия, а граждане свободно тратят деньги. Процветание ваших поселений привлекло внимание и открыло новые возможности. Как вы направите этот импульс?</empireEvents_economicBoom_0.desc>
+  <empireEvents_economicBoom_1a.label>Всплеск роста</empireEvents_economicBoom_1a.label>
+  <empireEvents_economicBoom_1a.desc>Экономический импульс направляется непосредственно на расширение производственного потенциала. Открываются новые мастерские, расширяются существующие операции, а процветание ваших поселений растет ускоренными темпами.</empireEvents_economicBoom_1a.desc>
+  <empireEvents_economicBoom_1b.label>Экономическая стабилизация</empireEvents_economicBoom_1b.label>
+  <empireEvents_economicBoom_1b.desc>Вместо того чтобы гоняться за взрывным ростом, вы инвестируете в устойчивую экономическую инфраструктуру. Рост благосостояния умеренный, но устойчивый, а казначейство пополняется за счет улучшения собираемости налогов.</empireEvents_economicBoom_1b.desc>
+  <empireEvents_economicBoom_1c.label>Распределение богатства</empireEvents_economicBoom_1c.label>
+  <empireEvents_economicBoom_1c.desc>Экономические доходы широко распределяются среди населения. Граждане отмечают щедрость своих лидеров, а улучшение качества жизни укрепляет их преданность своей стране.</empireEvents_economicBoom_1c.desc>
+  <empireEvents_economicBoom_estates.label>Благородные поместья</empireEvents_economicBoom_estates.label>
+  <empireEvents_economicBoom_estates.desc>Экономические доходы направляются в большие поместья для знатных людей: поместья, охотничьи угодья и декоративные сады, которые провозглашают процветание {FACTION_TITLE}. Дворянство отвечает новой преданностью, укрепляя узы верности, которые скрепляют феодальный порядок.</empireEvents_economicBoom_estates.desc>
+  <empireEvents_economicBoom_guilty.label>Покаяние изобилия</empireEvents_economicBoom_guilty.label>
+  <empireEvents_economicBoom_guilty.desc>Вместо того, чтобы копить непредвиденную прибыль, ваш {FACTION_TITLE} направляет ее на больницы и общественные работы. Этот поступок оформлен не как щедрость, а как искупление — расплата за дискомфорт от обладания таким большим количеством. Люди с облегчением освобождаются от своего денежного бремени.</empireEvents_economicBoom_guilty.desc>
+</LanguageData>

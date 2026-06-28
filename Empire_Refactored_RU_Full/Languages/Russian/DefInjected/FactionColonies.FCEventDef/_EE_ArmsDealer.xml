@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_armsDealer_0.label>Торговец оружием</empireEvents_armsDealer_0.label>
+  <empireEvents_armsDealer_0.desc>Прибыл торговец оружием, связанный с несколькими фракциями, и предлагает оптовую военную технику с огромной скидкой. Их товары впечатляют, хотя и дороги. Что вы делаете?</empireEvents_armsDealer_0.desc>
+  <empireEvents_armsDealer_1a.label>Вооруженный до зубов</empireEvents_armsDealer_1a.label>
+  <empireEvents_armsDealer_1a.desc>Ящики с оружием и доспехами разбросаны по вашим поселениям. Военная готовность резко возрастает. Дилер уходит довольный, а ваши силы для этого значительно сильнее.</empireEvents_armsDealer_1a.desc>
+  <empireEvents_armsDealer_1b.label>Пополнение запасов оружия</empireEvents_armsDealer_1b.label>
+  <empireEvents_armsDealer_1b.desc>Скромная партия оружия раздается по вашим поселениям. Недостаточно, чтобы преобразовать вашу армию, но это долгожданный импульс для повышения боеготовности.</empireEvents_armsDealer_1b.desc>
+  <empireEvents_armsDealer_1c.label>Боевая подготовка</empireEvents_armsDealer_1c.label>
+  <empireEvents_armsDealer_1c.desc>Партнеры торговца — как выяснилось, опытные наемники — тратят время на обучение сил вашего поселения. Войска изучают передовые боевые приемы, которые пригодятся им в будущих сражениях.</empireEvents_armsDealer_1c.desc>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EE_SettingsDebugLogging>Включить отладочное логирование</EE_SettingsDebugLogging>
+  <EE_SettingsCategory>Empire: больше событий</EE_SettingsCategory>
+  <EE_ResourcePickerDesc>Выберите, на каком ресурсе будут специализироваться эти опытные рабочие.</EE_ResourcePickerDesc>
+  <EE_SelectResource>Выбрать ресурс</EE_SelectResource>
+  <EE_NoActiveResources>Нет активных ресурсов (закрыть)</EE_NoActiveResources>
+  <EE_ImmigrantsSourceLabel>Опытные иммигранты ({0})</EE_ImmigrantsSourceLabel>
+  <EE_ImmigrantsAssignedTitle>Опытные иммигранты назначены</EE_ImmigrantsAssignedTitle>
+  <EE_ImmigrantsAssignedDesc>Опытные иммигранты назначены на усиление производства {0} в {1}.</EE_ImmigrantsAssignedDesc>
+  <EV_PatchTitle>Примечания к обновлениям: больше событий</EV_PatchTitle>
+  <EV_OpenPatchNotes>Открыть примечания к обновлениям</EV_OpenPatchNotes>
+</LanguageData>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_hermitSage_0.label>Дым в холмах</empireEvents_hermitSage_0.label>
+  <empireEvents_hermitSage_0.desc>Поселенцы сообщают, что видели дым, поднимающийся из хижины глубоко в пустыне недалеко от вашего поселения. Расследование обнаруживает ученого-отшельника, окруженного высокими стопками книг, незавершенными экспериментами и нацарапанными уравнениями, покрывающими каждую поверхность. Они, кажется, удивлены появлением посетителей, но не совсем недовольны.</empireEvents_hermitSage_0.desc>
+  <empireEvents_hermitSage_1a.label>Ученый прибывает</empireEvents_hermitSage_1a.label>
+  <empireEvents_hermitSage_1a.desc>Отшельник неохотно соглашается на переезд, везя за собой телеги с книгами и оборудованием. Его знания огромны, а вклад чувствуется сразу — результаты исследований растут. К сожалению, характер у него... сложный. Он спорит со всеми, работает в странные часы, а его эксперименты иногда производят тревожные запахи.</empireEvents_hermitSage_1a.desc>
+  <empireEvents_hermitSage_1b.label>Переписка</empireEvents_hermitSage_1b.label>
+  <empireEvents_hermitSage_1b.desc>Отшельник милостиво принимает ваши дары и начинает переписываться с вашими исследователями. Переписка идет медленно — отшельник пишет плотной, загадочной прозой, — но идеи полезны. На бирже появляется устойчивый поток прорывов.</empireEvents_hermitSage_1b.desc>
+  <empireEvents_hermitSage_2a_eureka.label>Эврика!</empireEvents_hermitSage_2a_eureka.label>
+  <empireEvents_hermitSage_2a_eureka.desc>Однажды утром отшельник выбегает из мастерской и бессвязно кричит о прорыве. Успокоив их и получив правильное объяснение, ваши исследователи быстро прозреют — фундаментальное достижение, которое навсегда изменит исследовательские возможности поселения.
+
+Еще более удивительно то, что успех отшельника значительно их смягчает. Они вступают в общественную жизнь с вновь обретенным удовлетворением и даже делятся медицинскими знаниями, полученными в результате своих фармацевтических экспериментов.</empireEvents_hermitSage_2a_eureka.desc>
+  <empireEvents_hermitSage_2a_outburst.label>Вспышка</empireEvents_hermitSage_2a_outburst.label>
+  <empireEvents_hermitSage_2a_outburst.desc>Отшельник терпит впечатляющий срыв — разбивает оборудование, сжигает записи и кричит о неудачах, как реальных, так и воображаемых. Они бегут в пустыню, оставив после себя опустошенную лабораторию. Результаты исследований падают по мере того, как ваша команда собирает их по кусочкам.
+
+Однако сохранившиеся записи отшельника содержат удивительно полезные сведения, которые, будучи расшифрованными, навсегда улучшат ваше понимание.</empireEvents_hermitSage_2a_outburst.desc>
+  <empireEvents_hermitSage_2b_invitation.label>Приглашение</empireEvents_hermitSage_2b_invitation.label>
+  <empireEvents_hermitSage_2b_invitation.desc>После нескольких недель переписки отшельник наконец приглашает ваших исследователей посетить их мастерскую. Это необычно: отшельник известен как затворник. Они хотят сотрудничать в проекте, который слишком сложен для одних только писем. Кого ты посылаешь?</empireEvents_hermitSage_2b_invitation.desc>
+  <empireEvents_hermitSage_apprentices-good.label>Обучение учеников</empireEvents_hermitSage_apprentices-good.label>
+  <empireEvents_hermitSage_apprentices-good.desc>Отшельник недоволен тем, что ему прислали группу наивных учеников, а не коллег-соратников, и они широко распространяют это мнение. Но, что удивительно, они не отвергают ваших людей. Возможно, еще есть выигрыш.</empireEvents_hermitSage_apprentices-good.desc>
+  <empireEvents_hermitSage_apprentices-good-result.label>Обученные ученики</empireEvents_hermitSage_apprentices-good-result.label>
+  <empireEvents_hermitSage_apprentices-good-result.desc>Ученики возвращаются преображенными — полными новых идей, методов и уверенности. Методы обучения отшельника неортодоксальны, но эффективны. Исследования совершенствуются, а обученные ученики также привносят практические идеи, которые повышают общую эффективность труда.</empireEvents_hermitSage_apprentices-good-result.desc>
+  <empireEvents_hermitSage_apprentices-bad.label>Обучение учеников</empireEvents_hermitSage_apprentices-bad.label>
+  <empireEvents_hermitSage_apprentices-bad.desc>Отшельник недоволен тем, что ему прислали группу наивных учеников, а не коллег-соратников, и они широко распространяют это мнение. Но, что удивительно, они не отвергают ваших людей. Возможно, еще есть выигрыш.</empireEvents_hermitSage_apprentices-bad.desc>
+  <empireEvents_hermitSage_apprentices-bad-result.label>Ученики преобразились</empireEvents_hermitSage_apprentices-bad-result.label>
+  <empireEvents_hermitSage_apprentices-bad-result.desc>Ученики возвращаются преображенными — в ужасающих органических чудовищ!
+
+Их разум, очевидно, разрушен, они нападают на ваше поселение в темноте ночи, атакуя все, что видят, с дикой энергией. В конечном итоге ополчению удается их подавить, но не раньше, чем они вызовут неисчислимый хаос и разрушения.
+
+После этого ваши люди быстро возвращаются к отшельнику, чтобы потребовать ответов. Но когда они приходят, отшельник бесследно исчезает, если не считать единственной записки, унижающей вас за неуважение к их интеллекту.</empireEvents_hermitSage_apprentices-bad-result.desc>
+  <empireEvents_hermitSage_collab-success.label>Экспертное сотрудничество</empireEvents_hermitSage_collab-success.label>
+  <empireEvents_hermitSage_collab-success.desc>Ваши ведущие исследователи работают с отшельником над чем-то, что, как они вас уверяют, является экстраординарным. А пока вам придется обойтись немного меньшим трудом.</empireEvents_hermitSage_collab-success.desc>
+  <empireEvents_hermitSage_collab-success-result.label>Экспертное сотрудничество</empireEvents_hermitSage_collab-success-result.label>
+  <empireEvents_hermitSage_collab-success-result.desc>Ваши лучшие исследователи проводят недели в мастерской отшельника. Сотрудничество интенсивное и продуктивное — теоретический талант отшельника в сочетании с практическим опытом вашей команды позволяет добиться прорывов, которых невозможно достичь в одиночку. Исследовательские возможности поселения постоянно расширяются.</empireEvents_hermitSage_collab-success-result.desc>
+  <empireEvents_hermitSage_collab-fail.label>Экспертное сотрудничество</empireEvents_hermitSage_collab-fail.label>
+  <empireEvents_hermitSage_collab-fail.desc>Ваши ведущие исследователи работают с отшельником над чем-то, что, как они вас уверяют, является экстраординарным. А пока вам придется обойтись немного меньшим трудом.</empireEvents_hermitSage_collab-fail.desc>
+  <empireEvents_hermitSage_collab-fail-result.label>Неудачное сотрудничество</empireEvents_hermitSage_collab-fail-result.label>
+  <empireEvents_hermitSage_collab-fail-result.desc>Сотрудничество с отшельником заканчивается неудачей. Идеи отшельника оказались слишком странными и эзотерическими, чтобы ваши исследователи могли их понять; некоторые из них убеждены, что отшельник на самом деле не более чем буйный сумасшедший.
+
+По крайней мере, еще есть что почерпнуть из записей и оборудования отшельника.</empireEvents_hermitSage_collab-fail-result.desc>
+</LanguageData>

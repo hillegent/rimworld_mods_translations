@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_corruption_0.label>Коррупционный скандал</empireEvents_corruption_0.label>
+  <empireEvents_corruption_0.desc>Местных чиновников в ваших поселениях уличили в сборе налогов. Граждане в ярости; доверие к вашей администрации быстро рушится. Как вы с этим справляетесь?</empireEvents_corruption_0.desc>
+  <empireEvents_corruption_1a.label>Публичный суд</empireEvents_corruption_1a.label>
+  <empireEvents_corruption_1a.desc>Коррумпированные чиновники предстают перед народом и снимаются со своих постов. Граждане воодушевлены проявлением справедливости, хотя замена администраторов, которые на самом деле были весьма компетентны в своей работе, требует времени.</empireEvents_corruption_1a.desc>
+  <empireEvents_corruption_1b.label>Чиновники заменены</empireEvents_corruption_1b.label>
+  <empireEvents_corruption_1b.desc>Коррумпированные чиновники незаметно переназначаются. Бизнес быстро возвращается в нормальное русло, но без публичной ответственности ничто не помешает следующей партии сделать то же самое.</empireEvents_corruption_1b.desc>
+  <empireEvents_corruption_recur.label>Коррупция возвращается</empireEvents_corruption_recur.label>
+  <empireEvents_corruption_recur.desc>Оказывается, отказ от привлечения преступников к ответственности может иметь и недостатки. Новые чиновники продолжили работу с того места, на котором остановились старые, и их коррупция стала еще более наглой. Без публичного примера коррупция стала ожидаемым преимуществом офиса.</empireEvents_corruption_recur.desc>
+  <empireEvents_corruption_1c.label>Административные сборы</empireEvents_corruption_1c.label>
+  <empireEvents_corruption_1c.desc>«Административный сбор» теперь является официальной политикой. Налоговые поступления на самом деле немного улучшаются, поскольку сборы теперь взимаются открыто, но граждане видят разницу в маркировке насквозь. Негодование нарастает, поскольку наглая коррупция закреплена в законе.</empireEvents_corruption_1c.desc>
+  <empireEvents_corruption_1d.label>Публичные казни</empireEvents_corruption_1d.label>
+  <empireEvents_corruption_1d.desc>Коррумпированных чиновников казнят на глазах у ошеломленной толпы. Идея очевидна: {FACTION_TITLE} не терпит предательства. Граждане одновременно напуганы и странно успокоены — по крайней мере, их лидеры серьезно относятся к коррупции.</empireEvents_corruption_1d.desc>
+  <empireEvents_corruption_1e.label>Комитет по надзору</empireEvents_corruption_1e.label>
+  <empireEvents_corruption_1e.desc>Для мониторинга государственных расходов создается комитет гражданского надзора. Коррумпированные чиновники устраняются посредством надлежащей правовой процедуры, а новая прозрачность поднимает моральный дух.</empireEvents_corruption_1e.desc>
+</LanguageData>

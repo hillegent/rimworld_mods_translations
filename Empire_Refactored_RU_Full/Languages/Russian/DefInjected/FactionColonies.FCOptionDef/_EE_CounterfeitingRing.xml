@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_counterfeiting_opt1.label>Начать официальное расследование для отслеживания фальшивомонетчиков.</empireEvents_counterfeiting_opt1.label>
+  <empireEvents_counterfeiting_opt2.label>Сильно расправиться. Обыщите каждый рыночный прилавок и склад.</empireEvents_counterfeiting_opt2.label>
+  <empireEvents_counterfeiting_opt3.label>Оно само разберётся. У нас есть более серьезные проблемы.</empireEvents_counterfeiting_opt3.label>
+  <empireEvents_counterfeiting_opt6.label>Соберите подозреваемых. Никакого суда не нужно.</empireEvents_counterfeiting_opt6.label>
+  <empireEvents_counterfeiting_opt7.label>Наши финансовые эксперты могут отследить подделки.</empireEvents_counterfeiting_opt7.label>
+  <empireEvents_counterfeiting_opt4.label>Арестуйте их всех и подайте публичный пример.</empireEvents_counterfeiting_opt4.label>
+  <empireEvents_counterfeiting_opt5.label>Предложите им сделку: они теперь работают на нас, чеканят законную валюту.</empireEvents_counterfeiting_opt5.label>
+</LanguageData>

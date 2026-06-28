@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_wanderingHealer_0.label>Странствующий целитель</empireEvents_wanderingHealer_0.label>
+  <empireEvents_wanderingHealer_0.desc>В одно из ваших поселений прибыл опытный целитель с внушительной коллекцией лекарств и хирургических инструментов. Он готов предложить свои услуги — за разумную цену. Его знания могут принести пользу вашей медицинской инфраструктуре.</empireEvents_wanderingHealer_0.desc>
+  <empireEvents_wanderingHealer_1a.label>Целитель нанят</empireEvents_wanderingHealer_1a.label>
+  <empireEvents_wanderingHealer_1a.desc>Странствующий целитель принимает ваше предложение и поселяется в обществе. Их опыт немедленно улучшает качество медицинской помощи, и они начинают обучать местных врачей передовым методам лечения.</empireEvents_wanderingHealer_1a.desc>
+  <empireEvents_wanderingHealer_1b.label>Медицинское обучение</empireEvents_wanderingHealer_1b.label>
+  <empireEvents_wanderingHealer_1b.desc>Целитель проводит время, обучая ваших медиков передовым методам, прежде чем продолжить свое путешествие.</empireEvents_wanderingHealer_1b.desc>
+  <empireEvents_wanderingHealer_1c.label>Целитель завербован</empireEvents_wanderingHealer_1c.label>
+  <empireEvents_wanderingHealer_1c.desc>Ваши торговые связи помогают договориться о выгодных условиях. Целитель присоединяется к вашему поселению, принося из своих путешествий не только медицинский опыт, но и знания о редких лекарственных травах. Ваши исследователи принимают это к сведению.</empireEvents_wanderingHealer_1c.desc>
+</LanguageData>

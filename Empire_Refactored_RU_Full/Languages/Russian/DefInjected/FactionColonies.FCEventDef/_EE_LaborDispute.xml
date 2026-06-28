@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_laborDispute_0.label>Трудовой спор</empireEvents_laborDispute_0.label>
+  <empireEvents_laborDispute_0.desc>Рабочие нескольких ваших поселений требуют улучшения условий и более справедливого обращения. Напряженность растет, а производство уже замедляется, поскольку рабочие намеренно замедляют работу. Вам необходимо решить эту проблему, прежде чем она обострится дальше.</empireEvents_laborDispute_0.desc>
+  <empireEvents_laborDispute_1a.label>Договорное урегулирование</empireEvents_laborDispute_1a.label>
+  <empireEvents_laborDispute_1a.desc>После напряженных, но продуктивных переговоров вы достигаете компромисса. Рабочие возвращаются на свои посты, довольные тем, что их голоса были услышаны. Соглашение включает скромные улучшения условий труда, которые постоянно увеличивают затраты на рабочую силу, но волнения исчезают.</empireEvents_laborDispute_1a.desc>
+  <empireEvents_laborDispute_1b.label>Порядок восстановлен</empireEvents_laborDispute_1b.label>
+  <empireEvents_laborDispute_1b.desc>Охранники арестовывают организаторов и ставят с них пример. Рабочие неохотно возвращаются на свои станции, но страх заменяет сотрудничество.</empireEvents_laborDispute_1b.desc>
+  <empireEvents_laborDispute_1c.label>Требования удовлетворены</empireEvents_laborDispute_1c.label>
+  <empireEvents_laborDispute_1c.desc>Рабочие в восторге: зарплата выше, рабочий день короче, условия лучше. Моральный дух растет, и поселения гудят с новым энтузиазмом. Казначейство страдает от увеличения расходов, но рабочая сила, занимающаяся контентом, является продуктивной.</empireEvents_laborDispute_1c.desc>
+  <empireEvents_laborDispute_1d.label>Заменены рабочие</empireEvents_laborDispute_1d.label>
+  <empireEvents_laborDispute_1d.desc>На замену недовольным работникам привлекаются сторонние рабочие. Переход беспорядочный; давние жители недовольны тем, что их заменили, и лояльность серьезно страдает. Но пришельцы благодарны за предоставленную возможность, и мощность поселения растет.</empireEvents_laborDispute_1d.desc>
+  <empireEvents_laborDispute_1_collectivist.label>Союз признан</empireEvents_laborDispute_1_collectivist.label>
+  <empireEvents_laborDispute_1_collectivist.desc>Вы сидите с рабочими не как просители, а как партнеры. Союз официально признан, и волна солидарности захлестнула поселения: то, что выиграно для одного, выиграно для всех. Затраты растут незначительно, но связь между вашими людьми и вашим {FACTION_TITLE} редко бывает сильнее.</empireEvents_laborDispute_1_collectivist.desc>
+  <empireEvents_laborDispute_1_individualist.label>Свободный рынок труда</empireEvents_laborDispute_1_individualist.label>
+  <empireEvents_laborDispute_1_individualist.desc>Вы не угрожаете и не идете на уступки — те, кто не может соблюдать условия, просто могут уйти, и многие так и делают. Нетерпеливые новички занимают свои места почти в мгновение ока, привлеченные обещанием новых возможностей. Отток кое-кого взъерошивает, но ваши люди ожидают не чего иного, как свободы действий в выборе своего собственного пути.</empireEvents_laborDispute_1_individualist.desc>
+</LanguageData>

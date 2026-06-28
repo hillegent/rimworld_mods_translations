@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_abandonedOutpost_0.label>Заброшенный аванпост</empireEvents_abandonedOutpost_0.label>
+  <empireEvents_abandonedOutpost_0.desc>Разведчики обнаружили заброшенный аванпост недалеко от одного из ваших поселений. Постройка обветшала, но осталась целой; тот, кто ее возвел, ушел в спешке. Это место можно использовать несколькими способами.</empireEvents_abandonedOutpost_0.desc>
+  <empireEvents_abandonedOutpost_1a.label>Аванпост разобран на материалы</empireEvents_abandonedOutpost_1a.label>
+  <empireEvents_abandonedOutpost_1a.desc>Рабочие бригады методично разбирают заставу, находя пригодные для использования строительные материалы, забытые припасы и несколько ценных предметов, оставленных предыдущими обитателями.</empireEvents_abandonedOutpost_1a.desc>
+  <empireEvents_abandonedOutpost_1b.label>Сторожевая башня установлена</empireEvents_abandonedOutpost_1b.label>
+  <empireEvents_abandonedOutpost_1b.desc>Аванпост усилен и превращен в передовой наблюдательный пункт. Его возвышенное расположение обеспечивает отличный обзор, давая вашему поселению раннее предупреждение о приближающихся угрозах и оборонительную позицию.</empireEvents_abandonedOutpost_1b.desc>
+  <empireEvents_abandonedOutpost_1c.label>Мастерская открыта</empireEvents_abandonedOutpost_1c.label>
+  <empireEvents_abandonedOutpost_1c.desc>Аванпост переоборудован в действующую мастерскую. Установлены новые верстаки и стеллажи для инструментов, и рабочие сразу же начинают использовать помещения. Дополнительные производственные мощности дают желанный прирост выпуску поселения.</empireEvents_abandonedOutpost_1c.desc>
+  <empireEvents_abandonedOutpost_1d.label>Путевая станция восстановлена</empireEvents_abandonedOutpost_1d.label>
+  <empireEvents_abandonedOutpost_1d.desc>Восстановленная пересадочная станция быстро становится центром для проезжающих мимо путешественников и торговцев. Небольшой постоянный персонал обслуживает объекты, а увеличение пешеходного потока открывает новые возможности для торговли и несколько поселенцев, желающих пустить корни.</empireEvents_abandonedOutpost_1d.desc>
+  <empireEvents_abandonedOutpost_healingHouse.label>Дом исцеления</empireEvents_abandonedOutpost_healingHouse.label>
+  <empireEvents_abandonedOutpost_healingHouse.desc>Аванпост превращается в дом исцеления. Чистые кровати и небольшой штат медиков принимают больных и раненых со всего региона. Репутация поселения как сострадательного сообщества растет.
+
+Потребность в преданном своему делу персонале сокращает количество рабочих мест, но медицинские знания, полученные в результате лечения различных заболеваний, являются желанным компромиссом.</empireEvents_abandonedOutpost_healingHouse.desc>
+  <empireEvents_abandonedOutpost_ransack.label>Аванпост разграблен</empireEvents_abandonedOutpost_ransack.label>
+  <empireEvents_abandonedOutpost_ransack.desc>Ваши мусорщики прорываются через аванпост с отработанной эффективностью, поднимая половицы, проверяя полые стены и разбирая все ценное. Они находят тайники, спрятанные предыдущими жильцами, материалы, встроенные в саму конструкцию, и предметы, которые при более осторожной спасательной операции не были бы учтены.</empireEvents_abandonedOutpost_ransack.desc>
+</LanguageData>

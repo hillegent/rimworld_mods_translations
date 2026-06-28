@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_festival_0.label>Фестивальный сезон</empireEvents_festival_0.label>
+  <empireEvents_festival_0.desc>Ваши граждане запрашивают разрешение на проведение грандиозного фестиваля. Настроение хорошее; люди хотят праздновать. Какую поддержку вы оказываете?</empireEvents_festival_0.desc>
+  <empireEvents_festival_1a.label>Большой фестиваль</empireEvents_festival_1a.label>
+  <empireEvents_festival_1a.desc>Фестиваль имеет потрясающий успех! Музыка, пиршества и игры объединяют ваши поселения. Граждане гордятся тем, что являются частью {FACTION}, и волнения утихают во время празднования.</empireEvents_festival_1a.desc>
+  <empireEvents_festival_1b.label>Скромный фестиваль</empireEvents_festival_1b.label>
+  <empireEvents_festival_1b.desc>Небольшой, но веселый праздник улучшит настроение в ваших поселениях. Ничего экстравагантного, но люди оценили этот жест.</empireEvents_festival_1b.desc>
+  <empireEvents_festival_1c.label>Фестиваль отклонен</empireEvents_festival_1c.label>
+  <empireEvents_festival_1c.desc>Просьба граждан о проведении фестиваля отклонена. По поселениям разносятся разочарованные ропоты. Люди чувствуют, что их голоса не слышат.</empireEvents_festival_1c.desc>
+  <empireEvents_festival_1d.label>Королевский фестиваль</empireEvents_festival_1d.label>
+  <empireEvents_festival_1d.desc>Корона спонсирует пышное празднование в свою честь. Граждане наслаждаются зрелищем и чувствуют новую связь со своими правителями. Фестиваль стоит меньше, чем полноценное грандиозное мероприятие, но королевский стиль внушает непреходящую лояльность.</empireEvents_festival_1d.desc>
+  <empireEvents_festival_1e.label>Народный фестиваль</empireEvents_festival_1e.label>
+  <empireEvents_festival_1e.desc>Горожане организуют праздник самостоятельно с минимальным финансированием. Недостаток величия здесь компенсируется духом общности.</empireEvents_festival_1e.desc>
+  <empireEvents_festival_1_nudism.label>Фестиваль плоти</empireEvents_festival_1_nudism.label>
+  <empireEvents_festival_1_nudism.desc>Люди сбросили с себя одежду и запреты, наполняя улицы бесстыдной радостью. Это буйство музыки, танцев и обнаженной кожи под открытым небом — праздник тела, как оно есть, свободного и неприкрытого. Поселения редко когда-либо чувствовали себя такими живыми и в таком мире между собой.</empireEvents_festival_1_nudism.desc>
+</LanguageData>

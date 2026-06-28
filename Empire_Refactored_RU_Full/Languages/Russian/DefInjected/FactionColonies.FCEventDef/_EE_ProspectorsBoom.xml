@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_prospectorsBoom_0.label>Стрела старателя</empireEvents_prospectorsBoom_0.label>
+  <empireEvents_prospectorsBoom_0.desc>Рядом с вашими поселениями старатели обнаружили богатые минеральные жилы! Слухи распространяются быстро, и нетерпеливые шахтеры наводняют этот район, готовые копать. Месторождения значительны, но нам нужно определить, как их добывать.</empireEvents_prospectorsBoom_0.desc>
+  <empireEvents_prospectorsBoom_regulate.label>Регулируемый горнодобывающий бум</empireEvents_prospectorsBoom_regulate.label>
+  <empireEvents_prospectorsBoom_regulate.desc>При тщательном регулировании бум горнодобывающей промышленности протекает упорядоченно. Производительность высока, в поселениях появляются новые рабочие, и, хотя изнурительный труд несколько снижает настроение, общий эффект является однозначно положительным.</empireEvents_prospectorsBoom_regulate.desc>
+  <empireEvents_prospectorsBoom_freeForAll.label>Горное безумие</empireEvents_prospectorsBoom_freeForAll.label>
+  <empireEvents_prospectorsBoom_freeForAll.desc>Нерегулируемая погоня за полезными ископаемыми превращает ваши поселения в хаотичные быстро развивающиеся города. Добыча полезных ископаемых огромна, но атмосфера беззакония порождает преступность, травмы и ожесточенные споры по поводу претензий. Приходят рабочие, но счастье падает, а волнения растут.</empireEvents_prospectorsBoom_freeForAll.desc>
+  <empireEvents_prospectorsBoom_controlled.label>Горнодобывающая инфраструктура</empireEvents_prospectorsBoom_controlled.label>
+  <empireEvents_prospectorsBoom_controlled.desc>Ваши инвестиции построят соответствующие шахтные стволы, предприятия по переработке руды и оборудование для обеспечения безопасности. Непосредственный доход скромен, поскольку ресурсы идут на строительство, но инфраструктура гарантирует, что эти месторождения будут добывать руду еще долго после того, как бум утихнет.</empireEvents_prospectorsBoom_controlled.desc>
+  <empireEvents_prospectorsBoom_coop.label>Горнодобывающий кооператив</empireEvents_prospectorsBoom_coop.label>
+  <empireEvents_prospectorsBoom_coop.desc>Создан общественный горнодобывающий кооператив. Каждый работник имеет равную долю в прибыли, а демократическая структура обеспечивает справедливое обращение и разумные часы работы. Производительность высока — не такая экстремальная, как нерегулируемый всплеск, но устойчивая и стабильная. Самое приятное то, что общее процветание означает, что никто не возражает против работы.</empireEvents_prospectorsBoom_coop.desc>
+  <empireEvents_prospectorsBoom_forced.label>Принудительное майнинг</empireEvents_prospectorsBoom_forced.label>
+  <empireEvents_prospectorsBoom_forced.desc>Призванных рабочих везут на шахты под вооруженной охраной. Результат невероятный — каждая жила эксплуатируется, каждая шахта вытянута до предела. Дополнительные рабочие привлекаются к работе из близлежащих поселений.</empireEvents_prospectorsBoom_forced.desc>
+</LanguageData>

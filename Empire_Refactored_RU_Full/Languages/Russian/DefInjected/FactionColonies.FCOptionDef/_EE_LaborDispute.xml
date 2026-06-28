@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_laborDispute_opt1.label>Сядьте с их представителями. Давайте найдем компромисс.</empireEvents_laborDispute_opt1.label>
+  <empireEvents_laborDispute_opt2.label>Это неподчинение. Арестуйте зачинщиков и верните всех к работе.</empireEvents_laborDispute_opt2.label>
+  <empireEvents_laborDispute_opt3.label>Они правы. Удовлетворите их требования в полном объеме.</empireEvents_laborDispute_opt3.label>
+  <empireEvents_laborDispute_opt4.label>Привлеките внешних работников, чтобы заменить нарушителей спокойствия.</empireEvents_laborDispute_opt4.label>
+  <empireEvents_laborDispute_opt_collectivist.label>Признайте их союз. Наши работники — наше богатство: что хорошо для них, хорошо для всех нас.</empireEvents_laborDispute_opt_collectivist.label>
+  <empireEvents_laborDispute_opt_individualist.label>Рабочие являются свободными агентами. Те, кто не может принять наши условия, могут искать счастья в другом месте.</empireEvents_laborDispute_opt_individualist.label>
+</LanguageData>

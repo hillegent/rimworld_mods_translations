@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_powerFailure_0.label>Отказ электросети</empireEvents_powerFailure_0.label>
+  <empireEvents_powerFailure_0.desc>В электросети, обслуживающей ваши поселения, произошел катастрофический сбой. Генераторы перегружены, линии электропередач отключены, а основные системы отключены. Как восстановить силы?</empireEvents_powerFailure_0.desc>
+  <empireEvents_powerFailure_emergency.label>Аварийный ремонт</empireEvents_powerFailure_emergency.label>
+  <empireEvents_powerFailure_emergency.desc>Ремонтные бригады круглосуточно работают над восстановлением электросети. Исправление дорогое, но быстрое; системы быстро возвращаются в онлайн.</empireEvents_powerFailure_emergency.desc>
+  <empireEvents_powerFailure_ration.label>Мощность нормированная</empireEvents_powerFailure_ration.label>
+  <empireEvents_powerFailure_ration.desc>Потребление электроэнергии строго нормировано в пострадавших поселениях. Сокращение поставок влияет как на энергетику, так и на общее производство.</empireEvents_powerFailure_ration.desc>
+  <empireEvents_powerFailure_industrious.label>Быстрый ремонт</empireEvents_powerFailure_industrious.label>
+  <empireEvents_powerFailure_industrious.desc>Ваши трудолюбивые рабочие бригады немедленно приступают к работе, диагностируя и ремонтируя энергосистему с поразительной эффективностью. Ремонт быстрый и тщательный.</empireEvents_powerFailure_industrious.desc>
+  <empireEvents_powerFailure_technocratic.label>Резервные системы</empireEvents_powerFailure_technocratic.label>
+  <empireEvents_powerFailure_technocratic.desc>Ваши инженеры реализуют резервные системы распределения электроэнергии. Неисправность смягчается благодаря продуманной инженерии.</empireEvents_powerFailure_technocratic.desc>
+</LanguageData>

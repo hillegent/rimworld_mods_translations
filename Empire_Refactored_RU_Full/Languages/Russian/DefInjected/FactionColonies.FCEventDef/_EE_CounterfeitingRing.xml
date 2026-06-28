@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_counterfeiting_0.label>Поддельное кольцо</empireEvents_counterfeiting_0.label>
+  <empireEvents_counterfeiting_0.desc>Сообщения поступают из многих населенных пунктов: фальшивое серебро наводняет местные рынки. Налоговые поступления подрываются, а торговцы с подозрением относятся ко всей валюте. Как вы ответите?</empireEvents_counterfeiting_0.desc>
+  <empireEvents_counterfeiting_1a.label>Расследование не удалось</empireEvents_counterfeiting_1a.label>
+  <empireEvents_counterfeiting_1a.desc>Ваши следователи ничего не обнаружили; поддельное серебро продолжает циркулировать. Тем не менее расследование напугало преступников, которые постепенно прекратили свою деятельность самостоятельно.</empireEvents_counterfeiting_1a.desc>
+  <empireEvents_counterfeiting_1b.label>Репрессии на рынке</empireEvents_counterfeiting_1b.label>
+  <empireEvents_counterfeiting_1b.desc>Ваши агрессивные рейды нарушают не только операцию по подделке денег, но и повседневную жизнь простых граждан. Рынки закрыты, торговцев преследуют, а люди все больше возмущаются жестким подходом.</empireEvents_counterfeiting_1b.desc>
+  <empireEvents_counterfeiting_1c.label>Неконтролируемая подделка</empireEvents_counterfeiting_1c.label>
+  <empireEvents_counterfeiting_1c.desc>Без вмешательства фальшивое серебро распространяется по экономике. Фальшивомонетчики наглеют. Налоговые поступления страдают до тех пор, пока количество подделок естественным образом не уменьшится.</empireEvents_counterfeiting_1c.desc>
+  <empireEvents_counterfeiting_1d.label>Подозреваемые задержаны</empireEvents_counterfeiting_1d.label>
+  <empireEvents_counterfeiting_1d.desc>Солдаты прочесывают поселения, арестовывая всех, кто связан с бандой фальшивомонетчиков, а также тех, кто не связан с ней. Операция прекращается на ночь. Граждане обеспокоены суммарным правосудием, но валюта в безопасности.</empireEvents_counterfeiting_1d.desc>
+  <empireEvents_counterfeiting_2.label>Поддельное кольцо раскрыто</empireEvents_counterfeiting_2.label>
+  <empireEvents_counterfeiting_2.desc>Ваши следователи установили источник фальшивого серебра: хорошо организованную банду, действующую на местном складе. Вы загнали их в угол. Что ты с ними делаешь?</empireEvents_counterfeiting_2.desc>
+  <empireEvents_counterfeiting_2a.label>Фальшивомонетчики арестованы</empireEvents_counterfeiting_2a.label>
+  <empireEvents_counterfeiting_2a.desc>Фальшивомонетчиков предстают перед публикой и наказывают. Нарушения, вызванные подделками, не исчезнут в одночасье, но ваши люди рады узнать, что ваша валюта в безопасности.</empireEvents_counterfeiting_2a.desc>
+  <empireEvents_counterfeiting_2b.label>Императорские монетные дворы</empireEvents_counterfeiting_2b.label>
+  <empireEvents_counterfeiting_2b.desc>Бывшие фальшивомонетчики теперь работают на {FACTION_TITLE}, предоставляя свой опыт для улучшения производства денег. Сбор налогов заметно улучшается, хотя некоторые шепчут о легитимности этой договоренности.</empireEvents_counterfeiting_2b.desc>
+  <empireEvents_counterfeiting_scandal.label>Скандал с чеканкой</empireEvents_counterfeiting_scandal.label>
+  <empireEvents_counterfeiting_scandal.desc>Ходили слухи, что {FACTION_TITLE} завербовал в свою казну известных фальшивомонетчиков. Граждане подвергают сомнению целостность валюты и суждения руководства. Страдает лояльность и снижается собираемость налогов.</empireEvents_counterfeiting_scandal.desc>
+  <empireEvents_counterfeiting-inves_good.label>Поддельное кольцо (расследование)</empireEvents_counterfeiting-inves_good.label>
+  <empireEvents_counterfeiting-inves_good.desc>Расследование по делу о подделках продолжается...</empireEvents_counterfeiting-inves_good.desc>
+  <empireEvents_counterfeiting-inves_bad.label>Поддельное кольцо (расследование)</empireEvents_counterfeiting-inves_bad.label>
+  <empireEvents_counterfeiting-inves_bad.desc>Расследование по делу о подделках продолжается...</empireEvents_counterfeiting-inves_bad.desc>
+</LanguageData>

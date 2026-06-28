@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_blight_opt1.label>Сожгите зараженные поля. Уничтожьте болезнь, прежде чем она распространится дальше.</empireEvents_blight_opt1.label>
+  <empireEvents_blight_opt2.label>Используйте лекарства для лечения посевов. Направьте на эти усилия медикаменты.</empireEvents_blight_opt2.label>
+  <empireEvents_blight_opt3.label>Подождите, пока это пройдет. Природа пойдет своим чередом.</empireEvents_blight_opt3.label>
+  <empireEvents_blight_opt4.label>Вывести устойчивые к фитофторозу сорта сельскохозяйственных культур.</empireEvents_blight_opt4.label>
+  <empireEvents_blight_opt5.label>Наши запасы семян помогут нам выжить.</empireEvents_blight_opt5.label>
+</LanguageData>

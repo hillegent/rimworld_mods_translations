@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_invasivePests_0.label>Инвазивные вредители</empireEvents_invasivePests_0.label>
+  <empireEvents_invasivePests_0.desc>В лесах вблизи ваших поселений обнаружен инвазивный вид насекомых. Вредители проникли в стволы деревьев, убивая спелую древесину и нанося вред дикой природе, которая зависит от лесной экосистемы. Лесозаготовки находятся под угрозой, а популяция животных сокращается. Как вы ответите?</empireEvents_invasivePests_0.desc>
+  <empireEvents_invasivePests-controlled_burn.label>Контролируемый ожог</empireEvents_invasivePests-controlled_burn.label>
+  <empireEvents_invasivePests-controlled_burn.desc>Пожарные расчеты устроили контролируемые поджоги на зараженных участках леса. Вредители уничтожаются быстро, но выжженные участки долго отрастают.</empireEvents_invasivePests-controlled_burn.desc>
+  <empireEvents_invasivePests-intro_predators.label>Инвазивные вредители (знакомство с хищниками)</empireEvents_invasivePests-intro_predators.label>
+  <empireEvents_invasivePests-intro_predators.desc>Завозные насекомые-хищники выпускаются в лес. Они с радостью осваивают новую среду обитания, с эффективной безжалостностью охотясь на агрессивных вредителей. Но многие сомневаются в целесообразности использования иностранных хищников для борьбы с вредителями.</empireEvents_invasivePests-intro_predators.desc>
+  <empireEvents_invasivePests-unchecked_infest.label>Неконтролируемое заражение</empireEvents_invasivePests-unchecked_infest.label>
+  <empireEvents_invasivePests-unchecked_infest.desc>Без вмешательства вредители беспрепятственно распространяются по лесу. Взрослые деревья умирают стоя, их полые стволы рушатся без предупреждения. Дикая природа покидает опустошенные территории. Лесозаготовки становятся опасными, а животноводство страдает, поскольку экосистема разрушается. В конечном итоге лес восстановится, но этот процесс будет мучительно медленным.</empireEvents_invasivePests-unchecked_infest.desc>
+  <empireEvents_invasivePests-invasive_predators.label>Инвазивные вредители (инвазивные хищники)</empireEvents_invasivePests-invasive_predators.label>
+  <empireEvents_invasivePests-invasive_predators.desc>Импортированные хищники успешно избавились от первоначальных вредителей, но теперь сами стали инвазивной проблемой. Ситуация еще хуже, чем раньше.
+
+Чем вы сейчас занимаетесь?</empireEvents_invasivePests-invasive_predators.desc>
+  <empireEvents_invasivePests-unchecked_predators.label>Неконтролируемое заражение (насекомые-хищники)</empireEvents_invasivePests-unchecked_predators.label>
+  <empireEvents_invasivePests-unchecked_predators.desc>Без вмешательства насекомые-хищники беспрепятственно распространяются по лесу. Хищники не убивают столько деревьев, сколько вредители, которыми они питаются, но, тем не менее, они наводняют экосистему, нанося обширный, неисчислимый ущерб. Лес никогда не будет выглядеть прежним.</empireEvents_invasivePests-unchecked_predators.desc>
+  <empireEvents_invasivePests-intro_rodents.label>Инвазивные вредители (Введение в хищников II)</empireEvents_invasivePests-intro_rodents.label>
+  <empireEvents_invasivePests-intro_rodents.desc>Завезенных насекомоядных грызунов выпускают в лес. Они с радостью отправляются в лес и наносят огромный урон популяции инвазивных насекомых-хищников, а также популяции насекомых в целом.
+
+Многие сомневаются в вашем решении удвоить объем импорта животных, но на этот раз это наверняка сработает.</empireEvents_invasivePests-intro_rodents.desc>
+  <empireEvents_invasivePests-invasive_rodents.label>Инвазивные вредители (инвазивные грызуны)</empireEvents_invasivePests-invasive_rodents.label>
+  <empireEvents_invasivePests-invasive_rodents.desc>Грызуны, которые были импортированы для решения проблемы инвазивных импортированных насекомых-хищников, теперь сами стали инвазивными. Они вытеснили местную дикую природу из своих ниш, а также оказались более устойчивыми к местным хищникам. Если ничего не остановить, лес вполне может стать свидетелем полного коллапса экосистемы.
+
+Чем вы сейчас занимаетесь?</empireEvents_invasivePests-invasive_rodents.desc>
+  <empireEvents_invasivePests-intro_beasts.label>Инвазивные вредители (Введение в хищников III)</empireEvents_invasivePests-intro_beasts.label>
+  <empireEvents_invasivePests-intro_beasts.desc>То, что многие называют весьма сомнительным шагом, заключается в том, что плотоядные звери импортируются издалека, чтобы решить проблему импортированных грызунов. Грызуны быстро находят себе пару, и их численность быстро уменьшается.
+
+Но многие отмечают, что последние два раза, когда вы ввозили животных, ситуация только ухудшилась. Утроение вниз заставляет многих сомневаться в вашем лидерстве.</empireEvents_invasivePests-intro_beasts.desc>
+  <empireEvents_invasivePests-unchecked_rodents.label>Неконтролируемое заражение (насекомоядные грызуны)</empireEvents_invasivePests-unchecked_rodents.label>
+  <empireEvents_invasivePests-unchecked_rodents.desc>Без вмешательства грызуны захватывают лес. Сами деревья в основном выживают, но популяция насекомых уничтожается, а вместе с ними и растения и цветы. Устойчивость грызунов к местным хищникам также оказывает серьезное влияние на пищевую цепь в целом.
+
+Со временем лес в некоторой степени восстановится. Но он всегда останется оболочкой того, чем был когда-то.</empireEvents_invasivePests-unchecked_rodents.desc>
+  <empireEvents_invasivePests-invasive_beasts.label>Инвазивные вредители (Инвазивные звери)</empireEvents_invasivePests-invasive_beasts.label>
+  <empireEvents_invasivePests-invasive_beasts.desc>В повороте, который мало кого удивляет, звери, которых вы импортировали, чтобы уничтожить популяцию грызунов, захватили лес. Ничто не преследует их локально, а их агрессивный характер затрудняет выполнение работы. Некоторые жители даже сообщают, что на них нападают дикие звери, как только они выходят за пределы поселения!
+
+Ситуация вышла из-под контроля. Ваши граждане требуют, чтобы вы сделали что-нибудь, чтобы исправить это, не импортируя новых вредителей.</empireEvents_invasivePests-invasive_beasts.desc>
+  <empireEvents_invasivePests-intro_bigbeast.label>Инвазивные вредители (Введение в хищников IV)</empireEvents_invasivePests-intro_bigbeast.label>
+  <empireEvents_invasivePests-intro_bigbeast.desc>Когда отдается приказ импортировать еще больше иностранных диких животных, ваш народ чуть не взбунтовался. Осторожное дипломатическое маневрирование в конечном итоге успокаивает их, когда вы отправляете следователей на поиски животного, которое может охотиться на агрессивных агрессивных зверей.
+
+Только время покажет, существует ли такое животное на самом деле. Пока же работы продолжаются в замедленном темпе.</empireEvents_invasivePests-intro_bigbeast.desc>
+  <empireEvents_invasivePests-unchecked_beasts.label>Неконтролируемое заражение (дикие кабаны)</empireEvents_invasivePests-unchecked_beasts.label>
+  <empireEvents_invasivePests-unchecked_beasts.desc>Без вмешательства звери полностью захватывают лес. Со временем сама экосистема, похоже, восстанавливается... но агрессивные звери существенно затрудняют выполнение любой работы. Производительность поселения постоянно снижается.</empireEvents_invasivePests-unchecked_beasts.desc>
+  <empireEvents_invasivePests-beast_hunt.label>Неконтролируемое заражение (Охота на зверя)</empireEvents_invasivePests-beast_hunt.label>
+  <empireEvents_invasivePests-beast_hunt.desc>В попытке отловить агрессивных зверей организуется грандиозная охота. Только время покажет, будет ли это успешным.
+
+Тем временем звери продолжают мешать выполнению любой работы.</empireEvents_invasivePests-beast_hunt.desc>
+  <empireEvents_invasivePests-beast_hunt_success.label>Неконтролируемое заражение (успешная охота)</empireEvents_invasivePests-beast_hunt_success.label>
+  <empireEvents_invasivePests-beast_hunt_success.desc>Благодаря сочетанию умелой охоты и невероятной удачи вашим людям удается сократить численность зверей до приемлемого уровня. Лес быстро восстанавливается, и вам пересылается часть результатов охоты.</empireEvents_invasivePests-beast_hunt_success.desc>
+  <empireEvents_invasivePests-beast_hunt_fail.label>Неконтролируемое заражение (Неудачная охота)</empireEvents_invasivePests-beast_hunt_fail.label>
+  <empireEvents_invasivePests-beast_hunt_fail.desc>Охота с треском проваливается. Звери оказываются гораздо более агрессивными и опасными, чем первоначально предполагалось, и им удается нанести многочисленные жертвы вашим охотникам и работникам. В конце концов, ваши люди вынуждены вернуться в пределы поселения, чтобы зализать раны, почти не нанеся ущерба популяции зверей.
+
+Ваши люди не скоро забудут этот удар по своей гордости, и они не забудут, что вы сами создали эту ситуацию.</empireEvents_invasivePests-beast_hunt_fail.desc>
+  <empireEvents_invasivePests-bigbeast_found.label>Инвазивные вредители (успех поиска)</empireEvents_invasivePests-bigbeast_found.label>
+  <empireEvents_invasivePests-bigbeast_found.desc>Вопреки всему, поиски более крупного животного увенчались успехом!
+
+Ваши сыщики возвращаются с особой породой всеядных Трамбо, более чем способных уничтожать агрессивных зверей - и при этом размножаются достаточно медленно, чтобы сами никогда не стать проблемой. Вдобавок ко всему, особенные Трамбо вполне поддаются приручению, их темперамент мало чем отличается от охотничьих собак.
+
+Вскоре поселение оказывается в даже лучшем положении, чем до появления первоначальных инвазивных вредителей. Ваши люди поражены. Будь то чистая удача или гениальное планирование, их страдания теперь вознаграждены.</empireEvents_invasivePests-bigbeast_found.desc>
+  <empireEvents_invasivePests-bigbeast_notfound.label>Инвазивные вредители (ошибка поиска)</empireEvents_invasivePests-bigbeast_notfound.label>
+  <empireEvents_invasivePests-bigbeast_notfound.desc>Поиски более крупного хищника не увенчались успехом. Агрессивным зверям приходится захватывать лес, навсегда сокращая производство в поселении.
+
+Сам лес выдерживает это испытание, но доверие к вашему лидерству подорвано. Ваше имя становится синонимом дураков и идиотов; неясно, будет ли поселение когда-нибудь снова вас уважать.
+
+Но эй, по крайней мере, ты придерживался своего мнения. Это должно что-то значить....Верно?</empireEvents_invasivePests-bigbeast_notfound.desc>
+</LanguageData>

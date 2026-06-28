@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_infrastructureBoom_0.label>Инфраструктурный бум</empireEvents_infrastructureBoom_0.label>
+  <empireEvents_infrastructureBoom_0.desc>Растущее процветание вашего поселения привлекло волну строителей, инженеров и ремесленников со всего региона. Они готовы работать и обладают навыками, позволяющими добиться долгосрочных улучшений. Куда вам следует направить свои усилия?</empireEvents_infrastructureBoom_0.desc>
+  <empireEvents_infrastructureBoom_1a.label>Новый жилой район</empireEvents_infrastructureBoom_1a.label>
+  <empireEvents_infrastructureBoom_1a.desc>Новые жилые кварталы быстро возводятся под руководством опытных строителей. Расширенное жилье привлекает больше поселенцев и рабочих, постоянно увеличивая численность населения поселения.</empireEvents_infrastructureBoom_1a.desc>
+  <empireEvents_infrastructureBoom_1b.label>Улучшенная логистика</empireEvents_infrastructureBoom_1b.label>
+  <empireEvents_infrastructureBoom_1b.desc>Новые дороги, склады и базы снабжения упрощают поток материалов, обеспечивая заметное увеличение скорости строительства.</empireEvents_infrastructureBoom_1b.desc>
+  <empireEvents_infrastructureBoom_1c.label>Рыночный район Построен</empireEvents_infrastructureBoom_1c.label>
+  <empireEvents_infrastructureBoom_1c.desc>Формируется настоящий рыночный район с прилавками, складами и торговыми постами. Торговцы начинают приезжать регулярно, а налоговые поступления в поселение постоянно растут благодаря улучшению коммерческой деятельности.</empireEvents_infrastructureBoom_1c.desc>
+  <empireEvents_infrastructureBoom_1d.label>Амбициозное расширение</empireEvents_infrastructureBoom_1d.label>
+  <empireEvents_infrastructureBoom_1d.desc>Согласно вашему экспансионистскому видению, строители решают все сразу. Одновременно появляются новое жилье, улучшенные дороги и оживленный рыночный район. Инвестиции большие, но результаты навсегда меняют поселение.</empireEvents_infrastructureBoom_1d.desc>
+  <empireEvents_infraBoom_roads.label>Расширение дорожной сети</empireEvents_infraBoom_roads.label>
+  <empireEvents_infraBoom_roads.desc>Строителям поручено построить и улучшить дорожную сеть, соединяющую ваши поселения с торговыми путями и друг с другом. Улучшенная логистика ускоряет реализацию строительных проектов в пострадавших поселениях, а увеличение трафика открывает новые коммерческие возможности.</empireEvents_infraBoom_roads.desc>
+</LanguageData>

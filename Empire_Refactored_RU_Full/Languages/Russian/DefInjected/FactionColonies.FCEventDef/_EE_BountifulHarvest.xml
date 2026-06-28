@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_bountifulHarvest_0.label>Обильный сезон урожая</empireEvents_bountifulHarvest_0.label>
+  <empireEvents_bountifulHarvest_0.desc>Необычайно плодородный сезон благословил ваши поселения обильным урожаем. Поля переполнены продуктами, а зернохранилища заполняются быстрее, чем кто-либо ожидал. Как вы используете излишки?</empireEvents_bountifulHarvest_0.desc>
+  <empireEvents_bountifulHarvest_store.label>Урожай хранится</empireEvents_bountifulHarvest_store.label>
+  <empireEvents_bountifulHarvest_store.desc>Обильный урожай бережно сохраняется и хранится. Зернохранилища переполнены продуктами, а ваши поселения наслаждаются увеличением производства продуктов питания и общим ощущением благополучия от изобилия.</empireEvents_bountifulHarvest_store.desc>
+  <empireEvents_bountifulHarvest_feast.label>Праздник урожая</empireEvents_bountifulHarvest_feast.label>
+  <empireEvents_bountifulHarvest_feast.desc>Столы стонут под тяжестью пиршества. Музыка и смех эхом разносятся по каждому поселению, когда жители празднуют сезон изобилия. Праздники поглощают большую часть излишков, но радость и солидарность, которые они приносят, бесценны.</empireEvents_bountifulHarvest_feast.desc>
+  <empireEvents_bountifulHarvest_sell.label>Урожай продан</empireEvents_bountifulHarvest_sell.label>
+  <empireEvents_bountifulHarvest_sell.desc>Отгрузки излишков продукции направляются на рынок, где спрос высок и цены благоприятны. Продовольственный бонус уменьшается, но ваша казна получает от торговли щедрую выгоду.</empireEvents_bountifulHarvest_sell.desc>
+  <empireEvents_bountifulHarvest_share.label>Общий урожай</empireEvents_bountifulHarvest_share.label>
+  <empireEvents_bountifulHarvest_share.desc>Партии излишков продовольствия отправляются в нуждающиеся общины по всему региону. Щедрость замечена и оценена по достоинству — репутация вашего {FACTION_TITLE} как доброжелательного соседа растет. Граждане гордятся своей коллективной благотворительностью.</empireEvents_bountifulHarvest_share.desc>
+  <empireEvents_bountifulHarvest_forced.label>Принудительный сбор урожая</empireEvents_bountifulHarvest_forced.label>
+  <empireEvents_bountifulHarvest_forced.desc>Надзиратели щелкают кнутами, пока рабочие работают на полях от рассвета до заката и дальше. Урожай необыкновенный — каждое зерно собрано, каждое поле обнажено. Для обработки этого объема привлекаются дополнительные работники. Но жестокость операции накладывает отпечаток на моральный дух.</empireEvents_bountifulHarvest_forced.desc>
+</LanguageData>

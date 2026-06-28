@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_refugees_0.label>Приток беженцев</empireEvents_refugees_0.label>
+  <empireEvents_refugees_0.desc>К вашим границам прибыла большая группа беженцев, спасающихся от конфликта в соседнем регионе. Они в отчаянии и готовы работать. Как реагирует ваш {FACTION_TITLE}?</empireEvents_refugees_0.desc>
+  <empireEvents_refugees_welcome.label>Беженцы приветствуются</empireEvents_refugees_welcome.label>
+  <empireEvents_refugees_welcome.desc>Беженцы хлынут в ваши поселения, жаждущие начать новую жизнь. Рабочая сила растет, но интеграция проходит тяжело; Культурная напряженность растет, а счастье падает.</empireEvents_refugees_welcome.desc>
+  <empireEvents_refugees_selective.label>Выборочная иммиграция</empireEvents_refugees_selective.label>
+  <empireEvents_refugees_selective.desc>Принимаются только самые квалифицированные беженцы. Остальные отвернуты. Ваши поселения получат небольшой, но качественный прирост рабочей силы.
+
+Однако отвергнутые работники не исчезнут просто так. Некоторые, кажется, затаили обиду на то, что вы отвергли их в трудную минуту.</empireEvents_refugees_selective.desc>
+  <empireEvents_refugees_turnaway.label>Беженцы отвергнуты</empireEvents_refugees_turnaway.label>
+  <empireEvents_refugees_turnaway.desc>Беженцам запрещен въезд. Большинство из них разбегаются в поисках другого убежища, но некоторые из них питают негодование по отношению к вашему {FACTION_TITLE}.</empireEvents_refugees_turnaway.desc>
+  <empireEvents_refugees_attack.label>Возмездие беженцев</empireEvents_refugees_attack.label>
+  <empireEvents_refugees_attack.desc>Некоторые из отвергнутых беженцев объединились с местными рейдерами, чтобы нанести ответный удар по вашему {FACTION_TITLE}.</empireEvents_refugees_attack.desc>
+  <empireEvents_refugees_expansionist.label>Планируемая интеграция</empireEvents_refugees_expansionist.label>
+  <empireEvents_refugees_expansionist.desc>У вашей экспансионистской администрации есть протоколы именно для этой ситуации. Беженцы распределяются по населенным пунктам с готовым жильем и трудоустройством. Интеграция проходит гладко и эффективно.</empireEvents_refugees_expansionist.desc>
+  <empireEvents_refugees_slaver.label>Беженцы порабощены</empireEvents_refugees_slaver.label>
+  <empireEvents_refugees_slaver.desc>Беженцев схватывают и отправляют на работу. Они, естественно, сопротивляются, но, в конце концов, их труд значительно укрепляет ваши поселения.</empireEvents_refugees_slaver.desc>
+</LanguageData>

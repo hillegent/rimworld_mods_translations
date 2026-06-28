@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_safeHaven_0.label>Репутация безопасного убежища</empireEvents_safeHaven_0.label>
+  <empireEvents_safeHaven_0.desc>По всему региону распространился слух, что ваши поселения являются безопасными и хорошо управляемыми местами для жизни. Семьи, работники и предприниматели тянутся к перспективе стабильной жизни под вашей защитой. Как вы реагируете на этот приток интереса?</empireEvents_safeHaven_0.desc>
+  <empireEvents_safeHaven_1a.label>Распростертые объятия</empireEvents_safeHaven_1a.label>
+  <empireEvents_safeHaven_1a.desc>Ваши поселения распахивают свои ворота. Приходят вновь прибывшие — семьи, торговцы, фермеры. Население значительно увеличивается, хотя ваша растущая известность также привлекает внимание менее пикантных элементов.</empireEvents_safeHaven_1a.desc>
+  <empireEvents_safeHaven_1b.label>Тихая гордость</empireEvents_safeHaven_1b.label>
+  <empireEvents_safeHaven_1b.desc>Вы тихо препятствуете массовой иммиграции, одновременно ценя комплимент. Ваши нынешние граждане гордятся своей репутацией, и моральный дух улучшается. Иногда лучшая награда — это знать, что вы создали что-то хорошее.</empireEvents_safeHaven_1b.desc>
+  <empireEvents_safeHaven_1c.label>Выборочная иммиграция</empireEvents_safeHaven_1c.label>
+  <empireEvents_safeHaven_1c.desc>Ваш процесс отбора выявляет наиболее квалифицированных и продуктивных кандидатов. Новички плавно интегрируются, привнося опыт, который немедленно улучшает производительность поселения. Качество важнее количества.</empireEvents_safeHaven_1c.desc>
+  <empireEvents_safeHaven_sanctuary.label>Формальное святилище</empireEvents_safeHaven_sanctuary.label>
+  <empireEvents_safeHaven_sanctuary.desc>Ваши поселения официально объявлены убежищами — местами, где любому, кто спасается от насилия или лишений, гарантирован кров и безопасность. Заявление находит отклик во всем регионе, привлекая постоянный поток благодарных новичков.</empireEvents_safeHaven_sanctuary.desc>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_tropicalStorm_0.label>Сезон тропических штормов</empireEvents_tropicalStorm_0.label>
+  <empireEvents_tropicalStorm_0.desc>Муссонные дожди пришли с удвоенной силой, затопляя низины, разрушая строения и превращая дороги в грязь. Лесозаготовка и добыча полезных ископаемых останавливаются, но проливные дожди также пропитывают почву, обещая исключительные урожаи, если вы сможете выдержать ураган.</empireEvents_tropicalStorm_0.desc>
+  <empireEvents_tropicalStorm_1a.label>Преодолев шторм</empireEvents_tropicalStorm_1a.label>
+  <empireEvents_tropicalStorm_1a.desc>Ваши поселения задраивают люки и выживают. Во время наводнения лесозаготовка и добыча полезных ископаемых невозможны, но насыщенная почва обещает хорошие урожаи после окончания дождей. Смешанное благословение природы.</empireEvents_tropicalStorm_1a.desc>
+  <empireEvents_tropicalStorm_1b.label>Дренажная система</empireEvents_tropicalStorm_1b.label>
+  <empireEvents_tropicalStorm_1b.desc>Дренажные каналы отводят паводковые воды от рабочих площадок, позволяя продолжать ограниченные операции. Инвестиции окупаются — перерывы в лесозаготовках и добыче полезных ископаемых сокращаются вдвое, в то время как фермы по-прежнему получают выгоду от обильной влаги.</empireEvents_tropicalStorm_1b.desc>
+  <empireEvents_tropicalStorm_1c.label>Сбор дождевой воды</empireEvents_tropicalStorm_1c.label>
+  <empireEvents_tropicalStorm_1c.desc>Цистерны и ирригационные каналы собирают щедрость муссонов. Заготовка леса постоянно страдает, поскольку водная инфраструктура занимает лесные массивы, но надежная ирригация меняет сельское хозяйство в регионе. Урожай процветает круглый год.</empireEvents_tropicalStorm_1c.desc>
+</LanguageData>

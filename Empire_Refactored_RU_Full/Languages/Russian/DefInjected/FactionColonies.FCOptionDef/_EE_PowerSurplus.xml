@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_powerSurplus_opt1.label>Продайте излишки энергии соседним фракциям. Прибыль есть прибыль.</empireEvents_powerSurplus_opt1.label>
+  <empireEvents_powerSurplus_opt2.label>Обеспечивайте исследовательские лаборатории электроэнергией круглосуточно. Знания – это настоящая валюта.</empireEvents_powerSurplus_opt2.label>
+  <empireEvents_powerSurplus_opt3.label>Направьте энергию в производство. Больше энергии означает больше производительности.</empireEvents_powerSurplus_opt3.label>
+  <empireEvents_powerSurplus_opt4.label>Используйте излишки для реализации проектов расширения. Развивайте поселения.</empireEvents_powerSurplus_opt4.label>
+  <empireEvents_powerSurplus_opt_expansionist.label>Расширьте сеть для поддержки новых приграничных поселений.</empireEvents_powerSurplus_opt_expansionist.label>
+</LanguageData>

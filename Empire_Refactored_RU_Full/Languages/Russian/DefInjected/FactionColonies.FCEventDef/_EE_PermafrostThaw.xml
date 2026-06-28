@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_permafrostThaw_0.label>Вечная мерзлота</empireEvents_permafrostThaw_0.label>
+  <empireEvents_permafrostThaw_0.desc>Повышение температуры привело к таянию вечной мерзлоты под вашим поселением, обнажив землю, которая не видела солнца столетиями. Недавно доступную землю можно было обрабатывать или добывать — редкая возможность для этих замерзших земель.</empireEvents_permafrostThaw_0.desc>
+  <empireEvents_permafrostThaw_1a.label>Оттаивание сельскохозяйственных угодий</empireEvents_permafrostThaw_1a.label>
+  <empireEvents_permafrostThaw_1a.desc>Рабочие расчищают недавно обнаженную землю и сажают выносливые культуры. В этом замерзшем ландшафте любая пахотная земля драгоценна. Производство продуктов питания в поселке постоянно улучшается.</empireEvents_permafrostThaw_1a.desc>
+  <empireEvents_permafrostThaw_1b.label>Оттепель Горное дело</empireEvents_permafrostThaw_1b.label>
+  <empireEvents_permafrostThaw_1b.desc>Оттаявшая земля обнажает залежи полезных ископаемых, ранее запертые под мерзлой землей. Шахтеры охотно разрабатывают новые жилы, постоянно улучшая возможности добычи полезных ископаемых в поселении.</empireEvents_permafrostThaw_1b.desc>
+  <empireEvents_permafrostThaw_1c.label>Осторожное расширение</empireEvents_permafrostThaw_1c.label>
+  <empireEvents_permafrostThaw_1c.desc>Вы делите оттаявшую землю между сельским хозяйством и добычей полезных ископаемых. Ни один из них не достигает своего полного потенциала, но сбалансированный подход постоянно улучшает производство как продуктов питания, так и минералов.</empireEvents_permafrostThaw_1c.desc>
+</LanguageData>

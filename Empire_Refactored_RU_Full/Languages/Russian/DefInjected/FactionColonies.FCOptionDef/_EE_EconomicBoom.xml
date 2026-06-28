@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_economicBoom_opt1.label>Реинвестируйте прибыль. Разжигайте огонь роста.</empireEvents_economicBoom_opt1.label>
+  <empireEvents_economicBoom_opt2.label>Стабилизировать экономику. Устойчивый рост лучше, чем пузырь.</empireEvents_economicBoom_opt2.label>
+  <empireEvents_economicBoom_opt3.label>Поделитесь богатством с людьми. Счастливое население – лучшая инвестиция.</empireEvents_economicBoom_opt3.label>
+  <empireEvents_economicBoom_opt_guilty.label>У нас слишком много. Направьте излишки на благотворительность и общественные работы — давайте искупим наши излишки.</empireEvents_economicBoom_opt_guilty.label>
+  <empireEvents_economicBoom_opt_feudal.label>Инвестируйте в дворянские поместья. Пусть знатные люди обеспечат наше процветание.</empireEvents_economicBoom_opt_feudal.label>
+</LanguageData>

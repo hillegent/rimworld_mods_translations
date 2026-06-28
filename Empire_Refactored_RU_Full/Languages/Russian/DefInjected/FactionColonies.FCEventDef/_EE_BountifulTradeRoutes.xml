@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_bountifulTradeRoutes.label>Прибыльные торговые пути</empireEvents_bountifulTradeRoutes.label>
+  <empireEvents_bountifulTradeRoutes.desc>Торговые пути через территорию вашего {FACTION_TITLE} процветают. Благодаря низкой активности бандитов и отличным дорожным условиям торговые караваны сообщают о рекордных прибылях.</empireEvents_bountifulTradeRoutes.desc>
+</LanguageData>

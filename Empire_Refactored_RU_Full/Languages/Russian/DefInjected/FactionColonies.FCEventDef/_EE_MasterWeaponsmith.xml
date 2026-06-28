@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_masterWeaponsmith_0.label>Мастер-оружейник</empireEvents_masterWeaponsmith_0.label>
+  <empireEvents_masterWeaponsmith_0.desc>Легендарный оружейник, известный во многих поселениях благодаря ковке оружия исключительного качества, прибыл в поисках постоянной мастерской. До нее дошли слухи о вашем производстве оружия, и она предложила свои услуги. Это редкая возможность.</empireEvents_masterWeaponsmith_0.desc>
+  <empireEvents_masterWeaponsmith_1a.label>Мастер Смит сохранен</empireEvents_masterWeaponsmith_1a.label>
+  <empireEvents_masterWeaponsmith_1a.desc>Оружейник принимает ваше щедрое предложение и основывает в поселении постоянную кузницу. Ее методы и опыт постоянно повышают уровень производства оружия. Из ее мастерской начинает поступать оружие замечательного качества.</empireEvents_masterWeaponsmith_1a.desc>
+  <empireEvents_masterWeaponsmith_1b.label>Контракт Смит</empireEvents_masterWeaponsmith_1b.label>
+  <empireEvents_masterWeaponsmith_1b.desc>Оружейник соглашается на ограниченное участие. За время ее пребывания производство оружия резко возрастает, поскольку она работает не покладая рук и обучает нескольким трюкам ваших существующих кузнецов.</empireEvents_masterWeaponsmith_1b.desc>
+  <empireEvents_masterWeaponsmith_1c-2.label>Школа Смитинга (Результаты)</empireEvents_masterWeaponsmith_1c-2.label>
+  <empireEvents_masterWeaponsmith_1c-2.desc>Кузнецы вашего поселения наконец-то достигли точки, когда они могут в полной мере реализовать уроки, полученные от мастера-оружейника, обеспечивая заметное повышение качества своей продукции.
+
+Вы не услышите этого от оружейника напрямую, но она, кажется, гордится своими новыми учениками.</empireEvents_masterWeaponsmith_1c-2.desc>
+  <empireEvents_masterWeaponsmith_1c.label>Школа Смитинга</empireEvents_masterWeaponsmith_1c.label>
+  <empireEvents_masterWeaponsmith_1c.desc>Вместо того, чтобы ковать оружие самостоятельно, мастер-кузнец тратит свое время на обучение ваших кузнецов передовым технологиям. Для полного усвоения уроков потребуется время, но педагогические навыки кузнеца по-прежнему приводят к быстрому улучшению качества оружия во всем поселении.</empireEvents_masterWeaponsmith_1c.desc>
+</LanguageData>

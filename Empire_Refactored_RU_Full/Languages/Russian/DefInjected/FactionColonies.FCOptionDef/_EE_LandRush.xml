@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_landRush_opt1.label>Поощряйте новое поселение. Уменьшите барьеры и позвольте пионерам претендовать на землю.</empireEvents_landRush_opt1.label>
+  <empireEvents_landRush_opt2.label>Выставить на аукцион права на землю. Пусть рискнет тот, кто предложит самую высокую цену.</empireEvents_landRush_opt2.label>
+  <empireEvents_landRush_opt3.label>Аннексируйте земли для наших существующих поселений. Больше территории — больше рабочих.</empireEvents_landRush_opt3.label>
+  <empireEvents_landRush_opt_feudal.label>Раздавайте вотчины верным вассалам. Земля за верность.</empireEvents_landRush_opt_feudal.label>
+  <empireEvents_landRush_opt_expansionist.label>Захватите землю и немедленно найдите новые аванпосты. Мы созданы для этого.</empireEvents_landRush_opt_expansionist.label>
+</LanguageData>

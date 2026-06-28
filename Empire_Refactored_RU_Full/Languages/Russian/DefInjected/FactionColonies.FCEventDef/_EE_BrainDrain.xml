@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_brainDrain_0.label>Утечка мозгов</empireEvents_brainDrain_0.label>
+  <empireEvents_brainDrain_0.desc>Квалифицированные рабочие и исследователи покидают ваши поселения в поисках более зеленых пастбищ. Неудовлетворенность условиями отталкивает лучших людей. Как вы ответите?</empireEvents_brainDrain_0.desc>
+  <empireEvents_brainDrain_1a.label>Утечка мозгов (стимулы)</empireEvents_brainDrain_1a.label>
+  <empireEvents_brainDrain_1a.desc>Улучшение условий убедило многих квалифицированных рабочих остаться. Некоторые все же уходят, но кровотечение остановлено. Исследовательские возможности пострадают незначительно.</empireEvents_brainDrain_1a.desc>
+  <empireEvents_brainDrain_1b.label>Утечка мозгов (поездки ограничены)</empireEvents_brainDrain_1b.label>
+  <empireEvents_brainDrain_1b.desc>Ограничения на поездки удерживают рабочих на местах, но они этим недовольны. Моральный дух резко падает, поскольку граждане раздражаются ограничениями.</empireEvents_brainDrain_1b.desc>
+  <empireEvents_brainDrain_1c.label>Утечка мозгов (свободный уход)</empireEvents_brainDrain_1c.label>
+  <empireEvents_brainDrain_1c.desc>Квалифицированные рабочие уходят мирно. Ваши поселения теряют ценный опыт, но те, кто остается, ценят свободу и справедливое обращение. Моральный дух улучшается, хотя возможности снижаются.</empireEvents_brainDrain_1c.desc>
+  <empireEvents_brainDrain_1d.label>Исследовательская инициатива</empireEvents_brainDrain_1d.label>
+  <empireEvents_brainDrain_1d.desc>Хорошо финансируемая исследовательская инициатива привлекает новые таланты и убеждает уезжающих исследователей остаться. Инвестиции превращают утечку мозгов в их приток — ваши поселения становятся центром инноваций.</empireEvents_brainDrain_1d.desc>
+  <empireEvents_brainDrain_1e.label>Путешествие запрещено</empireEvents_brainDrain_1e.label>
+  <empireEvents_brainDrain_1e.desc>Согласно вашему авторитарному указу, всем квалифицированным работникам запрещен выезд. Правоприменение происходит быстро и эффективно — никто не ускользает. Но такой жесткий подход порождает тихое недовольство среди населения.</empireEvents_brainDrain_1e.desc>
+</LanguageData>

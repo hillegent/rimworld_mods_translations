@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_textileBlight_0.label>Текстильная порча</empireEvents_textileBlight_0.label>
+  <empireEvents_textileBlight_0.desc>В ваших магазинах текстиля обнаружено паразитарное заражение. Организмы питаются органическими волокнами, превращая ткань в ломкие нити за считанные дни. Ваше производство одежды находится под прямой угрозой, поскольку сырье разрушается, а готовая продукция портится. Как вы ответите?</empireEvents_textileBlight_0.desc>
+  <empireEvents_textileBlight_1a.label>Акции сожжены</empireEvents_textileBlight_1a.label>
+  <empireEvents_textileBlight_1a.desc>Горы загрязненной ткани горят. Заражение уничтожено, равно как и сезонный текстиль. Производство одежды серьезно пострадало, поскольку добывается и перерабатывается новое сырье.</empireEvents_textileBlight_1a.desc>
+  <empireEvents_textileBlight_1b.label>Импортированные материалы</empireEvents_textileBlight_1b.label>
+  <empireEvents_textileBlight_1b.desc>Чистое сырье поступает от сторонних торговцев, что позволяет продолжать производство на пониженных мощностях. Импортированный товар стоит дорого, но не содержит загрязнений.</empireEvents_textileBlight_1b.desc>
+  <empireEvents_textileBlight_1c.label>Разработаны устойчивые волокна</empireEvents_textileBlight_1c.label>
+  <empireEvents_textileBlight_1c.desc>Ваши исследователи разрабатывают химическую обработку, которая делает ткани невосприимчивыми к паразитам. Этот процесс реализуется медленно, и во время перехода производство страдает, но долгосрочные выгоды очевидны.</empireEvents_textileBlight_1c.desc>
+</LanguageData>

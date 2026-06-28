@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_waterWar_0.label>Спорный родник</empireEvents_waterWar_0.label>
+  <empireEvents_waterWar_0.desc>На границе вашего поселения и соседнего населенного пункта обнаружен природный источник. Обе стороны брали из него воду, но запасы сокращаются. Соседи подтверждают свои претензии. Если это не решить, ситуация может быстро стать ужасной.</empireEvents_waterWar_0.desc>
+  <empireEvents_waterWar_2a.label>За столом</empireEvents_waterWar_2a.label>
+  <empireEvents_waterWar_2a.desc>Ваш посланник встречается с лидерами соседней общины. Переговоры напряженные, но продуктивные. Обе стороны соглашаются ввести временный мораторий на забор воды, пока условия не будут согласованы. Время покажет, выдержит ли дипломатия.</empireEvents_waterWar_2a.desc>
+  <empireEvents_waterWar_2b.label>Эскалация</empireEvents_waterWar_2b.label>
+  <empireEvents_waterWar_2b.desc>Ситуация у родника ухудшилась. Вооруженные поселенцы с обеих сторон смотрят друг на друга через русло высыхающего ручья. Уже начались стычки. Одно неверное движение — и это перерастет в полноценный конфликт. Каковы ваши приказы?</empireEvents_waterWar_2b.desc>
+  <empireEvents_waterWar_2b_backdown.label>Отступление от родника</empireEvents_waterWar_2b_backdown.label>
+  <empireEvents_waterWar_2b_backdown.desc>Ваши поселенцы отходят от спорного родника под насмешками соседней общины. Поселение полностью теряет доступ к источнику воды. Мораль падает, когда распространяется слух, что ваша нация отступила от борьбы.</empireEvents_waterWar_2b_backdown.desc>
+  <empireEvents_waterWar_2b_force.label>Вода, захваченная силой</empireEvents_waterWar_2b_force.label>
+  <empireEvents_waterWar_2b_force.desc>Ваше ополчение подавляет соседних поселенцев в коротком, но жестоком столкновении. Родник ваш, но насилие оставляет след. Соседи этого не забудут, а ваш народ встревожен кровопролитием. И все же вода теперь течет свободно.</empireEvents_waterWar_2b_force.desc>
+  <empireEvents_waterWar_2c.label>Нью-Уэллс</empireEvents_waterWar_2c.label>
+  <empireEvents_waterWar_2c.desc>Ваши старатели находят воду глубоко под землей. Это не так удобно, как спорный родник, зато он принадлежит только вам. На время бурения и строительства производство еды падает, потому что старый источник становится ненадежным. Когда скважины заработают, поселение станет самодостаточным.</empireEvents_waterWar_2c.desc>
+  <empireEvents_waterWar_3a.label>Непростой мир</empireEvents_waterWar_3a.label>
+  <empireEvents_waterWar_3a.desc>Существует хрупкое соглашение: обе общины делят источник в соответствии со строгим графиком. Никто этому не рад, а ограниченный доступ означает меньше воды для орошения. Вопрос в том, выполнят ли соседи соглашение или найдут собственное решение.</empireEvents_waterWar_3a.desc>
+  <empireEvents_waterWar_3a_resolve.label>Соседи находят свой собственный источник</empireEvents_waterWar_3a_resolve.label>
+  <empireEvents_waterWar_3a_resolve.desc>Приходят вести, что соседняя община вышла на собственный подземный источник воды. Спорный родник им больше не нужен. Соглашение о совместном использовании распадается само собой, и ваше поселение снова получает полный доступ. Кризис закончен.</empireEvents_waterWar_3a_resolve.desc>
+  <empireEvents_waterWar_3a_arrange.label>Постоянное совместное использование воды</empireEvents_waterWar_3a_arrange.label>
+  <empireEvents_waterWar_3a_arrange.desc>Временное соглашение превратилось в постоянное. Ни одна из сторон не желает пересматривать переговоры, и теперь общий график — это просто то, как все делается. Производство продуктов питания терпит длительный удар.</empireEvents_waterWar_3a_arrange.desc>
+</LanguageData>

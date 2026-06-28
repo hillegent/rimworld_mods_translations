@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_chemfuelSpill_0.label>Разлив химического топлива</empireEvents_chemfuelSpill_0.label>
+  <empireEvents_chemfuelSpill_0.desc>На одном из ваших заводов по переработке химического топлива лопнул резервуар, в результате чего летучее топливо разлилось по окрестностям. Загрязнение угрожает как производству, так и близлежащим сельскохозяйственным угодьям. Как вы справляетесь с ситуацией?</empireEvents_chemfuelSpill_0.desc>
+  <empireEvents_chemfuelSpill_1a.label>Разлив локализован</empireEvents_chemfuelSpill_1a.label>
+  <empireEvents_chemfuelSpill_1a.desc>Бригады по очистке работают круглосуточно, чтобы локализовать и нейтрализовать разлив. Производство ненадолго прерывается, но худшего удалось избежать. Изучены уроки по безопасности хранения.</empireEvents_chemfuelSpill_1a.desc>
+  <empireEvents_chemfuelSpill_1b.label>Затянувшееся загрязнение</empireEvents_chemfuelSpill_1b.label>
+  <empireEvents_chemfuelSpill_1b.desc>Разлив медленно испаряется, но токсичные остатки просачиваются в почву. Производство химического топлива затруднено из-за поврежденного объекта, а близлежащие фермы сообщают о снижении урожайности из-за загрязненных грунтовых вод.</empireEvents_chemfuelSpill_1b.desc>
+  <empireEvents_chemfuelSpill_1c.label>Контролируемый ожог</empireEvents_chemfuelSpill_1c.label>
+  <empireEvents_chemfuelSpill_1c.desc>Разлив сгорел в результате впечатляющего пожара. Пожар локализован, но густой черный дым и едкие испарения вызывают у жителей кашель и недовольство. Некоторые задаются вопросом, был ли это самый мудрый подход.</empireEvents_chemfuelSpill_1c.desc>
+  <empireEvents_chemfuelSpill_1d.label>Ответ на опасные вещества</empireEvents_chemfuelSpill_1d.label>
+  <empireEvents_chemfuelSpill_1d.desc>Ваши хорошо обученные команды по защите от опасных веществ реагируют с отработанной эффективностью. Разлив быстро нейтрализуется с минимальным ущербом для окружающей среды. Зрители впечатлены профессионализмом операции.</empireEvents_chemfuelSpill_1d.desc>
+</LanguageData>

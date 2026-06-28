@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_landRush_0.label>Земельная лихорадка</empireEvents_landRush_0.label>
+  <empireEvents_landRush_0.desc>Ходят слухи о невостребованных, богатых ресурсами землях вблизи границ {FACTION}. Старатели, фермеры и предприниматели готовы заявить о своих правах. Эта возможность может снизить затраты на основание новых поселений, обогатить существующие или просто пополнить вашу казну посредством земельных аукционов.</empireEvents_landRush_0.desc>
+  <empireEvents_landRush_1a.label>Бум земельной лихорадки</empireEvents_landRush_1a.label>
+  <empireEvents_landRush_1a.desc>Благодаря сокращению затрат на создание пионеры спешат завоевать новую территорию.</empireEvents_landRush_1a.desc>
+  <empireEvents_landRush_1b.label>Земельный аукцион</empireEvents_landRush_1b.label>
+  <empireEvents_landRush_1b.desc>Аукцион привлекает богатых покупателей со всего региона. Торги идут жестко, и окончательные цены превосходят ожидания.</empireEvents_landRush_1b.desc>
+  <empireEvents_landRush_1c.label>Территория расширена</empireEvents_landRush_1c.label>
+  <empireEvents_landRush_1c.desc>Ваши существующие поселения аннексируют вновь открытые земли, расширяя свои границы и привлекая новых рабочих, привлеченных этой возможностью. Дополнительная территория постоянно увеличивает потенциал рабочей силы.</empireEvents_landRush_1c.desc>
+  <empireEvents_landRush_fiefdoms.label>Вотчины предоставлены</empireEvents_landRush_fiefdoms.label>
+  <empireEvents_landRush_fiefdoms.desc>Новая территория разделена между вашими самыми верными вассалами, каждому из которых предоставляется феод в обмен на продолжение службы и верность. Получатели вкладывают свои личные ресурсы в развитие земли, расширение рабочей силы и углубление своей лояльности к короне.</empireEvents_landRush_fiefdoms.desc>
+  <empireEvents_landRush_claim.label>Захваченная территория</empireEvents_landRush_claim.label>
+  <empireEvents_landRush_claim.desc>Ваше расширительное устройство начинает действовать с отработанной эффективностью. Геодезисты отмечают границы, отправляются поезда с припасами, а инфраструктура новых поселений прокладывается еще до того, как уляжется пыль.</empireEvents_landRush_claim.desc>
+</LanguageData>

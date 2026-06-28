@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_researchRivalry_0.label>Исследовательское соперничество</empireEvents_researchRivalry_0.label>
+  <empireEvents_researchRivalry_0.desc>Две исследовательские группы в одном из ваших поселений разработали конкурирующие теории по важнейшему вопросу и отказываются сотрудничать. Каждая команда настаивает на том, что их подход — единственный путь вперед. Раздоры начинают затрагивать весь отдел.</empireEvents_researchRivalry_0.desc>
+  <empireEvents_researchRivalry_1a.label>Неохотное сотрудничество</empireEvents_researchRivalry_1a.label>
+  <empireEvents_researchRivalry_1a.desc>Под давлением команды-соперники неохотно объединяют свои усилия. Работа напряженная, атмосфера морозная, но совместный подход дает результаты, которых ни одна команда не смогла бы достичь в одиночку. Однако моральный дух терпит поражение.</empireEvents_researchRivalry_1a.desc>
+  <empireEvents_researchRivalry_1b.label>Двойные исследовательские программы</empireEvents_researchRivalry_1b.label>
+  <empireEvents_researchRivalry_1b.desc>Благодаря независимому финансированию обе команды с новой силой взялись за работу. Конкурентная энергетика стимулирует инновации, а поселение извлекает выгоду из двух параллельных потоков открытий. Дорого, но результат говорит сам за себя.</empireEvents_researchRivalry_1b.desc>
+  <empireEvents_researchRivalry_1c_win.label>Подтвержденная теория</empireEvents_researchRivalry_1c_win.label>
+  <empireEvents_researchRivalry_1c_win.desc>Ваша оценка оказывается верной. Теория выбранной команды приносит впечатляющие плоды, совершая прорыв, который навсегда расширяет исследовательские возможности поселения. Команда-победитель в восторге, и даже проигравшая команда неохотно признает результаты.</empireEvents_researchRivalry_1c_win.desc>
+  <empireEvents_researchRivalry_1c_lose.label>Тупик</empireEvents_researchRivalry_1c_lose.label>
+  <empireEvents_researchRivalry_1c_lose.desc>Теория, которую вы поддержали, оказывается тупиковой. Месяцы работы потрачены впустую, а недовольство проигравшей команды ощутимо. Подход другой команды, возможно, и сработал бы, но уже слишком поздно. По крайней мере, в результате этих усилий появилась какая-то полезная методология.</empireEvents_researchRivalry_1c_lose.desc>
+</LanguageData>

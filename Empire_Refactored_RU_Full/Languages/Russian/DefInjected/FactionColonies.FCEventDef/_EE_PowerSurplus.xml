@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_powerSurplus_0.label>Излишек мощности</empireEvents_powerSurplus_0.label>
+  <empireEvents_powerSurplus_0.desc>Ваши поселения производят больше энергии, чем могут потреблять. Избыточная энергия потрескивает по сети, ожидая, когда ее можно будет использовать. Что делать с дополнительной силой?</empireEvents_powerSurplus_0.desc>
+  <empireEvents_powerSurplus_1a.label>Экспортированная мощность</empireEvents_powerSurplus_1a.label>
+  <empireEvents_powerSurplus_1a.desc>Соседние фракции охотно покупают вашу избыточную власть. Серебро поступает по мере того, как ваши поселения становятся региональными поставщиками энергии. Поток доходов сохраняется до тех пор, пока сохраняется профицит.</empireEvents_powerSurplus_1a.desc>
+  <empireEvents_powerSurplus_1b.label>Расширение исследований</empireEvents_powerSurplus_1b.label>
+  <empireEvents_powerSurplus_1b.desc>Избыточная мощность направляется в исследовательские центры, что позволяет круглосуточно проводить эксперименты и обрабатывать данные. Устанавливается новое оборудование, а расширенные мощности постоянно ускоряют темпы открытий.</empireEvents_powerSurplus_1b.desc>
+  <empireEvents_powerSurplus_1c.label>Электрифицированное производство</empireEvents_powerSurplus_1c.label>
+  <empireEvents_powerSurplus_1c.desc>Избыточная мощность направляется непосредственно в производственный сектор. Электрические инструменты заменяют ручные, сборочные линии ускоряются, а производительность увеличивается по всем направлениям. Улучшения инфраструктуры носят постоянный характер — ваши фабрики никогда не вернутся к старому порядку.</empireEvents_powerSurplus_1c.desc>
+  <empireEvents_powerSurplus_1d.label>Субсидирование роста</empireEvents_powerSurplus_1d.label>
+  <empireEvents_powerSurplus_1d.desc>Избыток электроэнергии подпитывает амбициозную программу расширения. Строится новое жилье, электрифицируются общественные объекты, а в поселениях открываются новые возможности. Рабочие стекаются в растущие сообщества, и моральный дух повышается по мере улучшения качества жизни. Скачок роста продолжается до тех пор, пока сохраняется избыток электроэнергии.</empireEvents_powerSurplus_1d.desc>
+  <empireEvents_powerSurplus_frontier.label>Пограничная сетка</empireEvents_powerSurplus_frontier.label>
+  <empireEvents_powerSurplus_frontier.desc>Излишки электроэнергии направляются в приграничную инфраструктуру. Линии электропередачи тянутся к невостребованной территории, освещая строительные площадки и питая сборные убежища. Электрифицированная граница удешевляет создание новых поселений и привлекает рабочих, желающих присоединиться к мощному сообществу.</empireEvents_powerSurplus_frontier.desc>
+</LanguageData>

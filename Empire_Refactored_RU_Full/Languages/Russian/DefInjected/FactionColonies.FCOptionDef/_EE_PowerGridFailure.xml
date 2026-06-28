@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_powerFailure_opt1.label>Срочно отправляйте аварийно-ремонтные бригады, чтобы починить сеть.</empireEvents_powerFailure_opt1.label>
+  <empireEvents_powerFailure_opt3.label>Рациональное энергопотребление до восстановления сети.</empireEvents_powerFailure_opt3.label>
+  <empireEvents_powerFailure_opt4.label>Наши рабочие бригады исправят это в кратчайшие сроки.</empireEvents_powerFailure_opt4.label>
+  <empireEvents_powerFailure_opt5.label>Внедрить резервные системы электропитания.</empireEvents_powerFailure_opt5.label>
+</LanguageData>

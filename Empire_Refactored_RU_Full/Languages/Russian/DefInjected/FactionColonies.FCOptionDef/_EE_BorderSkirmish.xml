@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_skirmish_opt1.label>Немедленно отправьте подкрепление.</empireEvents_skirmish_opt1.label>
+  <empireEvents_skirmish_opt2.label>Отправьте патруль, чтобы оценить угрозу.</empireEvents_skirmish_opt2.label>
+  <empireEvents_skirmish_opt3.label>Наши границы достаточно безопасны. Не реагируйте слишком остро.</empireEvents_skirmish_opt3.label>
+  <empireEvents_skirmish_opt4.label>Нанесите превентивный удар.</empireEvents_skirmish_opt4.label>
+  <empireEvents_skirmish_opt5.label>Отступайте на подготовленные позиции.</empireEvents_skirmish_opt5.label>
+</LanguageData>

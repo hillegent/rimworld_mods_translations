@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_factoryAutomation_opt1.label>Автоматизируйте все. Машины не жалуются и не делают перерывов.</empireEvents_factoryAutomation_opt1.label>
+  <empireEvents_factoryAutomation_opt2.label>Автоматизируйте самые опасные задачи. Оставьте рабочих для всего остального.</empireEvents_factoryAutomation_opt2.label>
+  <empireEvents_factoryAutomation_opt3.label>Отложите планы. Наша сила — наши рабочие, а не машины.</empireEvents_factoryAutomation_opt3.label>
+  <empireEvents_factoryAutomation_opt4.label>Включайте это постепенно. Переподготовка рабочих на механизаторов.</empireEvents_factoryAutomation_opt4.label>
+  <empireEvents_factoryAutomation_opt_transhumanist.label>Автоматизируйте все и объедините наших людей с машинами. Рабочий и инструмент, одно и то же.</empireEvents_factoryAutomation_opt_transhumanist.label>
+  <empireEvents_factoryAutomation_opt_naturePrimacy.label>Сожгите чертежи. Эту нацию построили честные руки и честное ремесло, а не бездушные машины.</empireEvents_factoryAutomation_opt_naturePrimacy.label>
+</LanguageData>

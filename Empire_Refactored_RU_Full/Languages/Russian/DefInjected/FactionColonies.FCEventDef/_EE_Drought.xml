@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_drought_0.label>Засуха</empireEvents_drought_0.label>
+  <empireEvents_drought_0.desc>Сильная засуха охватила ваши поселения. Колодцы и ирригационные системы пересыхают, что приводит к увяданию посевов и истощению домашнего скота. Нехватка воды угрожает опустошить как продовольствие, так и животноводство. Как вы ответите?</empireEvents_drought_0.desc>
+  <empireEvents_drought_1a.label>Вода нормирована</empireEvents_drought_1a.label>
+  <empireEvents_drought_1a.desc>В пострадавших населенных пунктах введено строгое нормирование воды. Граждане стоят в очереди за ежедневным наделом, поскольку урожай ухудшается, а скот истощается. Это мрачное существование, но поселения сохраняются. Есть надежда, что дожди вернутся раньше, чем ожидалось.</empireEvents_drought_1a.desc>
+  <empireEvents_drought_1b.label>Уэллс Даг</empireEvents_drought_1b.label>
+  <empireEvents_drought_1b.desc>Вокруг поселений прорыты глубокие колодцы, подключающиеся к подземным водоносным горизонтам. Новые источники воды облегчают худшие последствия кризиса: урожай все еще страдает, но потери продовольствия гораздо менее серьезны, чем могли бы быть. Леса и домашний скот также пострадают меньше.</empireEvents_drought_1b.desc>
+  <empireEvents_drought_1c.label>Импортные продукты питания</empireEvents_drought_1c.label>
+  <empireEvents_drought_1c.desc>В пострадавшие населенные пункты хлынут караваны с привозным продовольствием. Хотя засуха все еще опустошает землю (высыхает древесина и ведется борьба с домашним скотом), люди сыты. Дорогое решение, но эффективное.</empireEvents_drought_1c.desc>
+  <empireEvents_drought_1d.label>Убой скота</empireEvents_drought_1d.label>
+  <empireEvents_drought_1d.desc>Стада забивают, мясо солят и хранят. Непосредственный продовольственный кризис смягчается притоком мяса, а оставшаяся вода уходит дальше без жаждущего скота. Но племенного поголовья уже нет — для восстановления животноводства, если оно вообще когда-либо произойдет, потребуется много времени.</empireEvents_drought_1d.desc>
+  <empireEvents_drought_breaks.label>Перерывы из-за засухи</empireEvents_drought_breaks.label>
+  <empireEvents_drought_breaks.desc>Небо темнеет, и наконец идет дождь. Засуха началась рано, и пересохшая земля сильно напилась. Посевы оживают, и поселения вздыхают с облегчением. Производство продуктов питания восстанавливается.</empireEvents_drought_breaks.desc>
+  <empireEvents_drought_diplomatic.label>Дипломатическая помощь</empireEvents_drought_diplomatic.label>
+  <empireEvents_drought_diplomatic.desc>Ваши обращения к союзным фракциям приносят свои плоды. Начинают прибывать караваны с водой и продовольствием — не как дорогой импорт, а как акт солидарности между странами. Помощь скромная, но достаточная, чтобы смягчить последствия засухи.</empireEvents_drought_diplomatic.desc>
+  <empireEvents_drought_rations_cut.label>Сокращение пайков</empireEvents_drought_rations_cut.label>
+  <empireEvents_drought_rations_cut.desc>Расходные материалы едят последними и едят меньше всего. Производительные рабочие и надзиратели получают полный паек, в то время как чернорабочие питаются отходами. Запасы продовольствия сохраняются на удивление хорошо, но многие рабы не выживают.</empireEvents_drought_rations_cut.desc>
+</LanguageData>

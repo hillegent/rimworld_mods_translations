@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_merchantPrince_0.label>Предложение, от которого невозможно отказаться</empireEvents_merchantPrince_0.label>
+  <empireEvents_merchantPrince_0.desc>В ваше поселение прибыл богато одетый торговец в сопровождении стражи и вьючных животных, нагруженных серебром. Он представляется как «посредник возможностей» и предлагает долгосрочное эксклюзивное торговое соглашение. Условия кажутся слишком выгодными: высокие цены на ваши товары, гарантированные покупатели, никаких вопросов. Ваши инстинкты подсказывают, что здесь есть загвоздка.</empireEvents_merchantPrince_0.desc>
+  <empireEvents_merchantPrince_decline.label>Возможность отклонена</empireEvents_merchantPrince_decline.label>
+  <empireEvents_merchantPrince_decline.desc>Купец с тонкой улыбкой принимает отказ и уходит со своим караваном. Поселенцы, узнавшие об этом предложении, жалуются на упущенную возможность. Они справятся с этим.</empireEvents_merchantPrince_decline.desc>
+  <empireEvents_merchantPrince_2a.label>Сладкая сделка</empireEvents_merchantPrince_2a.label>
+  <empireEvents_merchantPrince_2a.desc>Деятельность торговца продвигается быстро. В течение нескольких дней его агенты обрабатывают всю торговлю, проходящую через поселение. Цены отличные — заметно лучше, чем раньше. Но местных торговцев вытесняют, и мельница слухов о поселенцах бурлит спекуляциями о том, откуда на самом деле берутся его товары.</empireEvents_merchantPrince_2a.desc>
+  <empireEvents_merchantPrince_2b.label>Пересмотренные условия</empireEvents_merchantPrince_2b.label>
+  <empireEvents_merchantPrince_2b.desc>Ваше встречное предложение впечатлило торговца. Пересмотренное соглашение защищает местный бизнес, одновременно предоставляя ему доступ к вашим рынкам. Эта договоренность выгодна, но не является хищнической, и ваши поселенцы ценят, что их лидеры заключили жесткую сделку.</empireEvents_merchantPrince_2b.desc>
+  <empireEvents_merchantPrince_2b_fail.label>Оскорбленный торговец</empireEvents_merchantPrince_2b_fail.label>
+  <empireEvents_merchantPrince_2b_fail.desc>Продавец воспримет ваше встречное предложение как оскорбление. Он собирает вещи и уходит — громко. Хуже того, он выполняет свою прощальную угрозу и будет ругать ваше поселение перед каждым караваном на краю. Торговля на какое-то время прекращается, поскольку торговцы обходят ваши рынки стороной.</empireEvents_merchantPrince_2b_fail.desc>
+  <empireEvents_merchantPrince_2c.label>Партнерство равных</empireEvents_merchantPrince_2c.label>
+  <empireEvents_merchantPrince_2c.desc>Ваш торговый опыт заставляет торговца вести дела честно. Получающееся в результате партнерство является вполне равноправным: он получает доступ к вашим рынкам, вы получаете доступ к его цепочке поставок, и обе стороны получают справедливую прибыль. Ваши поселенцы гордятся тем, что демонстрируют коммерческую мощь {FACTION_TITLE}.</empireEvents_merchantPrince_2c.desc>
+  <empireEvents_merchantPrince_3.label>Истинное лицо торговца</empireEvents_merchantPrince_3.label>
+  <empireEvents_merchantPrince_3.desc>Поступают тревожные сообщения. Агенты торговца были пойманы на контрабанде через ваше поселение, используя ваши торговые пути в качестве прикрытия. И что еще хуже, местные владельцы магазинов жалуются, что их систематически занижают цены: торговцы продают товары ниже себестоимости, чтобы вытеснить их из бизнеса.
+
+Его «приятная сделка» начинает выглядеть как поглощение.</empireEvents_merchantPrince_3.desc>
+  <empireEvents_merchantPrince_3_good.label>Растущее партнерство</empireEvents_merchantPrince_3_good.label>
+  <empireEvents_merchantPrince_3_good.desc>Партнерство оказалось успешным. Купец доказал, что ему можно доверять, и обе стороны получили щедрую прибыль. Он обращается к вам с новым предложением: расширить соглашение, чтобы охватить большее количество ваших поселений. В качестве альтернативы вы можете сохранить партнерство таким, какое оно есть.</empireEvents_merchantPrince_3_good.desc>
+  <empireEvents_merchantPrince_3_good_expand.label>Расширена торговая сеть</empireEvents_merchantPrince_3_good_expand.label>
+  <empireEvents_merchantPrince_3_good_expand.desc>Торговая сеть теперь работает в нескольких населенных пунктах, создавая надежную торговую основу для вашего {FACTION_TITLE}.</empireEvents_merchantPrince_3_good_expand.desc>
+  <empireEvents_merchantPrince_3_good_contain.label>Целенаправленное партнерство</empireEvents_merchantPrince_3_good_contain.label>
+  <empireEvents_merchantPrince_3_good_contain.desc>Партнерство по-прежнему сконцентрировано в одном поселении, где оно продолжает процветать. Торговец уважает вашу осторожность и уделяет все свое внимание тому, чтобы сделать эту сделку максимально прибыльной.</empireEvents_merchantPrince_3_good_contain.desc>
+  <empireEvents_merchantPrince_4a.label>Взятка</empireEvents_merchantPrince_4a.label>
+  <empireEvents_merchantPrince_4a.desc>Вы противостоите торговцу на его складе. Он даже не пытается этого отрицать — просто открывает сундук, полный серебра, и ставит его через стол. «У каждого есть цена», — говорит он с понимающей улыбкой. «Думайте об этом как о гонораре за консультацию за вашу дальнейшую… осмотрительность».</empireEvents_merchantPrince_4a.desc>
+  <empireEvents_merchantPrince_4a_bribed.label>Серебро с карманами</empireEvents_merchantPrince_4a_bribed.label>
+  <empireEvents_merchantPrince_4a_bribed.desc>Вы берете серебро торговца и смотрите в другую сторону. Контрабанда продолжается, но его «гонорары за консультации» щедры. Где-то в глубине души вы знаете, что это вас настигнет — налоговая база разрушается, поскольку параллельная экономика торговца процветает в тени.</empireEvents_merchantPrince_4a_bribed.desc>
+  <empireEvents_merchantPrince_4a_expelled.label>Торговец изгнан</empireEvents_merchantPrince_4a_expelled.label>
+  <empireEvents_merchantPrince_4a_expelled.desc>Охранники выводят купца и его людей из селения под аплодисменты местных лавочников. Сеть контрабанды ликвидирована, законная торговля возобновляется, а ваши поселенцы гордятся тем, что их лидеров не удалось подкупить. Это хороший день для {FACTION_TITLE}.</empireEvents_merchantPrince_4a_expelled.desc>
+  <empireEvents_merchantPrince_4b.label>Доказательства найдены</empireEvents_merchantPrince_4b.label>
+  <empireEvents_merchantPrince_4b.desc>Ваши следователи проделали отличную работу. Они задокументировали все: маршруты контрабанды, подкупленных таможенников, склады, полные контрабанды, и личный журнал торговца с подробным описанием каждой незаконной сделки. Вы считаете его мертвым по правам. Вопрос в том, что делать с этим рычагом.</empireEvents_merchantPrince_4b.desc>
+  <empireEvents_merchantPrince_4b_arrest.label>Торговец арестован</empireEvents_merchantPrince_4b_arrest.label>
+  <empireEvents_merchantPrince_4b_arrest.desc>Купца в цепях тащат к поселению, его склады опустели, агенты разбросаны. Конфискованное имущество распределяется среди поселенцев, и публичный суд ясно дает понять: {FACTION_TITLE} защищает своих. Лояльность зашкаливает.</empireEvents_merchantPrince_4b_arrest.desc>
+  <empireEvents_merchantPrince_4b_blackmail.label>Торговец под большим пальцем</empireEvents_merchantPrince_4b_blackmail.label>
+  <empireEvents_merchantPrince_4b_blackmail.desc>У торговца нет другого выбора, кроме как подчиниться. Его торговая сеть теперь работает под вашим руководством, направляя премиальную прибыль в вашу казну. Он выполняет свою работу с натянутой улыбкой, зная, что одно неверное движение означает, что улики станут достоянием общественности. Эта сделка выгодна, но ваши поселенцы чувствуют во всей этой истории что-то гнилое.</empireEvents_merchantPrince_4b_blackmail.desc>
+  <empireEvents_merchantPrince_4b_fail.label>Испуганный</empireEvents_merchantPrince_4b_fail.label>
+  <empireEvents_merchantPrince_4b_fail.desc>Ваши следователи были неосторожны. Торговец узнал о зонде и исчез в одночасье вместе со своими агентами, товарами и пугающим количеством торговых контактов вашего поселения. Местная экономика терпит неудачу без налаженных торговых путей, которые он контролировал.</empireEvents_merchantPrince_4b_fail.desc>
+  <empireEvents_merchantPrince_4c.label>Монополия</empireEvents_merchantPrince_4c.label>
+  <empireEvents_merchantPrince_4c.desc>Посмотрев в другую сторону, вы позволили торговцу консолидировать полный контроль над местной торговлей. Каждый бизнес в поселке либо работает на него, либо закрывается. Серебро льётся рекой — сначала в его карманы, а потом щедрое вознаграждение тебе.
+
+Но граждане в ярости. Местные ремесленники разорились, цены такие же, как о них говорит торговец, а поселение больше похоже на деловой город, а не на сообщество.</empireEvents_merchantPrince_4c.desc>
+</LanguageData>

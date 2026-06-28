@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_earthquake_0.label>Землетрясение</empireEvents_earthquake_0.label>
+  <empireEvents_earthquake_0.desc>Сильное землетрясение поразило ваши поселения! Рухнули шахты, повреждены здания, ранены рабочие. Ущерб значительный. Как вы реагируете на кризис?</empireEvents_earthquake_0.desc>
+  <empireEvents_earthquake_1a.label>Восстановление после землетрясения (помощь)</empireEvents_earthquake_1a.label>
+  <empireEvents_earthquake_1a.desc>Немедленно отправляются аварийные материалы и рабочие бригады. Быстрая реакция ограничивает ущерб и поднимает настроение; граждане чувствуют заботу со стороны своих лидеров.</empireEvents_earthquake_1a.desc>
+  <empireEvents_earthquake_1b.label>Восстановление после землетрясения (восстановление)</empireEvents_earthquake_1b.label>
+  <empireEvents_earthquake_1b.desc>Вместо быстрых решений ваши поселения инвестируют в надлежащую реконструкцию с использованием армированных материалов. Восстановление будет медленным и болезненным, но конечным результатом будет улучшение инфраструктуры, чем раньше.</empireEvents_earthquake_1b.desc>
+  <empireEvents_earthquake_rebuilt.label>Реконструкция завершена</empireEvents_earthquake_rebuilt.label>
+  <empireEvents_earthquake_rebuilt.desc>Работы по восстановлению завершены. Новая горнодобывающая инфраструктура сильнее и эффективнее, чем та, что была раньше.</empireEvents_earthquake_rebuilt.desc>
+  <empireEvents_earthquake_1c.label>Последствия землетрясения</empireEvents_earthquake_1c.label>
+  <empireEvents_earthquake_1c.desc>Без помощи столицы ваши поселения с трудом смогут восстановиться самостоятельно. Рабочие раскапывают завалы голыми руками. Отсутствие реакции порождает недовольство: граждане чувствуют себя покинутыми своими правителями.</empireEvents_earthquake_1c.desc>
+  <empireEvents_earthquake_1d.label>Восстановление после землетрясения (рабочие бригады)</empireEvents_earthquake_1d.label>
+  <empireEvents_earthquake_1d.desc>Ваши трудолюбивые сотрудники немедленно мобилизуются, расчищая завалы и укрепляя поврежденные конструкции с отработанной эффективностью. Перебои в майнинге минимальны; эти люди умеют восстанавливать.</empireEvents_earthquake_1d.desc>
+</LanguageData>

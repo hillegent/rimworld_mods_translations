@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <empireEvents_invasivePests_opt1.label>Сожгите зараженные участки. Это радикально, но это остановит распространение.</empireEvents_invasivePests_opt1.label>
+  <empireEvents_invasivePests_opt2.label>Импортируйте естественных хищников. Пусть биология решит проблему.</empireEvents_invasivePests_opt2.label>
+  <empireEvents_invasivePests_opt3.label>Ничего не делайте. Лес сохранился хуже. Оно адаптируется.</empireEvents_invasivePests_opt3.label>
+  <empireEvents_invasivePests-invasive_predators_opt1.label>У нас нет выбора. Сожгите все это.</empireEvents_invasivePests-invasive_predators_opt1.label>
+  <empireEvents_invasivePests-invasive_predators_opt2.label>Импортные хищники хищников. Если это сработало один раз, то сработает и снова!</empireEvents_invasivePests-invasive_predators_opt2.label>
+  <empireEvents_invasivePests-invasive_predators_opt3.label>Ничего не делайте. Однажды мы попытались вмешаться; пришло время позволить природе идти своим чередом.</empireEvents_invasivePests-invasive_predators_opt3.label>
+  <empireEvents_invasivePests-invasive_rodents_opt1.label>Все это было ошибкой. Пора сжечь это и начать все сначала.</empireEvents_invasivePests-invasive_rodents_opt1.label>
+  <empireEvents_invasivePests-invasive_rodents_opt2.label>Нас не победят грызуны. Найдите зверей и сократите их численность!</empireEvents_invasivePests-invasive_rodents_opt2.label>
+  <empireEvents_invasivePests-invasive_rodents_opt3.label>Больше нечего делать. Оставьте лес в покое.</empireEvents_invasivePests-invasive_rodents_opt3.label>
+  <empireEvents_invasivePests-invasive_beasts_opt1.label>Не может быть проблемы, если нет леса. Сожгите его!</empireEvents_invasivePests-invasive_beasts_opt1.label>
+  <empireEvents_invasivePests-invasive_beasts_opt2.label>Граждане просто не понимают. Найдите самого великолепного зверя, чтобы уничтожить кабанов!</empireEvents_invasivePests-invasive_beasts_opt2.label>
+  <empireEvents_invasivePests-invasive_beasts_opt3.label>Справедливо. Организуйте охоту по отлову стад.</empireEvents_invasivePests-invasive_beasts_opt3.label>
+  <empireEvents_invasivePests-invasive_beasts_opt4.label>Дальнейшие действия только усугубят ситуацию. Давайте оставим это в руках матери-природы.</empireEvents_invasivePests-invasive_beasts_opt4.label>
+</LanguageData>
