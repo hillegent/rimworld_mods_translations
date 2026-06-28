@@ -27,5 +27,6 @@
   <loadAfter>
     <li>brrainz.harmony</li>
     <li>Matathias.Empire</li>
+    <li>Matathias.Empire.AnimalHusbandry</li>
   </loadAfter>
 </ModMetaData>

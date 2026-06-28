@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Empire Refactored: Herds & Fisheries -->
+  <AH_RegisterAnimals>Завезти животных</AH_RegisterAnimals>
+  <AH_RegisterAnimalsDesc>Отправить животных из этого каравана в {0}. Производство начнется, когда прибудут самец и самка (или две особи бесполого вида).</AH_RegisterAnimalsDesc>
+  <AH_RegisterAnimalsAt>Завезти животных в {0}</AH_RegisterAnimalsAt>
+
+  <AH_StockAnimalsAt>Завезти животных в {0}</AH_StockAnimalsAt>
+  <AH_AnimalsStockedMsg>Животных завезено в {1}: {0}.</AH_AnimalsStockedMsg>
+
+  <AH_RegisterTitle>Завезти скот в {0}</AH_RegisterTitle>
+  <AH_RegisterDesc>Отправьте отдельных животных, чтобы завести поголовье в этом поселении. Вид начнет производить только после появления самца и самки (или двух особей бесполого вида).</AH_RegisterDesc>
+  <AH_Confirm>Подтвердить</AH_Confirm>
+  <AH_Cancel>Отмена</AH_Cancel>
+  <AH_ColMale>Самец</AH_ColMale>
+  <AH_ColFemale>Самка</AH_ColFemale>
+  <AH_HaveMale>Самец есть</AH_HaveMale>
+  <AH_HaveFemale>Самка есть</AH_HaveFemale>
+  <AH_GenderlessSend>Отправить {0} (есть {1}/{2})</AH_GenderlessSend>
+
+  <AH_LivestockTab>Скот</AH_LivestockTab>
+  <AH_StockedHeader>Доступный скот</AH_StockedHeader>
+  <AH_InProgressHeader>В процессе</AH_InProgressHeader>
+  <AH_SourceRegistered>Завезено</AH_SourceRegistered>
+  <AH_SourceCloned>Клонировано</AH_SourceCloned>
+  <AH_SourceBasic>Базовые</AH_SourceBasic>
+  <AH_AwaitingMale>Нужен самец</AH_AwaitingMale>
+  <AH_AwaitingFemale>Нужна самка</AH_AwaitingFemale>
+  <AH_AwaitingPair>Нужна пара</AH_AwaitingPair>
+  <AH_GenderlessProgress>{0} / {1}</AH_GenderlessProgress>
+  <AH_NoAnimals>В этом поселении нет скота.</AH_NoAnimals>
+  <AH_ProductsTooltip>{0} производит: {1}</AH_ProductsTooltip>
+  <AH_FishAvailable>Рыбный промысел: {0}</AH_FishAvailable>
+  <AH_FishUnavailable>Здесь нет рыбы (нужен берег моря, река или берег озера в биоме с рыбой)</AH_FishUnavailable>
+
+  <AH_NoAnimalsRegistered>Нет скота - производство животных отключено</AH_NoAnimalsRegistered>
+
+  <AH_Title>Empire: стада и рыбный промысел</AH_Title>
+  <AH_PatchTitle>Примечания к обновлению: стада и рыбный промысел</AH_PatchTitle>
+  <AH_OpenPatchNotes>Открыть примечания к обновлению</AH_OpenPatchNotes>
+  <AH_BasicAnimalsEnabled>Базовые фермерские животные доступны во всех поселениях</AH_BasicAnimalsEnabled>
+  <AH_BasicAnimalsEnabledDesc>Если включено, базовые фермерские животные (куры, коровы, свиньи, овцы, козы) доступны во всех поселениях без отправки племенных пар.</AH_BasicAnimalsEnabledDesc>
+  <AH_BasicAnimalsList>Базовые животные:</AH_BasicAnimalsList>
+  <AH_AddBasicAnimal>Добавить животное...</AH_AddBasicAnimal>
+  <AH_RestrictFishToWater>Ограничить рыбу поселениями у воды</AH_RestrictFishToWater>
+  <AH_RestrictFishToWaterDesc>Если включено (только Odyssey), поселения производят только ту рыбу, которую дает их биом для воды рядом с их клеткой: прибрежные поселения получают морскую рыбу, поселения у рек или озер - пресноводную. Поселение у воды дает рыбу даже без завезенного скота; продукты наземных животных по-прежнему требуют племенные пары.</AH_RestrictFishToWaterDesc>
+  <AH_RestrictMercAnimalsToStocked>Ограничить животных наемников завезенными видами</AH_RestrictMercAnimalsToStocked>
+  <AH_RestrictMercAnimalsToStockedDesc>Если включено, в конструкторе военных юнитов выбор животных и ездовых животных показывает только виды, которые доступны хотя бы одному поселению Империи (завезенные племенные пары, базовые животные и виды, общие через лабораторию клонирования). Отключите, чтобы выбирать любых животных, как в базовом моде.</AH_RestrictMercAnimalsToStockedDesc>
+  <AH_ResetSettings>Сбросить по умолчанию</AH_ResetSettings>
+  <AH_DebugLogging>Включить отладочное логирование</AH_DebugLogging>
+
+  <AH_PickBasicAnimalTitle>Добавить базовое животное</AH_PickBasicAnimalTitle>
+  <AH_PickBasicAnimalSearch>Поиск...</AH_PickBasicAnimalSearch>
+  <AH_PickBasicAnimalNone>Подходящих животных нет.</AH_PickBasicAnimalNone>
+</LanguageData>
